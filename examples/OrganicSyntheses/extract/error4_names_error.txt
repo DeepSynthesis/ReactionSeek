@@ -1,0 +1,17 @@
+volume88article38_2:Bad gateway. {"error":{"code":502,"message":"Bad gateway.","param":null,"type":"cf_bad_gateway"}} 502 {'error': {'code': 502, 'message': 'Bad gateway.', 'param': None, 'type': 'cf_bad_gateway'}} {'Date': 'Tue, 17 Oct 2023 08:24:17 GMT', 'Content-Type': 'application/json', 'Content-Length': '84', 'Connection': 'keep-alive', 'X-Frame-Options': 'SAMEORIGIN', 'Referrer-Policy': 'same-origin', 'Cache-Control': 'private, max-age=0, no-store, no-cache, must-revalidate, post-check=0, pre-check=0', 'Expires': 'Thu, 01 Jan 1970 00:00:01 GMT', 'Server': 'cloudflare', 'CF-RAY': '817721bdac9508aa-LAX', 'alt-svc': 'h3=":443"; ma=86400'}
+volume89article4_1:The server is overloaded or not ready yet.
+volume89article11_1:The server is overloaded or not ready yet.
+volume89article15_1:The server is overloaded or not ready yet.
+volume89article15_2:The server is overloaded or not ready yet.
+volume89article16_1:The server is overloaded or not ready yet.
+volume89article17_1:The server is overloaded or not ready yet.
+volume89article17_2:The server is overloaded or not ready yet.
+volume89article18_1:The server is overloaded or not ready yet.
+volume89article36_2:The server is overloaded or not ready yet.
+volume89article42_2:The server is overloaded or not ready yet.
+volume89article44_2:The server is overloaded or not ready yet.
+volume90article1_1:The server is overloaded or not ready yet.
+volume90article3_1:Error communicating with OpenAI: HTTPSConnectionPool(host='api.openai.com', port=443): Max retries exceeded with url: /v1/chat/completions (Caused by ProxyError('Cannot connect to proxy.', RemoteDisconnected('Remote end closed connection without response')))
+volume90article31_2:The server is overloaded or not ready yet.
+volume90article32_3:The server is overloaded or not ready yet.
+volume90article33_1:The server is overloaded or not ready yet.

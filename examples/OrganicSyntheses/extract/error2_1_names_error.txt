@@ -1,0 +1,175 @@
+volume95article8_1:The server is overloaded or not ready yet.
+volume96article6_1:Error communicating with OpenAI: HTTPSConnectionPool(host='api.openai.com', port=443): Max retries exceeded with url: /v1/chat/completions (Caused by ProxyError('Cannot connect to proxy.', RemoteDisconnected('Remote end closed connection without response')))
+volume96article23_1:Error communicating with OpenAI: HTTPSConnectionPool(host='api.openai.com', port=443): Max retries exceeded with url: /v1/chat/completions (Caused by ProxyError('Cannot connect to proxy.', RemoteDisconnected('Remote end closed connection without response')))
+volume97article6_1:Error communicating with OpenAI: HTTPSConnectionPool(host='api.openai.com', port=443): Max retries exceeded with url: /v1/chat/completions (Caused by ProxyError('Cannot connect to proxy.', RemoteDisconnected('Remote end closed connection without response')))
+volume79article21_1:You exceeded your current quota, please check your plan and billing details.
+volume79article21_2:You exceeded your current quota, please check your plan and billing details.
+volume79article23_1:HTTP code 502 from API (<html>
+<head><title>502 Bad Gateway</title></head>
+<body>
+<center><h1>502 Bad Gateway</h1></center>
+<hr><center>cloudflare</center>
+</body>
+</html>
+)
+volume79article23_2:You exceeded your current quota, please check your plan and billing details.
+volume79article23_3:You exceeded your current quota, please check your plan and billing details.
+volume79article24_1:You exceeded your current quota, please check your plan and billing details.
+volume80article3_1:HTTP code 502 from API (<html>
+<head><title>502 Bad Gateway</title></head>
+<body>
+<center><h1>502 Bad Gateway</h1></center>
+<hr><center>cloudflare</center>
+</body>
+</html>
+)
+volume80article3_2:You exceeded your current quota, please check your plan and billing details.
+volume80article3_3:You exceeded your current quota, please check your plan and billing details.
+volume80article6_1:You exceeded your current quota, please check your plan and billing details.
+volume80article6_2:You exceeded your current quota, please check your plan and billing details.
+volume80article6_3:You exceeded your current quota, please check your plan and billing details.
+volume80article6_4:You exceeded your current quota, please check your plan and billing details.
+volume80article7_1:You exceeded your current quota, please check your plan and billing details.
+volume80article7_2:You exceeded your current quota, please check your plan and billing details.
+volume80article7_3:You exceeded your current quota, please check your plan and billing details.
+volume80article7_4:You exceeded your current quota, please check your plan and billing details.
+volume80article13_1:You exceeded your current quota, please check your plan and billing details.
+volume80article13_2:You exceeded your current quota, please check your plan and billing details.
+volume84article23_1:You exceeded your current quota, please check your plan and billing details.
+volume85article7_1:You exceeded your current quota, please check your plan and billing details.
+volume85article7_2:You exceeded your current quota, please check your plan and billing details.
+volume85article11_1:You exceeded your current quota, please check your plan and billing details.
+volume85article18_1:You exceeded your current quota, please check your plan and billing details.
+volume85article18_2:You exceeded your current quota, please check your plan and billing details.
+volume85article19_1:You exceeded your current quota, please check your plan and billing details.
+volume85article19_2:You exceeded your current quota, please check your plan and billing details.
+volume85article20_1:You exceeded your current quota, please check your plan and billing details.
+volume85article21_1:You exceeded your current quota, please check your plan and billing details.
+volume85article21_2:You exceeded your current quota, please check your plan and billing details.
+volume85article21_3:You exceeded your current quota, please check your plan and billing details.
+volume85article21_4:You exceeded your current quota, please check your plan and billing details.
+volume85article22_1:You exceeded your current quota, please check your plan and billing details.
+volume85article22_2:You exceeded your current quota, please check your plan and billing details.
+volume85article23_1:You exceeded your current quota, please check your plan and billing details.
+volume85article23_2:You exceeded your current quota, please check your plan and billing details.
+volume85article23_3:You exceeded your current quota, please check your plan and billing details.
+volume85article24_1:You exceeded your current quota, please check your plan and billing details.
+volume85article25_1:You exceeded your current quota, please check your plan and billing details.
+volume85article25_2:You exceeded your current quota, please check your plan and billing details.
+volume85article26_1:You exceeded your current quota, please check your plan and billing details.
+volume85article26_2:You exceeded your current quota, please check your plan and billing details.
+volume85article26_3:You exceeded your current quota, please check your plan and billing details.
+volume85article26_4:You exceeded your current quota, please check your plan and billing details.
+volume85article27_1:You exceeded your current quota, please check your plan and billing details.
+volume85article28_1:You exceeded your current quota, please check your plan and billing details.
+volume85article28_2:You exceeded your current quota, please check your plan and billing details.
+volume85article28_3:You exceeded your current quota, please check your plan and billing details.
+volume85article29_1:You exceeded your current quota, please check your plan and billing details.
+volume85article29_2:You exceeded your current quota, please check your plan and billing details.
+volume85article30_1:You exceeded your current quota, please check your plan and billing details.
+volume85article30_2:You exceeded your current quota, please check your plan and billing details.
+volume85article30_3:You exceeded your current quota, please check your plan and billing details.
+volume88article38_1:You exceeded your current quota, please check your plan and billing details.
+volume88article38_2:You exceeded your current quota, please check your plan and billing details.
+volume89article4_1:You exceeded your current quota, please check your plan and billing details.
+volume89article4_2:You exceeded your current quota, please check your plan and billing details.
+volume89article11_1:You exceeded your current quota, please check your plan and billing details.
+volume89article15_1:You exceeded your current quota, please check your plan and billing details.
+volume89article15_2:You exceeded your current quota, please check your plan and billing details.
+volume89article15_3:You exceeded your current quota, please check your plan and billing details.
+volume89article16_1:You exceeded your current quota, please check your plan and billing details.
+volume89article17_1:You exceeded your current quota, please check your plan and billing details.
+volume89article17_2:You exceeded your current quota, please check your plan and billing details.
+volume89article18_1:You exceeded your current quota, please check your plan and billing details.
+volume89article36_1:You exceeded your current quota, please check your plan and billing details.
+volume89article36_2:You exceeded your current quota, please check your plan and billing details.
+volume89article36_3:You exceeded your current quota, please check your plan and billing details.
+volume89article42_1:You exceeded your current quota, please check your plan and billing details.
+volume89article42_2:You exceeded your current quota, please check your plan and billing details.
+volume89article42_3:You exceeded your current quota, please check your plan and billing details.
+volume89article42_4:You exceeded your current quota, please check your plan and billing details.
+volume89article44_1:You exceeded your current quota, please check your plan and billing details.
+volume89article44_2:You exceeded your current quota, please check your plan and billing details.
+volume90article1_1:You exceeded your current quota, please check your plan and billing details.
+volume90article3_1:You exceeded your current quota, please check your plan and billing details.
+volume90article31_1:You exceeded your current quota, please check your plan and billing details.
+volume90article31_2:You exceeded your current quota, please check your plan and billing details.
+volume90article31_3:You exceeded your current quota, please check your plan and billing details.
+volume90article32_1:You exceeded your current quota, please check your plan and billing details.
+volume90article32_2:You exceeded your current quota, please check your plan and billing details.
+volume90article32_3:You exceeded your current quota, please check your plan and billing details.
+volume90article33_1:You exceeded your current quota, please check your plan and billing details.
+volume26article21_1:You exceeded your current quota, please check your plan and billing details.
+volume26article21_2:You exceeded your current quota, please check your plan and billing details.
+volume26article23_1:You exceeded your current quota, please check your plan and billing details.
+volume26article23_2:You exceeded your current quota, please check your plan and billing details.
+volume26article23_3:You exceeded your current quota, please check your plan and billing details.
+volume26article23_4:You exceeded your current quota, please check your plan and billing details.
+volume26article23_5:You exceeded your current quota, please check your plan and billing details.
+volume26article23_6:You exceeded your current quota, please check your plan and billing details.
+volume26article23_7:You exceeded your current quota, please check your plan and billing details.
+volume26article23_8:You exceeded your current quota, please check your plan and billing details.
+volume27article6_1:You exceeded your current quota, please check your plan and billing details.
+volume27article6_2:You exceeded your current quota, please check your plan and billing details.
+volume27article6_3:You exceeded your current quota, please check your plan and billing details.
+volume27article6_4:You exceeded your current quota, please check your plan and billing details.
+volume27article6_5:You exceeded your current quota, please check your plan and billing details.
+volume27article6_6:You exceeded your current quota, please check your plan and billing details.
+volume27article6_7:You exceeded your current quota, please check your plan and billing details.
+volume27article9_1:You exceeded your current quota, please check your plan and billing details.
+volume27article11_1:You exceeded your current quota, please check your plan and billing details.
+volume27article11_2:You exceeded your current quota, please check your plan and billing details.
+volume27article15_1:You exceeded your current quota, please check your plan and billing details.
+volume27article17_1:You exceeded your current quota, please check your plan and billing details.
+volume27article25_1:You exceeded your current quota, please check your plan and billing details.
+volume27article26_1:You exceeded your current quota, please check your plan and billing details.
+volume27article27_1:You exceeded your current quota, please check your plan and billing details.
+volume28article11_1:You exceeded your current quota, please check your plan and billing details.
+volume28article21_1:You exceeded your current quota, please check your plan and billing details.
+volume29article7_1:You exceeded your current quota, please check your plan and billing details.
+volume29article7_2:HTTP code 502 from API (<html>
+<head><title>502 Bad Gateway</title></head>
+<body>
+<center><h1>502 Bad Gateway</h1></center>
+<hr><center>cloudflare</center>
+</body>
+</html>
+)
+volume29article7_3:You exceeded your current quota, please check your plan and billing details.
+volume29article7_4:You exceeded your current quota, please check your plan and billing details.
+volume29article7_5:You exceeded your current quota, please check your plan and billing details.
+volume29article7_6:You exceeded your current quota, please check your plan and billing details.
+volume29article7_7:You exceeded your current quota, please check your plan and billing details.
+volume29article14_1:You exceeded your current quota, please check your plan and billing details.
+volume30article26_1:You exceeded your current quota, please check your plan and billing details.
+volume30article27_1:HTTP code 502 from API (<html>
+<head><title>502 Bad Gateway</title></head>
+<body>
+<center><h1>502 Bad Gateway</h1></center>
+<hr><center>cloudflare</center>
+</body>
+</html>
+)
+volume30article28_1:You exceeded your current quota, please check your plan and billing details.
+volume30article29_1:You exceeded your current quota, please check your plan and billing details.
+volume30article30_1:You exceeded your current quota, please check your plan and billing details.
+volume30article31_1:You exceeded your current quota, please check your plan and billing details.
+volume30article31_2:You exceeded your current quota, please check your plan and billing details.
+volume30article32_1:You exceeded your current quota, please check your plan and billing details.
+volume30article32_2:You exceeded your current quota, please check your plan and billing details.
+volume30article33_1:You exceeded your current quota, please check your plan and billing details.
+volume30article34_1:You exceeded your current quota, please check your plan and billing details.
+volume30article35_1:You exceeded your current quota, please check your plan and billing details.
+volume30article35_2:You exceeded your current quota, please check your plan and billing details.
+volume30article35_3:You exceeded your current quota, please check your plan and billing details.
+volume30article36_1:HTTP code 502 from API (<html>
+<head><title>502 Bad Gateway</title></head>
+<body>
+<center><h1>502 Bad Gateway</h1></center>
+<hr><center>cloudflare</center>
+</body>
+</html>
+)
+volume30article37_1:You exceeded your current quota, please check your plan and billing details.
+volume30article37_2:You exceeded your current quota, please check your plan and billing details.
+volume30article38_1:You exceeded your current quota, please check your plan and billing details.
