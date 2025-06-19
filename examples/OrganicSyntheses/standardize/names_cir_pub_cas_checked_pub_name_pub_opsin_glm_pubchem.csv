@@ -1,0 +1,1016 @@
+volume,article,raw_name,CAS,CIRsmiles,PubChemsmiles,PubChem_after_cas_check_smiles,PubChem_name_smiles,OPSIN_name_smiles,Processed_name,Processed_PubChemsmiles
+7,0,Anhydro-2-hydroxymercuri-3-nitrobenzoic acid,Not Found,Not Found,Not Found,Not Found,Not Found,Not Found,2-Hydroxymercuri-3-nitrobenzoic acid,Not Found
+7,0,"Benzoic acid, anhydro-2-hydroxymercuri-3-nitro-",Not Found,Not Found,Not Found,Not Found,Not Found,Not Found,Benzoic acid,C1=CC=C(C=C1)C(=O)O
+7,0,mercurous compounds,Not Found,Not Found,Not Found,Not Found,Not Found,Not Found,Mercury(I) compounds,Not Found
+7,0,mercuric salt,Not Found,Not Found,Not Found,Not Found,Not Found,Not Found,Mercury(II) chloride,Cl[Hg]Cl
+7,0,mercury compound,Not Found,Not Found,Not Found,Not Found,Not Found,Not Found,none,
+7,0,Anhydro-o-hydroxymercuribenzoic acid,Not Found,Not Found,Not Found,Not Found,Not Found,Not Found,o-Hydroxymercuribenzoic acid,C1=CC=C(C(=C1)C(=O)O)[Hg].O
+7,0,alcohol (64-17-5),64-17-5,CCO,CCO,CCO,CCO,CCO,None,CCO
+7,0,acetic acid (64-19-7),64-19-7,CC(O)=O,CC(O)=O,CC(O)=O,CC(O)=O,CC(O)=O,None,CC(O)=O
+7,0,sodium hydroxide (1310-73-2),1310-73-2,[OH-].[Na+],[OH-].[Na+],[OH-].[Na+],[OH-].[Na+],[OH-].[Na+],None,[OH-].[Na+]
+7,0,3-Nitrophthalic acid (603-11-2),603-11-2,OC(=O)c1cccc(c1C(O)=O)[N+]([O-])=O,OC(=O)c1cccc(c1C(O)=O)[N+]([O-])=O,OC(=O)c1cccc(c1C(O)=O)[N+]([O-])=O,OC(=O)c1cccc(c1C(O)=O)[N+]([O-])=O,OC(=O)c1cccc(c1C(O)=O)[N+]([O-])=O,None,OC(=O)c1cccc(c1C(O)=O)[N+]([O-])=O
+7,0,mercuric acetate (1600-27-7),1600-27-7,[Hg++].CC([O-])=O.CC([O-])=O,[Hg++].CC([O-])=O.CC([O-])=O,[Hg++].CC([O-])=O.CC([O-])=O,[Hg++].CC([O-])=O.CC([O-])=O,[Hg++].CC([O-])=O.CC([O-])=O,None,[Hg++].CC([O-])=O.CC([O-])=O
+7,0,mercury (7439-97-6),7439-97-6,[Hg],[Hg],[Hg],[Hg],[Hg],None,[Hg]
+7,0,carbon dioxide (124-38-9),124-38-9,O=C=O,O=C=O,O=C=O,O=C=O,O=C=O,None,O=C=O
+7,0,mercuric oxide (21908-53-2),21908-53-2,O=[Hg],O=[Hg],O=[Hg],O=[Hg],O=[Hg],None,O=[Hg]
+7,0,acetate,Not Found,Not Found,Not Found,Not Found,CC(=O)[O-],CC(=O)[O-],None,CC(=O)[O-]
+7,0,2-Bromo-3-nitrobenzoic acid (573-54-6),573-54-6,OC(=O)c1cccc(c1Br)[N+]([O-])=O,OC(=O)c1cccc(c1Br)[N+]([O-])=O,OC(=O)c1cccc(c1Br)[N+]([O-])=O,OC(=O)c1cccc(c1Br)[N+]([O-])=O,OC(=O)c1cccc(c1Br)[N+]([O-])=O,None,OC(=O)c1cccc(c1Br)[N+]([O-])=O
+7,0,phthalic anhydride (85-44-9),85-44-9,O=C1OC(=O)c2ccccc12,O=C1OC(=O)c2ccccc12,O=C1OC(=O)c2ccccc12,O=C1OC(=O)c2ccccc12,O=C1OC(=O)c2ccccc12,None,O=C1OC(=O)c2ccccc12
+7,1,hydrochloric acid (7647-01-0),7647-01-0,[H+].[Cl-],[H+].[Cl-],[H+].[Cl-],[H+].[Cl-],[H+].[Cl-],None,[H+].[Cl-]
+7,1,ether (60-29-7),60-29-7,CCOCC,CCOCC,CCOCC,CCOCC,CCOCC,None,CCOCC
+7,1,sodium hydroxide (1310-73-2),1310-73-2,[OH-].[Na+],[OH-].[Na+],[OH-].[Na+],[OH-].[Na+],[OH-].[Na+],None,[OH-].[Na+]
+7,1,phenol (108-95-2),108-95-2,Oc1ccccc1,Oc1ccccc1,Oc1ccccc1,Oc1ccccc1,Oc1ccccc1,None,Oc1ccccc1
+7,1,chloroacetic acid (79-11-8),79-11-8,OC(=O)CCl,OC(=O)CCl,OC(=O)CCl,OC(=O)CCl,OC(=O)CCl,None,OC(=O)CCl
+7,1,acetone (67-64-1),67-64-1,CC(C)=O,CC(C)=O,CC(C)=O,CC(C)=O,CC(C)=O,None,CC(C)=O
+7,1,phenolarsonic acid,Not Found,Not Found,Not Found,Not Found,Not Found,Not Found,none,
+7,1,decolorizing carbon (7782-42-5),7782-42-5,Not Found,[C],[C],[C],[C],None,[C]
+7,1,"p-ARSONOPHENOXYACETIC ACID,
+Acetic acid, p-arsonophenoxy- (53663-15-3)",53663-15-3,Not Found,Not Found,Not Found,Not Found,[As](=O)(O)(O)C1=CC=C(OCC(=O)O)C=C1,None,[As](=O)(O)(O)C1=CC=C(OCC(=O)O)C=C1
+7,1,p-hydroxyphenylarsonic acid (98-14-6),98-14-6,Oc1ccc(cc1)[As](O)(O)=O,Oc1ccc(cc1)[As](O)(O)=O,Oc1ccc(cc1)[As](O)(O)=O,Oc1ccc(cc1)[As](O)(O)=O,Oc1ccc(cc1)[As](O)(O)=O,None,Oc1ccc(cc1)[As](O)(O)=O
+7,1,sodium p-hydroxyphenylarsonate (53663-20-0),53663-20-0,Not Found,Not Found,Not Found,C1=CC(=CC=C1O)[As](=O)(O)[O-].[Na+],C1=CC(=CC=C1O)[As](=O)(O)[O-].[Na+],None,C1=CC(=CC=C1O)[As](=O)(O)[O-].[Na+]
+7,2,alcohol (64-17-5),64-17-5,CCO,CCO,CCO,CCO,CCO,None,CCO
+7,2,hydrochloric acid (7647-01-0),7647-01-0,[H+].[Cl-],[H+].[Cl-],[H+].[Cl-],[H+].[Cl-],[H+].[Cl-],None,[H+].[Cl-]
+7,2,aniline (62-53-3),62-53-3,Nc1ccccc1,Nc1ccccc1,Nc1ccccc1,Nc1ccccc1,Nc1ccccc1,None,Nc1ccccc1
+7,2,sodium hydroxide (1310-73-2),1310-73-2,[OH-].[Na+],[OH-].[Na+],[OH-].[Na+],[OH-].[Na+],[OH-].[Na+],None,[OH-].[Na+]
+7,2,Benzoic acid (65-85-0),65-85-0,OC(=O)c1ccccc1,OC(=O)c1ccccc1,OC(=O)c1ccccc1,OC(=O)c1ccccc1,OC(=O)c1ccccc1,None,OC(=O)c1ccccc1
+7,2,Benzanilide (93-98-1),93-98-1,O=C(Nc1ccccc1)c2ccccc2,O=C(Nc1ccccc1)c2ccccc2,O=C(Nc1ccccc1)c2ccccc2,O=C(Nc1ccccc1)c2ccccc2,O=C(Nc1ccccc1)c2ccccc2,None,O=C(Nc1ccccc1)c2ccccc2
+7,2,"decolorizing carbon (Norite),
+carbon (7782-42-5)",7782-42-5,Not Found,[C],[C],[C],[C],None,[C]
+7,2,benzoyl chloride (98-88-4),98-88-4,ClC(=O)c1ccccc1,ClC(=O)c1ccccc1,ClC(=O)c1ccccc1,ClC(=O)c1ccccc1,ClC(=O)c1ccccc1,None,ClC(=O)c1ccccc1
+7,2,Benzoic anhydride (93-97-0),93-97-0,O=C(OC(=O)c1ccccc1)c2ccccc2,O=C(OC(=O)c1ccccc1)c2ccccc2,O=C(OC(=O)c1ccccc1)c2ccccc2,O=C(OC(=O)c1ccccc1)c2ccccc2,O=C(OC(=O)c1ccccc1)c2ccccc2,None,O=C(OC(=O)c1ccccc1)c2ccccc2
+7,2,benzamide (55-21-0),55-21-0,NC(=O)c1ccccc1,NC(=O)c1ccccc1,NC(=O)c1ccccc1,NC(=O)c1ccccc1,NC(=O)c1ccccc1,None,NC(=O)c1ccccc1
+7,2,boron fluoride (7637-07-2),7637-07-2,FB(F)F,FB(F)F,FB(F)F,FB(F)F,FB(F)F,None,FB(F)F
+7,2,p-Dimethylaminobenzophenone (530-44-9),530-44-9,CN(C)c1ccc(cc1)C(=O)c2ccccc2,CN(C)c1ccc(cc1)C(=O)c2ccccc2,CN(C)c1ccc(cc1)C(=O)c2ccccc2,CN(C)c1ccc(cc1)C(=O)c2ccccc2,CN(C)c1ccc(cc1)C(=O)c2ccccc2,None,CN(C)c1ccc(cc1)C(=O)c2ccccc2
+7,3,alcohol (64-17-5),64-17-5,CCO,CCO,CCO,CCO,CCO,None,CCO
+7,3,bromide (24959-67-9),24959-67-9,[Br-],[Br-],[Br-],[Br-],[Br-],None,[Br-]
+7,3,acetone (67-64-1),67-64-1,CC(C)=O,CC(C)=O,CC(C)=O,CC(C)=O,CC(C)=O,None,CC(C)=O
+7,3,"decolorizing carbon,
+decolorizing carbon (Norite) (7782-42-5)",7782-42-5,Not Found,[C],[C],[C],[C],None,[C]
+7,3,potassium hydroxide (1310-58-3),1310-58-3,[OH-].[K+],[OH-].[K+],[OH-].[K+],[OH-].[K+],[OH-].[K+],None,[OH-].[K+]
+7,3,carbon disulfide (75-15-0),75-15-0,S=C=S,S=C=S,S=C=S,S=C=S,S=C=S,None,S=C=S
+7,3,"β-Bromoethylphthalimide,
+bromoethylphthalimide",Not Found,Not Found,Not Found,Not Found,C1=CC(=C2C(=C1)C(=O)NC2=O)CCBr,C1=CC(=C2C(=C1)C(=O)NC2=O)CCBr,None,C1=CC(=C2C(=C1)C(=O)NC2=O)CCBr
+7,3,Potassium Phthalimide (1074-82-4),1074-82-4,[K+].O=C1[N-]C(=O)c2ccccc12,[K+].O=C1[N-]C(=O)c2ccccc12,[K+].O=C1[N-]C(=O)c2ccccc12,[K+].O=C1[N-]C(=O)c2ccccc12,[K+].O=C1[N-]C(=O)c2ccccc12,None,[K+].O=C1[N-]C(=O)c2ccccc12
+7,3,Phthalimide (85-41-6),85-41-6,O=C1NC(=O)c2ccccc12,O=C1NC(=O)c2ccccc12,O=C1NC(=O)c2ccccc12,O=C1NC(=O)c2ccccc12,O=C1NC(=O)c2ccccc12,None,O=C1NC(=O)c2ccccc12
+7,3,ethylene dibromide (106-93-4),106-93-4,BrCCBr,BrCCBr,BrCCBr,BrCCBr,BrCCBr,None,BrCCBr
+7,3,potassium bromide (7758-02-3),7758-02-3,[K+].[Br-],[K+].[Br-],[K+].[Br-],[K+].[Br-],[K+].[Br-],None,[K+].[Br-]
+7,3,diphthalimidoethane,Not Found,Not Found,Not Found,Not Found,Not Found,C1(C=2C(C(N1C(C)N1C(C=3C(C1=O)=CC=CC3)=O)=O)=CC=CC2)=O,None,C1(C=2C(C(N1C(C)N1C(C=3C(C1=O)=CC=CC3)=O)=O)=CC=CC2)=O
+7,3,"Phthalimide, N-(2-bromoethyl)- (574-98-1)",574-98-1,BrCCN1C(=O)c2ccccc2C1=O,BrCCN1C(=O)c2ccccc2C1=O,BrCCN1C(=O)c2ccccc2C1=O,BrCCN1C(=O)c2ccccc2C1=O,BrCCN1C(=O)c2ccccc2C1=O,None,BrCCN1C(=O)c2ccccc2C1=O
+7,4,Anhydro-2-hydroxymercuri-3-nitrobenzoic acid,Not Found,Not Found,Not Found,Not Found,Not Found,Not Found,2-Hydroxymercuri-3-nitrobenzoic acid,Not Found
+7,4,sodium salt of the chloromercuric acid,Not Found,Not Found,Not Found,Not Found,Not Found,Not Found,Sodium chloromercurate,Not Found
+7,4,alcohol (64-17-5),64-17-5,CCO,CCO,CCO,CCO,CCO,None,CCO
+7,4,hydrochloric acid (7647-01-0),7647-01-0,[H+].[Cl-],[H+].[Cl-],[H+].[Cl-],[H+].[Cl-],[H+].[Cl-],None,[H+].[Cl-]
+7,4,acetic acid (64-19-7),64-19-7,CC(O)=O,CC(O)=O,CC(O)=O,CC(O)=O,CC(O)=O,None,CC(O)=O
+7,4,sodium hydroxide (1310-73-2),1310-73-2,[OH-].[Na+],[OH-].[Na+],[OH-].[Na+],[OH-].[Na+],[OH-].[Na+],None,[OH-].[Na+]
+7,4,sodium chloride (7647-14-5),7647-14-5,[Na+].[Cl-],[Na+].[Cl-],[Na+].[Cl-],[Na+].[Cl-],[Na+].[Cl-],None,[Na+].[Cl-]
+7,4,bromine (7726-95-6),7726-95-6,[Br-],[Br-],[Br-],[Br-],[Br-],None,[Br-]
+7,4,sodium bromide (7647-15-6),7647-15-6,[Na+].[Br-],[Na+].[Br-],[Na+].[Br-],[Na+].[Br-],[Na+].[Br-],None,[Na+].[Br-]
+7,4,potassium iodide (7681-11-0),7681-11-0,[K+].[I-],[K+].[I-],[K+].[I-],[K+].[I-],[K+].[I-],None,[K+].[I-]
+7,4,3-Nitrophthalic acid (603-11-2),603-11-2,OC(=O)c1cccc(c1C(O)=O)[N+]([O-])=O,OC(=O)c1cccc(c1C(O)=O)[N+]([O-])=O,OC(=O)c1cccc(c1C(O)=O)[N+]([O-])=O,OC(=O)c1cccc(c1C(O)=O)[N+]([O-])=O,OC(=O)c1cccc(c1C(O)=O)[N+]([O-])=O,None,OC(=O)c1cccc(c1C(O)=O)[N+]([O-])=O
+7,4,mercury (7439-97-6),7439-97-6,[Hg],[Hg],[Hg],[Hg],[Hg],None,[Hg]
+7,4,"2-Bromo-3-nitrobenzoic acid,
+Benzoic acid, 2-bromo-3-nitro- (573-54-6)",573-54-6,OC(=O)c1cccc(c1Br)[N+]([O-])=O,OC(=O)c1cccc(c1Br)[N+]([O-])=O,OC(=O)c1cccc(c1Br)[N+]([O-])=O,OC(=O)c1cccc(c1Br)[N+]([O-])=O,OC(=O)c1cccc(c1Br)[N+]([O-])=O,None,OC(=O)c1cccc(c1Br)[N+]([O-])=O
+7,4,iodine (7553-56-2),7553-56-2,II,II,II,II,II,None,II
+7,4,mercuric iodide (7774-29-0),7774-29-0,[I-].[I-].[Hg++],[I-].[I-].[Hg++],[I-].[I-].[Hg++],[I-].[I-].[Hg++],[I-].[I-].[Hg++],None,[I-].[I-].[Hg++]
+7,4,2-iodo-3-nitrobenzoic acid (5398-69-6),5398-69-6,OC(=O)c1cccc(c1I)[N+]([O-])=O,OC(=O)c1cccc(c1I)[N+]([O-])=O,OC(=O)c1cccc(c1I)[N+]([O-])=O,OC(=O)c1cccc(c1I)[N+]([O-])=O,OC(=O)c1cccc(c1I)[N+]([O-])=O,None,OC(=O)c1cccc(c1I)[N+]([O-])=O
+7,4,2-bromobenzoic acid (88-65-3),88-65-3,OC(=O)c1ccccc1Br,OC(=O)c1ccccc1Br,OC(=O)c1ccccc1Br,OC(=O)c1ccccc1Br,OC(=O)c1ccccc1Br,None,OC(=O)c1ccccc1Br
+7,4,3-nitroanthranilic acid,Not Found,Not Found,Not Found,Not Found,C1=CC(=C(C(=C1)[N+](=O)[O-])N)C(=O)O,C1=CC(=C(C(=C1)[N+](=O)[O-])N)C(=O)O,None,C1=CC(=C(C(=C1)[N+](=O)[O-])N)C(=O)O
+17,0,acetylcitric anyhdride,Not Found,Not Found,Not Found,Not Found,Not Found,Not Found,Acetyl citrate anhydride,Not Found
+17,0,pyrosulfuric acid,Not Found,Not Found,Not Found,Not Found,OS(=O)(=O)OS(=O)(=O)O,OS(=O)(=O)OS(=O)(=O)O,None,OS(=O)(=O)OS(=O)(=O)O
+17,0,sulfuric acid (7664-93-9),7664-93-9,O[S](O)(=O)=O,O[S](O)(=O)=O,O[S](O)(=O)=O,O[S](O)(=O)=O,O[S](O)(=O)=O,None,O[S](O)(=O)=O
+17,0,"hydrogen chloride,
+hydrochloric acid (7647-01-0)",7647-01-0,[H+].[Cl-],[H+].[Cl-],[H+].[Cl-],[H+].[Cl-],[H+].[Cl-],None,[H+].[Cl-]
+17,0,acetic acid (64-19-7),64-19-7,CC(O)=O,CC(O)=O,CC(O)=O,CC(O)=O,CC(O)=O,None,CC(O)=O
+17,0,sodium hydroxide (1310-73-2),1310-73-2,[OH-].[Na+],[OH-].[Na+],[OH-].[Na+],[OH-].[Na+],[OH-].[Na+],None,[OH-].[Na+]
+17,0,citric acid (77-92-9),77-92-9,OC(=O)CC(O)(CC(O)=O)C(O)=O,OC(=O)CC(O)(CC(O)=O)C(O)=O,OC(=O)CC(O)(CC(O)=O)C(O)=O,OC(=O)CC(O)(CC(O)=O)C(O)=O,OC(=O)CC(O)(CC(O)=O)C(O)=O,None,OC(=O)CC(O)(CC(O)=O)C(O)=O
+17,0,Norite (7782-42-5),7782-42-5,Not Found,[C],[C],[C],[C],None,[C]
+17,0,phosphoric acid (7664-38-2),7664-38-2,O[P](O)(O)=O,O[P](O)(O)=O,O[P](O)(O)=O,O[P](O)(O)=O,O[P](O)(O)=O,None,O[P](O)(O)=O
+17,0,Aconitic acid (499-12-7),499-12-7,OC(=O)C\C(=C/C(O)=O)C(O)=O,OC(=O)C\C(=C/C(O)=O)C(O)=O,OC(=O)C\C(=C/C(O)=O)C(O)=O,OC(=O)C\C(=C/C(O)=O)C(O)=O,OC(=O)C\C(=C/C(O)=O)C(O)=O,None,OC(=O)C\C(=C/C(O)=O)C(O)=O
+17,0,citric acid monohydrate (5949-29-1),5949-29-1,O.OC(=O)CC(O)(CC(O)=O)C(O)=O,O.OC(=O)CC(O)(CC(O)=O)C(O)=O,O.OC(=O)CC(O)(CC(O)=O)C(O)=O,O.OC(=O)CC(O)(CC(O)=O)C(O)=O,O.OC(=O)CC(O)(CC(O)=O)C(O)=O,None,O.OC(=O)CC(O)(CC(O)=O)C(O)=O
+17,0,methyl acetylcitrate,Not Found,Not Found,Not Found,Not Found,Not Found,C(C)(=O)C(C(=O)OC)C(O)(C(=O)[O-])CC(=O)[O-],None,C(C)(=O)C(C(=O)OC)C(O)(C(=O)[O-])CC(=O)[O-]
+17,1,piperylurethan,Not Found,Not Found,Not Found,Not Found,Not Found,Not Found,none,
+17,1,sodiomalonic ester,Not Found,Not Found,Not Found,Not Found,Not Found,Not Found,Sodium malonate,C(C(=O)[O-])C(=O)[O-].[Na+].[Na+]
+17,1,alcohol (64-17-5),64-17-5,CCO,CCO,CCO,CCO,CCO,None,CCO
+17,1,sulfuric acid (7664-93-9),7664-93-9,O[S](O)(=O)=O,O[S](O)(=O)=O,O[S](O)(=O)=O,O[S](O)(=O)=O,O[S](O)(=O)=O,None,O[S](O)(=O)=O
+17,1,hydrochloric acid (7647-01-0),7647-01-0,[H+].[Cl-],[H+].[Cl-],[H+].[Cl-],[H+].[Cl-],[H+].[Cl-],None,[H+].[Cl-]
+17,1,ammonia (7664-41-7),7664-41-7,N,N,N,N,N,None,N
+17,1,nitric acid (7697-37-2),7697-37-2,O[N+]([O-])=O,O[N+]([O-])=O,O[N+]([O-])=O,O[N+]([O-])=O,O[N+]([O-])=O,None,O[N+]([O-])=O
+17,1,carbon dioxide (124-38-9),124-38-9,O=C=O,O=C=O,O=C=O,O=C=O,O=C=O,None,O=C=O
+17,1,carbon (7782-42-5),7782-42-5,Not Found,[C],[C],[C],[C],None,[C]
+17,1,Potassium Phthalimide (1074-82-4),1074-82-4,[K+].O=C1[N-]C(=O)c2ccccc12,[K+].O=C1[N-]C(=O)c2ccccc12,[K+].O=C1[N-]C(=O)c2ccccc12,[K+].O=C1[N-]C(=O)c2ccccc12,[K+].O=C1[N-]C(=O)c2ccccc12,None,[K+].O=C1[N-]C(=O)c2ccccc12
+17,1,γ-Chlorobutyronitrile (628-20-6),628-20-6,ClCCCC#N,ClCCCC#N,ClCCCC#N,ClCCCC#N,ClCCCC#N,None,ClCCCC#N
+17,1,barium hydroxide (17194-00-2),17194-00-2,[OH-].[OH-].[Ba++],[OH-].[OH-].[Ba++],[OH-].[OH-].[Ba++],[OH-].[OH-].[Ba++],[OH-].[OH-].[Ba++],None,[OH-].[OH-].[Ba++]
+17,1,barium carbonate (513-77-9),513-77-9,[Ba++].[O-]C([O-])=O,[Ba++].[O-]C([O-])=O,[Ba++].[O-]C([O-])=O,[Ba++].[O-]C([O-])=O,[Ba++].[O-]C([O-])=O,None,[Ba++].[O-]C([O-])=O
+17,1,ammonium sulfate (7783-20-2),7783-20-2,N.N.O[S](O)(=O)=O,N.N.O[S](O)(=O)=O,N.N.O[S](O)(=O)=O,N.N.O[S](O)(=O)=O,N.N.O[S](O)(=O)=O,None,N.N.O[S](O)(=O)=O
+17,1,phthalic acid (88-99-3),88-99-3,OC(=O)c1ccccc1C(O)=O,OC(=O)c1ccccc1C(O)=O,OC(=O)c1ccccc1C(O)=O,OC(=O)c1ccccc1C(O)=O,OC(=O)c1ccccc1C(O)=O,None,OC(=O)c1ccccc1C(O)=O
+17,1,Succinimide (123-56-8),123-56-8,O=C1CCC(=O)N1,O=C1CCC(=O)N1,O=C1CCC(=O)N1,O=C1CCC(=O)N1,O=C1CCC(=O)N1,None,O=C1CCC(=O)N1
+17,1,"γ-Aminobutyric acid,
+Butyric acid, γ-amino- (56-12-2)",56-12-2,NCCCC(O)=O,NCCCC(O)=O,NCCCC(O)=O,NCCCC(O)=O,NCCCC(O)=O,None,NCCCC(O)=O
+17,1,potassium chloride (7447-40-7),7447-40-7,[Cl-].[K+],[Cl-].[K+],[Cl-].[K+],[Cl-].[K+],[Cl-].[K+],None,[Cl-].[K+]
+17,1,γ-phthalimidobutyronitrile,Not Found,Not Found,Not Found,Not Found,Not Found,C1(C=2C(C(N1CCCC#N)=O)=CC=CC2)=O,None,C1(C=2C(C(N1CCCC#N)=O)=CC=CC2)=O
+17,1,pyrrolidone (616-45-5),616-45-5,O=C1CCCN1,O=C1CCCN1,O=C1CCCN1,O=C1CCCN1,O=C1CCCN1,None,O=C1CCCN1
+17,1,N-(β-bromoethyl)-phthalimide (574-98-1),574-98-1,BrCCN1C(=O)c2ccccc2C1=O,BrCCN1C(=O)c2ccccc2C1=O,BrCCN1C(=O)c2ccccc2C1=O,BrCCN1C(=O)c2ccccc2C1=O,BrCCN1C(=O)c2ccccc2C1=O,None,BrCCN1C(=O)c2ccccc2C1=O
+17,2,alcohol (64-17-5),64-17-5,CCO,CCO,CCO,CCO,CCO,None,CCO
+17,2,hydrochloric acid (7647-01-0),7647-01-0,[H+].[Cl-],[H+].[Cl-],[H+].[Cl-],[H+].[Cl-],[H+].[Cl-],None,[H+].[Cl-]
+17,2,ether (60-29-7),60-29-7,CCOCC,CCOCC,CCOCC,CCOCC,CCOCC,None,CCOCC
+17,2,lead hydroxide,Not Found,Not Found,Not Found,Not Found,Not Found,[Pb](O)O,None,[Pb](O)O
+17,2,silver oxide (20667-12-3),20667-12-3,O(|[Ag])|[Ag],O(|[Ag])|[Ag],O(|[Ag])|[Ag],O(|[Ag])|[Ag],O(|[Ag])|[Ag],None,O(|[Ag])|[Ag]
+17,2,hydrogen sulfide (7783-06-4),7783-06-4,S,S,S,S,S,None,S
+17,2,silver nitrate (7761-88-8),7761-88-8,[Ag+].[O-][N+]([O-])=O,[Ag+].[O-][N+]([O-])=O,[Ag+].[O-][N+]([O-])=O,[Ag+].[O-][N+]([O-])=O,[Ag+].[O-][N+]([O-])=O,None,[Ag+].[O-][N+]([O-])=O
+17,2,"ε-AMINOCAPROIC ACID,
+Caproic acid, ε-amino- (60-32-2)",60-32-2,NCCCCCC(O)=O,NCCCCCC(O)=O,NCCCCCC(O)=O,NCCCCCC(O)=O,NCCCCCC(O)=O,None,NCCCCCC(O)=O
+17,2,2-Ketohexamethylenimine (105-60-2),105-60-2,O=C1CCCCCN1,O=C1CCCCCN1,O=C1CCCCCN1,O=C1CCCCCN1,O=C1CCCCCN1,None,O=C1CCCCCN1
+17,2,ε-aminocaproic acid hydrochloride,Not Found,Not Found,Not Found,Not Found,Not Found,Cl.NCCCCCC(=O)O,None,Cl.NCCCCCC(=O)O
+17,2,ε-benzoylaminocapronitrile,Not Found,Not Found,Not Found,Not Found,Not Found,C(C1=CC=CC=C1)(=O)NCCCCCC#N,None,C(C1=CC=CC=C1)(=O)NCCCCCC#N
+17,2,ethyl δ-phthalimidobutylmalonate,Not Found,Not Found,Not Found,Not Found,Not Found,C1(C=2C(C(N1CCCCC(C(=O)OCC)C(=O)[O-])=O)=CC=CC2)=O,None,C1(C=2C(C(N1CCCCC(C(=O)OCC)C(=O)[O-])=O)=CC=CC2)=O
+17,2,Cyclohexanone oxime (100-64-1),100-64-1,ON=C1CCCCC1,ON=C1CCCCC1,ON=C1CCCCC1,ON=C1CCCCC1,ON=C1CCCCC1,None,ON=C1CCCCC1
+17,2,DL-Alanine (302-72-7),302-72-7,CC(N)C(O)=O,CC(N)C(O)=O,CC(N)C(O)=O,CC(N)C(O)=O,CC(N)C(O)=O,None,CC(N)C(O)=O
+17,3,"1,4-Aminonaphthol hydrochloride",Not Found,Not Found,Not Found,Not Found,Not Found,Not Found,4-Aminonaphthalen-1-ol hydrochloride,C1=CC=C2C(=C1)C(=CC=C2O)N.Cl
+17,3,"1,4-Aminonaphthol",Not Found,Not Found,Not Found,Not Found,Not Found,Not Found,4-Aminonaphthalen-1-ol,C1=CC=C2C(=C1)C(=CC=C2O)N
+17,3,"1,4-nitrosonaphthol",Not Found,Not Found,Not Found,Not Found,Not Found,Not Found,1-naphthyl-4-nitrosoaniline,Not Found
+17,3,"1,2-aminonaphthol",Not Found,Not Found,Not Found,Not Found,Not Found,Not Found,2-Amino-1-naphthol,C1=CC=C2C(=C1)C=CC(=C2O)N
+17,3,Orange I,Not Found,Not Found,Not Found,Not Found,C1=CC=C2C(=C1)C(=CC=C2O)N=NC3=CC=C(C=C3)S(=O)(=O)[O-].[Na+],C1=CC=C2C(=C1)C(=CC=C2O)N=NC3=CC=C(C=C3)S(=O)(=O)[O-].[Na+],None,C1=CC=C2C(=C1)C(=CC=C2O)N=NC3=CC=C(C=C3)S(=O)(=O)[O-].[Na+]
+17,3,hydrochloric acid (7647-01-0),7647-01-0,[H+].[Cl-],[H+].[Cl-],[H+].[Cl-],[H+].[Cl-],[H+].[Cl-],None,[H+].[Cl-]
+17,3,sodium hydroxide (1310-73-2),1310-73-2,[OH-].[Na+],[OH-].[Na+],[OH-].[Na+],[OH-].[Na+],[OH-].[Na+],None,[OH-].[Na+]
+17,3,"1-Naphthol, 4-amino-, hydrochloride (5959-56-8)",5959-56-8,[Cl-].[NH3+]c1ccc(O)c2ccccc12,[Cl-].[NH3+]c1ccc(O)c2ccccc12,[Cl-].[NH3+]c1ccc(O)c2ccccc12,[Cl-].[NH3+]c1ccc(O)c2ccccc12,[Cl-].[NH3+]c1ccc(O)c2ccccc12,None,[Cl-].[NH3+]c1ccc(O)c2ccccc12
+17,3,α-naphthol (90-15-3),90-15-3,Oc1cccc2ccccc12,Oc1cccc2ccccc12,Oc1cccc2ccccc12,Oc1cccc2ccccc12,Oc1cccc2ccccc12,None,Oc1cccc2ccccc12
+17,3,benzeneazo-α-naphthol,Not Found,Not Found,Not Found,Not Found,Not Found,Not Found,benzene-azo-α-naphthol,Not Found
+17,3,sodium hydrosulfite (7775-14-6),7775-14-6,[Na+].[Na+].[O-][S](=O)[S]([O-])=O,[Na+].[Na+].[O-][S](=O)[S]([O-])=O,[Na+].[Na+].[O-][S](=O)[S]([O-])=O,[Na+].[Na+].[O-][S](=O)[S]([O-])=O,[Na+].[Na+].[O-][S](=O)[S]([O-])=O,None,[Na+].[Na+].[O-][S](=O)[S]([O-])=O
+17,3,aminonaphthol,Not Found,Not Found,Not Found,Not Found,C1=CC=C2C(=C1)C=CC(=C2O)N,C1=CC=C2C(=C1)C=CC(=C2O)N,None,C1=CC=C2C(=C1)C=CC(=C2O)N
+17,3,β-naphthol (135-19-3),135-19-3,Oc1ccc2ccccc2c1,Oc1ccc2ccccc2c1,Oc1ccc2ccccc2c1,Oc1ccc2ccccc2c1,Oc1ccc2ccccc2c1,None,Oc1ccc2ccccc2c1
+17,3,stannous chloride,Not Found,Not Found,Not Found,Not Found,Cl[Sn]Cl,Cl[Sn]Cl,None,Cl[Sn]Cl
+17,3,α-nitronaphthalene (86-57-7),86-57-7,[O-][N+](=O)c1cccc2ccccc12,[O-][N+](=O)c1cccc2ccccc12,[O-][N+](=O)c1cccc2ccccc12,[O-][N+](=O)c1cccc2ccccc12,[O-][N+](=O)c1cccc2ccccc12,None,[O-][N+](=O)c1cccc2ccccc12
+17,3,sulfanilic acid dihydrate,Not Found,Not Found,Not Found,Not Found,C1=CC(=CC=C1[NH3+])S(=O)(=O)[O-].O.O,C1=CC(=CC=C1[NH3+])S(=O)(=O)[O-].O.O,None,C1=CC(=CC=C1[NH3+])S(=O)(=O)[O-].O.O
+17,3,stannous chloride dihydrate (10025-69-1),10025-69-1,O.O.[Cl-].[Cl-].[Sn++],O.O.[Cl-].[Cl-].[Sn++],O.O.[Cl-].[Cl-].[Sn++],O.O.[Cl-].[Cl-].[Sn++],O.O.[Cl-].[Cl-].[Sn++],None,O.O.[Cl-].[Cl-].[Sn++]
+17,3,"2,4-diamino-1-naphthol",Not Found,Not Found,Not Found,Not Found,Not Found,NC1=C(C2=CC=CC=C2C(=C1)N)O,None,NC1=C(C2=CC=CC=C2C(=C1)N)O
+17,3,naphthyl hydroxylamine,Not Found,Not Found,Not Found,Not Found,Not Found,C1(=CC=CC2=CC=CC=C12)NO,None,C1(=CC=CC2=CC=CC=C12)NO
+17,3,p-benzenediazonium sulfonate (305-80-6),305-80-6,[O-][S](=O)(=O)c1ccc(cc1)[N+]#N,[O-][S](=O)(=O)c1ccc(cc1)[N+]#N,[O-][S](=O)(=O)c1ccc(cc1)[N+]#N,[O-][S](=O)(=O)c1ccc(cc1)[N+]#N,[O-][S](=O)(=O)c1ccc(cc1)[N+]#N,None,[O-][S](=O)(=O)c1ccc(cc1)[N+]#N
+17,4,"1,2-Aminonaphthol hydrochloride",Not Found,Not Found,Not Found,Not Found,Not Found,Not Found,2-Amino-1-naphthol hydrochloride,C1=CC=C2C(=C1)C=CC(=C2O)N.Cl
+17,4,Orange II,Not Found,Not Found,Not Found,Not Found,C1=CC=C2C(=C1)C=CC(=C2N=NC3=CC=C(C=C3)S(=O)(=O)[O-])O.[Na+],C1=CC=C2C(=C1)C=CC(=C2N=NC3=CC=C(C=C3)S(=O)(=O)[O-])O.[Na+],None,C1=CC=C2C(=C1)C=CC(=C2N=NC3=CC=C(C=C3)S(=O)(=O)[O-])O.[Na+]
+17,4,NaO3SC6H4N=NOH,Not Found,Not Found,Not Found,Not Found,Not Found,Not Found,Sodium 2-hydroxy-5-nitrobenzenesulfonate,Not Found
+17,4,"1,2-aminonaphthol",Not Found,Not Found,Not Found,Not Found,Not Found,Not Found,2-Amino-1-naphthol,C1=CC=C2C(=C1)C=CC(=C2O)N
+17,4,sulfuric acid (7664-93-9),7664-93-9,O[S](O)(=O)=O,O[S](O)(=O)=O,O[S](O)(=O)=O,O[S](O)(=O)=O,O[S](O)(=O)=O,None,O[S](O)(=O)=O
+17,4,hydrochloric acid (7647-01-0),7647-01-0,[H+].[Cl-],[H+].[Cl-],[H+].[Cl-],[H+].[Cl-],[H+].[Cl-],None,[H+].[Cl-]
+17,4,ether (60-29-7),60-29-7,CCOCC,CCOCC,CCOCC,CCOCC,CCOCC,None,CCOCC
+17,4,hydrogen (1333-74-0),1333-74-0,[H],[H],[H],[H],[H],None,[H]
+17,4,sodium hydroxide (1310-73-2),1310-73-2,[OH-].[Na+],[OH-].[Na+],[OH-].[Na+],[OH-].[Na+],[OH-].[Na+],None,[OH-].[Na+]
+17,4,hydrogen sulfide (7783-06-4),7783-06-4,S,S,S,S,S,None,S
+17,4,sodium carbonate (497-19-8),497-19-8,[Na+].[Na+].[O-]C([O-])=O,[Na+].[Na+].[O-]C([O-])=O,[Na+].[Na+].[O-]C([O-])=O,[Na+].[Na+].[O-]C([O-])=O,[Na+].[Na+].[O-]C([O-])=O,None,[Na+].[Na+].[O-]C([O-])=O
+17,4,sulfur dioxide (7446-09-5),7446-09-5,O=[S]=O,O=[S]=O,O=[S]=O,O=[S]=O,O=[S]=O,None,O=[S]=O
+17,4,sodium nitrite (7632-00-0),7632-00-0,[Na+].[O-]N=O,[Na+].[O-]N=O,[Na+].[O-]N=O,[Na+].[O-]N=O,[Na+].[O-]N=O,None,[Na+].[O-]N=O
+17,4,sodium hydrosulfite (7775-14-6),7775-14-6,[Na+].[Na+].[O-][S](=O)[S]([O-])=O,[Na+].[Na+].[O-][S](=O)[S]([O-])=O,[Na+].[Na+].[O-][S](=O)[S]([O-])=O,[Na+].[Na+].[O-][S](=O)[S]([O-])=O,[Na+].[Na+].[O-][S](=O)[S]([O-])=O,None,[Na+].[Na+].[O-][S](=O)[S]([O-])=O
+17,4,aminonaphthol,Not Found,Not Found,Not Found,Not Found,C1=CC=C2C(=C1)C=CC(=C2O)N,C1=CC=C2C(=C1)C=CC(=C2O)N,None,C1=CC=C2C(=C1)C=CC(=C2O)N
+17,4,aminonaphthol hydrochloride (41772-23-0),41772-23-0,[Cl-].[NH3+]c1ccc2ccccc2c1O,[Cl-].[NH3+]c1ccc2ccccc2c1O,[Cl-].[NH3+]c1ccc2ccccc2c1O,[Cl-].[NH3+]c1ccc2ccccc2c1O,[Cl-].[NH3+]c1ccc2ccccc2c1O,None,[Cl-].[NH3+]c1ccc2ccccc2c1O
+17,4,β-naphthol (135-19-3),135-19-3,Oc1ccc2ccccc2c1,Oc1ccc2ccccc2c1,Oc1ccc2ccccc2c1,Oc1ccc2ccccc2c1,Oc1ccc2ccccc2c1,None,Oc1ccc2ccccc2c1
+17,4,stannous chloride,Not Found,Not Found,Not Found,Not Found,Cl[Sn]Cl,Cl[Sn]Cl,None,Cl[Sn]Cl
+17,4,sodium bisulfite (7631-90-5),7631-90-5,[Na+].[O-][S]([O-])=O,[Na+].[O-][S]([O-])=O,[Na+].[O-][S]([O-])=O,[Na+].[O-][S]([O-])=O,[Na+].[O-][S]([O-])=O,None,[Na+].[O-][S]([O-])=O
+17,4,Raney nickel (7440-02-0),7440-02-0,[Ni],[Ni],[Ni],[Ni],[Ni],None,[Ni]
+17,4,decolorizing carbon (7782-42-5),7782-42-5,Not Found,[C],[C],[C],[C],None,[C]
+17,4,zinc (7440-66-6),7440-66-6,[Zn],[Zn],[Zn],[Zn],[Zn],None,[Zn]
+17,4,sodium sulfide (1313-82-2),1313-82-2,[Na+].[Na+].[SH-],[Na+].[Na+].[SH-],[Na+].[Na+].[SH-],[Na+].[Na+].[SH-],[Na+].[Na+].[SH-],None,[Na+].[Na+].[SH-]
+17,4,Quinone (106-51-4),106-51-4,O=C1C=CC(=O)C=C1,O=C1C=CC(=O)C=C1,O=C1C=CC(=O)C=C1,O=C1C=CC(=O)C=C1,O=C1C=CC(=O)C=C1,None,O=C1C=CC(=O)C=C1
+17,4,Nitroso-β-naphthol (131-91-9),131-91-9,Oc1ccc2ccccc2c1N=O,Oc1ccc2ccccc2c1N=O,Oc1ccc2ccccc2c1N=O,Oc1ccc2ccccc2c1N=O,Oc1ccc2ccccc2c1N=O,None,Oc1ccc2ccccc2c1N=O
+17,4,"2-Naphthol, 1-amino-, hydrochloride,
+1-amino-2-naphthol hydrochloride (1198-27-2)",1198-27-2,[Cl-].[NH3+]c1c(O)ccc2ccccc12,[Cl-].[NH3+]c1c(O)ccc2ccccc12,[Cl-].[NH3+]c1c(O)ccc2ccccc12,[Cl-].[NH3+]c1c(O)ccc2ccccc12,[Cl-].[NH3+]c1c(O)ccc2ccccc12,None,[Cl-].[NH3+]c1c(O)ccc2ccccc12
+17,4,sulfanilic acid dihydrate,Not Found,Not Found,Not Found,Not Found,C1=CC(=CC=C1[NH3+])S(=O)(=O)[O-].O.O,C1=CC(=CC=C1[NH3+])S(=O)(=O)[O-].O.O,None,C1=CC(=CC=C1[NH3+])S(=O)(=O)[O-].O.O
+17,4,stannous chloride dihydrate (10025-69-1),10025-69-1,O.O.[Cl-].[Cl-].[Sn++],O.O.[Cl-].[Cl-].[Sn++],O.O.[Cl-].[Cl-].[Sn++],O.O.[Cl-].[Cl-].[Sn++],O.O.[Cl-].[Cl-].[Sn++],None,O.O.[Cl-].[Cl-].[Sn++]
+17,4,sulfanilic acid (121-57-3),121-57-3,Nc1ccc(cc1)[S](O)(=O)=O,Nc1ccc(cc1)[S](O)(=O)=O,Nc1ccc(cc1)[S](O)(=O)=O,Nc1ccc(cc1)[S](O)(=O)=O,Nc1ccc(cc1)[S](O)(=O)=O,None,Nc1ccc(cc1)[S](O)(=O)=O
+17,4,β-naphthylamine (91-59-8),91-59-8,Nc1ccc2ccccc2c1,Nc1ccc2ccccc2c1,Nc1ccc2ccccc2c1,Nc1ccc2ccccc2c1,Nc1ccc2ccccc2c1,None,Nc1ccc2ccccc2c1
+17,4,sodium sulfanilate,Not Found,Not Found,Not Found,Not Found,C1=CC(=CC=C1N)S(=O)(=O)[O-].[Na+],C1=CC(=CC=C1N)S(=O)(=O)[O-].[Na+],None,C1=CC(=CC=C1N)S(=O)(=O)[O-].[Na+]
+17,4,1-Amino-2-naphthol,Not Found,Not Found,Not Found,Not Found,C1=CC=C2C(=C1)C=CC(=C2N)O,C1=CC=C2C(=C1)C=CC(=C2N)O,None,C1=CC=C2C(=C1)C=CC(=C2N)O
+17,4,p-benzenediazonium sulfonate (305-80-6),305-80-6,[O-][S](=O)(=O)c1ccc(cc1)[N+]#N,[O-][S](=O)(=O)c1ccc(cc1)[N+]#N,[O-][S](=O)(=O)c1ccc(cc1)[N+]#N,[O-][S](=O)(=O)c1ccc(cc1)[N+]#N,[O-][S](=O)(=O)c1ccc(cc1)[N+]#N,None,[O-][S](=O)(=O)c1ccc(cc1)[N+]#N
+27,0,"β,β'-iminopropionitrile",Not Found,Not Found,Not Found,Not Found,Not Found,Not Found,"3,3'-Iminodipropionitrile",C(CNCCC#N)C#N
+27,0,"diethyl-β,β'-iminopropionate",Not Found,Not Found,Not Found,Not Found,Not Found,Not Found,"Diethyl 2,2'-iminodipropionate",Not Found
+27,0,hydrochloric acid (7647-01-0),7647-01-0,[H+].[Cl-],[H+].[Cl-],[H+].[Cl-],[H+].[Cl-],[H+].[Cl-],None,[H+].[Cl-]
+27,0,ammonia (7664-41-7),7664-41-7,N,N,N,N,N,None,N
+27,0,methanol (67-56-1),67-56-1,CO,CO,CO,CO,CO,None,CO
+27,0,carbon dioxide (124-38-9),124-38-9,O=C=O,O=C=O,O=C=O,O=C=O,O=C=O,None,O=C=O
+27,0,phthalic anhydride (85-44-9),85-44-9,O=C1OC(=O)c2ccccc12,O=C1OC(=O)c2ccccc12,O=C1OC(=O)c2ccccc12,O=C1OC(=O)c2ccccc12,O=C1OC(=O)c2ccccc12,None,O=C1OC(=O)c2ccccc12
+27,0,carbon (7782-42-5),7782-42-5,Not Found,[C],[C],[C],[C],None,[C]
+27,0,Phthalimide (85-41-6),85-41-6,O=C1NC(=O)c2ccccc12,O=C1NC(=O)c2ccccc12,O=C1NC(=O)c2ccccc12,O=C1NC(=O)c2ccccc12,O=C1NC(=O)c2ccccc12,None,O=C1NC(=O)c2ccccc12
+27,0,β-hydroxypropionitrile (109-78-4),109-78-4,OCCC#N,OCCC#N,OCCC#N,OCCC#N,OCCC#N,None,OCCC#N
+27,0,cyanoacetic acid (372-09-8),372-09-8,OC(=O)CC#N,OC(=O)CC#N,OC(=O)CC#N,OC(=O)CC#N,OC(=O)CC#N,None,OC(=O)CC#N
+27,0,barium hydroxide (17194-00-2),17194-00-2,[OH-].[OH-].[Ba++],[OH-].[OH-].[Ba++],[OH-].[OH-].[Ba++],[OH-].[OH-].[Ba++],[OH-].[OH-].[Ba++],None,[OH-].[OH-].[Ba++]
+27,0,barium carbonate (513-77-9),513-77-9,[Ba++].[O-]C([O-])=O,[Ba++].[O-]C([O-])=O,[Ba++].[O-]C([O-])=O,[Ba++].[O-]C([O-])=O,[Ba++].[O-]C([O-])=O,None,[Ba++].[O-]C([O-])=O
+27,0,barium hydroxide octahydrate (12230-71-6),12230-71-6,Not Found,O.O.O.O.O.O.O.O.[OH-].[OH-].[Ba+2],O.O.O.O.O.O.O.O.[OH-].[OH-].[Ba+2],O.O.O.O.O.O.O.O.[OH-].[OH-].[Ba+2],O.O.O.O.O.O.O.O.[OH-].[OH-].[Ba+2],None,O.O.O.O.O.O.O.O.[OH-].[OH-].[Ba+2]
+27,0,β-Alanine (107-95-9),107-95-9,NCCC(O)=O,NCCC(O)=O,NCCC(O)=O,NCCC(O)=O,NCCC(O)=O,None,NCCC(O)=O
+27,0,Succinimide (123-56-8),123-56-8,O=C1CCC(=O)N1,O=C1CCC(=O)N1,O=C1CCC(=O)N1,O=C1CCC(=O)N1,O=C1CCC(=O)N1,None,O=C1CCC(=O)N1
+27,0,β-Aminopropionitrile (151-18-8),151-18-8,NCCC#N,NCCC#N,NCCC#N,NCCC#N,NCCC#N,None,NCCC#N
+27,0,acrylonitrile (107-13-1),107-13-1,C=CC#N,C=CC#N,C=CC#N,C=CC#N,C=CC#N,None,C=CC#N
+27,0,bis-(β-cyanoethyl) amine (111-94-4),111-94-4,N#CCCNCCC#N,N#CCCNCCC#N,N#CCCNCCC#N,N#CCCNCCC#N,N#CCCNCCC#N,None,N#CCCNCCC#N
+27,0,bis-(β-cyanoethyl) ether (1656-48-0),1656-48-0,N#CCCOCCC#N,N#CCCOCCC#N,N#CCCOCCC#N,N#CCCOCCC#N,N#CCCOCCC#N,None,N#CCCOCCC#N
+27,0,bis-(β-cyanoethyl) sulfide (111-97-7),111-97-7,N#CCCSCCC#N,N#CCCSCCC#N,N#CCCSCCC#N,N#CCCSCCC#N,N#CCCSCCC#N,None,N#CCCSCCC#N
+27,0,β-phthalimidopropionitrile,Not Found,Not Found,Not Found,Not Found,Not Found,C1(C=2C(C(N1CCC#N)=O)=CC=CC2)=O,None,C1(C=2C(C(N1CCC#N)=O)=CC=CC2)=O
+27,0,potassium hypobromite,Not Found,Not Found,Not Found,Not Found,[O-]Br.[K+],[O-]Br.[K+],None,[O-]Br.[K+]
+27,0,"β,β'-iminodipropionic acid",Not Found,Not Found,Not Found,Not Found,Not Found,N(CCC(=O)O)CCC(=O)O,None,N(CCC(=O)O)CCC(=O)O
+27,1,ammonia (7664-41-7),7664-41-7,N,N,N,N,N,None,N
+27,1,ammonium hydroxide (1336-21-6),1336-21-6,[NH4+].[OH-],[NH4+].[OH-],[NH4+].[OH-],[NH4+].[OH-],[NH4+].[OH-],None,[NH4+].[OH-]
+27,1,β-Alanine (107-95-9),107-95-9,NCCC(O)=O,NCCC(O)=O,NCCC(O)=O,NCCC(O)=O,NCCC(O)=O,None,NCCC(O)=O
+27,1,"β-Aminopropionitrile,
+Propionitrile, β-amino- (151-18-8)",151-18-8,NCCC#N,NCCC#N,NCCC#N,NCCC#N,NCCC#N,None,NCCC#N
+27,1,acrylonitrile (107-13-1),107-13-1,C=CC#N,C=CC#N,C=CC#N,C=CC#N,C=CC#N,None,C=CC#N
+27,1,"bis-(β-cyanoethyl) amine,
+bis-(β-CYANOETHYL)-AMINE,
+propionitrile, β,β'-iminodi- (111-94-4)",111-94-4,N#CCCNCCC#N,N#CCCNCCC#N,N#CCCNCCC#N,N#CCCNCCC#N,N#CCCNCCC#N,None,N#CCCNCCC#N
+27,1,β-chloropropionitrile (542-76-7),542-76-7,ClCCC#N,ClCCC#N,ClCCC#N,ClCCC#N,ClCCC#N,None,ClCCC#N
+27,1,tris-(β-cyanoethyl) amine,β-cyanoethyl) amine,Not Found,Not Found,Not Found,Not Found,C(#N)CCN(CCC#N)CCC#N,None,C(#N)CCN(CCC#N)CCC#N
+27,2,α-hydrogen,Not Found,Not Found,Not Found,Not Found,Not Found,Not Found,none,
+27,2,ethanol (64-17-5),64-17-5,CCO,CCO,CCO,CCO,CCO,None,CCO
+27,2,methanol (67-56-1),67-56-1,CO,CO,CO,CO,CO,None,CO
+27,2,chloroform (67-66-3),67-66-3,ClC(Cl)Cl,ClC(Cl)Cl,ClC(Cl)Cl,ClC(Cl)Cl,ClC(Cl)Cl,None,ClC(Cl)Cl
+27,2,hydrogen bromide (10035-10-6),10035-10-6,[H+].[Br-],[H+].[Br-],[H+].[Br-],[H+].[Br-],[H+].[Br-],None,[H+].[Br-]
+27,2,bromine (7726-95-6),7726-95-6,[Br-],[Br-],[Br-],[Br-],[Br-],None,[Br-]
+27,2,carbon tetrachloride (56-23-5),56-23-5,ClC(Cl)(Cl)Cl,ClC(Cl)(Cl)Cl,ClC(Cl)(Cl)Cl,ClC(Cl)(Cl)Cl,ClC(Cl)(Cl)Cl,None,ClC(Cl)(Cl)Cl
+27,2,Benzalacetone (122-57-6),122-57-6,CC(=O)\C=C\c1ccccc1,CC(=O)\C=C\c1ccccc1,CC(=O)\C=C\c1ccccc1,CC(=O)\C=C\c1ccccc1,CC(=O)\C=C\c1ccccc1,None,CC(=O)\C=C\c1ccccc1
+27,2,carbon disulfide (75-15-0),75-15-0,S=C=S,S=C=S,S=C=S,S=C=S,S=C=S,None,S=C=S
+27,2,"Benzalacetone dibromide,
+2-Butanone, 3,4-dibromo-4-phenyl- (6310-44-7)",6310-44-7,CC(=O)C(Br)C(Br)c1ccccc1,CC(=O)C(Br)C(Br)c1ccccc1,CC(=O)C(Br)C(Br)c1ccccc1,CC(=O)C(Br)C(Br)c1ccccc1,CC(=O)C(Br)C(Br)c1ccccc1,None,CC(=O)C(Br)C(Br)c1ccccc1
+27,2,N-bromosuccinimide (128-08-5),128-08-5,BrN1C(=O)CCC1=O,BrN1C(=O)CCC1=O,BrN1C(=O)CCC1=O,BrN1C(=O)CCC1=O,BrN1C(=O)CCC1=O,None,BrN1C(=O)CCC1=O
+27,3,calcium chloride (10043-52-4),10043-52-4,[Cl-].[Cl-].[Ca++],[Cl-].[Cl-].[Ca++],[Cl-].[Cl-].[Ca++],[Cl-].[Cl-].[Ca++],[Cl-].[Cl-].[Ca++],None,[Cl-].[Cl-].[Ca++]
+27,3,hydrochloric acid (7647-01-0),7647-01-0,[H+].[Cl-],[H+].[Cl-],[H+].[Cl-],[H+].[Cl-],[H+].[Cl-],None,[H+].[Cl-]
+27,3,ether (60-29-7),60-29-7,CCOCC,CCOCC,CCOCC,CCOCC,CCOCC,None,CCOCC
+27,3,"magnesium,
+magnesium turnings (7439-95-4)",7439-95-4,[Mg++],[Mg++],[Mg++],[Mg++],[Mg++],None,[Mg++]
+27,3,Allyl bromide (106-95-6),106-95-6,BrCC=C,BrCC=C,BrCC=C,BrCC=C,BrCC=C,None,BrCC=C
+27,3,potassium cyanide (151-50-8),151-50-8,[K+].[C-]#N,[K+].[C-]#N,[K+].[C-]#N,[K+].[C-]#N,[K+].[C-]#N,None,[K+].[C-]#N
+27,3,allyl chloride (107-05-1),107-05-1,ClCC=C,ClCC=C,ClCC=C,ClCC=C,ClCC=C,None,ClCC=C
+27,3,allyl iodide (556-56-9),556-56-9,ICC=C,ICC=C,ICC=C,ICC=C,ICC=C,None,ICC=C
+27,3,aluminum (7429-90-5),7429-90-5,[Al],[Al],[Al],[Al],[Al],None,[Al]
+27,3,iodine (7553-56-2),7553-56-2,II,II,II,II,II,None,II
+27,3,sodium (13966-32-0),13966-32-0,[22Na],[22Na],[22Na],[22Na],[22Na],None,[22Na]
+27,3,"1,2,3-Tribromopropane (96-11-7)",96-11-7,BrCC(Br)CBr,BrCC(Br)CBr,BrCC(Br)CBr,BrCC(Br)CBr,BrCC(Br)CBr,None,BrCC(Br)CBr
+27,3,magnesium chloride (7786-30-3),7786-30-3,[Mg++].[Cl-].[Cl-],[Mg++].[Cl-].[Cl-],[Mg++].[Cl-].[Cl-],[Mg++].[Cl-].[Cl-],[Mg++].[Cl-].[Cl-],None,[Mg++].[Cl-].[Cl-]
+27,3,diallyl ether (557-40-4),557-40-4,C=CCOCC=C,C=CCOCC=C,C=CCOCC=C,C=CCOCC=C,C=CCOCC=C,None,C=CCOCC=C
+27,3,"Biallyl,
+1,5-Hexadiene (592-42-7)",592-42-7,C=CCCC=C,C=CCCC=C,C=CCCC=C,C=CCCC=C,C=CCCC=C,None,C=CCCC=C
+27,3,allyl mercuric iodide,Not Found,Not Found,Not Found,Not Found,Not Found,C(C=C)[Hg]I,None,C(C=C)[Hg]I
+27,4,ethanol (64-17-5),64-17-5,CCO,CCO,CCO,CCO,CCO,None,CCO
+27,4,acetic acid (64-19-7),64-19-7,CC(O)=O,CC(O)=O,CC(O)=O,CC(O)=O,CC(O)=O,None,CC(O)=O
+27,4,ammonia (7664-41-7),7664-41-7,N,N,N,N,N,None,N
+27,4,ether (60-29-7),60-29-7,CCOCC,CCOCC,CCOCC,CCOCC,CCOCC,None,CCOCC
+27,4,sodium acetate (127-09-3),127-09-3,[Na+].CC([O-])=O,[Na+].CC([O-])=O,[Na+].CC([O-])=O,[Na+].CC([O-])=O,[Na+].CC([O-])=O,None,[Na+].CC([O-])=O
+27,4,glycerol (56-81-5),56-81-5,OCC(O)CO,OCC(O)CO,OCC(O)CO,OCC(O)CO,OCC(O)CO,None,OCC(O)CO
+27,4,sodium bicarbonate (144-55-8),144-55-8,[Na+].OC([O-])=O,[Na+].OC([O-])=O,[Na+].OC([O-])=O,[Na+].OC([O-])=O,[Na+].OC([O-])=O,None,[Na+].OC([O-])=O
+27,4,sodium chloride (7647-14-5),7647-14-5,[Na+].[Cl-],[Na+].[Cl-],[Na+].[Cl-],[Na+].[Cl-],[Na+].[Cl-],None,[Na+].[Cl-]
+27,4,sodium bromide (7647-15-6),7647-15-6,[Na+].[Br-],[Na+].[Br-],[Na+].[Br-],[Na+].[Br-],[Na+].[Br-],None,[Na+].[Br-]
+27,4,sodium sulfate (7757-82-6),7757-82-6,[Na+].[Na+].[O-][S]([O-])(=O)=O,[Na+].[Na+].[O-][S]([O-])(=O)=O,[Na+].[Na+].[O-][S]([O-])(=O)=O,[Na+].[Na+].[O-][S]([O-])(=O)=O,[Na+].[Na+].[O-][S]([O-])(=O)=O,None,[Na+].[Na+].[O-][S]([O-])(=O)=O
+27,4,potassium hydroxide (1310-58-3),1310-58-3,[OH-].[K+],[OH-].[K+],[OH-].[K+],[OH-].[K+],[OH-].[K+],None,[OH-].[K+]
+27,4,Benzalacetophenone dibromide (611-91-6),611-91-6,BrC(C(Br)C(=O)c1ccccc1)c2ccccc2,BrC(C(Br)C(=O)c1ccccc1)c2ccccc2,BrC(C(Br)C(=O)c1ccccc1)c2ccccc2,BrC(C(Br)C(=O)c1ccccc1)c2ccccc2,BrC(C(Br)C(=O)c1ccccc1)c2ccccc2,None,BrC(C(Br)C(=O)c1ccccc1)c2ccccc2
+27,4,Benzalacetone dibromide (6310-44-7),6310-44-7,CC(=O)C(Br)C(Br)c1ccccc1,CC(=O)C(Br)C(Br)c1ccccc1,CC(=O)C(Br)C(Br)c1ccccc1,CC(=O)C(Br)C(Br)c1ccccc1,CC(=O)C(Br)C(Br)c1ccccc1,None,CC(=O)C(Br)C(Br)c1ccccc1
+27,4,α-Bromobenzalacetone,Not Found,Not Found,Not Found,Not Found,Not Found,BrC(C1=CC=CC=C1)=CC(C)=O,None,BrC(C1=CC=CC=C1)=CC(C)=O
+27,4,"3-Buten-2-one, 3-bromo-4-phenyl- (31207-17-7)",31207-17-7,Not Found,CC(=O)/C(=C/C1=CC=CC=C1)/Br,CC(=O)/C(=C/C1=CC=CC=C1)/Br,CC(=O)/C(=C/C1=CC=CC=C1)/Br,CC(=O)/C(=C/C1=CC=CC=C1)/Br,None,CC(=O)/C(=C/C1=CC=CC=C1)/Br
+27,4,α-bromobenzalacetophenone (6935-75-7),6935-75-7,BrC(=C\c1ccccc1)/C(=O)c2ccccc2,BrC(=C\c1ccccc1)/C(=O)c2ccccc2,BrC(=C\c1ccccc1)/C(=O)c2ccccc2,BrC(=C\c1ccccc1)/C(=O)c2ccccc2,BrC(=C\c1ccccc1)/C(=O)c2ccccc2,None,BrC(=C\c1ccccc1)/C(=O)c2ccccc2
+37,0,hydrazoic acid,Not Found,Not Found,Not Found,Not Found,N=[N+]=[N-],N=[N+]=[N-],None,N=[N+]=[N-]
+37,0,dioxime of o-benzoquinone,Not Found,Not Found,Not Found,Not Found,Not Found,Not Found,o-benzoquinone dioxime,C1=CC=C(C(=C1)NO)N=O
+37,0,o-nitrobenzenediazonium perbromide,Not Found,Not Found,Not Found,Not Found,Not Found,Not Found,none,
+37,0,o-nitrobenzenediazo-4-semicar-bazinocamphor,Not Found,Not Found,Not Found,Not Found,Not Found,Not Found,none,
+37,0,ethanol (64-17-5),64-17-5,CCO,CCO,CCO,CCO,CCO,None,CCO
+37,0,hydrochloric acid (7647-01-0),7647-01-0,[H+].[Cl-],[H+].[Cl-],[H+].[Cl-],[H+].[Cl-],[H+].[Cl-],None,[H+].[Cl-]
+37,0,ammonia (7664-41-7),7664-41-7,N,N,N,N,N,None,N
+37,0,sodium hydroxide (1310-73-2),1310-73-2,[OH-].[Na+],[OH-].[Na+],[OH-].[Na+],[OH-].[Na+],[OH-].[Na+],None,[OH-].[Na+]
+37,0,nitric acid (7697-37-2),7697-37-2,O[N+]([O-])=O,O[N+]([O-])=O,O[N+]([O-])=O,O[N+]([O-])=O,O[N+]([O-])=O,None,O[N+]([O-])=O
+37,0,nitrogen (7727-37-9),7727-37-9,N#N,N#N,N#N,N#N,N#N,None,N#N
+37,0,sodium nitrite (7632-00-0),7632-00-0,[Na+].[O-]N=O,[Na+].[O-]N=O,[Na+].[O-]N=O,[Na+].[O-]N=O,[Na+].[O-]N=O,None,[Na+].[O-]N=O
+37,0,carbon (7782-42-5),7782-42-5,Not Found,[C],[C],[C],[C],None,[C]
+37,0,chlorine (7782-50-5),7782-50-5,ClCl,ClCl,ClCl,ClCl,ClCl,None,ClCl
+37,0,potassium hydroxide (1310-58-3),1310-58-3,[OH-].[K+],[OH-].[K+],[OH-].[K+],[OH-].[K+],[OH-].[K+],None,[OH-].[K+]
+37,0,toluene (108-88-3),108-88-3,Cc1ccccc1,Cc1ccccc1,Cc1ccccc1,Cc1ccccc1,Cc1ccccc1,None,Cc1ccccc1
+37,0,sodium hypochlorite (7681-52-9),7681-52-9,[Na+].[O-]Cl,[Na+].[O-]Cl,[Na+].[O-]Cl,[Na+].[O-]Cl,[Na+].[O-]Cl,None,[Na+].[O-]Cl
+37,0,hydrazine (302-01-2),302-01-2,NN,NN,NN,NN,NN,None,NN
+37,0,sodium azide (26628-22-8),26628-22-8,[Na+].[N-]=[N+]=[N-],[Na+].[N-]=[N+]=[N-],[Na+].[N-]=[N+]=[N-],[Na+].[N-]=[N+]=[N-],[Na+].[N-]=[N+]=[N-],None,[Na+].[N-]=[N+]=[N-]
+37,0,potassium ferricyanide (13746-66-2),13746-66-2,[K+].[K+].[K+].[Fe-3](|[C]#N)(|[C]#N)(|[C]#N)(|[C]#N)(|[C]#N)|[C]#N,[K+].[K+].[K+].[Fe-3](|[C]#N)(|[C]#N)(|[C]#N)(|[C]#N)(|[C]#N)|[C]#N,[K+].[K+].[K+].[Fe-3](|[C]#N)(|[C]#N)(|[C]#N)(|[C]#N)(|[C]#N)|[C]#N,[K+].[K+].[K+].[Fe-3](|[C]#N)(|[C]#N)(|[C]#N)(|[C]#N)(|[C]#N)|[C]#N,[K+].[K+].[K+].[Fe-3](|[C]#N)(|[C]#N)(|[C]#N)(|[C]#N)(|[C]#N)|[C]#N,None,[K+].[K+].[K+].[Fe-3](|[C]#N)(|[C]#N)(|[C]#N)(|[C]#N)(|[C]#N)|[C]#N
+37,0,"Benzofurazan oxide,
+Benzofurazan 1-oxide (480-96-6)",480-96-6,[O-][n+]1onc2ccccc12,[O-][n+]1onc2ccccc12,[O-][n+]1onc2ccccc12,[O-][n+]1onc2ccccc12,[O-][n+]1onc2ccccc12,None,[O-][n+]1onc2ccccc12
+37,0,phenyl iodosoacetate,Not Found,Not Found,Not Found,Not Found,C1=CC=C(C=C1)OC(=O)CI=O,C1=CC=C(C=C1)OC(=O)CI=O,None,C1=CC=C(C=C1)OC(=O)CI=O
+37,0,O-benzyl-hydroxylamine hydrochloride (2687-43-6),2687-43-6,[H+].[Cl-].NOCc1ccccc1,[H+].[Cl-].NOCc1ccccc1,[H+].[Cl-].NOCc1ccccc1,[H+].[Cl-].NOCc1ccccc1,[H+].[Cl-].NOCc1ccccc1,None,[H+].[Cl-].NOCc1ccccc1
+37,0,o-NITROANILINE (88-74-4),88-74-4,Nc1ccccc1[N+]([O-])=O,Nc1ccccc1[N+]([O-])=O,Nc1ccccc1[N+]([O-])=O,Nc1ccccc1[N+]([O-])=O,Nc1ccccc1[N+]([O-])=O,None,Nc1ccccc1[N+]([O-])=O
+37,0,p-nitroaniline (100-01-6),100-01-6,Nc1ccc(cc1)[N+]([O-])=O,Nc1ccc(cc1)[N+]([O-])=O,Nc1ccc(cc1)[N+]([O-])=O,Nc1ccc(cc1)[N+]([O-])=O,Nc1ccc(cc1)[N+]([O-])=O,None,Nc1ccc(cc1)[N+]([O-])=O
+37,0,o-NITROPHENYLAZIDE (1516-58-1),1516-58-1,[O-][N+](=O)c1ccccc1N=[N+]=[N-],[O-][N+](=O)c1ccccc1N=[N+]=[N-],[O-][N+](=O)c1ccccc1N=[N+]=[N-],[O-][N+](=O)c1ccccc1N=[N+]=[N-],[O-][N+](=O)c1ccccc1N=[N+]=[N-],None,[O-][N+](=O)c1ccccc1N=[N+]=[N-]
+37,0,o-nitrobenzenediazonium sulfate,Not Found,Not Found,Not Found,Not Found,Not Found,S(=O)(=O)([O-])[O-].[N+](=O)([O-])C1=C(C=CC=C1)[N+]#N.[N+](=O)([O-])C1=C(C=CC=C1)[N+]#N,None,S(=O)(=O)([O-])[O-].[N+](=O)([O-])C1=C(C=CC=C1)[N+]#N.[N+](=O)([O-])C1=C(C=CC=C1)[N+]#N
+37,0,o-nitrobenzenediazonium acetate,Not Found,Not Found,Not Found,Not Found,Not Found,C(C)(=O)[O-].[N+](=O)([O-])C1=C(C=CC=C1)[N+]#N,None,C(C)(=O)[O-].[N+](=O)([O-])C1=C(C=CC=C1)[N+]#N
+37,0,o-nitrophenylhydrazine (3034-19-3),3034-19-3,[Cl-].[NH3+]Nc1ccccc1[N+]([O-])=O,[Cl-].[NH3+]Nc1ccccc1[N+]([O-])=O,[Cl-].[NH3+]Nc1ccccc1[N+]([O-])=O,[Cl-].[NH3+]Nc1ccccc1[N+]([O-])=O,[Cl-].[NH3+]Nc1ccccc1[N+]([O-])=O,None,[Cl-].[NH3+]Nc1ccccc1[N+]([O-])=O
+37,1,petroleum ether,Not Found,Not Found,Not Found,Not Found,Not Found,Not Found,none,
+37,1,Benzene (71-43-2),71-43-2,c1ccccc1,c1ccccc1,c1ccccc1,c1ccccc1,c1ccccc1,None,c1ccccc1
+37,1,aniline (62-53-3),62-53-3,Nc1ccccc1,Nc1ccccc1,Nc1ccccc1,Nc1ccccc1,Nc1ccccc1,None,Nc1ccccc1
+37,1,xylene (106-42-3),106-42-3,Cc1ccc(C)cc1,Cc1ccc(C)cc1,Cc1ccc(C)cc1,Cc1ccc(C)cc1,Cc1ccc(C)cc1,None,Cc1ccc(C)cc1
+37,1,Ethyl benzalmalonate,Not Found,Not Found,Not Found,Not Found,CCOC(=O)C(=CC1=CC=CC=C1)C(=O)[O-],CCOC(=O)C(=CC1=CC=CC=C1)C(=O)[O-],None,CCOC(=O)C(=CC1=CC=CC=C1)C(=O)[O-]
+37,1,Ethyl benzoylacetate (94-02-0),94-02-0,CCOC(=O)CC(=O)c1ccccc1,CCOC(=O)CC(=O)c1ccccc1,CCOC(=O)CC(=O)c1ccccc1,CCOC(=O)CC(=O)c1ccccc1,CCOC(=O)CC(=O)c1ccccc1,None,CCOC(=O)CC(=O)c1ccccc1
+37,1,"Benzoylacetanilide,
+Acetanilide, 2-benzoyl- (85-99-4)",85-99-4,CC(=O)Nc1ccccc1C(=O)c2ccccc2,CC(=O)Nc1ccccc1C(=O)c2ccccc2,CC(=O)Nc1ccccc1C(=O)c2ccccc2,CC(=O)Nc1ccccc1C(=O)c2ccccc2,CC(=O)Nc1ccccc1C(=O)c2ccccc2,None,CC(=O)Nc1ccccc1C(=O)c2ccccc2
+37,1,2-amino-5-nitroanisole (97-52-9),97-52-9,COc1cc(ccc1N)[N+]([O-])=O,COc1cc(ccc1N)[N+]([O-])=O,COc1cc(ccc1N)[N+]([O-])=O,COc1cc(ccc1N)[N+]([O-])=O,COc1cc(ccc1N)[N+]([O-])=O,None,COc1cc(ccc1N)[N+]([O-])=O
+37,1,3-Carboxy-4-hydroxyquinoline,Not Found,Not Found,Not Found,Not Found,Not Found,C(=O)(O)C=1C=NC2=CC=CC=C2C1O,None,C(=O)(O)C=1C=NC2=CC=CC=C2C1O
+37,1,4-Benzal-2-phenyl-5-oxazolone (842-74-0),842-74-0,O=C\1OC(=NC1=C\c2ccccc2)c3ccccc3,O=C\1OC(=NC1=C\c2ccccc2)c3ccccc3,O=C\1OC(=NC1=C\c2ccccc2)c3ccccc3,O=C\1OC(=NC1=C\c2ccccc2)c3ccccc3,O=C\1OC(=NC1=C\c2ccccc2)c3ccccc3,None,O=C\1OC(=NC1=C\c2ccccc2)c3ccccc3
+37,1,Oleoyl chloride (112-77-6),112-77-6,CCCCCCCC\C=C/CCCCCCCC(Cl)=O,CCCCCCCC\C=C/CCCCCCCC(Cl)=O,CCCCCCCC\C=C/CCCCCCCC(Cl)=O,CCCCCCCC\C=C/CCCCCCCC(Cl)=O,CCCCCCCC\C=C/CCCCCCCC(Cl)=O,None,CCCCCCCC\C=C/CCCCCCCC(Cl)=O
+37,2,hydrochloric acid (7647-01-0),7647-01-0,[H+].[Cl-],[H+].[Cl-],[H+].[Cl-],[H+].[Cl-],[H+].[Cl-],None,[H+].[Cl-]
+37,2,Benzene (71-43-2),71-43-2,c1ccccc1,c1ccccc1,c1ccccc1,c1ccccc1,c1ccccc1,None,c1ccccc1
+37,2,ether (60-29-7),60-29-7,CCOCC,CCOCC,CCOCC,CCOCC,CCOCC,None,CCOCC
+37,2,benzonitrile (100-47-0),100-47-0,N#Cc1ccccc1,N#Cc1ccccc1,N#Cc1ccccc1,N#Cc1ccccc1,N#Cc1ccccc1,None,N#Cc1ccccc1
+37,2,sodium hydroxide (1310-73-2),1310-73-2,[OH-].[Na+],[OH-].[Na+],[OH-].[Na+],[OH-].[Na+],[OH-].[Na+],None,[OH-].[Na+]
+37,2,thionyl chloride (7719-09-7),7719-09-7,Cl[S](Cl)=O,Cl[S](Cl)=O,Cl[S](Cl)=O,Cl[S](Cl)=O,Cl[S](Cl)=O,None,Cl[S](Cl)=O
+37,2,chloroform (67-66-3),67-66-3,ClC(Cl)Cl,ClC(Cl)Cl,ClC(Cl)Cl,ClC(Cl)Cl,ClC(Cl)Cl,None,ClC(Cl)Cl
+37,2,aluminum chloride (3495-54-3),3495-54-3,[Al+3].[Cl-].[Cl-].[Cl-].C[N+]([O-])=O,[Al+3].[Cl-].[Cl-].[Cl-].C[N+]([O-])=O,[Al+3].[Cl-].[Cl-].[Cl-].C[N+]([O-])=O,[Al+3].[Cl-].[Cl-].[Cl-].C[N+]([O-])=O,[Al+3].[Cl-].[Cl-].[Cl-].C[N+]([O-])=O,None,[Al+3].[Cl-].[Cl-].[Cl-].C[N+]([O-])=O
+37,2,chromic acid (7738-94-5),7738-94-5,O[Cr](O)(=O)=O,O[Cr](O)(=O)=O,O[Cr](O)(=O)=O,O[Cr](O)(=O)=O,O[Cr](O)(=O)=O,None,O[Cr](O)(=O)=O
+37,2,Phenylmagnesium bromide (100-58-3),100-58-3,[Mg++]|[C-]1=CC=CC=C1.[Br-],[Mg++]|[C-]1=CC=CC=C1.[Br-],[Mg++]|[C-]1=CC=CC=C1.[Br-],[Mg++]|[C-]1=CC=CC=C1.[Br-],[Mg++]|[C-]1=CC=CC=C1.[Br-],None,[Mg++]|[C-]1=CC=CC=C1.[Br-]
+37,2,Nicotinic acid (59-67-6),59-67-6,OC(=O)c1cccnc1,OC(=O)c1cccnc1,OC(=O)c1cccnc1,OC(=O)c1cccnc1,OC(=O)c1cccnc1,None,OC(=O)c1cccnc1
+37,2,aluminum hydroxide,Not Found,Not Found,Not Found,Not Found,[OH-].[OH-].[OH-].[Al+3],[OH-].[OH-].[OH-].[Al+3],None,[OH-].[OH-].[OH-].[Al+3]
+37,2,hexane (110-54-3),110-54-3,CCCCCC,CCCCCC,CCCCCC,CCCCCC,CCCCCC,None,CCCCCC
+37,2,"3-Benzoylpyridine,
+Ketone, phenyl 3-pyridyl (5424-19-1)",5424-19-1,O=C(c1ccccc1)c2cccnc2,O=C(c1ccccc1)c2cccnc2,O=C(c1ccccc1)c2cccnc2,O=C(c1ccccc1)c2cccnc2,O=C(c1ccccc1)c2cccnc2,None,O=C(c1ccccc1)c2cccnc2
+37,2,diphenyl sulfoxide (945-51-7),945-51-7,O=[S](c1ccccc1)c2ccccc2,O=[S](c1ccccc1)c2ccccc2,O=[S](c1ccccc1)c2ccccc2,O=[S](c1ccccc1)c2ccccc2,O=[S](c1ccccc1)c2ccccc2,None,O=[S](c1ccccc1)c2ccccc2
+37,2,4-Benzoylpyridine (14548-46-0),14548-46-0,O=C(c1ccccc1)c2ccncc2,O=C(c1ccccc1)c2ccncc2,O=C(c1ccccc1)c2ccncc2,O=C(c1ccccc1)c2ccncc2,O=C(c1ccccc1)c2ccncc2,None,O=C(c1ccccc1)c2ccncc2
+37,2,3-cyanopyridine (100-54-9),100-54-9,N#Cc1cccnc1,N#Cc1cccnc1,N#Cc1cccnc1,N#Cc1cccnc1,N#Cc1cccnc1,None,N#Cc1cccnc1
+37,2,3-pyridyllithium,Not Found,Not Found,Not Found,Not Found,[Li+].C1=C[C-]=CN=C1,[Li+].C1=C[C-]=CN=C1,None,[Li+].C1=C[C-]=CN=C1
+37,2,phenyl-3-pyridylcarbinol,Not Found,Not Found,Not Found,Not Found,Not Found,C1(=CC=CC=C1)C(O)C=1C=NC=CC1,None,C1(=CC=CC=C1)C(O)C=1C=NC=CC1
+37,2,β-benzoylpicolinic acid,Not Found,Not Found,Not Found,Not Found,Not Found,C(C1=CC=CC=C1)(=O)C=1C(=NC=CC1)C(=O)O,None,C(C1=CC=CC=C1)(=O)C=1C(=NC=CC1)C(=O)O
+37,2,quinolinic acid anhydride,Not Found,Not Found,Not Found,Not Found,C1=CC2=C(C(=O)OC2=O)N=C1,C1=CC2=C(C(=O)OC2=O)N=C1,None,C1=CC2=C(C(=O)OC2=O)N=C1
+37,2,isonicotinic acid (55-22-1),55-22-1,OC(=O)c1ccncc1,OC(=O)c1ccncc1,OC(=O)c1ccncc1,OC(=O)c1ccncc1,OC(=O)c1ccncc1,None,OC(=O)c1ccncc1
+37,3,sulfuric acid (7664-93-9),7664-93-9,O[S](O)(=O)=O,O[S](O)(=O)=O,O[S](O)(=O)=O,O[S](O)(=O)=O,O[S](O)(=O)=O,None,O[S](O)(=O)=O
+37,3,hydrochloric acid (7647-01-0),7647-01-0,[H+].[Cl-],[H+].[Cl-],[H+].[Cl-],[H+].[Cl-],[H+].[Cl-],None,[H+].[Cl-]
+37,3,acetic acid (64-19-7),64-19-7,CC(O)=O,CC(O)=O,CC(O)=O,CC(O)=O,CC(O)=O,None,CC(O)=O
+37,3,Benzene (71-43-2),71-43-2,c1ccccc1,c1ccccc1,c1ccccc1,c1ccccc1,c1ccccc1,None,c1ccccc1
+37,3,ether (60-29-7),60-29-7,CCOCC,CCOCC,CCOCC,CCOCC,CCOCC,None,CCOCC
+37,3,sodium acetate (127-09-3),127-09-3,[Na+].CC([O-])=O,[Na+].CC([O-])=O,[Na+].CC([O-])=O,[Na+].CC([O-])=O,[Na+].CC([O-])=O,None,[Na+].CC([O-])=O
+37,3,sodium bicarbonate (144-55-8),144-55-8,[Na+].OC([O-])=O,[Na+].OC([O-])=O,[Na+].OC([O-])=O,[Na+].OC([O-])=O,[Na+].OC([O-])=O,None,[Na+].OC([O-])=O
+37,3,sodium chloride (7647-14-5),7647-14-5,[Na+].[Cl-],[Na+].[Cl-],[Na+].[Cl-],[Na+].[Cl-],[Na+].[Cl-],None,[Na+].[Cl-]
+37,3,sodium sulfate (7757-82-6),7757-82-6,[Na+].[Na+].[O-][S]([O-])(=O)=O,[Na+].[Na+].[O-][S]([O-])(=O)=O,[Na+].[Na+].[O-][S]([O-])(=O)=O,[Na+].[Na+].[O-][S]([O-])(=O)=O,[Na+].[Na+].[O-][S]([O-])(=O)=O,None,[Na+].[Na+].[O-][S]([O-])(=O)=O
+37,3,carbon tetrachloride (56-23-5),56-23-5,ClC(Cl)(Cl)Cl,ClC(Cl)(Cl)Cl,ClC(Cl)(Cl)Cl,ClC(Cl)(Cl)Cl,ClC(Cl)(Cl)Cl,None,ClC(Cl)(Cl)Cl
+37,3,nitrogen (7727-37-9),7727-37-9,N#N,N#N,N#N,N#N,N#N,None,N#N
+37,3,sodium methoxide (124-41-4),124-41-4,[Na+].C[O-],[Na+].C[O-],[Na+].C[O-],[Na+].C[O-],[Na+].C[O-],None,[Na+].C[O-]
+37,3,sulfuryl chloride (7791-25-5),7791-25-5,Cl[S](Cl)(=O)=O,Cl[S](Cl)(=O)=O,Cl[S](Cl)(=O)=O,Cl[S](Cl)(=O)=O,Cl[S](Cl)(=O)=O,None,Cl[S](Cl)(=O)=O
+37,3,pyridine (110-86-1),110-86-1,c1ccncc1,c1ccncc1,c1ccncc1,c1ccncc1,c1ccncc1,None,c1ccncc1
+37,3,methylmagnesium iodide (917-64-6),917-64-6,[CH3-]|[Mg++].[I-],[CH3-]|[Mg++].[I-],[CH3-]|[Mg++].[I-],[CH3-]|[Mg++].[I-],[CH3-]|[Mg++].[I-],None,[CH3-]|[Mg++].[I-]
+37,3,"2,4-Dinitrophenylhydrazine (119-26-6)",119-26-6,NNc1ccc(cc1[N+]([O-])=O)[N+]([O-])=O,NNc1ccc(cc1[N+]([O-])=O)[N+]([O-])=O,NNc1ccc(cc1[N+]([O-])=O)[N+]([O-])=O,NNc1ccc(cc1[N+]([O-])=O)[N+]([O-])=O,NNc1ccc(cc1[N+]([O-])=O)[N+]([O-])=O,None,NNc1ccc(cc1[N+]([O-])=O)[N+]([O-])=O
+37,3,nitrosyl chloride (2696-92-6),2696-92-6,ClN=O,ClN=O,ClN=O,ClN=O,ClN=O,None,ClN=O
+37,3,stannic chloride (7646-78-8),7646-78-8,[Cl]|[Sn](|[Cl])(|[Cl])|[Cl],[Cl]|[Sn](|[Cl])(|[Cl])|[Cl],[Cl]|[Sn](|[Cl])(|[Cl])|[Cl],[Cl]|[Sn](|[Cl])(|[Cl])|[Cl],[Cl]|[Sn](|[Cl])(|[Cl])|[Cl],None,[Cl]|[Sn](|[Cl])(|[Cl])|[Cl]
+37,3,magnesium sulfate (7487-88-9),7487-88-9,[Mg++].[O-][S]([O-])(=O)=O,[Mg++].[O-][S]([O-])(=O)=O,[Mg++].[O-][S]([O-])(=O)=O,[Mg++].[O-][S]([O-])(=O)=O,[Mg++].[O-][S]([O-])(=O)=O,None,[Mg++].[O-][S]([O-])(=O)=O
+37,3,Diazomethane (334-88-3),334-88-3,C=[N+]=[N-],C=[N+]=[N-],C=[N+]=[N-],C=[N+]=[N-],C=[N+]=[N-],None,C=[N+]=[N-]
+37,3,magnesium oxide (1309-48-4),1309-48-4,O=[Mg],O=[Mg],O=[Mg],O=[Mg],O=[Mg],None,O=[Mg]
+37,3,sodium dichromate dihydrate (10588-01-9),10588-01-9,[Na+].[Na+].[O-][Cr](=O)(=O)O[Cr]([O-])(=O)=O,[Na+].[Na+].[O-][Cr](=O)(=O)O[Cr]([O-])(=O)=O,[Na+].[Na+].[O-][Cr](=O)(=O)O[Cr]([O-])(=O)=O,[Na+].[Na+].[O-][Cr](=O)(=O)O[Cr]([O-])(=O)=O,[Na+].[Na+].[O-][Cr](=O)(=O)O[Cr]([O-])(=O)=O,None,[Na+].[Na+].[O-][Cr](=O)(=O)O[Cr]([O-])(=O)=O
+37,3,dimethylformamide (68-12-2),68-12-2,CN(C)C=O,CN(C)C=O,CN(C)C=O,CN(C)C=O,CN(C)C=O,None,CN(C)C=O
+37,3,N-bromosuccinimide (128-08-5),128-08-5,BrN1C(=O)CCC1=O,BrN1C(=O)CCC1=O,BrN1C(=O)CCC1=O,BrN1C(=O)CCC1=O,BrN1C(=O)CCC1=O,None,BrN1C(=O)CCC1=O
+37,3,"2,4,6-collidine (108-75-8)",108-75-8,Cc1cc(C)nc(C)c1,Cc1cc(C)nc(C)c1,Cc1cc(C)nc(C)c1,Cc1cc(C)nc(C)c1,Cc1cc(C)nc(C)c1,None,Cc1cc(C)nc(C)c1
+37,3,2-methylcyclohexanone (583-60-8),583-60-8,CC1CCCCC1=O,CC1CCCCC1=O,CC1CCCCC1=O,CC1CCCCC1=O,CC1CCCCC1=O,None,CC1CCCCC1=O
+37,3,2-methylcyclohexanol (583-59-5),583-59-5,CC1CCCCC1O,CC1CCCCC1O,CC1CCCCC1O,CC1CCCCC1O,CC1CCCCC1O,None,CC1CCCCC1O
+37,3,1-methylcyclohexene,Not Found,Not Found,Not Found,Not Found,CC1=CCCCC1,CC1=CCCCC1,None,CC1=CCCCC1
+37,3,"2-Methyl-2-cyclohexenone,
+2-Cyclohexen-1-one, 2-methyl- (1121-18-2)",1121-18-2,CC1=CCCCC1=O,CC1=CCCCC1=O,CC1=CCCCC1=O,CC1=CCCCC1=O,CC1=CCCCC1=O,None,CC1=CCCCC1=O
+37,3,"2-Chloro-2-methylcyclohexanone,
+Cyclohexanone, 2-chloro-2-methyl- (10409-46-8)",10409-46-8,CC1(Cl)CCCCC1=O,CC1(Cl)CCCCC1=O,CC1(Cl)CCCCC1=O,CC1(Cl)CCCCC1=O,CC1(Cl)CCCCC1=O,None,CC1(Cl)CCCCC1=O
+37,3,collidine hydrochloride,Not Found,Not Found,Not Found,Not Found,CC1=CC(=NC(=C1)C)C.Cl,CC1=CC(=NC(=C1)C)C.Cl,None,CC1=CC(=NC(=C1)C)C.Cl
+37,3,Lithium chloride (7447-41-8),7447-41-8,[Li+].[Cl-],[Li+].[Cl-],[Li+].[Cl-],[Li+].[Cl-],[Li+].[Cl-],None,[Li+].[Cl-]
+37,3,2-methylenecyclohexanone,Not Found,Not Found,Not Found,Not Found,C=C1CCCCC1=O,C=C1CCCCC1=O,None,C=C1CCCCC1=O
+37,3,"1,2-Cyclohexanedione (765-87-7)",765-87-7,O=C1CCCCC1=O,O=C1CCCCC1=O,O=C1CCCCC1=O,O=C1CCCCC1=O,O=C1CCCCC1=O,None,O=C1CCCCC1=O
+37,3,5-heptenoic acid chloride,Not Found,Not Found,Not Found,Not Found,Not Found,C(CCCC=CC)(=O)Cl,None,C(CCCC=CC)(=O)Cl
+37,4,phosphorus pentachloride and oxychloride,Not Found,Not Found,Not Found,Not Found,Not Found,O(Cl)Cl.P(Cl)(Cl)(Cl)(Cl)Cl,None,O(Cl)Cl.P(Cl)(Cl)(Cl)(Cl)Cl
+37,4,hydrogen chloride (7647-01-0),7647-01-0,[H+].[Cl-],[H+].[Cl-],[H+].[Cl-],[H+].[Cl-],[H+].[Cl-],None,[H+].[Cl-]
+37,4,ether (60-29-7),60-29-7,CCOCC,CCOCC,CCOCC,CCOCC,CCOCC,None,CCOCC
+37,4,sodium hydroxide (1310-73-2),1310-73-2,[OH-].[Na+],[OH-].[Na+],[OH-].[Na+],[OH-].[Na+],[OH-].[Na+],None,[OH-].[Na+]
+37,4,phosphorus pentachloride (10026-13-8),10026-13-8,Cl[P](Cl)(Cl)(Cl)Cl,Cl[P](Cl)(Cl)(Cl)Cl,Cl[P](Cl)(Cl)(Cl)Cl,Cl[P](Cl)(Cl)(Cl)Cl,Cl[P](Cl)(Cl)(Cl)Cl,None,Cl[P](Cl)(Cl)(Cl)Cl
+37,4,sodium carbonate (497-19-8),497-19-8,[Na+].[Na+].[O-]C([O-])=O,[Na+].[Na+].[O-]C([O-])=O,[Na+].[Na+].[O-]C([O-])=O,[Na+].[Na+].[O-]C([O-])=O,[Na+].[Na+].[O-]C([O-])=O,None,[Na+].[Na+].[O-]C([O-])=O
+37,4,Phosphorus Oxychloride (21295-50-1),21295-50-1,ClP=O,ClP=O,ClP=O,ClP=O,ClP=O,None,ClP=O
+37,4,"2-Chloronicotinonitrile,
+Nicotinonitrile, 2-chloro- (6602-54-6)",6602-54-6,Clc1ncccc1C#N,Clc1ncccc1C#N,Clc1ncccc1C#N,Clc1ncccc1C#N,Clc1ncccc1C#N,None,Clc1ncccc1C#N
+37,4,nicotinamide-1-oxide (1986-81-8),1986-81-8,NC(=O)C1=C[NH++]([O-])C=C[CH-]1,NC(=O)C1=C[NH++]([O-])C=C[CH-]1,NC(=O)C1=C[NH++]([O-])C=C[CH-]1,NC(=O)C1=C[NH++]([O-])C=C[CH-]1,NC(=O)C1=C[NH++]([O-])C=C[CH-]1,None,NC(=O)C1=C[NH++]([O-])C=C[CH-]1
+37,4,2-chloronicotinamide (10366-35-5),10366-35-5,NC(=O)c1cccnc1Cl,NC(=O)c1cccnc1Cl,NC(=O)c1cccnc1Cl,NC(=O)c1cccnc1Cl,NC(=O)c1cccnc1Cl,None,NC(=O)c1cccnc1Cl
+37,4,3-amino-2-chloropyridine (6298-19-7),6298-19-7,Nc1cccnc1Cl,Nc1cccnc1Cl,Nc1cccnc1Cl,Nc1cccnc1Cl,Nc1cccnc1Cl,None,Nc1cccnc1Cl
+37,4,phosphorus pentoxide (1314-56-3),1314-56-3,O=[P]12O[P]3(=O)O[P](=O)(O1)O[P](=O)(O2)O3,O=[P]12O[P]3(=O)O[P](=O)(O1)O[P](=O)(O2)O3,O=[P]12O[P]3(=O)O[P](=O)(O1)O[P](=O)(O2)O3,O=[P]12O[P]3(=O)O[P](=O)(O1)O[P](=O)(O2)O3,O=[P]12O[P]3(=O)O[P](=O)(O1)O[P](=O)(O2)O3,None,O=[P]12O[P]3(=O)O[P](=O)(O1)O[P](=O)(O2)O3
+47,0,hydrogen chloride (7647-01-0),7647-01-0,[H+].[Cl-],[H+].[Cl-],[H+].[Cl-],[H+].[Cl-],[H+].[Cl-],None,[H+].[Cl-]
+47,0,carbon monoxide (630-08-0),630-08-0,[C-]#[O+],[C-]#[O+],[C-]#[O+],[C-]#[O+],[C-]#[O+],None,[C-]#[O+]
+47,0,hydroquinone (123-31-9),123-31-9,Oc1ccc(O)cc1,Oc1ccc(O)cc1,Oc1ccc(O)cc1,Oc1ccc(O)cc1,Oc1ccc(O)cc1,None,Oc1ccc(O)cc1
+47,0,potassium permanganate (7722-64-7),7722-64-7,Not Found,[O-][Mn](=O)(=O)=O.[K+],[O-][Mn](=O)(=O)=O.[K+],[O-][Mn](=O)(=O)=O.[K+],[O-][Mn](=O)(=O)=O.[K+],None,[O-][Mn](=O)(=O)=O.[K+]
+47,0,sodium sulfate (7757-82-6),7757-82-6,[Na+].[Na+].[O-][S]([O-])(=O)=O,[Na+].[Na+].[O-][S]([O-])(=O)=O,[Na+].[Na+].[O-][S]([O-])(=O)=O,[Na+].[Na+].[O-][S]([O-])(=O)=O,[Na+].[Na+].[O-][S]([O-])(=O)=O,None,[Na+].[Na+].[O-][S]([O-])(=O)=O
+47,0,aluminum chloride (3495-54-3),3495-54-3,[Al+3].[Cl-].[Cl-].[Cl-].C[N+]([O-])=O,[Al+3].[Cl-].[Cl-].[Cl-].C[N+]([O-])=O,[Al+3].[Cl-].[Cl-].[Cl-].C[N+]([O-])=O,[Al+3].[Cl-].[Cl-].[Cl-].C[N+]([O-])=O,[Al+3].[Cl-].[Cl-].[Cl-].C[N+]([O-])=O,None,[Al+3].[Cl-].[Cl-].[Cl-].C[N+]([O-])=O
+47,0,Mesitylene (108-67-8),108-67-8,Cc1cc(C)cc(C)c1,Cc1cc(C)cc(C)c1,Cc1cc(C)cc(C)c1,Cc1cc(C)cc(C)c1,Cc1cc(C)cc(C)c1,None,Cc1cc(C)cc(C)c1
+47,0,methylene chloride (75-09-2),75-09-2,ClCCl,ClCCl,ClCCl,ClCCl,ClCCl,None,ClCCl
+47,0,boron trifluoride (7637-07-2),7637-07-2,FB(F)F,FB(F)F,FB(F)F,FB(F)F,FB(F)F,None,FB(F)F
+47,0,ethoxymethyleneaniline (6780-49-0),6780-49-0,CCOC=Nc1ccccc1,CCOC=Nc1ccccc1,CCOC=Nc1ccccc1,CCOC=Nc1ccccc1,CCOC=Nc1ccccc1,None,CCOC=Nc1ccccc1
+47,0,"Mesitaldehyde,
+Benzaldehyde, 2,4,6-trimethyl- (487-68-3)",487-68-3,Cc1cc(C)c(C=O)c(C)c1,Cc1cc(C)c(C=O)c(C)c1,Cc1cc(C)c(C=O)c(C)c1,Cc1cc(C)c(C=O)c(C)c1,Cc1cc(C)c(C=O)c(C)c1,None,Cc1cc(C)c(C=O)c(C)c1
+47,0,Mesitoyl chloride (938-18-1),938-18-1,Cc1cc(C)c(c(C)c1)C(Cl)=O,Cc1cc(C)c(c(C)c1)C(Cl)=O,Cc1cc(C)c(c(C)c1)C(Cl)=O,Cc1cc(C)c(c(C)c1)C(Cl)=O,Cc1cc(C)c(c(C)c1)C(Cl)=O,None,Cc1cc(C)c(c(C)c1)C(Cl)=O
+47,0,mesitylmagnesium bromide (2633-66-1),2633-66-1,Not Found,CC1=CC(=[C-]C(=C1)C)C.[Mg+2].[Br-],CC1=CC(=[C-]C(=C1)C)C.[Mg+2].[Br-],CC1=CC(=[C-]C(=C1)C)C.[Mg+2].[Br-],CC1=CC(=[C-]C(=C1)C)C.[Mg+2].[Br-],None,CC1=CC(=[C-]C(=C1)C)C.[Mg+2].[Br-]
+47,0,titanium tetrachloride (7550-45-0),7550-45-0,[Cl-].[Cl-].[Cl-].[Cl-].[Ti+4],[Cl-].[Cl-].[Cl-].[Cl-].[Ti+4],[Cl-].[Cl-].[Cl-].[Cl-].[Ti+4],[Cl-].[Cl-].[Cl-].[Cl-].[Ti+4],[Cl-].[Cl-].[Cl-].[Cl-].[Ti+4],None,[Cl-].[Cl-].[Cl-].[Cl-].[Ti+4]
+47,0,Dichloromethyl methyl ether (4885-02-3),4885-02-3,COC(Cl)Cl,COC(Cl)Cl,COC(Cl)Cl,COC(Cl)Cl,COC(Cl)Cl,None,COC(Cl)Cl
+47,0,acetylmesitylene,Not Found,Not Found,Not Found,Not Found,CC1=CC(=C(C(=C1)C)C(=O)C)C,CC1=CC(=C(C(=C1)C)C(=O)C)C,None,CC1=CC(=C(C(=C1)C)C(=O)C)C
+47,0,iron pentacarbonyl,Not Found,Not Found,Not Found,Not Found,C=O.C=O.C=O.C=O.C=O.[Fe],C=O.C=O.C=O.C=O.C=O.[Fe],None,C=O.C=O.C=O.C=O.C=O.[Fe]
+47,0,formyl fluoride (1493-02-3),1493-02-3,FC=O,FC=O,FC=O,FC=O,FC=O,None,FC=O
+47,1,H2O,Not Found,Not Found,Not Found,Not Found,O,O,None,O
+47,1,dehydrobenzene,Not Found,Not Found,Not Found,Not Found,C1=CC#CC=C1,C1=CC#CC=C1,None,C1=CC#CC=C1
+47,1,calcium chloride (10043-52-4),10043-52-4,[Cl-].[Cl-].[Ca++],[Cl-].[Cl-].[Ca++],[Cl-].[Cl-].[Ca++],[Cl-].[Cl-].[Ca++],[Cl-].[Cl-].[Ca++],None,[Cl-].[Cl-].[Ca++]
+47,1,sulfuric acid (7664-93-9),7664-93-9,O[S](O)(=O)=O,O[S](O)(=O)=O,O[S](O)(=O)=O,O[S](O)(=O)=O,O[S](O)(=O)=O,None,O[S](O)(=O)=O
+47,1,hydrochloric acid (7647-01-0),7647-01-0,[H+].[Cl-],[H+].[Cl-],[H+].[Cl-],[H+].[Cl-],[H+].[Cl-],None,[H+].[Cl-]
+47,1,acetic acid (64-19-7),64-19-7,CC(O)=O,CC(O)=O,CC(O)=O,CC(O)=O,CC(O)=O,None,CC(O)=O
+47,1,ammonia (7664-41-7),7664-41-7,N,N,N,N,N,None,N
+47,1,ethyl acetate (141-78-6),141-78-6,CCOC(C)=O,CCOC(C)=O,CCOC(C)=O,CCOC(C)=O,CCOC(C)=O,None,CCOC(C)=O
+47,1,ether (60-29-7),60-29-7,CCOCC,CCOCC,CCOCC,CCOCC,CCOCC,None,CCOCC
+47,1,ammonium chloride (12125-02-9),12125-02-9,[NH4+].[Cl-],[NH4+].[Cl-],[NH4+].[Cl-],[NH4+].[Cl-],[NH4+].[Cl-],None,[NH4+].[Cl-]
+47,1,hydrogen (1333-74-0),1333-74-0,[H],[H],[H],[H],[H],None,[H]
+47,1,acetonitrile (75-05-8),75-05-8,CC#N,CC#N,CC#N,CC#N,CC#N,None,CC#N
+47,1,sodium hydroxide (1310-73-2),1310-73-2,[OH-].[Na+],[OH-].[Na+],[OH-].[Na+],[OH-].[Na+],[OH-].[Na+],None,[OH-].[Na+]
+47,1,glycerol (56-81-5),56-81-5,OCC(O)CO,OCC(O)CO,OCC(O)CO,OCC(O)CO,OCC(O)CO,None,OCC(O)CO
+47,1,magnesium (7439-95-4),7439-95-4,[Mg++],[Mg++],[Mg++],[Mg++],[Mg++],None,[Mg++]
+47,1,sulfur dioxide (7446-09-5),7446-09-5,O=[S]=O,O=[S]=O,O=[S]=O,O=[S]=O,O=[S]=O,None,O=[S]=O
+47,1,nitrogen (7727-37-9),7727-37-9,N#N,N#N,N#N,N#N,N#N,None,N#N
+47,1,sodium nitrite (7632-00-0),7632-00-0,[Na+].[O-]N=O,[Na+].[O-]N=O,[Na+].[O-]N=O,[Na+].[O-]N=O,[Na+].[O-]N=O,None,[Na+].[O-]N=O
+47,1,nitrous acid (7782-77-6),7782-77-6,ON=O,ON=O,ON=O,ON=O,ON=O,None,ON=O
+47,1,copper powder (7440-50-8),7440-50-8,[Cu],[Cu],[Cu],[Cu],[Cu],None,[Cu]
+47,1,potassium hydroxide (1310-58-3),1310-58-3,[OH-].[K+],[OH-].[K+],[OH-].[K+],[OH-].[K+],[OH-].[K+],None,[OH-].[K+]
+47,1,zinc (7440-66-6),7440-66-6,[Zn],[Zn],[Zn],[Zn],[Zn],None,[Zn]
+47,1,phosphoric acid (7664-38-2),7664-38-2,O[P](O)(O)=O,O[P](O)(O)=O,O[P](O)(O)=O,O[P](O)(O)=O,O[P](O)(O)=O,None,O[P](O)(O)=O
+47,1,methylene chloride (75-09-2),75-09-2,ClCCl,ClCCl,ClCCl,ClCCl,ClCCl,None,ClCCl
+47,1,palladium oxide,Not Found,Not Found,Not Found,Not Found,O=[Pd],O=[Pd],None,O=[Pd]
+47,1,sulfamic acid (5329-14-6),5329-14-6,N[S](O)(=O)=O,N[S](O)(=O)=O,N[S](O)(=O)=O,N[S](O)(=O)=O,N[S](O)(=O)=O,None,N[S](O)(=O)=O
+47,1,CYCLOPENTADIENE (542-92-7),542-92-7,C1C=CC=C1,C1C=CC=C1,C1C=CC=C1,C1C=CC=C1,C1C=CC=C1,None,C1C=CC=C1
+47,1,Benzenediazonium-2-carboxylate (1608-42-0),1608-42-0,Not Found,C1=CC=C(C(=C1)C(=O)[O-])[N+]#N,C1=CC=C(C(=C1)C(=O)[O-])[N+]#N,C1=CC=C(C(=C1)C(=O)[O-])[N+]#N,C1=CC=C(C(=C1)C(=O)[O-])[N+]#N,None,C1=CC=C(C(=C1)C(=O)[O-])[N+]#N
+47,1,"1,2,3-Benzothiadiazole 1,1-dioxide (37150-27-9)",37150-27-9,Not Found,Not Found,Not Found,C1=CC=C2C(=C1)N=NS2(=O)=O,C1=CC=C2C(=C1)N=NS2(=O)=O,None,C1=CC=C2C(=C1)N=NS2(=O)=O
+47,1,2-Nitrobenzenesulfinic acid (13165-79-2),13165-79-2,Not Found,Not Found,Not Found,C1=CC=C(C(=C1)[N+](=O)[O-])S(=O)O,C1=CC=C(C(=C1)[N+](=O)[O-])S(=O)O,None,C1=CC=C(C(=C1)[N+](=O)[O-])S(=O)O
+47,1,2-Nitroaniline (88-74-4),88-74-4,Nc1ccccc1[N+]([O-])=O,Nc1ccccc1[N+]([O-])=O,Nc1ccccc1[N+]([O-])=O,Nc1ccccc1[N+]([O-])=O,Nc1ccccc1[N+]([O-])=O,None,Nc1ccccc1[N+]([O-])=O
+47,1,Sodium 2-aminobenzenesulfinate (50827-53-7),50827-53-7,[Na].Nc1ccccc1[S](O)=O,[Na].Nc1ccccc1[S](O)=O,[Na].Nc1ccccc1[S](O)=O,[Na].Nc1ccccc1[S](O)=O,[Na].Nc1ccccc1[S](O)=O,None,[Na].Nc1ccccc1[S](O)=O
+47,1,"1,2,3-benzothiadiazoline 1,1-dioxide",Not Found,Not Found,Not Found,Not Found,Not Found,S1(N=NC2=C1C=CC=C2)(=O)=O,None,S1(N=NC2=C1C=CC=C2)(=O)=O
+47,1,o-fluorobromobenzene (1072-85-1),1072-85-1,Fc1ccccc1Br,Fc1ccccc1Br,Fc1ccccc1Br,Fc1ccccc1Br,Fc1ccccc1Br,None,Fc1ccccc1Br
+47,1,phosphorus pentoxide (1314-56-3),1314-56-3,O=[P]12O[P]3(=O)O[P](=O)(O1)O[P](=O)(O2)O3,O=[P]12O[P]3(=O)O[P](=O)(O1)O[P](=O)(O2)O3,O=[P]12O[P]3(=O)O[P](=O)(O1)O[P](=O)(O2)O3,O=[P]12O[P]3(=O)O[P](=O)(O1)O[P](=O)(O2)O3,O=[P]12O[P]3(=O)O[P](=O)(O1)O[P](=O)(O2)O3,None,O=[P]12O[P]3(=O)O[P](=O)(O1)O[P](=O)(O2)O3
+47,1,lead tetraacetate (546-67-8),546-67-8,[Pb++].CC([O-])=O.CC([O-])=O.CC([O-])=O.CC([O-])=O,[Pb++].CC([O-])=O.CC([O-])=O.CC([O-])=O.CC([O-])=O,[Pb++].CC([O-])=O.CC([O-])=O.CC([O-])=O.CC([O-])=O,[Pb++].CC([O-])=O.CC([O-])=O.CC([O-])=O.CC([O-])=O,[Pb++].CC([O-])=O.CC([O-])=O.CC([O-])=O.CC([O-])=O,None,[Pb++].CC([O-])=O.CC([O-])=O.CC([O-])=O.CC([O-])=O
+47,2,tetrahydro-exo-dicyclopentadiene-9-one oxime,Not Found,Not Found,Not Found,Not Found,Not Found,Not Found,none,
+47,2,"hydrogen chloride,
+hydrochloric acid (7647-01-0)",7647-01-0,[H+].[Cl-],[H+].[Cl-],[H+].[Cl-],[H+].[Cl-],[H+].[Cl-],None,[H+].[Cl-]
+47,2,ether (60-29-7),60-29-7,CCOCC,CCOCC,CCOCC,CCOCC,CCOCC,None,CCOCC
+47,2,sodium hydroxide (1310-73-2),1310-73-2,[OH-].[Na+],[OH-].[Na+],[OH-].[Na+],[OH-].[Na+],[OH-].[Na+],None,[OH-].[Na+]
+47,2,chloroform (67-66-3),67-66-3,ClC(Cl)Cl,ClC(Cl)Cl,ClC(Cl)Cl,ClC(Cl)Cl,ClC(Cl)Cl,None,ClC(Cl)Cl
+47,2,sodium bicarbonate (144-55-8),144-55-8,[Na+].OC([O-])=O,[Na+].OC([O-])=O,[Na+].OC([O-])=O,[Na+].OC([O-])=O,[Na+].OC([O-])=O,None,[Na+].OC([O-])=O
+47,2,Benzoic acid (65-85-0),65-85-0,OC(=O)c1ccccc1,OC(=O)c1ccccc1,OC(=O)c1ccccc1,OC(=O)c1ccccc1,OC(=O)c1ccccc1,None,OC(=O)c1ccccc1
+47,2,phosphoric acid (7664-38-2),7664-38-2,O[P](O)(O)=O,O[P](O)(O)=O,O[P](O)(O)=O,O[P](O)(O)=O,O[P](O)(O)=O,None,O[P](O)(O)=O
+47,2,peroxide (7722-84-1),7722-84-1,OO,OO,OO,OO,OO,None,OO
+47,2,benzoyl peroxide (94-36-0),94-36-0,O=C(OOC(=O)c1ccccc1)c2ccccc2,O=C(OOC(=O)c1ccccc1)c2ccccc2,O=C(OOC(=O)c1ccccc1)c2ccccc2,O=C(OOC(=O)c1ccccc1)c2ccccc2,O=C(OOC(=O)c1ccccc1)c2ccccc2,None,O=C(OOC(=O)c1ccccc1)c2ccccc2
+47,2,magnesium sulfate (7487-88-9),7487-88-9,[Mg++].[O-][S]([O-])(=O)=O,[Mg++].[O-][S]([O-])(=O)=O,[Mg++].[O-][S]([O-])(=O)=O,[Mg++].[O-][S]([O-])(=O)=O,[Mg++].[O-][S]([O-])(=O)=O,None,[Mg++].[O-][S]([O-])(=O)=O
+47,2,"1-Pentalenecarboxylic acid, octahydro-",Not Found,Not Found,Not Found,Not Found,Not Found,C1(CCC2CCCC12)C(=O)O,None,C1(CCC2CCCC12)C(=O)O
+47,2,2-(Trichloromethyl)bicyclo[3.3.0]octane (18127-07-6),18127-07-6,ClC(Cl)(Cl)C1CCC2CCCC12,ClC(Cl)(Cl)C1CCC2CCCC12,ClC(Cl)(Cl)C1CCC2CCCC12,ClC(Cl)(Cl)C1CCC2CCCC12,ClC(Cl)(Cl)C1CCC2CCCC12,None,ClC(Cl)(Cl)C1CCC2CCCC12
+47,2,2-(dichloromethylene)bicyclo[3.3.0]octane,dichloromethylene)bicyclo[3.3.0]octane,Not Found,Not Found,Not Found,Not Found,ClC(=C1C2CCCC2CC1)Cl,None,ClC(=C1C2CCCC2CC1)Cl
+47,2,exo-cis-Bicyclo[3.3.0]octane-2-carboxylic acid (18209-43-3),18209-43-3,Not Found,C1C[C@H]2CC[C@@H]([C@H]2C1)C(=O)O,C1C[C@H]2CC[C@@H]([C@H]2C1)C(=O)O,C1C[C@H]2CC[C@@H]([C@H]2C1)C(=O)O,C1C[C@H]2CC[C@@H]([C@H]2C1)C(=O)O,None,C1C[C@H]2CC[C@@H]([C@H]2C1)C(=O)O
+47,2,"cis,cis-1,5-cyclooctadiene",Not Found,Not Found,Not Found,Not Found,C1/C=C\CC/C=C\C1,C1/C=C\CC/C=C\C1,None,C1/C=C\CC/C=C\C1
+47,2,cis-bicyclo[3.3.0]-2-octanone cyanohydrin,Not Found,Not Found,Not Found,Not Found,Not Found,Not Found,none,
+47,3,"Bis(1,3-diphenylimidazolidinylidene-2)","1,3-diphenylimidazolidinylidene-2",Not Found,Not Found,Not Found,Not Found,Not Found,none,
+47,3,"Δ2,2'-Bis(1,3-diphenylimidazolidine)","1,3-diphenylimidazolidine",C1CN(CN1c2ccccc2)c3ccccc3,C1CN(CN1c2ccccc2)c3ccccc3,C1CN(CN1c2ccccc2)c3ccccc3,C1CN(CN1c2ccccc2)c3ccccc3,C1CN(CN1c2ccccc2)c3ccccc3,None,C1CN(CN1c2ccccc2)c3ccccc3
+47,3,sulfuric acid (7664-93-9),7664-93-9,O[S](O)(=O)=O,O[S](O)(=O)=O,O[S](O)(=O)=O,O[S](O)(=O)=O,O[S](O)(=O)=O,None,O[S](O)(=O)=O
+47,3,ether (60-29-7),60-29-7,CCOCC,CCOCC,CCOCC,CCOCC,CCOCC,None,CCOCC
+47,3,chloroform (67-66-3),67-66-3,ClC(Cl)Cl,ClC(Cl)Cl,ClC(Cl)Cl,ClC(Cl)Cl,ClC(Cl)Cl,None,ClC(Cl)Cl
+47,3,nitrogen (7727-37-9),7727-37-9,N#N,N#N,N#N,N#N,N#N,None,N#N
+47,3,triethyl orthoformate (122-51-0),122-51-0,CCOC(OCC)OCC,CCOC(OCC)OCC,CCOC(OCC)OCC,CCOC(OCC)OCC,CCOC(OCC)OCC,None,CCOC(OCC)OCC
+47,3,carbene (2465-56-7),2465-56-7,Not Found,[CH2],[CH2],[CH2],[CH2],None,[CH2]
+47,3,methylene chloride (75-09-2),75-09-2,ClCCl,ClCCl,ClCCl,ClCCl,ClCCl,None,ClCCl
+47,3,"1,2-dianilinoethane,
+N,N'-diphenylethylenediamine (150-61-8)",150-61-8,C(CNc1ccccc1)Nc2ccccc2,C(CNc1ccccc1)Nc2ccccc2,C(CNc1ccccc1)Nc2ccccc2,C(CNc1ccccc1)Nc2ccccc2,C(CNc1ccccc1)Nc2ccccc2,None,C(CNc1ccccc1)Nc2ccccc2
+47,3,"1,3-diphenylimidazolidinone-2",Not Found,Not Found,Not Found,Not Found,Not Found,Not Found,"1,3-Diphenyl-2-imidazolidinone",C1CN(C(=O)N1C2=CC=CC=C2)C3=CC=CC=C3
+47,3,"1,3-diphenyl-2-trichlormethylimidazolidine",Not Found,Not Found,Not Found,Not Found,Not Found,Not Found,"1,3-Diphenyl-2-(trichloromethyl)imidazolidine",C1CN(C(N1C2=CC=CC=C2)C(Cl)(Cl)Cl)C3=CC=CC=C3
+47,3,"1,3-diphenylimidazolinium",Not Found,Not Found,Not Found,Not Found,Not Found,C1(=CC=CC=C1)[NH+]1CN(CC1)C1=CC=CC=C1,None,C1(=CC=CC=C1)[NH+]1CN(CC1)C1=CC=CC=C1
+47,4,petroleum ether,Not Found,Not Found,Not Found,Not Found,Not Found,Not Found,none,
+47,4,sulfuric acid (7664-93-9),7664-93-9,O[S](O)(=O)=O,O[S](O)(=O)=O,O[S](O)(=O)=O,O[S](O)(=O)=O,O[S](O)(=O)=O,None,O[S](O)(=O)=O
+47,4,acetic acid (64-19-7),64-19-7,CC(O)=O,CC(O)=O,CC(O)=O,CC(O)=O,CC(O)=O,None,CC(O)=O
+47,4,ether (60-29-7),60-29-7,CCOCC,CCOCC,CCOCC,CCOCC,CCOCC,None,CCOCC
+47,4,platinum oxide,Not Found,Not Found,Not Found,Not Found,O=[Pt],O=[Pt],None,O=[Pt]
+47,4,aluminum chloride (3495-54-3),3495-54-3,[Al+3].[Cl-].[Cl-].[Cl-].C[N+]([O-])=O,[Al+3].[Cl-].[Cl-].[Cl-].C[N+]([O-])=O,[Al+3].[Cl-].[Cl-].[Cl-].C[N+]([O-])=O,[Al+3].[Cl-].[Cl-].[Cl-].C[N+]([O-])=O,[Al+3].[Cl-].[Cl-].[Cl-].C[N+]([O-])=O,None,[Al+3].[Cl-].[Cl-].[Cl-].C[N+]([O-])=O
+47,4,magnesium sulfate (7487-88-9),7487-88-9,[Mg++].[O-][S]([O-])(=O)=O,[Mg++].[O-][S]([O-])(=O)=O,[Mg++].[O-][S]([O-])(=O)=O,[Mg++].[O-][S]([O-])(=O)=O,[Mg++].[O-][S]([O-])(=O)=O,None,[Mg++].[O-][S]([O-])(=O)=O
+47,4,lithium aluminum hydride (16853-85-3),16853-85-3,[Li+].[AlH4-],[Li+].[AlH4-],[Li+].[AlH4-],[Li+].[AlH4-],[Li+].[AlH4-],None,[Li+].[AlH4-]
+47,4,t-butanol (75-65-0),75-65-0,CC(C)(C)O,CC(C)(C)O,CC(C)(C)O,CC(C)(C)O,CC(C)(C)O,None,CC(C)(C)O
+47,4,4-t-butylcyclohexanone (98-53-3),98-53-3,CC(C)(C)C1CCC(=O)CC1,CC(C)(C)C1CCC(=O)CC1,CC(C)(C)C1CCC(=O)CC1,CC(C)(C)C1CCC(=O)CC1,CC(C)(C)C1CCC(=O)CC1,None,CC(C)(C)C1CCC(=O)CC1
+47,4,"trans-4-t-BUTYLCYCLOHEXANOL,
+Cyclohexanol, 4-t-butyl, trans- (21862-63-5)",21862-63-5,CC(C)(C)C1CCC(O)CC1,CC(C)(C)C1CCC(O)CC1,CC(C)(C)C1CCC(O)CC1,CC(C)(C)C1CCC(O)CC1,CC(C)(C)C1CCC(O)CC1,None,CC(C)(C)C1CCC(O)CC1
+47,4,4-t-Butylcyclohexanol (98-52-2),98-52-2,CC(C)(C)C1CCC(O)CC1,CC(C)(C)C1CCC(O)CC1,CC(C)(C)C1CCC(O)CC1,CC(C)(C)C1CCC(O)CC1,CC(C)(C)C1CCC(O)CC1,None,CC(C)(C)C1CCC(O)CC1
+47,4,p-t-butylphenol (98-54-4),98-54-4,CC(C)(C)c1ccc(O)cc1,CC(C)(C)c1ccc(O)cc1,CC(C)(C)c1ccc(O)cc1,CC(C)(C)c1ccc(O)cc1,CC(C)(C)c1ccc(O)cc1,None,CC(C)(C)c1ccc(O)cc1
+57,0,petroleum ether,Not Found,Not Found,Not Found,Not Found,Not Found,Not Found,none,
+57,0,methanol (67-56-1),67-56-1,CO,CO,CO,CO,CO,None,CO
+57,0,"ether,
+diethyl ether (60-29-7)",60-29-7,CCOCC,CCOCC,CCOCC,CCOCC,CCOCC,None,CCOCC
+57,0,bromine (7726-95-6),7726-95-6,[Br-],[Br-],[Br-],[Br-],[Br-],None,[Br-]
+57,0,carbon tetrachloride (56-23-5),56-23-5,ClC(Cl)(Cl)Cl,ClC(Cl)(Cl)Cl,ClC(Cl)(Cl)Cl,ClC(Cl)(Cl)Cl,ClC(Cl)(Cl)Cl,None,ClC(Cl)(Cl)Cl
+57,0,nitrogen (7727-37-9),7727-37-9,N#N,N#N,N#N,N#N,N#N,None,N#N
+57,0,Succinic acid (110-15-6),110-15-6,OC(=O)CCC(O)=O,OC(=O)CCC(O)=O,OC(=O)CCC(O)=O,OC(=O)CCC(O)=O,OC(=O)CCC(O)=O,None,OC(=O)CCC(O)=O
+57,0,toluene (108-88-3),108-88-3,Cc1ccccc1,Cc1ccccc1,Cc1ccccc1,Cc1ccccc1,Cc1ccccc1,None,Cc1ccccc1
+57,0,sodium (13966-32-0),13966-32-0,[22Na],[22Na],[22Na],[22Na],[22Na],None,[22Na]
+57,0,potassium (7440-09-7),7440-09-7,[K+],[K+],[K+],[K+],[K+],None,[K+]
+57,0,xylene (106-42-3),106-42-3,Cc1ccc(C)cc1,Cc1ccc(C)cc1,Cc1ccc(C)cc1,Cc1ccc(C)cc1,Cc1ccc(C)cc1,None,Cc1ccc(C)cc1
+57,0,methylcyclohexane (108-87-2),108-87-2,CC1CCCCC1,CC1CCCCC1,CC1CCCCC1,CC1CCCCC1,CC1CCCCC1,None,CC1CCCCC1
+57,0,Diethyl succinate (123-25-1),123-25-1,CCOC(=O)CCC(=O)OCC,CCOC(=O)CCC(=O)OCC,CCOC(=O)CCC(=O)OCC,CCOC(=O)CCC(=O)OCC,CCOC(=O)CCC(=O)OCC,None,CCOC(=O)CCC(=O)OCC
+57,0,sodium-potassium,Not Found,Not Found,Not Found,Not Found,[Na].[K],[Na].[K],None,[Na].[K]
+57,0,calcium hydride (7789-78-8),7789-78-8,[Ca],[Ca],[Ca],[Ca],[Ca],None,[Ca]
+57,0,CHLOROTRIMETHYLSILANE (75-77-4),75-77-4,C[Si](C)(C)Cl,C[Si](C)(C)Cl,C[Si](C)(C)Cl,C[Si](C)(C)Cl,C[Si](C)(C)Cl,None,C[Si](C)(C)Cl
+57,0,"1,2-bis(trimethylsilyloxy)cyclobutene,
+Trimethylsilane, 1-cyclobuten-1,2-ylenedioxybis- (17082-61-0)",17082-61-0,Not Found,C[Si](C)(C)OC1=C(CC1)O[Si](C)(C)C,C[Si](C)(C)OC1=C(CC1)O[Si](C)(C)C,C[Si](C)(C)OC1=C(CC1)O[Si](C)(C)C,C[Si](C)(C)OC1=C(CC1)O[Si](C)(C)C,None,C[Si](C)(C)OC1=C(CC1)O[Si](C)(C)C
+57,0,"2-Hydroxycyclobutanone,
+Cyclobutanone, 2-hydroxy- (17082-63-2)",17082-63-2,Not Found,C1CC(=O)C1O,C1CC(=O)C1O,C1CC(=O)C1O,C1CC(=O)C1O,None,C1CC(=O)C1O
+57,0,diethylsuccinate,Not Found,Not Found,Not Found,Not Found,CCOC(=O)CCC(=O)OCC,CCOC(=O)CCC(=O)OCC,None,CCOC(=O)CCC(=O)OCC
+57,0,methoxytrimethylsilane (1825-61-2),1825-61-2,CO[Si](C)(C)C,CO[Si](C)(C)C,CO[Si](C)(C)C,CO[Si](C)(C)C,CO[Si](C)(C)C,None,CO[Si](C)(C)C
+57,0,dichlorodimethylsilane (75-78-5),75-78-5,C[Si](C)(Cl)Cl,C[Si](C)(Cl)Cl,C[Si](C)(Cl)Cl,C[Si](C)(Cl)Cl,C[Si](C)(Cl)Cl,None,C[Si](C)(Cl)Cl
+57,0,monochlorosilane (13465-78-6),13465-78-6,[SiH2]Cl,[SiH2]Cl,[SiH2]Cl,[SiH2]Cl,[SiH2]Cl,None,[SiH2]Cl
+57,0,diethyl pentanedioate (818-38-2),818-38-2,CCOC(=O)CCCC(=O)OCC,CCOC(=O)CCCC(=O)OCC,CCOC(=O)CCCC(=O)OCC,CCOC(=O)CCCC(=O)OCC,CCOC(=O)CCCC(=O)OCC,None,CCOC(=O)CCCC(=O)OCC
+57,1,silica gel,Not Found,Not Found,Not Found,Not Found,O=[Si]=O,O=[Si]=O,None,O=[Si]=O
+57,1,petroleum ether,Not Found,Not Found,Not Found,Not Found,Not Found,Not Found,none,
+57,1,ethanol (64-17-5),64-17-5,CCO,CCO,CCO,CCO,CCO,None,CCO
+57,1,acetic acid (64-19-7),64-19-7,CC(O)=O,CC(O)=O,CC(O)=O,CC(O)=O,CC(O)=O,None,CC(O)=O
+57,1,hydrogen bromide (10035-10-6),10035-10-6,[H+].[Br-],[H+].[Br-],[H+].[Br-],[H+].[Br-],[H+].[Br-],None,[H+].[Br-]
+57,1,carbon (7782-42-5),7782-42-5,Not Found,[C],[C],[C],[C],None,[C]
+57,1,sodium ethoxide (141-52-6),141-52-6,[Na+].CC[O-],[Na+].CC[O-],[Na+].CC[O-],[Na+].CC[O-],[Na+].CC[O-],None,[Na+].CC[O-]
+57,1,camphor (21368-68-3),21368-68-3,CC1(C)C2CCC1(C)C(=O)C2,CC1(C)C2CCC1(C)C(=O)C2,CC1(C)C2CCC1(C)C(=O)C2,CC1(C)C2CCC1(C)C(=O)C2,CC1(C)C2CCC1(C)C(=O)C2,None,CC1(C)C2CCC1(C)C(=O)C2
+57,1,dimethyl sulfoxide (67-68-5),67-68-5,C[S](C)=O,C[S](C)=O,C[S](C)=O,C[S](C)=O,C[S](C)=O,None,C[S](C)=O
+57,1,"1,2-dimethoxyethane (110-71-4)",110-71-4,COCCOC,COCCOC,COCCOC,COCCOC,COCCOC,None,COCCOC
+57,1,dimethoxyethane (534-15-6),534-15-6,COC(C)OC,COC(C)OC,COC(C)OC,COC(C)OC,COC(C)OC,None,COC(C)OC
+57,1,"2-ADAMANTANECARBONITRILE,
+Tricyclo[3.3.1.13,7]decane-2-carbonitrile (35856-00-9)",35856-00-9,Not Found,C1C2CC3CC1CC(C2)C3C#N,C1C2CC3CC1CC(C2)C3C#N,C1C2CC3CC1CC(C2)C3C#N,C1C2CC3CC1CC(C2)C3C#N,None,C1C2CC3CC1CC(C2)C3C#N
+57,1,"Adamantanone,
+Tricyclo[3.3.1.13,7]decan-2-one (700-58-3)",700-58-3,O=C1C2CC3CC(C2)CC1C3,O=C1C2CC3CC(C2)CC1C3,O=C1C2CC3CC(C2)CC1C3,O=C1C2CC3CC(C2)CC1C3,O=C1C2CC3CC(C2)CC1C3,None,O=C1C2CC3CC(C2)CC1C3
+57,1,"β,β-dimethyl-α-tetralone",Not Found,Not Found,Not Found,Not Found,Not Found,Not Found,"3,3-Dimethyl-2,3,4,5-tetrahydro-1H-1-naphthalenone",Not Found
+57,1,2-adamantanecarboxylic acid (15897-81-1),15897-81-1,[O-]C(=O)C1C2CC3CC(C2)CC1C3,[O-]C(=O)C1C2CC3CC(C2)CC1C3,[O-]C(=O)C1C2CC3CC(C2)CC1C3,[O-]C(=O)C1C2CC3CC(C2)CC1C3,[O-]C(=O)C1C2CC3CC(C2)CC1C3,None,[O-]C(=O)C1C2CC3CC(C2)CC1C3
+57,1,"p-Tolylsulfonylmethyl isocyanide,
+p-Tolylsulfonylmethylisocyanide (36635-61-7)",36635-61-7,Cc1ccc(cc1)[S](=O)(=O)C[N+]#[C-],Cc1ccc(cc1)[S](=O)(=O)C[N+]#[C-],Cc1ccc(cc1)[S](=O)(=O)C[N+]#[C-],Cc1ccc(cc1)[S](=O)(=O)C[N+]#[C-],Cc1ccc(cc1)[S](=O)(=O)C[N+]#[C-],None,Cc1ccc(cc1)[S](=O)(=O)C[N+]#[C-]
+57,1,potassium tert-butoxide (865-47-4),865-47-4,[K+].CC(C)(C)[O-],[K+].CC(C)(C)[O-],[K+].CC(C)(C)[O-],[K+].CC(C)(C)[O-],[K+].CC(C)(C)[O-],None,[K+].CC(C)(C)[O-]
+57,1,potassium p-toluenesulfinate,Not Found,Not Found,Not Found,Not Found,Not Found,CC1=CC=C(C=C1)S(=O)[O-].[K+],None,CC1=CC=C(C=C1)S(=O)[O-].[K+]
+57,2,cobalt(II) acetylacetonate,II) acetylacetonate,Not Found,Not Found,Not Found,C/C(=C/C(=O)C)/[O-].C/C(=C/C(=O)C)/[O-].[Co+2],C/C(=C/C(=O)C)/[O-].C/C(=C/C(=O)C)/[O-].[Co+2],None,C/C(=C/C(=O)C)/[O-].C/C(=C/C(=O)C)/[O-].[Co+2]
+57,2,Bis(acetylacetonate) cobalt(II),II,II,II,II,II,II,None,II
+57,2,Bis(acetylacetonate)e cobalt(II),II,II,II,II,II,II,None,II
+57,2,"(−)DIOP [(4R,5R)-2,2-dimethyl-4,5-bis(5-dibenzophosphol-5-ylmethyl)-1,3-dioxolane]","5-dibenzophosphol-5-ylmethyl)-1,3-dioxolane]",Not Found,Not Found,Not Found,Not Found,Not Found,none,
+57,2,methane sulfonate of cyclohexylmethanol,Not Found,Not Found,Not Found,Not Found,Not Found,Not Found,cyclohexylmethanol methane sulfonate,Not Found
+57,2,potassium carbonate (584-08-7),584-08-7,[K+].[K+].[O-]C([O-])=O,[K+].[K+].[O-]C([O-])=O,[K+].[K+].[O-]C([O-])=O,[K+].[K+].[O-]C([O-])=O,[K+].[K+].[O-]C([O-])=O,None,[K+].[K+].[O-]C([O-])=O
+57,2,Benzene (71-43-2),71-43-2,c1ccccc1,c1ccccc1,c1ccccc1,c1ccccc1,c1ccccc1,None,c1ccccc1
+57,2,diethyl ether (60-29-7),60-29-7,CCOCC,CCOCC,CCOCC,CCOCC,CCOCC,None,CCOCC
+57,2,hydrogen (1333-74-0),1333-74-0,[H],[H],[H],[H],[H],None,[H]
+57,2,carbon monoxide (630-08-0),630-08-0,[C-]#[O+],[C-]#[O+],[C-]#[O+],[C-]#[O+],[C-]#[O+],None,[C-]#[O+]
+57,2,Acrolein (107-02-8),107-02-8,C=CC=O,C=CC=O,C=CC=O,C=CC=O,C=CC=O,None,C=CC=O
+57,2,Cyclohexanone (108-94-1),108-94-1,O=C1CCCCC1,O=C1CCCCC1,O=C1CCCCC1,O=C1CCCCC1,O=C1CCCCC1,None,O=C1CCCCC1
+57,2,Cyclohexene (110-83-8),110-83-8,C1CCC=CC1,C1CCC=CC1,C1CCC=CC1,C1CCC=CC1,C1CCC=CC1,None,C1CCC=CC1
+57,2,sodium sulfate (7757-82-6),7757-82-6,[Na+].[Na+].[O-][S]([O-])(=O)=O,[Na+].[Na+].[O-][S]([O-])(=O)=O,[Na+].[Na+].[O-][S]([O-])(=O)=O,[Na+].[Na+].[O-][S]([O-])(=O)=O,[Na+].[Na+].[O-][S]([O-])(=O)=O,None,[Na+].[Na+].[O-][S]([O-])(=O)=O
+57,2,nitrogen (7727-37-9),7727-37-9,N#N,N#N,N#N,N#N,N#N,None,N#N
+57,2,sodium hydrogen sulfite (7631-90-5),7631-90-5,[Na+].[O-][S]([O-])=O,[Na+].[O-][S]([O-])=O,[Na+].[O-][S]([O-])=O,[Na+].[O-][S]([O-])=O,[Na+].[O-][S]([O-])=O,None,[Na+].[O-][S]([O-])=O
+57,2,sodium (13966-32-0),13966-32-0,[22Na],[22Na],[22Na],[22Na],[22Na],None,[22Na]
+57,2,butadiene (106-99-0),106-99-0,C=CC=C,C=CC=C,C=CC=C,C=CC=C,C=CC=C,None,C=CC=C
+57,2,heptane (142-82-5),142-82-5,CCCCCCC,CCCCCCC,CCCCCCC,CCCCCCC,CCCCCCC,None,CCCCCCC
+57,2,cobalt (7440-48-4),7440-48-4,[Co],[Co],[Co],[Co],[Co],None,[Co]
+57,2,dimethyl sulfoxide (67-68-5),67-68-5,C[S](C)=O,C[S](C)=O,C[S](C)=O,C[S](C)=O,C[S](C)=O,None,C[S](C)=O
+57,2,"N,N-Dimethylcyclohexanecarboxamide (17566-51-7)",17566-51-7,CN(C)C(=O)C1CCCCC1,CN(C)C(=O)C1CCCCC1,CN(C)C(=O)C1CCCCC1,CN(C)C(=O)C1CCCCC1,CN(C)C(=O)C1CCCCC1,None,CN(C)C(=O)C1CCCCC1
+57,2,Cyclohexanecarboxaldehyde (2043-61-0),2043-61-0,O=CC1CCCCC1,O=CC1CCCCC1,O=CC1CCCCC1,O=CC1CCCCC1,O=CC1CCCCC1,None,O=CC1CCCCC1
+57,2,cyclohexanecarbonyl chloride (2719-27-9),2719-27-9,ClC(=O)C1CCCCC1,ClC(=O)C1CCCCC1,ClC(=O)C1CCCCC1,ClC(=O)C1CCCCC1,ClC(=O)C1CCCCC1,None,ClC(=O)C1CCCCC1
+57,2,rhodium (7440-16-6),7440-16-6,[Rh],[Rh],[Rh],[Rh],[Rh],None,[Rh]
+57,2,rhodium(III) oxide (12036-35-0),12036-35-0,[O--].[O--].[O--].[Rh+3].[Rh+3],[O--].[O--].[O--].[Rh+3].[Rh+3],[O--].[O--].[O--].[Rh+3].[Rh+3],[O--].[O--].[O--].[Rh+3].[Rh+3],[O--].[O--].[O--].[Rh+3].[Rh+3],None,[O--].[O--].[O--].[Rh+3].[Rh+3]
+57,2,2-butene,Not Found,Not Found,Not Found,Not Found,C/C=C/C,C/C=C/C,None,C/C=C/C
+57,2,3-cyclohexene-1-carboxaldehyde,Not Found,Not Found,Not Found,Not Found,C1CC(CC=C1)C=O,C1CC(CC=C1)C=O,None,C1CC(CC=C1)C=O
+57,2,lithium diethoxyaluminum hydride,Not Found,Not Found,Not Found,Not Found,Not Found,C(C)O[AlH]OCC.[Li],None,C(C)O[AlH]OCC.[Li]
+57,2,lithium tri-tert-butoxyaluminum hydride (17476-04-9),17476-04-9,[Li].[Al+3].CC(C)(C)[O-].CC(C)(C)[O-].CC(C)(C)[O-],[Li].[Al+3].CC(C)(C)[O-].CC(C)(C)[O-].CC(C)(C)[O-],[Li].[Al+3].CC(C)(C)[O-].CC(C)(C)[O-].CC(C)(C)[O-],[Li].[Al+3].CC(C)(C)[O-].CC(C)(C)[O-].CC(C)(C)[O-],[Li].[Al+3].CC(C)(C)[O-].CC(C)(C)[O-].CC(C)(C)[O-],None,[Li].[Al+3].CC(C)(C)[O-].CC(C)(C)[O-].CC(C)(C)[O-]
+57,3,"TRICARBONYL[2-[(2,3,4,5-η)-4-METHOXY-2,4-CYCLOHEXADIEN-1-YL]-5,5-DIMETHYL-1,3-CYCLOHEXANEDIONE]IRON","2,3,4,5-η)-4-METHOXY-2,4-CYCLOHEXADIEN-1-YL]-5,5-DIMETHYL-1,3-CYCLOHEXANEDIONE]IRON",Not Found,Not Found,Not Found,Not Found,Not Found,"Tricarbonyl(2-[(2,3,4,5-η)-4-methoxy-2,4-cyclohexadien-1-yl]-5,5-dimethyl-1,3-cyclohexanedione)iron",Not Found
+57,3,"Iron, tricarbonyl[2-[(2,3,4,5-η)-4-methoxy-2,4-cyclohexadien-1-yl]-5,5-dimethyl-1,3-cyclohexanedione]-","2,3,4,5-η)-4-methoxy-2,4-cyclohexadien-1-yl]-5,5-dimethyl-1,3-cyclohexanedione]-",Not Found,Not Found,Not Found,Not Found,Not Found,"Tricarbonyliron(0) complex with 2-[(2,3,4,5-η)-4-methoxy-2,4-cyclohexadien-1-yl]-5,5-dimethyl-1,3-cyclohexanedione",Not Found
+57,3,"tricarbonyl[(1,2,3,4,5-η)-2,4-cyclohexadien-1-yl]iron(1+) hexafluorophosphate(1−)",1−,Not Found,Not Found,Not Found,Not Found,Not Found,"Tricarbonyl(1,2,3,4,5-η-2,4-cyclohexadien-1-yl)iron hexafluorophosphate",Not Found
+57,3,ethanol (64-17-5),64-17-5,CCO,CCO,CCO,CCO,CCO,None,CCO
+57,3,iron(III) chloride (7705-08-0),7705-08-0,[Cl-].[Cl-].[Cl-].[Fe+3],[Cl-].[Cl-].[Cl-].[Fe+3],[Cl-].[Cl-].[Cl-].[Fe+3],[Cl-].[Cl-].[Cl-].[Fe+3],[Cl-].[Cl-].[Cl-].[Fe+3],None,[Cl-].[Cl-].[Cl-].[Fe+3]
+57,3,tetrafluoroborate (14874-70-5),14874-70-5,F[B-](F)(F)F,F[B-](F)(F)F,F[B-](F)(F)F,F[B-](F)(F)F,F[B-](F)(F)F,None,F[B-](F)(F)F
+57,3,"1,3-Cyclohexanedione, 5,5-dimethyl-,
+dimedone (126-81-8)",126-81-8,CC1(C)CC(=O)CC(=O)C1,CC1(C)CC(=O)CC(=O)C1,CC1(C)CC(=O)CC(=O)C1,CC1(C)CC(=O)CC(=O)C1,CC1(C)CC(=O)CC(=O)C1,None,CC1(C)CC(=O)CC(=O)C1
+57,3,hexafluorophosphate,Not Found,Not Found,Not Found,Not Found,F[P-](F)(F)(F)(F)F,F[P-](F)(F)(F)(F)F,None,F[P-](F)(F)(F)(F)F
+57,3,TRICARBONYL(DIENE)IRON,DIENE)IRON,Not Found,Not Found,Not Found,Not Found,Not Found,Tricarbonyl diene iron complex,Not Found
+57,4,oxygen-free nitrogen,Not Found,Not Found,Not Found,Not Found,Not Found,Not Found,Nitrogen,N#N
+57,4,thallium(III) trifluoroacetone,III) trifluoroacetone,Not Found,Not Found,Not Found,Not Found,FC(C(C)=O)(F)F.[Tl+3],None,FC(C(C)=O)(F)F.[Tl+3]
+57,4,ethanol (64-17-5),64-17-5,CCO,CCO,CCO,CCO,CCO,None,CCO
+57,4,hydrogen chloride (7647-01-0),7647-01-0,[H+].[Cl-],[H+].[Cl-],[H+].[Cl-],[H+].[Cl-],[H+].[Cl-],None,[H+].[Cl-]
+57,4,Benzene (71-43-2),71-43-2,c1ccccc1,c1ccccc1,c1ccccc1,c1ccccc1,c1ccccc1,None,c1ccccc1
+57,4,acetonitrile (75-05-8),75-05-8,CC#N,CC#N,CC#N,CC#N,CC#N,None,CC#N
+57,4,nitrogen (7727-37-9),7727-37-9,N#N,N#N,N#N,N#N,N#N,None,N#N
+57,4,Anisole (100-66-3),100-66-3,COc1ccccc1,COc1ccccc1,COc1ccccc1,COc1ccccc1,COc1ccccc1,None,COc1ccccc1
+57,4,copper (7440-50-8),7440-50-8,[Cu],[Cu],[Cu],[Cu],[Cu],None,[Cu]
+57,4,calcium sulfate (7778-18-9),7778-18-9,[Ca++].[O-][S]([O-])(=O)=O,[Ca++].[O-][S]([O-])(=O)=O,[Ca++].[O-][S]([O-])(=O)=O,[Ca++].[O-][S]([O-])(=O)=O,[Ca++].[O-][S]([O-])(=O)=O,None,[Ca++].[O-][S]([O-])(=O)=O
+57,4,"nickel,
+Raney nickel (7440-02-0)",7440-02-0,[Ni],[Ni],[Ni],[Ni],[Ni],None,[Ni]
+57,4,chlorobenzene (108-90-7),108-90-7,Clc1ccccc1,Clc1ccccc1,Clc1ccccc1,Clc1ccccc1,Clc1ccccc1,None,Clc1ccccc1
+57,4,palladium (7440-05-3),7440-05-3,[Pd],[Pd],[Pd],[Pd],[Pd],None,[Pd]
+57,4,bis(2-methoxyethyl) ether (111-96-6),111-96-6,COCCOCCOC,COCCOCCOC,COCCOCCOC,COCCOCCOC,COCCOCCOC,None,COCCOCCOC
+57,4,1-chloro-4-methoxybenzene (623-12-1),623-12-1,COc1ccc(Cl)cc1,COc1ccc(Cl)cc1,COc1ccc(Cl)cc1,COc1ccc(Cl)cc1,COc1ccc(Cl)cc1,None,COc1ccc(Cl)cc1
+57,4,"1,3-dimethoxybenzene (151-10-0)",151-10-0,COc1cccc(OC)c1,COc1cccc(OC)c1,COc1cccc(OC)c1,COc1cccc(OC)c1,COc1cccc(OC)c1,None,COc1cccc(OC)c1
+57,4,tellurium,Not Found,Not Found,Not Found,Not Found,[Te],[Te],None,[Te]
+57,4,tellurium tetrachloride (10026-07-0),10026-07-0,Cl[Te](Cl)(Cl)Cl,Cl[Te](Cl)(Cl)Cl,Cl[Te](Cl)(Cl)Cl,Cl[Te](Cl)(Cl)Cl,Cl[Te](Cl)(Cl)Cl,None,Cl[Te](Cl)(Cl)Cl
+57,4,Bis(4-methoxyphenyl)tellurium dichloride (4456-36-4),4456-36-4,Not Found,Not Found,Not Found,Not Found,COC1=CC=C(C=C1)[Te](C1=CC=C(C=C1)OC)(Cl)Cl,None,COC1=CC=C(C=C1)[Te](C1=CC=C(C=C1)OC)(Cl)Cl
+57,4,bis(3-methyl-4-methoxyphenyl)tellurium dichloride,3-methyl-4-methoxyphenyl)tellurium dichloride,Not Found,Not Found,Not Found,Not Found,CC=1C=C(C=CC1OC)[Te](C1=CC(=C(C=C1)OC)C)(Cl)Cl,None,CC=1C=C(C=CC1OC)[Te](C1=CC(=C(C=C1)OC)C)(Cl)Cl
+57,4,bis(4-methoxyphenyl)telluride,4-methoxyphenyl)telluride,Not Found,Not Found,Not Found,Not Found,COC1=CC=C(C=C1)[Te]C1=CC=C(C=C1)OC,None,COC1=CC=C(C=C1)[Te]C1=CC=C(C=C1)OC
+57,4,palladium(II) acetate (3375-31-3),3375-31-3,[Pd++].CC([O-])=O.CC([O-])=O,[Pd++].CC([O-])=O.CC([O-])=O,[Pd++].CC([O-])=O.CC([O-])=O,[Pd++].CC([O-])=O.CC([O-])=O,[Pd++].CC([O-])=O.CC([O-])=O,None,[Pd++].CC([O-])=O.CC([O-])=O
+57,4,vanadium tetrachloride (7632-51-1),7632-51-1,[Cl-].[Cl-].[Cl-].[Cl-].[V+4],[Cl-].[Cl-].[Cl-].[Cl-].[V+4],[Cl-].[Cl-].[Cl-].[Cl-].[V+4],[Cl-].[Cl-].[Cl-].[Cl-].[V+4],[Cl-].[Cl-].[Cl-].[Cl-].[V+4],None,[Cl-].[Cl-].[Cl-].[Cl-].[V+4]
+57,4,diphenyltellurium dichloride,Not Found,Not Found,Not Found,Not Found,C1=CC=C(C=C1)[Te](C2=CC=CC=C2)(Cl)Cl,C1=CC=C(C=C1)[Te](C2=CC=CC=C2)(Cl)Cl,None,C1=CC=C(C=C1)[Te](C2=CC=CC=C2)(Cl)Cl
+57,4,"4,4'-dimethoxybiphenyl,
+4,4'-Dimethoxy-1,1'-biphenyl,
+1,1'-Biphenyl, 4,4'-dimethoxy- (2132-80-1)",2132-80-1,COc1ccc(cc1)c2ccc(OC)cc2,COc1ccc(cc1)c2ccc(OC)cc2,COc1ccc(cc1)c2ccc(OC)cc2,COc1ccc(cc1)c2ccc(OC)cc2,COc1ccc(cc1)c2ccc(OC)cc2,None,COc1ccc(cc1)c2ccc(OC)cc2
+67,0,hexanes,Not Found,Not Found,Not Found,Not Found,CCCC(C)C,CCCC(C)C,None,CCCC(C)C
+67,0,"(S)-(+)- AND (R)-(−)-1,1'-BINAPHTHYL-2,2'-DIYL HYDROGEN PHOSPHATE","−)-1,1'-BINAPHTHYL-2,2'-DIYL HYDROGEN PHOSPHATE",Not Found,Not Found,Not Found,Not Found,Not Found,none,
+67,0,(±)-Binaphthylphosphoric (BNP) acid,BNP) acid,Not Found,Not Found,Not Found,Not Found,Not Found,none,
+67,0,pyridine-solvated binaphthylphosphoric (BNP) acid,BNP) acid,Not Found,Not Found,Not Found,Not Found,Not Found,none,
+67,0,(S)-(+)- and (R)-(−)-BNP acid,−)-BNP acid,Not Found,Not Found,Not Found,Not Found,Not Found,none,
+67,0,binaphthylphosphoric (BNP) acid,BNP) acid,Not Found,Not Found,Not Found,Not Found,Not Found,none,
+67,0,(S)-(+)-BNP acid,+)-BNP acid,Not Found,Not Found,Not Found,C1=CC=C2C(=C1)C=CC3=C2C4=C(C=CC5=CC=CC=C54)OP(=O)(O3)O,C1=CC=C2C(=C1)C=CC3=C2C4=C(C=CC5=CC=CC=C54)OP(=O)(O3)O,None,C1=CC=C2C(=C1)C=CC3=C2C4=C(C=CC5=CC=CC=C54)OP(=O)(O3)O
+67,0,(R)-(−)-BNP ACID,−)-BNP ACID,Not Found,Not Found,Not Found,Not Found,Not Found,Bisnorpregnenolone,Not Found
+67,0,(−)-BNP acid,−)-BNP acid,Not Found,Not Found,Not Found,Not Found,Not Found,none,
+67,0,(+)- and (−)-BNP acid,−)-BNP acid,Not Found,Not Found,Not Found,Not Found,Not Found,none,
+67,0,cephalosporin,Not Found,Not Found,Not Found,Not Found,C=C1CS[C@@H](N=C1C(=O)O)[C@@H](C(=O)O)NC(=O)CCCC[C@H](C(=O)O)N,C=C1CS[C@@H](N=C1C(=O)O)[C@@H](C(=O)O)NC(=O)CCCC[C@H](C(=O)O)N,None,C=C1CS[C@@H](N=C1C(=O)O)[C@@H](C(=O)O)NC(=O)CCCC[C@H](C(=O)O)N
+67,0,o-tyrosine,Not Found,Not Found,Not Found,Not Found,C1=CC=C(C(=C1)CC(C(=O)O)N)O,C1=CC=C(C(=C1)CC(C(=O)O)N)O,None,C1=CC=C(C(=C1)CC(C(=O)O)N)O
+67,0,(S)-(−)- and (R)-(+)-binaphthol,+)-binaphthol,Not Found,Not Found,Not Found,Not Found,Not Found,none,
+67,0,methyl ester derivatives,Not Found,Not Found,Not Found,Not Found,Not Found,Not Found,none,
+67,0,ethanol (64-17-5),64-17-5,CCO,CCO,CCO,CCO,CCO,None,CCO
+67,0,hydrochloric acid (7647-01-0),7647-01-0,[H+].[Cl-],[H+].[Cl-],[H+].[Cl-],[H+].[Cl-],[H+].[Cl-],None,[H+].[Cl-]
+67,0,ethyl acetate (141-78-6),141-78-6,CCOC(C)=O,CCOC(C)=O,CCOC(C)=O,CCOC(C)=O,CCOC(C)=O,None,CCOC(C)=O
+67,0,methanol (67-56-1),67-56-1,CO,CO,CO,CO,CO,None,CO
+67,0,ether (60-29-7),60-29-7,CCOCC,CCOCC,CCOCC,CCOCC,CCOCC,None,CCOCC
+67,0,2-naphthol (135-19-3),135-19-3,Oc1ccc2ccccc2c1,Oc1ccc2ccccc2c1,Oc1ccc2ccccc2c1,Oc1ccc2ccccc2c1,Oc1ccc2ccccc2c1,None,Oc1ccc2ccccc2c1
+67,0,acetate,Not Found,Not Found,Not Found,Not Found,CC(=O)[O-],CC(=O)[O-],None,CC(=O)[O-]
+67,0,acetone (67-64-1),67-64-1,CC(C)=O,CC(C)=O,CC(C)=O,CC(C)=O,CC(C)=O,None,CC(C)=O
+67,0,carbon (7782-42-5),7782-42-5,Not Found,[C],[C],[C],[C],None,[C]
+67,0,Phosphorus Oxychloride (21295-50-1),21295-50-1,ClP=O,ClP=O,ClP=O,ClP=O,ClP=O,None,ClP=O
+67,0,pyridine (110-86-1),110-86-1,c1ccncc1,c1ccncc1,c1ccncc1,c1ccncc1,c1ccncc1,None,c1ccncc1
+67,0,toluene (108-88-3),108-88-3,Cc1ccccc1,Cc1ccccc1,Cc1ccccc1,Cc1ccccc1,Cc1ccccc1,None,Cc1ccccc1
+67,0,2-propanol (67-63-0),67-63-0,CC(C)O,CC(C)O,CC(C)O,CC(C)O,CC(C)O,None,CC(C)O
+67,0,ferric chloride (7705-08-0),7705-08-0,[Cl-].[Cl-].[Cl-].[Fe+3],[Cl-].[Cl-].[Cl-].[Fe+3],[Cl-].[Cl-].[Cl-].[Fe+3],[Cl-].[Cl-].[Cl-].[Fe+3],[Cl-].[Cl-].[Cl-].[Fe+3],None,[Cl-].[Cl-].[Cl-].[Fe+3]
+67,0,cinchonidine (485-71-2),485-71-2,OC(C1CC2CCN1CC2C=C)c3ccnc4ccccc34,OC(C1CC2CCN1CC2C=C)c3ccnc4ccccc34,OC(C1CC2CCN1CC2C=C)c3ccnc4ccccc34,OC(C1CC2CCN1CC2C=C)c3ccnc4ccccc34,OC(C1CC2CCN1CC2C=C)c3ccnc4ccccc34,None,OC(C1CC2CCN1CC2C=C)c3ccnc4ccccc34
+67,0,pyridine hydrochloride (628-13-7),628-13-7,[Cl-].c1cc[nH+]cc1,[Cl-].c1cc[nH+]cc1,[Cl-].c1cc[nH+]cc1,[Cl-].c1cc[nH+]cc1,[Cl-].c1cc[nH+]cc1,None,[Cl-].c1cc[nH+]cc1
+67,0,Diazomethane (334-88-3),334-88-3,C=[N+]=[N-],C=[N+]=[N-],C=[N+]=[N-],C=[N+]=[N-],C=[N+]=[N-],None,C=[N+]=[N-]
+67,0,strychnine,Not Found,Not Found,Not Found,Not Found,C1CN2CC3=CCO[C@H]4CC(=O)N5[C@H]6[C@H]4[C@H]3C[C@H]2[C@@]61C7=CC=CC=C75,C1CN2CC3=CCO[C@H]4CC(=O)N5[C@H]6[C@H]4[C@H]3C[C@H]2[C@@]61C7=CC=CC=C75,None,C1CN2CC3=CCO[C@H]4CC(=O)N5[C@H]6[C@H]4[C@H]3C[C@H]2[C@@]61C7=CC=CC=C75
+67,0,Tetrahydrofuran (109-99-9),109-99-9,C1CCOC1,C1CCOC1,C1CCOC1,C1CCOC1,C1CCOC1,None,C1CCOC1
+67,0,lithium aluminum hydride (16853-85-3),16853-85-3,[Li+].[AlH4-],[Li+].[AlH4-],[Li+].[AlH4-],[Li+].[AlH4-],[Li+].[AlH4-],None,[Li+].[AlH4-]
+67,0,phosphorous oxychloride,Not Found,Not Found,Not Found,Not Found,O=P(Cl)(Cl)Cl,O=P(Cl)(Cl)Cl,None,O=P(Cl)(Cl)Cl
+67,0,"pyridine, phosphorus oxychloride",Not Found,Not Found,Not Found,Not Found,Not Found,Not Found,Pyridine,C1=CC=NC=C1
+67,0,binaphthol,Not Found,Not Found,Not Found,Not Found,C1=CC=C2C(=C1)C=CC=C2C3=C(C=CC4=CC=CC=C43)O,C1=CC=C2C(=C1)C=CC=C2C3=C(C=CC4=CC=CC=C43)O,None,C1=CC=C2C(=C1)C=CC=C2C3=C(C=CC4=CC=CC=C43)O
+67,0,"(+)-cinchonine,
+cinchonine","+)-cinchonine,
+cinchonine",Not Found,Not Found,Not Found,C=C[C@H]1CN2CC[C@H]1C[C@@H]2[C@H](C3=CC=NC4=CC=CC=C34)O,C=C[C@H]1CN2CC[C@H]1C[C@@H]2[C@H](C3=CC=NC4=CC=CC=C34)O,None,C=C[C@H]1CN2CC[C@H]1C[C@@H]2[C@H](C3=CC=NC4=CC=CC=C34)O
+67,0,"binaphthylphosphoric acid,
+(±)-binaphthylphosphoric acid",±)-binaphthylphosphoric acid,Not Found,Not Found,Not Found,Not Found,Not Found,racemic-binaphthylphosphoric acid,Not Found
+67,0,"2-amino-1,2-diphenylethanol",Not Found,Not Found,Not Found,Not Found,C1=CC=C(C=C1)C(C(C2=CC=CC=C2)O)N,C1=CC=C(C=C1)C(C(C2=CC=CC=C2)O)N,None,C1=CC=C(C=C1)C(C(C2=CC=CC=C2)O)N
+67,0,2-aminobutanol (13054-87-0),13054-87-0,CCC(N)CO,CCC(N)CO,CCC(N)CO,CCC(N)CO,CCC(N)CO,None,CCC(N)CO
+67,0,"2-amino-1-(4-nitrophenyl)-1,3-propanediol (119-62-0)",119-62-0,NC(CO)C(O)c1ccc(cc1)[N+]([O-])=O,NC(CO)C(O)c1ccc(cc1)[N+]([O-])=O,NC(CO)C(O)c1ccc(cc1)[N+]([O-])=O,NC(CO)C(O)c1ccc(cc1)[N+]([O-])=O,NC(CO)C(O)c1ccc(cc1)[N+]([O-])=O,None,NC(CO)C(O)c1ccc(cc1)[N+]([O-])=O
+67,0,α-difluoromethyl-α-aminovaleric acid,Not Found,Not Found,Not Found,Not Found,Not Found,FC(C(C(=O)O)(CCC)N)F,None,FC(C(C(=O)O)(CCC)N)F
+67,0,dibenzothiepin,Not Found,Not Found,Not Found,Not Found,Not Found,C1=CC=CC2=C1C1=C(C=CS2)C=CC=C1,None,C1=CC=CC2=C1C1=C(C=CS2)C=CC=C1
+67,0,"1,1'-bi-2-naphthol,
+(±)-1,1'-bi-2-naphthol (18531-99-2)",18531-99-2,Not Found,C1=CC=C2C(=C1)C=CC(=C2C3=C(C=CC4=CC=CC=C43)O)O,C1=CC=C2C(=C1)C=CC(=C2C3=C(C=CC4=CC=CC=C43)O)O,C1=CC=C2C(=C1)C=CC(=C2C3=C(C=CC4=CC=CC=C43)O)O,C1=CC=C2C(=C1)C=CC(=C2C3=C(C=CC4=CC=CC=C43)O)O,None,C1=CC=C2C(=C1)C=CC(=C2C3=C(C=CC4=CC=CC=C43)O)O
+67,0,3-hydroxyphenyl-N-propylpiperidine,Not Found,Not Found,Not Found,Not Found,Not Found,OC=1C=C(C=CC1)C1N(CCCC1)CCC,None,OC=1C=C(C=CC1)C1N(CCCC1)CCC
+67,0,"Dinaphtho[2,1-d:1',2'-f][1,3,2]dioxaphosphepin, 4-hydroxy-, 4-oxide (39648-67-4)",39648-67-4,[O-][P]1(=O)Oc2ccc3ccccc3c2c4c(O1)ccc5ccccc45,[O-][P]1(=O)Oc2ccc3ccccc3c2c4c(O1)ccc5ccccc45,[O-][P]1(=O)Oc2ccc3ccccc3c2c4c(O1)ccc5ccccc45,[O-][P]1(=O)Oc2ccc3ccccc3c2c4c(O1)ccc5ccccc45,[O-][P]1(=O)Oc2ccc3ccccc3c2c4c(O1)ccc5ccccc45,None,[O-][P]1(=O)Oc2ccc3ccccc3c2c4c(O1)ccc5ccccc45
+67,1,silica gel,Not Found,Not Found,Not Found,Not Found,O=[Si]=O,O=[Si]=O,None,O=[Si]=O
+67,1,brine,Not Found,Not Found,Not Found,Not Found,O.[Na+].[Cl-],O.[Na+].[Cl-],None,O.[Na+].[Cl-]
+67,1,"(R)-(+)-1,1'-BINAPHTHALENE-2,2'-DIOL","+)-1,1'-BINAPHTHALENE-2,2'-DIOL",Not Found,Not Found,Not Found,Not Found,Not Found,"1,1'-binaphthalene-2,2'-diol",Not Found
+67,1,"(R)-(−)-Methyl 1,1'-binaphthyl-2,2'-diylphosphate","−)-Methyl 1,1'-binaphthyl-2,2'-diylphosphate",Not Found,Not Found,Not Found,Not Found,Not Found,"Methyl (R)-(-)-2,2'-binaphthyl-1,1'-diyl hydrogen phosphate",Not Found
+67,1,"(R)-(−)-1,1'-binaphthyl-2,2'-diyl hydrogen phosphate","−)-1,1'-binaphthyl-2,2'-diyl hydrogen phosphate",Not Found,Not Found,Not Found,Not Found,Not Found,none,
+67,1,"Crude (R)-(+)-1,1'-binaphthalene-2,2'-diol","+)-1,1'-binaphthalene-2,2'-diol",Not Found,Not Found,Not Found,COC(=O)[C@@H](CC1=CN=CN1)N.Cl,COC(=O)[C@@H](CC1=CN=CN1)N.Cl,None,COC(=O)[C@@H](CC1=CN=CN1)N.Cl
+67,1,"(R)-(−)-methyl 1,1'-binaphthyl-2,2'-diyl phosphate","−)-methyl 1,1'-binaphthyl-2,2'-diyl phosphate",Not Found,Not Found,Not Found,Not Found,Not Found,"Methyl (R)-2,2'-binaphthalene-1,1'-diyl hydrogen phosphate",Not Found
+67,1,Red-Al,Not Found,Not Found,Not Found,Not Found,COCCO[AlH2-]OCCOC.[Na+],COCCO[AlH2-]OCCOC.[Na+],None,COCCO[AlH2-]OCCOC.[Na+]
+67,1,"(R)-(−)-1,1'-binaphthyl-2,2'-diyl phosphate","−)-1,1'-binaphthyl-2,2'-diyl phosphate",Not Found,Not Found,Not Found,Not Found,Not Found,none,
+67,1,"1,1'-Binaphthalene]-2,2'-diol,(R)-",R)-,Not Found,Not Found,Not Found,Not Found,Not Found,"1,1'-Bi-2-naphthol, (R)-",Not Found
+67,1,hydrochloric acid (7647-01-0),7647-01-0,[H+].[Cl-],[H+].[Cl-],[H+].[Cl-],[H+].[Cl-],[H+].[Cl-],None,[H+].[Cl-]
+67,1,ethyl acetate (141-78-6),141-78-6,CCOC(C)=O,CCOC(C)=O,CCOC(C)=O,CCOC(C)=O,CCOC(C)=O,None,CCOC(C)=O
+67,1,methanol (67-56-1),67-56-1,CO,CO,CO,CO,CO,None,CO
+67,1,ether (60-29-7),60-29-7,CCOCC,CCOCC,CCOCC,CCOCC,CCOCC,None,CCOCC
+67,1,sodium bicarbonate (144-55-8),144-55-8,[Na+].OC([O-])=O,[Na+].OC([O-])=O,[Na+].OC([O-])=O,[Na+].OC([O-])=O,[Na+].OC([O-])=O,None,[Na+].OC([O-])=O
+67,1,sodium sulfate (7757-82-6),7757-82-6,[Na+].[Na+].[O-][S]([O-])(=O)=O,[Na+].[Na+].[O-][S]([O-])(=O)=O,[Na+].[Na+].[O-][S]([O-])(=O)=O,[Na+].[Na+].[O-][S]([O-])(=O)=O,[Na+].[Na+].[O-][S]([O-])(=O)=O,None,[Na+].[Na+].[O-][S]([O-])(=O)=O
+67,1,nitrogen (7727-37-9),7727-37-9,N#N,N#N,N#N,N#N,N#N,None,N#N
+67,1,dimethyl sulfate (77-78-1),77-78-1,CO[S](=O)(=O)OC,CO[S](=O)(=O)OC,CO[S](=O)(=O)OC,CO[S](=O)(=O)OC,CO[S](=O)(=O)OC,None,CO[S](=O)(=O)OC
+67,1,Norit A (7782-42-5),7782-42-5,Not Found,[C],[C],[C],[C],None,[C]
+67,1,"toluene,
+M toluene (108-88-3)",108-88-3,Cc1ccccc1,Cc1ccccc1,Cc1ccccc1,Cc1ccccc1,Cc1ccccc1,None,Cc1ccccc1
+67,1,2-propanol (67-63-0),67-63-0,CC(C)O,CC(C)O,CC(C)O,CC(C)O,CC(C)O,None,CC(C)O
+67,1,sodium hypochlorite (7681-52-9),7681-52-9,[Na+].[O-]Cl,[Na+].[O-]Cl,[Na+].[O-]Cl,[Na+].[O-]Cl,[Na+].[O-]Cl,None,[Na+].[O-]Cl
+67,1,Diazomethane (334-88-3),334-88-3,C=[N+]=[N-],C=[N+]=[N-],C=[N+]=[N-],C=[N+]=[N-],C=[N+]=[N-],None,C=[N+]=[N-]
+67,1,lithium aluminum hydride (16853-85-3),16853-85-3,[Li+].[AlH4-],[Li+].[AlH4-],[Li+].[AlH4-],[Li+].[AlH4-],[Li+].[AlH4-],None,[Li+].[AlH4-]
+67,1,hexane (110-54-3),110-54-3,CCCCCC,CCCCCC,CCCCCC,CCCCCC,CCCCCC,None,CCCCCC
+67,1,phosphate,Not Found,Not Found,Not Found,Not Found,[O-]P(=O)([O-])[O-],[O-]P(=O)([O-])[O-],None,[O-]P(=O)([O-])[O-]
+67,1,"N,N-dimethylacetamide (127-19-5)",127-19-5,CN(C)C(C)=O,CN(C)C(C)=O,CN(C)C(C)=O,CN(C)C(C)=O,CN(C)C(C)=O,None,CN(C)C(C)=O
+67,1,sodium bis(2-methoxyethoxy)aluminum hydride,2-methoxyethoxy)aluminum hydride,Not Found,Not Found,Not Found,Not Found,COCCO[AlH]OCCOC.[Na],None,COCCO[AlH]OCCOC.[Na]
+67,1,phosphorus hydride (7723-14-0),7723-14-0,[P],[P],[P],[P],[P],None,[P]
+67,1,"1,1'-binaphthyl-2,2'-diyl hydrogen phosphate (39648-67-4)",39648-67-4,[O-][P]1(=O)Oc2ccc3ccccc3c2c4c(O1)ccc5ccccc45,[O-][P]1(=O)Oc2ccc3ccccc3c2c4c(O1)ccc5ccccc45,[O-][P]1(=O)Oc2ccc3ccccc3c2c4c(O1)ccc5ccccc45,[O-][P]1(=O)Oc2ccc3ccccc3c2c4c(O1)ccc5ccccc45,[O-][P]1(=O)Oc2ccc3ccccc3c2c4c(O1)ccc5ccccc45,None,[O-][P]1(=O)Oc2ccc3ccccc3c2c4c(O1)ccc5ccccc45
+67,2,sodium benzophenone ketyl,Not Found,Not Found,Not Found,Not Found,Not Found,Not Found,none,
+67,2,"(R)-(+)- AND (S)-(−)-2,2'-BIS(DIPHENYLPHOSPHINO)-1,1'-BINAPHTHYL (BINAP)",BINAP,Not Found,C1=CC=C(C=C1)P(C2=CC=CC=C2)C3=C(C4=CC=CC=C4C=C3)C5=C(C=CC6=CC=CC=C65)P(C7=CC=CC=C7)C8=CC=CC=C8,C1=CC=C(C=C1)P(C2=CC=CC=C2)C3=C(C4=CC=CC=C4C=C3)C5=C(C=CC6=CC=CC=C65)P(C7=CC=CC=C7)C8=CC=CC=C8,C1=CC=C(C=C1)P(C2=CC=CC=C2)C3=C(C4=CC=CC=C4C=C3)C5=C(C=CC6=CC=CC=C65)P(C7=CC=CC=C7)C8=CC=CC=C8,C1=CC=C(C=C1)P(C2=CC=CC=C2)C3=C(C4=CC=CC=C4C=C3)C5=C(C=CC6=CC=CC=C65)P(C7=CC=CC=C7)C8=CC=CC=C8,None,C1=CC=C(C=C1)P(C2=CC=CC=C2)C3=C(C4=CC=CC=C4C=C3)C5=C(C=CC6=CC=CC=C65)P(C7=CC=CC=C7)C8=CC=CC=C8
+67,2,"(±)-2,2'-Bis(diphenylphosphinyl)-1,1'-binaphthyl [(±)-BINAPO]",±)-BINAPO],Not Found,Not Found,Not Found,Not Found,Not Found,"bis(diphenylphosphino)-1,1'-binaphthalene",C1=CC=C(C=C1)P(C2=CC=CC=C2)C3=CC4=CC=CC=C4C(=C3P(C5=CC=CC=C5)C6=CC=CC=C6)C7=CC=CC8=CC=CC=C87
+67,2,(±)-BINAPO,±)-BINAPO,Not Found,Not Found,Not Found,Not Found,Not Found,none,
+67,2,BINAPO,Not Found,Not Found,Not Found,Not Found,C1=CC=C(C=C1)P(=O)(C2=CC=CC=C2)C3=C(C4=CC=CC=C4C=C3)C5=C(C=CC6=CC=CC=C65)P(=O)(C7=CC=CC=C7)C8=CC=CC=C8,C1=CC=C(C=C1)P(=O)(C2=CC=CC=C2)C3=C(C4=CC=CC=C4C=C3)C5=C(C=CC6=CC=CC=C65)P(=O)(C7=CC=CC=C7)C8=CC=CC=C8,None,C1=CC=C(C=C1)P(=O)(C2=CC=CC=C2)C3=C(C4=CC=CC=C4C=C3)C5=C(C=CC6=CC=CC=C65)P(=O)(C7=CC=CC=C7)C8=CC=CC=C8
+67,2,"(−)-2,3-O-dibenzoyl-L-tartaric acid monohydrate [(−)-DBT monohydrate",−)-DBT monohydrate,Not Found,Not Found,Not Found,Not Found,Not Found,"(-)-2,3-Dibenzoyl-L-tartaric acid monohydrate",Not Found
+67,2,(R)-(+)-BINAPO,+)-BINAPO,Not Found,Not Found,Not Found,Not Found,Not Found,none,
+67,2,(S)-BINAPO,S)-BINAPO,Not Found,C1=CC=C(C=C1)P(C2=CC=CC=C2)OC3=C(C4=CC=CC=C4C=C3)C5=C(C=CC6=CC=CC=C65)OP(C7=CC=CC=C7)C8=CC=CC=C8,C1=CC=C(C=C1)P(C2=CC=CC=C2)OC3=C(C4=CC=CC=C4C=C3)C5=C(C=CC6=CC=CC=C65)OP(C7=CC=CC=C7)C8=CC=CC=C8,C1=CC=C(C=C1)P(C2=CC=CC=C2)OC3=C(C4=CC=CC=C4C=C3)C5=C(C=CC6=CC=CC=C65)OP(C7=CC=CC=C7)C8=CC=CC=C8,C1=CC=C(C=C1)P(C2=CC=CC=C2)OC3=C(C4=CC=CC=C4C=C3)C5=C(C=CC6=CC=CC=C65)OP(C7=CC=CC=C7)C8=CC=CC=C8,None,C1=CC=C(C=C1)P(C2=CC=CC=C2)OC3=C(C4=CC=CC=C4C=C3)C5=C(C=CC6=CC=CC=C65)OP(C7=CC=CC=C7)C8=CC=CC=C8
+67,2,(−)-DBT,−)-DBT,Not Found,Not Found,Not Found,Not Found,Not Found,none,
+67,2,((R)-BINAPO,R)-BINAPO,Not Found,Not Found,Not Found,Not Found,Not Found,none,
+67,2,(−)-DBT),−)-DBT,Not Found,Not Found,Not Found,Not Found,Not Found,none,
+67,2,(R)-BINAPO,R)-BINAPO,Not Found,Not Found,Not Found,Not Found,Not Found,none,
+67,2,(+)-DBT monohydrate,+)-DBT monohydrate,Not Found,Not Found,Not Found,Not Found,Not Found,Dibenzothiophene monohydrate,Not Found
+67,2,(R)-BINAPO-(+)-DBT-complex,+)-DBT-complex,Not Found,Not Found,Not Found,Not Found,Not Found,none,
+67,2,(S)-(−)-BINAPO,−)-BINAPO,Not Found,Not Found,Not Found,Not Found,Not Found,none,
+67,2,(S)-BINAP,S)-BINAP,Not Found,Not Found,Not Found,C1=CC=C(C=C1)P(C2=CC=CC=C2)C3=C(C4=CC=CC=C4C=C3)C5=C(C=CC6=CC=CC=C65)P(C7=CC=CC=C7)C8=CC=CC=C8,C1=CC=C(C=C1)P(C2=CC=CC=C2)C3=C(C4=CC=CC=C4C=C3)C5=C(C=CC6=CC=CC=C65)P(C7=CC=CC=C7)C8=CC=CC=C8,None,C1=CC=C(C=C1)P(C2=CC=CC=C2)C3=C(C4=CC=CC=C4C=C3)C5=C(C=CC6=CC=CC=C65)P(C7=CC=CC=C7)C8=CC=CC=C8
+67,2,"(−)-2,3-O-dibenzoyl-L-tartaric acid monohydrate","−)-2,3-O-dibenzoyl-L-tartaric acid monohydrate",Not Found,Not Found,Not Found,Not Found,Not Found,"(-)-2,3-O-dibenzoyltartaric acid monohydrate",Not Found
+67,2,S-BINAPO,Not Found,Not Found,Not Found,Not Found,Not Found,Not Found,none,
+67,2,R)-(+)-BINAPO,+)-BINAPO,Not Found,Not Found,Not Found,Not Found,Not Found,none,
+67,2,(R)-(+)-BINAP,+)-BINAP,Not Found,Not Found,Not Found,C1=CC=C(C=C1)P(C2=CC=CC=C2)C3=C(C4=CC=CC=C4C=C3)C5=C(C=CC6=CC=CC=C65)P(C7=CC=CC=C7)C8=CC=CC=C8,C1=CC=C(C=C1)P(C2=CC=CC=C2)C3=C(C4=CC=CC=C4C=C3)C5=C(C=CC6=CC=CC=C65)P(C7=CC=CC=C7)C8=CC=CC=C8,None,C1=CC=C(C=C1)P(C2=CC=CC=C2)C3=C(C4=CC=CC=C4C=C3)C5=C(C=CC6=CC=CC=C65)P(C7=CC=CC=C7)C8=CC=CC=C8
+67,2,BINAP,Not Found,Not Found,Not Found,Not Found,C1=CC=C(C=C1)P(C2=CC=CC=C2)C3=C(C4=CC=CC=C4C=C3)C5=C(C=CC6=CC=CC=C65)P(C7=CC=CC=C7)C8=CC=CC=C8,C1=CC=C(C=C1)P(C2=CC=CC=C2)C3=C(C4=CC=CC=C4C=C3)C5=C(C=CC6=CC=CC=C65)P(C7=CC=CC=C7)C8=CC=CC=C8,None,C1=CC=C(C=C1)P(C2=CC=CC=C2)C3=C(C4=CC=CC=C4C=C3)C5=C(C=CC6=CC=CC=C65)P(C7=CC=CC=C7)C8=CC=CC=C8
+67,2,(±)-BINAP,±)-BINAP,Not Found,Not Found,Not Found,Not Found,Not Found,"Bis(1,5-naphthalene)diyl[2,2']bipyridine]dipalladium(II)",Not Found
+67,2,"di-μ-chlorobis[(S)-N,N-dimethyl-α-phenylethyl-amine-2C,N]dipalladium","S)-N,N-dimethyl-α-phenylethyl-amine-2C,N]dipalladium",Not Found,Not Found,Not Found,Not Found,Not Found,none,
+67,2,(+)-BINAP,+)-BINAP,Not Found,Not Found,Not Found,C1=CC=C(C=C1)P(C2=CC=CC=C2)C3=C(C4=CC=CC=C4C=C3)C5=C(C=CC6=CC=CC=C65)P(C7=CC=CC=C7)C8=CC=CC=C8,C1=CC=C(C=C1)P(C2=CC=CC=C2)C3=C(C4=CC=CC=C4C=C3)C5=C(C=CC6=CC=CC=C65)P(C7=CC=CC=C7)C8=CC=CC=C8,None,C1=CC=C(C=C1)P(C2=CC=CC=C2)C3=C(C4=CC=CC=C4C=C3)C5=C(C=CC6=CC=CC=C65)P(C7=CC=CC=C7)C8=CC=CC=C8
+67,2,"citronellal (E)-N,N-diethylenamine","E)-N,N-diethylenamine",Not Found,Not Found,Not Found,CC(CCC=C(C)C)CC=O,CC(CCC=C(C)C)CC=O,None,CC(CCC=C(C)C)CC=O
+67,2,"Phosphine, [1,1'-binaphthalene]-2,2'-diylbis[diphenyl-, (R)- or (S)-",S)-,Not Found,Not Found,Not Found,Not Found,Not Found,Ph3P,C1=CC=C(C=C1)P(C2=CC=CC=C2)C3=CC=CC=C3
+67,2,ethanol (64-17-5),64-17-5,CCO,CCO,CCO,CCO,CCO,None,CCO
+67,2,Benzene (71-43-2),71-43-2,c1ccccc1,c1ccccc1,c1ccccc1,c1ccccc1,c1ccccc1,None,c1ccccc1
+67,2,ethyl acetate (141-78-6),141-78-6,CCOC(C)=O,CCOC(C)=O,CCOC(C)=O,CCOC(C)=O,CCOC(C)=O,None,CCOC(C)=O
+67,2,methanol (67-56-1),67-56-1,CO,CO,CO,CO,CO,None,CO
+67,2,ammonium chloride (12125-02-9),12125-02-9,[NH4+].[Cl-],[NH4+].[Cl-],[NH4+].[Cl-],[NH4+].[Cl-],[NH4+].[Cl-],None,[NH4+].[Cl-]
+67,2,acetonitrile (75-05-8),75-05-8,CC#N,CC#N,CC#N,CC#N,CC#N,None,CC#N
+67,2,sodium hydroxide (1310-73-2),1310-73-2,[OH-].[Na+],[OH-].[Na+],[OH-].[Na+],[OH-].[Na+],[OH-].[Na+],None,[OH-].[Na+]
+67,2,phosphorus pentachloride (10026-13-8),10026-13-8,Cl[P](Cl)(Cl)(Cl)Cl,Cl[P](Cl)(Cl)(Cl)Cl,Cl[P](Cl)(Cl)(Cl)Cl,Cl[P](Cl)(Cl)(Cl)Cl,Cl[P](Cl)(Cl)(Cl)Cl,None,Cl[P](Cl)(Cl)(Cl)Cl
+67,2,chloroform (67-66-3),67-66-3,ClC(Cl)Cl,ClC(Cl)Cl,ClC(Cl)Cl,ClC(Cl)Cl,ClC(Cl)Cl,None,ClC(Cl)Cl
+67,2,magnesium turnings (7439-95-4),7439-95-4,[Mg++],[Mg++],[Mg++],[Mg++],[Mg++],None,[Mg++]
+67,2,hydrogen bromide (10035-10-6),10035-10-6,[H+].[Br-],[H+].[Br-],[H+].[Br-],[H+].[Br-],[H+].[Br-],None,[H+].[Br-]
+67,2,bromine (7726-95-6),7726-95-6,[Br-],[Br-],[Br-],[Br-],[Br-],None,[Br-]
+67,2,sodium sulfate (7757-82-6),7757-82-6,[Na+].[Na+].[O-][S]([O-])(=O)=O,[Na+].[Na+].[O-][S]([O-])(=O)=O,[Na+].[Na+].[O-][S]([O-])(=O)=O,[Na+].[Na+].[O-][S]([O-])(=O)=O,[Na+].[Na+].[O-][S]([O-])(=O)=O,None,[Na+].[Na+].[O-][S]([O-])(=O)=O
+67,2,β-naphthol (135-19-3),135-19-3,Oc1ccc2ccccc2c1,Oc1ccc2ccccc2c1,Oc1ccc2ccccc2c1,Oc1ccc2ccccc2c1,Oc1ccc2ccccc2c1,None,Oc1ccc2ccccc2c1
+67,2,iodine (7553-56-2),7553-56-2,II,II,II,II,II,None,II
+67,2,toluene (108-88-3),108-88-3,Cc1ccccc1,Cc1ccccc1,Cc1ccccc1,Cc1ccccc1,Cc1ccccc1,None,Cc1ccccc1
+67,2,ethylene (9002-88-4),9002-88-4,C=C,C=C,C=C,C=C,C=C,None,C=C
+67,2,"1,2-dibromoethane (106-93-4)",106-93-4,BrCCBr,BrCCBr,BrCCBr,BrCCBr,BrCCBr,None,BrCCBr
+67,2,ferric chloride (7705-08-0),7705-08-0,[Cl-].[Cl-].[Cl-].[Fe+3],[Cl-].[Cl-].[Cl-].[Fe+3],[Cl-].[Cl-].[Cl-].[Fe+3],[Cl-].[Cl-].[Cl-].[Fe+3],[Cl-].[Cl-].[Cl-].[Fe+3],None,[Cl-].[Cl-].[Cl-].[Fe+3]
+67,2,xylene (106-42-3),106-42-3,Cc1ccc(C)cc1,Cc1ccc(C)cc1,Cc1ccc(C)cc1,Cc1ccc(C)cc1,Cc1ccc(C)cc1,None,Cc1ccc(C)cc1
+67,2,Tetrahydrofuran (109-99-9),109-99-9,C1CCOC1,C1CCOC1,C1CCOC1,C1CCOC1,C1CCOC1,None,C1CCOC1
+67,2,heptane (142-82-5),142-82-5,CCCCCCC,CCCCCCC,CCCCCCC,CCCCCCC,CCCCCCC,None,CCCCCCC
+67,2,phosphine (7723-14-0),7723-14-0,[P],[P],[P],[P],[P],None,[P]
+67,2,hexane (110-54-3),110-54-3,CCCCCC,CCCCCC,CCCCCC,CCCCCC,CCCCCC,None,CCCCCC
+67,2,dimethyl sulfoxide (67-68-5),67-68-5,C[S](C)=O,C[S](C)=O,C[S](C)=O,C[S](C)=O,C[S](C)=O,None,C[S](C)=O
+67,2,triethylamine (121-44-8),121-44-8,CCN(CC)CC,CCN(CC)CC,CCN(CC)CC,CCN(CC)CC,CCN(CC)CC,None,CCN(CC)CC
+67,2,argon (7440-37-1),7440-37-1,[Ar],[Ar],[Ar],[Ar],[Ar],None,[Ar]
+67,2,calcium hydride (7789-78-8),7789-78-8,[Ca],[Ca],[Ca],[Ca],[Ca],None,[Ca]
+67,2,triphenylphosphine (603-35-0),603-35-0,c1ccc(cc1)P(c2ccccc2)c3ccccc3,c1ccc(cc1)P(c2ccccc2)c3ccccc3,c1ccc(cc1)P(c2ccccc2)c3ccccc3,c1ccc(cc1)P(c2ccccc2)c3ccccc3,c1ccc(cc1)P(c2ccccc2)c3ccccc3,None,c1ccc(cc1)P(c2ccccc2)c3ccccc3
+67,2,triphenylphosphine oxide (791-28-6),791-28-6,O=[P](c1ccccc1)(c2ccccc2)c3ccccc3,O=[P](c1ccccc1)(c2ccccc2)c3ccccc3,O=[P](c1ccccc1)(c2ccccc2)c3ccccc3,O=[P](c1ccccc1)(c2ccccc2)c3ccccc3,O=[P](c1ccccc1)(c2ccccc2)c3ccccc3,None,O=[P](c1ccccc1)(c2ccccc2)c3ccccc3
+67,2,homoallylic alcohols (627-27-0),627-27-0,OCCC=C,OCCC=C,OCCC=C,OCCC=C,OCCC=C,None,OCCC=C
+67,2,diphenylphosphinous chloride (1079-66-9),1079-66-9,ClP(c1ccccc1)c2ccccc2,ClP(c1ccccc1)c2ccccc2,ClP(c1ccccc1)c2ccccc2,ClP(c1ccccc1)c2ccccc2,ClP(c1ccccc1)c2ccccc2,None,ClP(c1ccccc1)c2ccccc2
+67,2,TRICHLOROSILANE (10025-78-2),10025-78-2,Cl[Si](Cl)Cl,Cl[Si](Cl)Cl,Cl[Si](Cl)Cl,Cl[Si](Cl)Cl,Cl[Si](Cl)Cl,None,Cl[Si](Cl)Cl
+67,2,diphenylphosphinyl chloride (1499-21-4),1499-21-4,Cl[P](=O)(c1ccccc1)c2ccccc2,Cl[P](=O)(c1ccccc1)c2ccccc2,Cl[P](=O)(c1ccccc1)c2ccccc2,Cl[P](=O)(c1ccccc1)c2ccccc2,Cl[P](=O)(c1ccccc1)c2ccccc2,None,Cl[P](=O)(c1ccccc1)c2ccccc2
+67,2,diphenylphosphinic acid (1707-03-5),1707-03-5,O[P](=O)(c1ccccc1)c2ccccc2,O[P](=O)(c1ccccc1)c2ccccc2,O[P](=O)(c1ccccc1)c2ccccc2,O[P](=O)(c1ccccc1)c2ccccc2,O[P](=O)(c1ccccc1)c2ccccc2,None,O[P](=O)(c1ccccc1)c2ccccc2
+67,2,diethylnerylamine (40137-00-6),40137-00-6,CCN(CC)C\C=C(C)\CCC=C(C)C,CCN(CC)C\C=C(C)\CCC=C(C)C,CCN(CC)C\C=C(C)\CCC=C(C)C,CCN(CC)C\C=C(C)\CCC=C(C)C,CCN(CC)C\C=C(C)\CCC=C(C)C,None,CCN(CC)C\C=C(C)\CCC=C(C)C
+67,2,diethylgeranylamine (40267-53-6),40267-53-6,CCN(CC)C\C=C(C)\CCC=C(C)C,CCN(CC)C\C=C(C)\CCC=C(C)C,CCN(CC)C\C=C(C)\CCC=C(C)C,CCN(CC)C\C=C(C)\CCC=C(C)C,CCN(CC)C\C=C(C)\CCC=C(C)C,None,CCN(CC)C\C=C(C)\CCC=C(C)C
+67,2,"1,1'-bi-2-naphthol,
+2,2'-dihydroxy-1,1'-binaphthyl (18531-99-2)",18531-99-2,Not Found,C1=CC=C2C(=C1)C=CC(=C2C3=C(C=CC4=CC=CC=C43)O)O,C1=CC=C2C(=C1)C=CC(=C2C3=C(C=CC4=CC=CC=C43)O)O,C1=CC=C2C(=C1)C=CC(=C2C3=C(C=CC4=CC=CC=C43)O)O,C1=CC=C2C(=C1)C=CC(=C2C3=C(C=CC4=CC=CC=C43)O)O,None,C1=CC=C2C(=C1)C=CC(=C2C3=C(C=CC4=CC=CC=C43)O)O
+67,2,(S)-(−)-BINAP (76189-56-5),76189-56-5,Not Found,C1=CC=C(C=C1)P(C2=CC=CC=C2)C3=C(C4=CC=CC=C4C=C3)C5=C(C=CC6=CC=CC=C65)P(C7=CC=CC=C7)C8=CC=CC=C8,C1=CC=C(C=C1)P(C2=CC=CC=C2)C3=C(C4=CC=CC=C4C=C3)C5=C(C=CC6=CC=CC=C65)P(C7=CC=CC=C7)C8=CC=CC=C8,C1=CC=C(C=C1)P(C2=CC=CC=C2)C3=C(C4=CC=CC=C4C=C3)C5=C(C=CC6=CC=CC=C65)P(C7=CC=CC=C7)C8=CC=CC=C8,C1=CC=C(C=C1)P(C2=CC=CC=C2)C3=C(C4=CC=CC=C4C=C3)C5=C(C=CC6=CC=CC=C65)P(C7=CC=CC=C7)C8=CC=CC=C8,None,C1=CC=C(C=C1)P(C2=CC=CC=C2)C3=C(C4=CC=CC=C4C=C3)C5=C(C=CC6=CC=CC=C65)P(C7=CC=CC=C7)C8=CC=CC=C8
+67,2,"2,2'-Dibromo-1,1'-binaphthyl (74866-28-7)",74866-28-7,Not Found,C1=CC=C2C(=C1)C=CC(=C2C3=C(C=CC4=CC=CC=C43)Br)Br,C1=CC=C2C(=C1)C=CC(=C2C3=C(C=CC4=CC=CC=C43)Br)Br,C1=CC=C2C(=C1)C=CC(=C2C3=C(C=CC4=CC=CC=C43)Br)Br,C1=CC=C2C(=C1)C=CC(=C2C3=C(C=CC4=CC=CC=C43)Br)Br,None,C1=CC=C2C(=C1)C=CC(=C2C3=C(C=CC4=CC=CC=C43)Br)Br
+67,3,brine,Not Found,Not Found,Not Found,Not Found,O.[Na+].[Cl-],O.[Na+].[Cl-],None,O.[Na+].[Cl-]
+67,3,"(R)-(−)-N,N-DIETHYL-(E)-CITRONELLALENAMINE",E)-CITRONELLALENAMINE,Not Found,Not Found,Not Found,Not Found,Not Found,"N,N-Diethyl-(E)-2,6-dimethyl-2,7-octadien-1-amine",Not Found
+67,3,"1-(E), 6-Octadienamine, (R)-(−)-N,N-diethyl-3,7-dimethyl- and 6-octenal, 3,7-dimethyl-, (R)-(+)-",+)-,Not Found,Not Found,Not Found,Not Found,Not Found,Oct-1-ene-6-amine,Not Found
+67,3,"[Rh{(+)-BINAP} (1,5-C8H12)] ClO4","1,5-C8H12)] ClO4",Not Found,Not Found,Not Found,Not Found,Not Found,Not Found,Not Found
+67,3,"chloro-(1,5-cyclooctadiene)rhodium(I) dimer",I) dimer,Not Found,Not Found,Not Found,Not Found,Not Found,"Bis[chloro(1,5-cyclooctadiene)rhodium]",Not Found
+67,3,"(+)-2,2'-bis(diphenylphosphino)-1,1'-binaphthyl [(+)-BINAP]",+)-BINAP],Not Found,Not Found,Not Found,Not Found,Not Found,"2,2'-Bis(diphenylphosphino)-1,1'-binaphthyl",C1=CC=C(C=C1)P(C2=CC=CC=C2)C3=C(C4=CC=CC=C4C=C3)C5=C(C=CC6=CC=CC=C65)P(C7=CC=CC=C7)C8=CC=CC=C8
+67,3,"[Rh{(−)-BINAP}(1,5-C8H12)] ClO4","1,5-C8H12)] ClO4",Not Found,Not Found,Not Found,Not Found,Not Found,Not Found,Not Found
+67,3,"(−)-2,2'-bis(diphenylphosphino)-1,1'-binaphthyl [(−)-BINAP]",−)-BINAP],Not Found,Not Found,Not Found,Not Found,Not Found,"(-)-2,2'-Bis(diphenylphosphino)-1,1'-binaphthyl",Not Found
+67,3,"(R)-(−)-N,N-Diethyl-(E)-citronellalenamine [(R)-(−)-N,N-Diethyl-3,7-dimethyl-1(E),6-octadienylamine]","E),6-octadienylamine]",Not Found,Not Found,Not Found,Not Found,Not Found,"(R)-(−)-N,N-Diethyl-3,7-dimethyl-1(E),6-octadienylamine",Not Found
+67,3,"[Rh{(−)-BINAP} (1,5-C8H12)]ClO4 THF","1,5-C8H12)]ClO4 THF",Not Found,Not Found,Not Found,Not Found,Not Found,Not Found,Not Found
+67,3,"N,N-diethyl-2-ethylede-6-methyl-5-heptenylamine",Not Found,Not Found,Not Found,Not Found,Not Found,Not Found,"N,N-Diethyl-2-ethyl-6-methyl-5-heptenylamine",Not Found
+67,3,muscone,Not Found,Not Found,Not Found,Not Found,CC1CCCCCCCCCCCCC(=O)C1,CC1CCCCCCCCCCCCC(=O)C1,None,CC1CCCCCCCCCCCCC(=O)C1
+67,3,(+)-7-hydroxydihydrocitronellal,+)-7-hydroxydihydrocitronellal,Not Found,Not Found,Not Found,Not Found,Not Found,none,
+67,3,"[Rh{(−)-BINAP} (1,5-C8H12)] ClO4","1,5-C8H12)] ClO4",Not Found,Not Found,Not Found,Not Found,Not Found,Not Found,Not Found
+67,3,(S)-(−)-citronellal,−)-citronellal,Not Found,Not Found,Not Found,Not Found,CC(C)=CCC[C@H](C)CC=O,None,CC(C)=CCC[C@H](C)CC=O
+67,3,"(−)-N,N-diethyl-(E)-citronellalenamine",E)-citronellalenamine,Not Found,Not Found,Not Found,Not Found,Not Found,none,
+67,3,"N-phenyl- or N,N-diphenylgeranylamine",Not Found,Not Found,Not Found,Not Found,Not Found,Not Found,Benzylgeranylamine,Not Found
+67,3,sulfuric acid (7664-93-9),7664-93-9,O[S](O)(=O)=O,O[S](O)(=O)=O,O[S](O)(=O)=O,O[S](O)(=O)=O,O[S](O)(=O)=O,None,O[S](O)(=O)=O
+67,3,acetic acid (64-19-7),64-19-7,CC(O)=O,CC(O)=O,CC(O)=O,CC(O)=O,CC(O)=O,None,CC(O)=O
+67,3,methanol (67-56-1),67-56-1,CO,CO,CO,CO,CO,None,CO
+67,3,ether (60-29-7),60-29-7,CCOCC,CCOCC,CCOCC,CCOCC,CCOCC,None,CCOCC
+67,3,sodium bicarbonate (144-55-8),144-55-8,[Na+].OC([O-])=O,[Na+].OC([O-])=O,[Na+].OC([O-])=O,[Na+].OC([O-])=O,[Na+].OC([O-])=O,None,[Na+].OC([O-])=O
+67,3,silver chloride (7783-90-6),7783-90-6,[Cl-].[Ag+],[Cl-].[Ag+],[Cl-].[Ag+],[Cl-].[Ag+],[Cl-].[Ag+],None,[Cl-].[Ag+]
+67,3,sodium sulfate (7757-82-6),7757-82-6,[Na+].[Na+].[O-][S]([O-])(=O)=O,[Na+].[Na+].[O-][S]([O-])(=O)=O,[Na+].[Na+].[O-][S]([O-])(=O)=O,[Na+].[Na+].[O-][S]([O-])(=O)=O,[Na+].[Na+].[O-][S]([O-])(=O)=O,None,[Na+].[Na+].[O-][S]([O-])(=O)=O
+67,3,nitrogen (7727-37-9),7727-37-9,N#N,N#N,N#N,N#N,N#N,None,N#N
+67,3,calcium sulfate (7778-18-9),7778-18-9,[Ca++].[O-][S]([O-])(=O)=O,[Ca++].[O-][S]([O-])(=O)=O,[Ca++].[O-][S]([O-])(=O)=O,[Ca++].[O-][S]([O-])(=O)=O,[Ca++].[O-][S]([O-])(=O)=O,None,[Ca++].[O-][S]([O-])(=O)=O
+67,3,acetone (67-64-1),67-64-1,CC(C)=O,CC(C)=O,CC(C)=O,CC(C)=O,CC(C)=O,None,CC(C)=O
+67,3,toluene (108-88-3),108-88-3,Cc1ccccc1,Cc1ccccc1,Cc1ccccc1,Cc1ccccc1,Cc1ccccc1,None,Cc1ccccc1
+67,3,sodium (13966-32-0),13966-32-0,[22Na],[22Na],[22Na],[22Na],[22Na],None,[22Na]
+67,3,Allylamine (107-11-9),107-11-9,NCC=C,NCC=C,NCC=C,NCC=C,NCC=C,None,NCC=C
+67,3,"Tetrahydrofuran,
+THF (109-99-9)",109-99-9,C1CCOC1,C1CCOC1,C1CCOC1,C1CCOC1,C1CCOC1,None,C1CCOC1
+67,3,hexane (110-54-3),110-54-3,CCCCCC,CCCCCC,CCCCCC,CCCCCC,CCCCCC,None,CCCCCC
+67,3,argon (7440-37-1),7440-37-1,[Ar],[Ar],[Ar],[Ar],[Ar],None,[Ar]
+67,3,calcium hydride (7789-78-8),7789-78-8,[Ca],[Ca],[Ca],[Ca],[Ca],None,[Ca]
+67,3,"1,5-cyclooctadiene",Not Found,Not Found,Not Found,Not Found,C1/C=C\CC/C=C\C1,C1/C=C\CC/C=C\C1,None,C1/C=C\CC/C=C\C1
+67,3,"citronellal,
+(+)-citronellal (106-23-0)",106-23-0,C[C@H](CCC=C(C)C)CC=O,C[C@H](CCC=C(C)C)CC=O,C[C@H](CCC=C(C)C)CC=O,C[C@H](CCC=C(C)C)CC=O,C[C@H](CCC=C(C)C)CC=O,None,C[C@H](CCC=C(C)C)CC=O
+67,3,silver perchlorate (7783-93-9),7783-93-9,[Ag+].[O-][Cl](=O)(=O)=O,[Ag+].[O-][Cl](=O)(=O)=O,[Ag+].[O-][Cl](=O)(=O)=O,[Ag+].[O-][Cl](=O)(=O)=O,[Ag+].[O-][Cl](=O)(=O)=O,None,[Ag+].[O-][Cl](=O)(=O)=O
+67,3,"N,N-Diethylnerylamine,
+N,N-diethyl-nerylamine (40137-00-6)",40137-00-6,CCN(CC)C\C=C(C)\CCC=C(C)C,CCN(CC)C\C=C(C)\CCC=C(C)C,CCN(CC)C\C=C(C)\CCC=C(C)C,CCN(CC)C\C=C(C)\CCC=C(C)C,CCN(CC)C\C=C(C)\CCC=C(C)C,None,CCN(CC)C\C=C(C)\CCC=C(C)C
+67,3,"N,N-Diethylgeranylamine (40267-53-6)",40267-53-6,CCN(CC)C\C=C(C)\CCC=C(C)C,CCN(CC)C\C=C(C)\CCC=C(C)C,CCN(CC)C\C=C(C)\CCC=C(C)C,CCN(CC)C\C=C(C)\CCC=C(C)C,CCN(CC)C\C=C(C)\CCC=C(C)C,None,CCN(CC)C\C=C(C)\CCC=C(C)C
+67,3,rhodium(I) perchlorate,I) perchlorate,Not Found,Not Found,Not Found,[O-]Cl(=O)(=O)=O.[Rh],[O-]Cl(=O)(=O)=O.[Rh],None,[O-]Cl(=O)(=O)=O.[Rh]
+67,3,citronellol (106-22-9),106-22-9,C[C@@H](CCO)CCC=C(C)C,C[C@@H](CCO)CCC=C(C)C,C[C@@H](CCO)CCC=C(C)C,C[C@@H](CCO)CCC=C(C)C,C[C@@H](CCO)CCC=C(C)C,None,C[C@@H](CCO)CCC=C(C)C
+67,3,1-menthol,Not Found,Not Found,Not Found,Not Found,C[C@@H]1CC[C@H]([C@@H](C1)O)C(C)C,C[C@@H]1CC[C@H]([C@@H](C1)O)C(C)C,None,C[C@@H]1CC[C@H]([C@@H](C1)O)C(C)C
+67,3,α-tocopherol (59-02-9),59-02-9,CC(C)CCC[C@@H](C)CCC[C@@H](C)CCC[C@]1(C)CCc2c(C)c(O)c(C)c(C)c2O1,CC(C)CCC[C@@H](C)CCC[C@@H](C)CCC[C@]1(C)CCc2c(C)c(O)c(C)c(C)c2O1,CC(C)CCC[C@@H](C)CCC[C@@H](C)CCC[C@]1(C)CCc2c(C)c(O)c(C)c(C)c2O1,CC(C)CCC[C@@H](C)CCC[C@@H](C)CCC[C@]1(C)CCc2c(C)c(O)c(C)c(C)c2O1,CC(C)CCC[C@@H](C)CCC[C@@H](C)CCC[C@]1(C)CCc2c(C)c(O)c(C)c(C)c2O1,None,CC(C)CCC[C@@H](C)CCC[C@@H](C)CCC[C@]1(C)CCc2c(C)c(O)c(C)c(C)c2O1
+67,3,cyclohexylcitronellalimine,Not Found,Not Found,Not Found,Not Found,Not Found,C1(CCCCC1)C\C(\C)=C/CCC(C)CC=N,None,C1(CCCCC1)C\C(\C)=C/CCC(C)CC=N
+67,3,"(S)-(-)-2,2'-Bis(diphenylphosphino)-1,1'-binaphthyl,
+(R)-(+)-2,2'-Bis(diphenylphosphino)-1,1'-binapthyl (76189-56-5)",76189-56-5,Not Found,C1=CC=C(C=C1)P(C2=CC=CC=C2)C3=C(C4=CC=CC=C4C=C3)C5=C(C=CC6=CC=CC=C65)P(C7=CC=CC=C7)C8=CC=CC=C8,C1=CC=C(C=C1)P(C2=CC=CC=C2)C3=C(C4=CC=CC=C4C=C3)C5=C(C=CC6=CC=CC=C65)P(C7=CC=CC=C7)C8=CC=CC=C8,C1=CC=C(C=C1)P(C2=CC=CC=C2)C3=C(C4=CC=CC=C4C=C3)C5=C(C=CC6=CC=CC=C65)P(C7=CC=CC=C7)C8=CC=CC=C8,C1=CC=C(C=C1)P(C2=CC=CC=C2)C3=C(C4=CC=CC=C4C=C3)C5=C(C=CC6=CC=CC=C65)P(C7=CC=CC=C7)C8=CC=CC=C8,None,C1=CC=C(C=C1)P(C2=CC=CC=C2)C3=C(C4=CC=CC=C4C=C3)C5=C(C=CC6=CC=CC=C65)P(C7=CC=CC=C7)C8=CC=CC=C8
+67,3,(R)-(+)-Citronellal (2385-77-5),2385-77-5,C[C@H](CCC=C(C)C)CC=O,C[C@H](CCC=C(C)C)CC=O,C[C@H](CCC=C(C)C)CC=O,C[C@H](CCC=C(C)C)CC=O,C[C@H](CCC=C(C)C)CC=O,None,C[C@H](CCC=C(C)C)CC=O
+67,3,"N,N-diethyl-2,7-dimethyl-2,6-octadienylamine",Not Found,Not Found,Not Found,Not Found,Not Found,C(C)N(CC)CC(=CCCC=C(C)C)C,None,C(C)N(CC)CC(=CCCC=C(C)C)C
+67,3,"N,N-diethyl-3-methylene-7-methyl-6-octenylamine",Not Found,Not Found,Not Found,Not Found,Not Found,C(C)N(CC)CCC(CCC=C(C)C)=C,None,C(C)N(CC)CCC(CCC=C(C)C)=C
+67,3,"(+)-N,N-diethyl-(E)-citronellalenamine",E)-citronellalenamine,Not Found,Not Found,Not Found,Not Found,Not Found,"N,N-diethyl-(E)-3,7-dimethylocta-1,3,7-trien-6-amine",Not Found
+67,3,N-cyclohexylgeranylamine,Not Found,Not Found,Not Found,Not Found,Not Found,C1(CCCCC1)NC\C=C(/C)\CCC=C(C)C,None,C1(CCCCC1)NC\C=C(/C)\CCC=C(C)C
+67,3,"N,N-dimethyl-3-phenyl-2(E)-butenylamine",E)-butenylamine,Not Found,Not Found,Not Found,Not Found,CN(C)C\C=C(/C)\C1=CC=CC=C1,None,CN(C)C\C=C(/C)\C1=CC=CC=C1
+67,3,dimethyl-3-phenyl-1(E)-butenylamine,E)-butenylamine,Not Found,Not Found,Not Found,Not Found,CN(\C=C\C(C)C1=CC=CC=C1)C,None,CN(\C=C\C(C)C1=CC=CC=C1)C
+67,3,"N,N-dimethyl-2-propenylamine (2155-94-4)",2155-94-4,CN(C)CC=C,CN(C)CC=C,CN(C)CC=C,CN(C)CC=C,CN(C)CC=C,None,CN(C)CC=C
+67,3,"N,N-dimethyl-2(E)-butenylamine",E)-butenylamine,Not Found,Not Found,Not Found,Not Found,CN(C)C\C=C\C,None,CN(C)C\C=C\C
+67,3,"N,N-dimethyl-2-methyl-2-propenylamine",Not Found,Not Found,Not Found,Not Found,Not Found,CN(C)CC(=C)C,None,CN(C)CC(=C)C
+67,3,"N,N-dimethyl-3-methyl-2-butenylamine",Not Found,Not Found,Not Found,Not Found,Not Found,CN(C)CC=C(C)C,None,CN(C)CC=C(C)C
+67,4,brine,Not Found,Not Found,Not Found,Not Found,O.[Na+].[Cl-],O.[Na+].[Cl-],None,O.[Na+].[Cl-]
+67,4,MYRCENE,Not Found,Not Found,Not Found,Not Found,CC(=CCCC(=C)C=C)C,CC(=CCCC(=C)C=C)C,None,CC(=CCCC(=C)C=C)C
+67,4,Benzene (71-43-2),71-43-2,c1ccccc1,c1ccccc1,c1ccccc1,c1ccccc1,c1ccccc1,None,c1ccccc1
+67,4,diethyl ether (60-29-7),60-29-7,CCOCC,CCOCC,CCOCC,CCOCC,CCOCC,None,CCOCC
+67,4,sodium sulfate (7757-82-6),7757-82-6,[Na+].[Na+].[O-][S]([O-])(=O)=O,[Na+].[Na+].[O-][S]([O-])(=O)=O,[Na+].[Na+].[O-][S]([O-])(=O)=O,[Na+].[Na+].[O-][S]([O-])(=O)=O,[Na+].[Na+].[O-][S]([O-])(=O)=O,None,[Na+].[Na+].[O-][S]([O-])(=O)=O
+67,4,nitrogen (7727-37-9),7727-37-9,N#N,N#N,N#N,N#N,N#N,None,N#N
+67,4,diethylamine (109-89-7),109-89-7,CCNCC,CCNCC,CCNCC,CCNCC,CCNCC,None,CCNCC
+67,4,lithium (7439-93-2),7439-93-2,[Li],[Li],[Li],[Li],[Li],None,[Li]
+67,4,butyllithium (109-72-8),109-72-8,[Li+].CCC[CH2-],[Li+].CCC[CH2-],[Li+].CCC[CH2-],[Li+].CCC[CH2-],[Li+].CCC[CH2-],None,[Li+].CCC[CH2-]
+67,4,Tetrahydrofuran (109-99-9),109-99-9,C1CCOC1,C1CCOC1,C1CCOC1,C1CCOC1,C1CCOC1,None,C1CCOC1
+67,4,hexane (110-54-3),110-54-3,CCCCCC,CCCCCC,CCCCCC,CCCCCC,CCCCCC,None,CCCCCC
+67,4,citral (5392-40-5),5392-40-5,CC(C)=CCC\C(C)=C\C=O,CC(C)=CCC\C(C)=C\C=O,CC(C)=CCC\C(C)=C\C=O,CC(C)=CCC\C(C)=C\C=O,CC(C)=CCC\C(C)=C\C=O,None,CC(C)=CCC\C(C)=C\C=O
+67,4,calcium hydride (7789-78-8),7789-78-8,[Ca],[Ca],[Ca],[Ca],[Ca],None,[Ca]
+67,4,Linalool (78-70-6),78-70-6,CC(C)=CCCC(C)(O)C=C,CC(C)=CCCC(C)(O)C=C,CC(C)=CCCC(C)(O)C=C,CC(C)=CCCC(C)(O)C=C,CC(C)=CCCC(C)(O)C=C,None,CC(C)=CCCC(C)(O)C=C
+67,4,citronellal (106-23-0),106-23-0,C[C@H](CCC=C(C)C)CC=O,C[C@H](CCC=C(C)C)CC=O,C[C@H](CCC=C(C)C)CC=O,C[C@H](CCC=C(C)C)CC=O,C[C@H](CCC=C(C)C)CC=O,None,C[C@H](CCC=C(C)C)CC=O
+67,4,geranyl acetate (105-87-3),105-87-3,CC(=O)OC/C=C(C)/CCC=C(C)C,CC(=O)OC/C=C(C)/CCC=C(C)C,CC(=O)OC/C=C(C)/CCC=C(C)C,CC(=O)OC/C=C(C)/CCC=C(C)C,CC(=O)OC/C=C(C)/CCC=C(C)C,None,CC(=O)OC/C=C(C)/CCC=C(C)C
+67,4,"N,N-Diethylgeranylamine,
+2,6-Octadien-1-amine, N,N-diethyl-3,7-dimethyl-, (E)- (40267-53-6)",40267-53-6,CCN(CC)C\C=C(C)\CCC=C(C)C,CCN(CC)C\C=C(C)\CCC=C(C)C,CCN(CC)C\C=C(C)\CCC=C(C)C,CCN(CC)C\C=C(C)\CCC=C(C)C,CCN(CC)C\C=C(C)\CCC=C(C)C,None,CCN(CC)C\C=C(C)\CCC=C(C)C
+67,4,sodium naphthalenide,Not Found,Not Found,Not Found,Not Found,C1=CC=C2[C-]=CC=CC2=C1.[Na+],C1=CC=C2[C-]=CC=CC2=C1.[Na+],None,C1=CC=C2[C-]=CC=CC2=C1.[Na+]
+67,4,dipropylamine (142-84-7),142-84-7,CCCNCCC,CCCNCCC,CCCNCCC,CCCNCCC,CCCNCCC,None,CCCNCCC
+67,4,"N,N-dipropylgeranylamine",Not Found,Not Found,Not Found,Not Found,Not Found,C(CC)N(CCC)C\C=C(/C)\CCC=C(C)C,None,C(CC)N(CCC)C\C=C(/C)\CCC=C(C)C
+77,0,"(R,R)-1,2:4,5-Diepoxypentane:
+D-threo-Pentitol, 1,2:4,5-dianhydro-3-deoxy- (12)- (109905-51-3)",109905-51-3,Not Found,C1[C@H](O1)C[C@@H]2CO2,C1[C@H](O1)C[C@@H]2CO2,C1[C@H](O1)C[C@@H]2CO2,C1[C@H](O1)C[C@@H]2CO2,None,C1[C@H](O1)C[C@@H]2CO2
+77,0,"Bis(1,5-dichloro-2,4-pentanedione) copper(II) complex:
+Copper, bis(1,5-dichloro-2,4-pentanedionato-O,O')- (12); (135943-96-3)",135943-96-3,Not Found,C(C(=CC(=O)CCl)[O-])Cl.C(C(=CC(=O)CCl)[O-])Cl.[Cu+2],C(C(=CC(=O)CCl)[O-])Cl.C(C(=CC(=O)CCl)[O-])Cl.[Cu+2],C(C(=CC(=O)CCl)[O-])Cl.C(C(=CC(=O)CCl)[O-])Cl.[Cu+2],C(C(=CC(=O)CCl)[O-])Cl.C(C(=CC(=O)CCl)[O-])Cl.[Cu+2],None,C(C(=CC(=O)CCl)[O-])Cl.C(C(=CC(=O)CCl)[O-])Cl.[Cu+2]
+77,0,"Aluminum chloride (8,9); (7446-70-0)",7446-70-0,[Al+3].[Cl-].[Cl-].[Cl-],[Al+3].[Cl-].[Cl-].[Cl-],[Al+3].[Cl-].[Cl-].[Cl-],[Al+3].[Cl-].[Cl-].[Cl-],[Al+3].[Cl-].[Cl-].[Cl-],None,[Al+3].[Cl-].[Cl-].[Cl-]
+77,0,"Nitrobenzene: HIGHLY TOXIC:
+Benzene, nitro- (8,9); (98-95-3)",98-95-3,[O-][N+](=O)c1ccccc1,[O-][N+](=O)c1ccccc1,[O-][N+](=O)c1ccccc1,[O-][N+](=O)c1ccccc1,[O-][N+](=O)c1ccccc1,None,[O-][N+](=O)c1ccccc1
+77,0,"2,4-Pentanedione (8,9); (123-54-6)",123-54-6,CC(=O)CC(C)=O,CC(=O)CC(C)=O,CC(=O)CC(C)=O,CC(=O)CC(C)=O,CC(=O)CC(C)=O,None,CC(=O)CC(C)=O
+77,0,"Chloroacetyl chloride:
+Acetyl chloride, chloro- (8,9); (79-04-9)",79-04-9,ClCC(Cl)=O,ClCC(Cl)=O,ClCC(Cl)=O,ClCC(Cl)=O,ClCC(Cl)=O,None,ClCC(Cl)=O
+77,0,"(2R,4R)-1,5-Dichloro-2,4-pentanediol:
+2,4-Pentanediol, 1,5-dichloro-, [R-(R,R)]- (12); (136030-28-9)",136030-28-9,Not Found,C([C@H](CCl)O)[C@H](CCl)O,C([C@H](CCl)O)[C@H](CCl)O,C([C@H](CCl)O)[C@H](CCl)O,C([C@H](CCl)O)[C@H](CCl)O,None,C([C@H](CCl)O)[C@H](CCl)O
+77,0,"1,5-Cyclooctadieneruthenium(II) chloride:
+Ruthenium, dichloro[(1,2,5,6-η)-1,5-cyclooctadiene]- (9); (50982-12-2)",50982-12-2,Not Found,C1/C=C\CC/C=C\C1.Cl[Ru]Cl,C1/C=C\CC/C=C\C1.Cl[Ru]Cl,C1/C=C\CC/C=C\C1.Cl[Ru]Cl,C1/C=C\CC/C=C\C1.Cl[Ru]Cl,None,C1/C=C\CC/C=C\C1.Cl[Ru]Cl
+77,0,"Triethylamine (8);
+Ethanamine, N,N-diethyl- (9); (121-44-8)",121-44-8,CCN(CC)CC,CCN(CC)CC,CCN(CC)CC,CCN(CC)CC,CCN(CC)CC,None,CCN(CC)CC
+77,0,"(S)-(−)-BINAP:
+(S)-(−)-2,2'-Bis(diphenylphosphino)-1,1'-binaphthyl:
+Phosphine, [1,1'-binaphthalene]-2,2'-diylbis(diphenyl-, (S)- (10); (76189-56-5)",76189-56-5,Not Found,C1=CC=C(C=C1)P(C2=CC=CC=C2)C3=C(C4=CC=CC=C4C=C3)C5=C(C=CC6=CC=CC=C65)P(C7=CC=CC=C7)C8=CC=CC=C8,C1=CC=C(C=C1)P(C2=CC=CC=C2)C3=C(C4=CC=CC=C4C=C3)C5=C(C=CC6=CC=CC=C65)P(C7=CC=CC=C7)C8=CC=CC=C8,C1=CC=C(C=C1)P(C2=CC=CC=C2)C3=C(C4=CC=CC=C4C=C3)C5=C(C=CC6=CC=CC=C65)P(C7=CC=CC=C7)C8=CC=CC=C8,C1=CC=C(C=C1)P(C2=CC=CC=C2)C3=C(C4=CC=CC=C4C=C3)C5=C(C=CC6=CC=CC=C65)P(C7=CC=CC=C7)C8=CC=CC=C8,None,C1=CC=C(C=C1)P(C2=CC=CC=C2)C3=C(C4=CC=CC=C4C=C3)C5=C(C=CC6=CC=CC=C65)P(C7=CC=CC=C7)C8=CC=CC=C8
+77,0,"Ruthenium chloride-(S)-BINAP-triethylamine:
+Ruthenium, bis[[1,1'-binaphthalene]-2,2'-diylbis[diphenylphosphine]-P,P']di-μ-chlorodichloro(N,N-diethylethanamine)di- (12); (114717-51-0)",114717-51-0,Not Found,Not Found,Not Found,Not Found,Not Found,Ruthenium,[Ru]
+77,0,"1,5-Dichloro-2,4-pentanedione:
+2,4-Pentanedione, 1,5-dichloro- (9); (40630-12-4)",40630-12-4,Not Found,C(C(=O)CCl)C(=O)CCl,C(C(=O)CCl)C(=O)CCl,C(C(=O)CCl)C(=O)CCl,C(C(=O)CCl)C(=O)CCl,None,C(C(=O)CCl)C(=O)CCl
+77,0,"Hydrogen (8,9); (1333-74-0)",1333-74-0,[H],[H],[H],[H],[H],None,[H]
+77,0,"Potassium hydroxide (8,9); (1310-58-3)",1310-58-3,[OH-].[K+],[OH-].[K+],[OH-].[K+],[OH-].[K+],[OH-].[K+],None,[OH-].[K+]
+77,1,"[R-(R,S)]-β-Methyl-α-phenyl-1-pyrrolidineethanol:
+1-Pyrrolideneethanol, β-methyl-α-phenyl-, [R-(R,S)]- (12); (127641-25-2)",127641-25-2,Not Found,C[C@@H]([C@@H](C1=CC=CC=C1)O)N2CCCC2,C[C@@H]([C@@H](C1=CC=CC=C1)O)N2CCCC2,C[C@@H]([C@@H](C1=CC=CC=C1)O)N2CCCC2,C[C@@H]([C@@H](C1=CC=CC=C1)O)N2CCCC2,None,C[C@@H]([C@@H](C1=CC=CC=C1)O)N2CCCC2
+77,1,"(1R, 2S)-(−)-Norephedrine:
+Norephedrine (8);
+Benzeneethanol, α-(1-aminoethyl)-, [R-(R, S)]- (9); (492-41-4)",492-41-4,Not Found,Not Found,Not Found,Not Found,Not Found,Norpseudoephedrine,C[C@@H]([C@H](C1=CC=CC=C1)O)N
+77,1,"1,4-Dibromobutane:
+Butane, 1,4-dibromo- (8,9); (110-52-1)",110-52-1,BrCCCCBr,BrCCCCBr,BrCCCCBr,BrCCCCBr,BrCCCCBr,None,BrCCCCBr
+77,1,"Hydrochloric acid in
+2-propanol:
+Hydrochloric acid (8,9); (7647-01-0)",7647-01-0,[H+].[Cl-],[H+].[Cl-],[H+].[Cl-],[H+].[Cl-],[H+].[Cl-],None,[H+].[Cl-]
+77,2,"(1S,2S)-N-(2-Hydroxy-1-methyl-2-phenylethyl)-N-methylpropionamide:
+Propanamide, N-(2-hydroxy-1-methyl-2-phenylethyl)-N-methyl-, [R-(R,R)]- (14); (192060-67-6); [S-(R,R)]- (13); (159213-03-3)",159213-03-3,Not Found,CCC(=O)N(C)[C@@H](C)[C@H](C1=CC=CC=C1)O,CCC(=O)N(C)[C@@H](C)[C@H](C1=CC=CC=C1)O,CCC(=O)N(C)[C@@H](C)[C@H](C1=CC=CC=C1)O,CCC(=O)N(C)[C@@H](C)[C@H](C1=CC=CC=C1)O,None,CCC(=O)N(C)[C@@H](C)[C@H](C1=CC=CC=C1)O
+77,2,"(1S,2S)-(+)-Pseudoephedrine:
+Pseudoephedrine, (+)- (8);
+Benzenemethanol, α-[1-(methylamino)ethyl]-, (R,S)-(±)- (9); (90-82-4)",90-82-4,CN[C@@H](C)[C@@H](O)c1ccccc1,CN[C@@H](C)[C@@H](O)c1ccccc1,CN[C@@H](C)[C@@H](O)c1ccccc1,CN[C@@H](C)[C@@H](O)c1ccccc1,CN[C@@H](C)[C@@H](O)c1ccccc1,None,CN[C@@H](C)[C@@H](O)c1ccccc1
+77,2,"Propionic anhydride (8);
+Propanoic acid, anhydride (9); (123-62-6)",123-62-6,CCC(=O)OC(=O)CC,CCC(=O)OC(=O)CC,CCC(=O)OC(=O)CC,CCC(=O)OC(=O)CC,CCC(=O)OC(=O)CC,None,CCC(=O)OC(=O)CC
+77,2,"[1S(R),2S]-N-(2-Hydroxy-1-methyl-2-phenylethyl)-N, 2-dimethylbenzenepropionamide:
+(1S,2S)-Pseudoephedrine-(R)-2-methylhydrocinnamide:
+Benzenepropanamide, N-(2-hydroxy-1-methyl-2-phenylethyl)-N, α-dimethyl-, [1S-[1R(R),2R]]- (13); (159345-08-1); [1S-[1R(S),2R]]- (13); (159345-06-9)",159345-06-9,Not Found,C[C@H](CC1=CC=CC=C1)C(=O)N(C)[C@@H](C)[C@H](C2=CC=CC=C2)O,C[C@H](CC1=CC=CC=C1)C(=O)N(C)[C@@H](C)[C@H](C2=CC=CC=C2)O,C[C@H](CC1=CC=CC=C1)C(=O)N(C)[C@@H](C)[C@H](C2=CC=CC=C2)O,C[C@H](CC1=CC=CC=C1)C(=O)N(C)[C@@H](C)[C@H](C2=CC=CC=C2)O,None,C[C@H](CC1=CC=CC=C1)C(=O)N(C)[C@@H](C)[C@H](C2=CC=CC=C2)O
+77,2,"Lithium chloride (8,9); (7447-41-8)",7447-41-8,[Li+].[Cl-],[Li+].[Cl-],[Li+].[Cl-],[Li+].[Cl-],[Li+].[Cl-],None,[Li+].[Cl-]
+77,2,"Diisopropylamine (8);
+2-Propanamine, N-(1-methylethyl)- (9); (108-18-9)",108-18-9,CC(C)NC(C)C,CC(C)NC(C)C,CC(C)NC(C)C,CC(C)NC(C)C,CC(C)NC(C)C,None,CC(C)NC(C)C
+77,2,"Butyllithium:
+Lithium, butyl- (8,9); (109-72-8)",109-72-8,[Li+].CCC[CH2-],[Li+].CCC[CH2-],[Li+].CCC[CH2-],[Li+].CCC[CH2-],[Li+].CCC[CH2-],None,[Li+].CCC[CH2-]
+77,2,"Benzyl bromide:
+Toluene, α-bromo- (8);
+Benzene, (bromomethyl)- (9); (100-39-0)",100-39-0,BrCc1ccccc1,BrCc1ccccc1,BrCc1ccccc1,BrCc1ccccc1,BrCc1ccccc1,None,BrCc1ccccc1
+77,3,"(R)-α-Methylbenzenepropanal:
+Benzenepropanal, α-methyl-, (R)- (9); (42307-59-5)",42307-59-5,Not Found,Not Found,Not Found,Not Found,Not Found,(-)-(R)-α-Methylbenzenepropanal,Not Found
+77,3,"Lithium aluminum hydride:
+Aluminate (1−), tetrahydro-, lithium (8);
+Aluminate (1−), tetrahydro-, lithium, (I-4)- (9); (16853-85-3)",16853-85-3,[Li+].[AlH4-],[Li+].[AlH4-],[Li+].[AlH4-],[Li+].[AlH4-],[Li+].[AlH4-],None,[Li+].[AlH4-]
+77,3,"Ethyl acetate:
+Acetic acid, ethyl ester (8,9); (141-78-6)",141-78-6,CCOC(C)=O,CCOC(C)=O,CCOC(C)=O,CCOC(C)=O,CCOC(C)=O,None,CCOC(C)=O
+77,3,"[1S(R),2S]-N-(2-Hydroxy-1-methyl-2-phenylethyl)-N, 2-dimethylbenzene","2-Hydroxy-1-methyl-2-phenylethyl)-N, 2-dimethylbenzene",Not Found,Not Found,Not Found,Not Found,Not Found,none,
+77,3,"propionamide:
+(1S,2S)-Pseudoephedrine-(R)-2-methylhydrocinnamide:",R)-2-methylhydrocinnamide:,Not Found,Not Found,Not Found,Not Found,Not Found,"1S,2S-pseudoephedrine-2-methyl-N-(2-hydroxypropyl)amide",Not Found
+77,3,"Benzenepropanamide, N-(2-hydroxy-1-methyl-2-phenylethyl)-N, α-dimethyl-,[1S-[1R(R),2R]]- (13); (159345-08-1); [1S-[1R(S),2R]]- (13); (159345-06-9)",159345-06-9,Not Found,C[C@H](CC1=CC=CC=C1)C(=O)N(C)[C@@H](C)[C@H](C2=CC=CC=C2)O,C[C@H](CC1=CC=CC=C1)C(=O)N(C)[C@@H](C)[C@H](C2=CC=CC=C2)O,C[C@H](CC1=CC=CC=C1)C(=O)N(C)[C@@H](C)[C@H](C2=CC=CC=C2)O,C[C@H](CC1=CC=CC=C1)C(=O)N(C)[C@@H](C)[C@H](C2=CC=CC=C2)O,None,C[C@H](CC1=CC=CC=C1)C(=O)N(C)[C@@H](C)[C@H](C2=CC=CC=C2)O
+77,3,"Lithium triethoxyaluminum hydride:
+Aluminate (1−), triethoxyhydro-, lithium (8);
+Aluminate (1−), triethoxyhydro-, lithium, (I-4), (9); (17250-30-5)",17250-30-5,Not Found,Not Found,Not Found,Not Found,Not Found,Lithium triethoxyaluminate,Not Found
+77,3,"Trifluoroacetic acid:
+Acetic acid, trifluoro- (8,9); (76-05-1)",76-05-1,OC(=O)C(F)(F)F,OC(=O)C(F)(F)F,OC(=O)C(F)(F)F,OC(=O)C(F)(F)F,OC(=O)C(F)(F)F,None,OC(=O)C(F)(F)F
+77,3,"(R)-β-Methylbenzenepropanol:
+Benzenepropanol, β-methyl-, (R)- (10); (77943-96-5)",77943-96-5,Not Found,C[C@H](CC1=CC=CC=C1)CO,C[C@H](CC1=CC=CC=C1)CO,C[C@H](CC1=CC=CC=C1)CO,C[C@H](CC1=CC=CC=C1)CO,None,C[C@H](CC1=CC=CC=C1)CO
+77,3,"Diisopropylamine (8);
+2-Propanamine, N-(1-methylethyl)- (9); (108-18-9)",108-18-9,CC(C)NC(C)C,CC(C)NC(C)C,CC(C)NC(C)C,CC(C)NC(C)C,CC(C)NC(C)C,None,CC(C)NC(C)C
+77,3,"Butyllithium:
+Lithium, butyl- (8,9); (109-72-8)",109-72-8,[Li+].CCC[CH2-],[Li+].CCC[CH2-],[Li+].CCC[CH2-],[Li+].CCC[CH2-],[Li+].CCC[CH2-],None,[Li+].CCC[CH2-]
+77,3,"Borane-ammonia complex: EXPLODES WHEN HEATED:
+Borane, monoammoniate (8,9); (13774-81-7)",13774-81-7,Not Found,[BH3-][NH3+],[BH3-][NH3+],[BH3-][NH3+],[BH3-][NH3+],None,[BH3-][NH3+]
+77,3,"Lithium amidotrihydroborate:
+Borate (1−), amidotrihydro-, lithium, (I-4)- (11); (99144-67-9)",99144-67-9,Not Found,[Li+].[B].[NH2-],[Li+].[B].[NH2-],[Li+].[B].[NH2-],[Li+].[B].[NH2-],None,[Li+].[B].[NH2-]
+77,3,"(R)-2-Methyl-1-phenyl-3-heptanone:
+3-Heptanone, 2-methyl-1-phenyl-, (R)- (13); (159213-12-4)",159213-12-4,Not Found,CCCCC(=O)[C@H](C)CC1=CC=CC=C1,CCCCC(=O)[C@H](C)CC1=CC=CC=C1,CCCCC(=O)[C@H](C)CC1=CC=CC=C1,CCCCC(=O)[C@H](C)CC1=CC=CC=C1,None,CCCCC(=O)[C@H](C)CC1=CC=CC=C1
+77,3,"2-Methyl-2-propanol:
+tert-Butyl alcohol (8);
+2-Propanol, 2-methyl- (9); (75-65-0)",75-65-0,CC(C)(C)O,CC(C)(C)O,CC(C)(C)O,CC(C)(C)O,CC(C)(C)O,None,CC(C)(C)O
+77,3,"2-Methyl-2-butene:
+2-Butene, 2-methyl- (8,9); (513-35-9)",513-35-9,CC=C(C)C,CC=C(C)C,CC=C(C)C,CC=C(C)C,CC=C(C)C,None,CC=C(C)C
+77,3,"Sodium dihydrogen phosphate:
+Phosphoric acid, monosodium salt (8,9); (7558-80-7)",7558-80-7,Not Found,OP(=O)(O)[O-].[Na+],OP(=O)(O)[O-].[Na+],OP(=O)(O)[O-].[Na+],OP(=O)(O)[O-].[Na+],None,OP(=O)(O)[O-].[Na+]
+77,3,"(R)-α-Methylbenzenepropanoic acid:
+Benzenepropanoic acid, α-methyl-, (R)- (8); (14367-67-0)",14367-67-0,Not Found,C[C@H](CC1=CC=CC=C1)C(=O)O,C[C@H](CC1=CC=CC=C1)C(=O)O,C[C@H](CC1=CC=CC=C1)C(=O)O,C[C@H](CC1=CC=CC=C1)C(=O)O,None,C[C@H](CC1=CC=CC=C1)C(=O)O
+77,3,"1-Hydroxybenzotriazole hydrate:
+1H-Benzotriazole, 1-hydroxy-, hydrate (12); (12333-53-9)",12333-53-9,Not Found,Not Found,Not Found,Not Found,Not Found,Not Found,Not Found
+77,3,"1-(3-Dimethylamino)propyl-3-ethylcarbodiimide hydrochloride:
+Carbodiimide,","3-Dimethylamino)propyl-3-ethylcarbodiimide hydrochloride:
+Carbodiimide,",Not Found,Not Found,Not Found,Not Found,Not Found,Carbodiimide,C(=N)=N
+77,3,"[3-(dimethylamino)propyl]ethyl-, monohydrochloride (8);
+1,3-Propanediamine,","8);
+1,3-Propanediamine,",Not Found,Not Found,Not Found,Not Found,Not Found,N-(3-dimethylaminopropyl)ethylamine monohydrochloride,Not Found
+77,3,"N'-(ethylcarbonimidoyl)-N,N-dimethyl-, monohydrochloride (9); (25952-53-8)",25952-53-8,[Cl-].CCN(CCC[NH+](C)C)C#N,[Cl-].CCN(CCC[NH+](C)C)C#N,[Cl-].CCN(CCC[NH+](C)C)C#N,[Cl-].CCN(CCC[NH+](C)C)C#N,[Cl-].CCN(CCC[NH+](C)C)C#N,None,[Cl-].CCN(CCC[NH+](C)C)C#N
+77,3,"N,N-Dimethylformamide: CANCER SUSPECT AGENT:
+Formamide, N,N-dimethyl- (8,9); (68-12-2)",68-12-2,CN(C)C=O,CN(C)C=O,CN(C)C=O,CN(C)C=O,CN(C)C=O,None,CN(C)C=O
+77,3,"(R)-(+)-α-Methylbenzylamine:
+Benzylamine, α-methyl-, (R)-(+)- (8);",8);,Not Found,Not Found,Not Found,Not Found,Not Found,α-methylbenzylamine,Not Found
+77,3,"Benzenemethanamine, α-methyl-, (R)- (9); (3886-69-9)",3886-69-9,CC(N)c1ccccc1,CC(N)c1ccccc1,CC(N)c1ccccc1,CC(N)c1ccccc1,CC(N)c1ccccc1,None,CC(N)c1ccccc1
+77,3,"Triethylamine (8);
+Ethanamine, N,N-diethyl- (9); (121-44-8)",121-44-8,CCN(CC)CC,CCN(CC)CC,CCN(CC)CC,CCN(CC)CC,CCN(CC)CC,None,CCN(CC)CC
+77,3,"(R)-(+)-α-Methoxy-α-(trifluoromethyl)phenylacetic acid:
+Hydratropic acid,
+β,β,β-trifluoro-α-methoxy-, (+)- (9); (20445-31-2)",20445-31-2,COC(C(O)=O)(c1ccccc1)C(F)(F)F,COC(C(O)=O)(c1ccccc1)C(F)(F)F,COC(C(O)=O)(c1ccccc1)C(F)(F)F,COC(C(O)=O)(c1ccccc1)C(F)(F)F,COC(C(O)=O)(c1ccccc1)C(F)(F)F,None,COC(C(O)=O)(c1ccccc1)C(F)(F)F
+77,3,"Benzene: CANCER SUSPECT AGENT: (8,9); (71-43-2)",71-43-2,c1ccccc1,c1ccccc1,c1ccccc1,c1ccccc1,c1ccccc1,None,c1ccccc1
+77,3,"Oxalyl chloride (8);
+Ethanedioyldichloride (9); (79-37-8)",79-37-8,ClC(=O)C(Cl)=O,ClC(=O)C(Cl)=O,ClC(=O)C(Cl)=O,ClC(=O)C(Cl)=O,ClC(=O)C(Cl)=O,None,ClC(=O)C(Cl)=O
+77,3,"(S)-(+)-α-Methoxy-α-(trifluoromethyl)phenylacetyl chloride:
+Hydratropoyl chloride,
+β,β,β-trifluoro-α-methoxy-, (+)- (8,9); (20445-33-4)",20445-33-4,CO[C@@](C(Cl)=O)(c1ccccc1)C(F)(F)F,CO[C@@](C(Cl)=O)(c1ccccc1)C(F)(F)F,CO[C@@](C(Cl)=O)(c1ccccc1)C(F)(F)F,CO[C@@](C(Cl)=O)(c1ccccc1)C(F)(F)F,CO[C@@](C(Cl)=O)(c1ccccc1)C(F)(F)F,None,CO[C@@](C(Cl)=O)(c1ccccc1)C(F)(F)F
+77,3,"4-Dimethylaminopyridine: HIGHLY TOXIC:
+Pyridine, 4-(dimethylamino)- (8);
+4-Pyridinamine, N,N-dimethyl- (9); (1122-58-3)",1122-58-3,CN(C)c1cc[nH+]cc1,CN(C)c1cc[nH+]cc1,CN(C)c1cc[nH+]cc1,CN(C)c1cc[nH+]cc1,CN(C)c1cc[nH+]cc1,None,CN(C)c1cc[nH+]cc1
+77,3,"Phosphomolybdic acid:
+Molybdophosphoric acid (9); (51429-74-4)",51429-74-4,Not Found,O.OP(=O)(O)O.O=[Mo](=O)=O.O=[Mo](=O)=O.O=[Mo](=O)=O.O=[Mo](=O)=O.O=[Mo](=O)=O.O=[Mo](=O)=O.O=[Mo](=O)=O.O=[Mo](=O)=O.O=[Mo](=O)=O.O=[Mo](=O)=O.O=[Mo](=O)=O.O=[Mo](=O)=O,O.OP(=O)(O)O.O=[Mo](=O)=O.O=[Mo](=O)=O.O=[Mo](=O)=O.O=[Mo](=O)=O.O=[Mo](=O)=O.O=[Mo](=O)=O.O=[Mo](=O)=O.O=[Mo](=O)=O.O=[Mo](=O)=O.O=[Mo](=O)=O.O=[Mo](=O)=O.O=[Mo](=O)=O,O.OP(=O)(O)O.O=[Mo](=O)=O.O=[Mo](=O)=O.O=[Mo](=O)=O.O=[Mo](=O)=O.O=[Mo](=O)=O.O=[Mo](=O)=O.O=[Mo](=O)=O.O=[Mo](=O)=O.O=[Mo](=O)=O.O=[Mo](=O)=O.O=[Mo](=O)=O.O=[Mo](=O)=O,O.OP(=O)(O)O.O=[Mo](=O)=O.O=[Mo](=O)=O.O=[Mo](=O)=O.O=[Mo](=O)=O.O=[Mo](=O)=O.O=[Mo](=O)=O.O=[Mo](=O)=O.O=[Mo](=O)=O.O=[Mo](=O)=O.O=[Mo](=O)=O.O=[Mo](=O)=O.O=[Mo](=O)=O,None,O.OP(=O)(O)O.O=[Mo](=O)=O.O=[Mo](=O)=O.O=[Mo](=O)=O.O=[Mo](=O)=O.O=[Mo](=O)=O.O=[Mo](=O)=O.O=[Mo](=O)=O.O=[Mo](=O)=O.O=[Mo](=O)=O.O=[Mo](=O)=O.O=[Mo](=O)=O.O=[Mo](=O)=O
+77,3,"Cerium (III) molybdate:
+Molybdic acid, cerium salt (9); (53986-44-0)",53986-44-0,[O--].[O--].[O--].[O--].[O--].[O--].[O--].[O--].[O--].[Mo].[Mo].[Ce+3].[Ce+3],[O--].[O--].[O--].[O--].[O--].[O--].[O--].[O--].[O--].[Mo].[Mo].[Ce+3].[Ce+3],[O--].[O--].[O--].[O--].[O--].[O--].[O--].[O--].[O--].[Mo].[Mo].[Ce+3].[Ce+3],[O--].[O--].[O--].[O--].[O--].[O--].[O--].[O--].[O--].[Mo].[Mo].[Ce+3].[Ce+3],[O--].[O--].[O--].[O--].[O--].[O--].[O--].[O--].[O--].[Mo].[Mo].[Ce+3].[Ce+3],None,[O--].[O--].[O--].[O--].[O--].[O--].[O--].[O--].[O--].[Mo].[Mo].[Ce+3].[Ce+3]
+77,3,"(S)-(−)-α-Methoxy-α-(trifluoromethyl)phenylacetic acid:
+Hydratropic acid,
+β,β,β-trifluoro-α-methoxy-, (S)-(−)- (8);
+Benzeneacetic acid,
+α-methoxy-α-(trifluoromethyl)-, (S)- (9); (17257-71-5)",17257-71-5,CO[C@](C([O-])=O)(c1ccccc1)C(F)(F)F,CO[C@](C([O-])=O)(c1ccccc1)C(F)(F)F,CO[C@](C([O-])=O)(c1ccccc1)C(F)(F)F,CO[C@](C([O-])=O)(c1ccccc1)C(F)(F)F,CO[C@](C([O-])=O)(c1ccccc1)C(F)(F)F,None,CO[C@](C([O-])=O)(c1ccccc1)C(F)(F)F
+77,4,"(R)-(+)-2-Hydroxy-1,2,2-triphenylethyl acetate:
+[(R)-HYTRA]:
+1,2-Ethanediol, 1,1,2-triphenyl-, 2-acetate, (R)- (11); (95061-47-5)",95061-47-5,CC(=O)O[C@H](c1ccccc1)C(O)(c2ccccc2)c3ccccc3,CC(=O)O[C@H](c1ccccc1)C(O)(c2ccccc2)c3ccccc3,CC(=O)O[C@H](c1ccccc1)C(O)(c2ccccc2)c3ccccc3,CC(=O)O[C@H](c1ccccc1)C(O)(c2ccccc2)c3ccccc3,CC(=O)O[C@H](c1ccccc1)C(O)(c2ccccc2)c3ccccc3,None,CC(=O)O[C@H](c1ccccc1)C(O)(c2ccccc2)c3ccccc3
+77,4,"(R)-(+)-1,1,2-Triphenylethanediol:
+1,2-Ethanediol, 1,1,2-triphenyl-, (R)- (11); (95061-46-4)",95061-46-4,Not Found,C1=CC=C(C=C1)[C@H](C(C2=CC=CC=C2)(C3=CC=CC=C3)O)O,C1=CC=C(C=C1)[C@H](C(C2=CC=CC=C2)(C3=CC=CC=C3)O)O,C1=CC=C(C=C1)[C@H](C(C2=CC=CC=C2)(C3=CC=CC=C3)O)O,C1=CC=C(C=C1)[C@H](C(C2=CC=CC=C2)(C3=CC=CC=C3)O)O,None,C1=CC=C(C=C1)[C@H](C(C2=CC=CC=C2)(C3=CC=CC=C3)O)O
+77,4,"Acetic anhydride (8);
+Acetic acid anhydride (9); (108-24-7)",108-24-7,CC(=O)OC(C)=O,CC(=O)OC(C)=O,CC(=O)OC(C)=O,CC(=O)OC(C)=O,CC(=O)OC(C)=O,None,CC(=O)OC(C)=O
+77,4,"Acetonitrile: TOXIC: (8,9); (75-05-8)",75-05-8,CC#N,CC#N,CC#N,CC#N,CC#N,None,CC#N
+77,4,"Scandium(III) trifluoromethanesulfonate:
+Methanesulfonic acid, trifluoro-, scandium (3+) salt (13); (144026-79-9)",144026-79-9,Not Found,C(F)(F)(F)S(=O)(=O)[O-].C(F)(F)(F)S(=O)(=O)[O-].C(F)(F)(F)S(=O)(=O)[O-].[Sc+3],C(F)(F)(F)S(=O)(=O)[O-].C(F)(F)(F)S(=O)(=O)[O-].C(F)(F)(F)S(=O)(=O)[O-].[Sc+3],C(F)(F)(F)S(=O)(=O)[O-].C(F)(F)(F)S(=O)(=O)[O-].C(F)(F)(F)S(=O)(=O)[O-].[Sc+3],C(F)(F)(F)S(=O)(=O)[O-].C(F)(F)(F)S(=O)(=O)[O-].C(F)(F)(F)S(=O)(=O)[O-].[Sc+3],None,C(F)(F)(F)S(=O)(=O)[O-].C(F)(F)(F)S(=O)(=O)[O-].C(F)(F)(F)S(=O)(=O)[O-].[Sc+3]
+87,0,Benzaldehyde; (100-52-7),100-52-7,O=Cc1ccccc1,O=Cc1ccccc1,O=Cc1ccccc1,O=Cc1ccccc1,O=Cc1ccccc1,None,O=Cc1ccccc1
+87,0,Pyrrolidine; (123-75-1),123-75-1,[H+].[Cl-].C1CCNC1,[H+].[Cl-].C1CCNC1,[H+].[Cl-].C1CCNC1,[H+].[Cl-].C1CCNC1,[H+].[Cl-].C1CCNC1,None,[H+].[Cl-].C1CCNC1
+87,0,"N-Benzoyl pyrrolidine: Methanone, phenyl-1-pyrrolidinyl-; (3389-54-6)",3389-54-6,Not Found,C1CCN(C1)C(=O)C2=CC=CC=C2,C1CCN(C1)C(=O)C2=CC=CC=C2,C1CCN(C1)C(=O)C2=CC=CC=C2,C1CCN(C1)C(=O)C2=CC=CC=C2,None,C1CCN(C1)C(=O)C2=CC=CC=C2
+87,0,"tert-Butyl hydroperoxide: Hydroperoxide, 1,1-dimethylethyl; (75-91-2)",75-91-2,CC(C)(C)OO,CC(C)(C)OO,CC(C)(C)OO,CC(C)(C)OO,CC(C)(C)OO,None,CC(C)(C)OO
+87,1,"2-Chloro-6,7-dimethoxy-1,2,3,4-tetrahydroisoquinoline",Not Found,Not Found,Not Found,Not Found,Not Found,ClN1CC2=CC(=C(C=C2CC1)OC)OC,None,ClN1CC2=CC(=C(C=C2CC1)OC)OC
+87,1,"6,7-Dimethoxy-1,2,3,4-tetrahydroisoquinoline hydrochloride: Isoquinoline, 1,2,3,4-tetrahydro-6,7-dimethoxy-, hydrochloride (1:1); (2328-12-3)",2328-12-3,[Cl-].COc1cc2CC[NH2+]Cc2cc1OC,[Cl-].COc1cc2CC[NH2+]Cc2cc1OC,[Cl-].COc1cc2CC[NH2+]Cc2cc1OC,[Cl-].COc1cc2CC[NH2+]Cc2cc1OC,[Cl-].COc1cc2CC[NH2+]Cc2cc1OC,None,[Cl-].COc1cc2CC[NH2+]Cc2cc1OC
+87,1,Sodium hypochlorite; (7681-52-9),7681-52-9,[Na+].[O-]Cl,[Na+].[O-]Cl,[Na+].[O-]Cl,[Na+].[O-]Cl,[Na+].[O-]Cl,None,[Na+].[O-]Cl
+87,1,tert-Butanol: 2-Methyl-2-propanol; (7 5-65-0),7 5-65-0,Not Found,Not Found,Not Found,CC(C)(C)O,CC(C)(C)O,None,CC(C)(C)O
+87,2,"5-(Thiophen-2-yl)oxazole: Oxazole, 5-(2-thienyl)-; (70380-70-0)",70380-70-0,Not Found,C1=CSC(=C1)C2=CN=CO2,C1=CSC(=C1)C2=CN=CO2,C1=CSC(=C1)C2=CN=CO2,C1=CSC(=C1)C2=CN=CO2,None,C1=CSC(=C1)C2=CN=CO2
+87,2,2-Thiophenecarboxaldehyde; (98-03-3),98-03-3,O=Cc1sccc1,O=Cc1sccc1,O=Cc1sccc1,O=Cc1sccc1,O=Cc1sccc1,None,O=Cc1sccc1
+87,2,"Tosylmethylisocyanide: Benzene, [(isocyanomethyl)sulfonyl]-; (36635-63-9)",36635-63-9,Not Found,[C-]#[N+]CS(=O)(=O)C1=CC=CC=C1,[C-]#[N+]CS(=O)(=O)C1=CC=CC=C1,[C-]#[N+]CS(=O)(=O)C1=CC=CC=C1,[C-]#[N+]CS(=O)(=O)C1=CC=CC=C1,None,[C-]#[N+]CS(=O)(=O)C1=CC=CC=C1
+87,2,"4-Bromo-5-(thiophen-2-yl)oxazole: Oxazole, 4-bromo-5-(2-thienyl)-; (959977-82-3)",959977-82-3,Not Found,C1=CSC(=C1)C2=C(N=CO2)Br,C1=CSC(=C1)C2=C(N=CO2)Br,C1=CSC(=C1)C2=C(N=CO2)Br,C1=CSC(=C1)C2=C(N=CO2)Br,None,C1=CSC(=C1)C2=C(N=CO2)Br
+87,2,Lithium bis(trimethylsilyl)amide; (4039-32-1),4039-32-1,[Li+].C[Si](C)(C)[N-][Si](C)(C)C,[Li+].C[Si](C)(C)[N-][Si](C)(C)C,[Li+].C[Si](C)(C)[N-][Si](C)(C)C,[Li+].C[Si](C)(C)[N-][Si](C)(C)C,[Li+].C[Si](C)(C)[N-][Si](C)(C)C,None,[Li+].C[Si](C)(C)[N-][Si](C)(C)C
+87,2,"N-Bromosuccinimide: 2,5-Pyrrolidinedione, 1-bromo-; ( 128-08-5)", 128-08-5,BrN1C(=O)CCC1=O,BrN1C(=O)CCC1=O,BrN1C(=O)CCC1=O,BrN1C(=O)CCC1=O,BrN1C(=O)CCC1=O,None,BrN1C(=O)CCC1=O
+87,3,"(2S)-2-Amino-3-methyl-1,1-diphenyl-butanol; (78603-95-9)",78603-95-9,Not Found,CC(C)[C@@H](C(C1=CC=CC=C1)(C2=CC=CC=C2)O)N,CC(C)[C@@H](C(C1=CC=CC=C1)(C2=CC=CC=C2)O)N,CC(C)[C@@H](C(C1=CC=CC=C1)(C2=CC=CC=C2)O)N,CC(C)[C@@H](C(C1=CC=CC=C1)(C2=CC=CC=C2)O)N,None,CC(C)[C@@H](C(C1=CC=CC=C1)(C2=CC=CC=C2)O)N
+87,3,Bromobenzene; (108-86-1),108-86-1,Brc1ccccc1,Brc1ccccc1,Brc1ccccc1,Brc1ccccc1,Brc1ccccc1,None,Brc1ccccc1
+87,3,L-Valine methyl ester hydrochloride; (6306-52-1),6306-52-1,[Cl].COC(=O)C(N)C(C)C,[Cl].COC(=O)C(N)C(C)C,[Cl].COC(=O)C(N)C(C)C,[Cl].COC(=O)C(N)C(C)C,[Cl].COC(=O)C(N)C(C)C,None,[Cl].COC(=O)C(N)C(C)C
+87,3,"Phenylmagnesium chloride, 2 M in THF; (100-59-4)",100-59-4,[Mg++]|[C-]1=CC=CC=C1.[Cl-],[Mg++]|[C-]1=CC=CC=C1.[Cl-],[Mg++]|[C-]1=CC=CC=C1.[Cl-],[Mg++]|[C-]1=CC=CC=C1.[Cl-],[Mg++]|[C-]1=CC=CC=C1.[Cl-],None,[Mg++]|[C-]1=CC=CC=C1.[Cl-]
+87,3,Ethylene glycol; (107-21-1),107-21-1,OCCO,OCCO,OCCO,OCCO,OCCO,None,OCCO
+87,3,Triisopropyl borate; (5419-55-6),5419-55-6,CC(C)OB(OC(C)C)OC(C)C,CC(C)OB(OC(C)C)OC(C)C,CC(C)OB(OC(C)C)OC(C)C,CC(C)OB(OC(C)C)OC(C)C,CC(C)OB(OC(C)C)OC(C)C,None,CC(C)OB(OC(C)C)OC(C)C
+87,3,"(-)-(S)-1-(1,3,2-Dioxaborolan-2-yloxy)-3-methyl-1,1-diphenylbutan-2-amine; (879981-94-9)",879981-94-9,Not Found,B1(OCCO1)OC(C2=CC=CC=C2)(C3=CC=CC=C3)[C@H](C(C)C)N,B1(OCCO1)OC(C2=CC=CC=C2)(C3=CC=CC=C3)[C@H](C(C)C)N,B1(OCCO1)OC(C2=CC=CC=C2)(C3=CC=CC=C3)[C@H](C(C)C)N,B1(OCCO1)OC(C2=CC=CC=C2)(C3=CC=CC=C3)[C@H](C(C)C)N,None,B1(OCCO1)OC(C2=CC=CC=C2)(C3=CC=CC=C3)[C@H](C(C)C)N
+87,4,"(-)-(S)-1-(1,3,2-Dioxaborolan-2-yloxy)-3-methyl-1,1-diphenylbutan-2-amine; (879981-94-9)",879981-94-9,Not Found,B1(OCCO1)OC(C2=CC=CC=C2)(C3=CC=CC=C3)[C@H](C(C)C)N,B1(OCCO1)OC(C2=CC=CC=C2)(C3=CC=CC=C3)[C@H](C(C)C)N,B1(OCCO1)OC(C2=CC=CC=C2)(C3=CC=CC=C3)[C@H](C(C)C)N,B1(OCCO1)OC(C2=CC=CC=C2)(C3=CC=CC=C3)[C@H](C(C)C)N,None,B1(OCCO1)OC(C2=CC=CC=C2)(C3=CC=CC=C3)[C@H](C(C)C)N
+87,4,3-Acetyl pyridine; (350-03-8),350-03-8,CC(=O)c1cccnc1,CC(=O)c1cccnc1,CC(=O)c1cccnc1,CC(=O)c1cccnc1,CC(=O)c1cccnc1,None,CC(=O)c1cccnc1
+87,4,Hydroxylamine hydrochloride; (5470-11-1),5470-11-1,[H+].[Cl-].NO,[H+].[Cl-].NO,[H+].[Cl-].NO,[H+].[Cl-].NO,[H+].[Cl-].NO,None,[H+].[Cl-].NO
+87,4,Sodium hydride; (7646-69-7),7646-69-7,[Na],[Na],[Na],[Na],[Na],None,[Na]
+87,4,Benzyl bromide; (100-39-0),100-39-0,BrCc1ccccc1,BrCc1ccccc1,BrCc1ccccc1,BrCc1ccccc1,BrCc1ccccc1,None,BrCc1ccccc1
+87,4,"Borane tetrahydrofuran complex solution, 1.0 M in tetrahydrofuran; (14044-65-6)",14044-65-6,[B+3].[H-].[H-].[H-].C1CCOC1,[B+3].[H-].[H-].[H-].C1CCOC1,[B+3].[H-].[H-].[H-].C1CCOC1,[B+3].[H-].[H-].[H-].C1CCOC1,[B+3].[H-].[H-].[H-].C1CCOC1,None,[B+3].[H-].[H-].[H-].C1CCOC1
+87,4,(E)-1-Pyridin-3-yl-ethanone oxime; (106881-77-0),106881-77-0,Not Found,C/C(=N\O)/C1=CN=CC=C1,C/C(=N\O)/C1=CN=CC=C1,C/C(=N\O)/C1=CN=CC=C1,C/C(=N\O)/C1=CN=CC=C1,None,C/C(=N\O)/C1=CN=CC=C1
+87,4,"(E)-1-Pyridin-3-yl-ethanone O-benzyl-oxime: Ethanone, 1-(3-pyridinyl)-, O-(phenylmethyl)oxime, (1E)-; (1010079-98-7)",1010079-98-7,Not Found,Not Found,Not Found,Not Found,C1(=CC=CC=C1)CO\N=C(/C)\C=1C=NC=CC1,None,C1(=CC=CC=C1)CO\N=C(/C)\C=1C=NC=CC1
+87,4,"(S)-1-Pyridin-3-yl-ethylamine: 3-Pyridinemethanamine, α-methyl-, (αS)-; (27854-9)",27854-9,Not Found,Not Found,Not Found,Not Found,C[C@H](N)C=1C=NC=CC1,None,C[C@H](N)C=1C=NC=CC1
+87,4,"(S)-1-Pyridin-3-yl-ethylamine hydrochloride: 3-Pyridinemethanamine, α-methyl-, dihydrochloride, (S)-; (40154-84-5)",40154-84-5,Not Found,C[C@@H](C1=CN=CC=C1)N.Cl.Cl,C[C@@H](C1=CN=CC=C1)N.Cl.Cl,C[C@@H](C1=CN=CC=C1)N.Cl.Cl,C[C@@H](C1=CN=CC=C1)N.Cl.Cl,None,C[C@@H](C1=CN=CC=C1)N.Cl.Cl
+97,1,Celecoxib: 4-[5-(4-Methylphenyl)-3-(trifluoromethyl)-1H-pyrazol-1-yl]benzenesulfonamide (169590-42-5),169590-42-5,Cc1ccc(cc1)c2cc(nn2c3ccc(cc3)[S](N)(=O)=O)C(F)(F)F,Cc1ccc(cc1)c2cc(nn2c3ccc(cc3)[S](N)(=O)=O)C(F)(F)F,Cc1ccc(cc1)c2cc(nn2c3ccc(cc3)[S](N)(=O)=O)C(F)(F)F,Cc1ccc(cc1)c2cc(nn2c3ccc(cc3)[S](N)(=O)=O)C(F)(F)F,Cc1ccc(cc1)c2cc(nn2c3ccc(cc3)[S](N)(=O)=O)C(F)(F)F,None,Cc1ccc(cc1)c2cc(nn2c3ccc(cc3)[S](N)(=O)=O)C(F)(F)F
+97,1,Potassium carbonate (584-08-7),584-08-7,[K+].[K+].[O-]C([O-])=O,[K+].[K+].[O-]C([O-])=O,[K+].[K+].[O-]C([O-])=O,[K+].[K+].[O-]C([O-])=O,[K+].[K+].[O-]C([O-])=O,None,[K+].[K+].[O-]C([O-])=O
+97,1,"2-Mesityl-2,5,6,7-tetrahydropyrrolo[2,1-c][1,2,4]triazol-4-ium chloride (1) (862893-81-0)",862893-81-0,Not Found,CC1=CC(=C(C(=C1)C)N2C=[N+]3CCCC3=N2)C.[Cl-],CC1=CC(=C(C(=C1)C)N2C=[N+]3CCCC3=N2)C.[Cl-],CC1=CC(=C(C(=C1)C)N2C=[N+]3CCCC3=N2)C.[Cl-],CC1=CC(=C(C(=C1)C)N2C=[N+]3CCCC3=N2)C.[Cl-],None,CC1=CC(=C(C(=C1)C)N2C=[N+]3CCCC3=N2)C.[Cl-]
+97,1,Ethanol (64-17-5),64-17-5,CCO,CCO,CCO,CCO,CCO,None,CCO
+97,1,Benzaldehyde (100-52-7),100-52-7,O=Cc1ccccc1,O=Cc1ccccc1,O=Cc1ccccc1,O=Cc1ccccc1,O=Cc1ccccc1,None,O=Cc1ccccc1
+97,1,"DMF: N,N-Dimethylformamide (68-12-2)",68-12-2,CN(C)C=O,CN(C)C=O,CN(C)C=O,CN(C)C=O,CN(C)C=O,None,CN(C)C=O
+97,1,Benzyl bromide (100-39-0),100-39-0,BrCc1ccccc1,BrCc1ccccc1,BrCc1ccccc1,BrCc1ccccc1,BrCc1ccccc1,None,BrCc1ccccc1
+97,2,"Pyronin Y: Xanthylium, 3,6-bis(dimethylamino)-, chloride (1:1); (92-32-0)",92-32-0,[Cl-].CN(C)c1ccc2cc3ccc(cc3[o+]c2c1)N(C)C,[Cl-].CN(C)c1ccc2cc3ccc(cc3[o+]c2c1)N(C)C,[Cl-].CN(C)c1ccc2cc3ccc(cc3[o+]c2c1)N(C)C,[Cl-].CN(C)c1ccc2cc3ccc(cc3[o+]c2c1)N(C)C,[Cl-].CN(C)c1ccc2cc3ccc(cc3[o+]c2c1)N(C)C,None,[Cl-].CN(C)c1ccc2cc3ccc(cc3[o+]c2c1)N(C)C
+97,2,Na3PO4: Sodium phosphate tribasic dodecahydrate; (10101-89-0),10101-89-0,O.O.O.O.O.O.O.O.O.O.O.O.[Na+].[Na+].[Na+].[O-][P]([O-])([O-])=O,O.O.O.O.O.O.O.O.O.O.O.O.[Na+].[Na+].[Na+].[O-][P]([O-])([O-])=O,O.O.O.O.O.O.O.O.O.O.O.O.[Na+].[Na+].[Na+].[O-][P]([O-])([O-])=O,O.O.O.O.O.O.O.O.O.O.O.O.[Na+].[Na+].[Na+].[O-][P]([O-])([O-])=O,O.O.O.O.O.O.O.O.O.O.O.O.[Na+].[Na+].[Na+].[O-][P]([O-])([O-])=O,None,O.O.O.O.O.O.O.O.O.O.O.O.[Na+].[Na+].[Na+].[O-][P]([O-])([O-])=O
+97,2,I2: Iodine; (7553-56-2),7553-56-2,II,II,II,II,II,None,II
+97,2,: 1-Methyl-2-pyrrolidinone; (872-50-4),872-50-4,CN1CCCC1=O,CN1CCCC1=O,CN1CCCC1=O,CN1CCCC1=O,CN1CCCC1=O,None,CN1CCCC1=O
+97,2,HCHO: Formaldehyde solution (37 wt. % in H2O); (50-00-0),50-00-0,C=O,C=O,C=O,C=O,C=O,None,C=O
+97,2,NaCNBH3: Sodium cyanoborohydride; (25895-60-7),25895-60-7,[B+3].[H-].[H-].[H-].[Na+].[C-]#N,[B+3].[H-].[H-].[H-].[Na+].[C-]#N,[B+3].[H-].[H-].[H-].[Na+].[C-]#N,[B+3].[H-].[H-].[H-].[Na+].[C-]#N,[B+3].[H-].[H-].[H-].[Na+].[C-]#N,None,[B+3].[H-].[H-].[H-].[Na+].[C-]#N
+97,2,AcOH: Glacial acetic acid; (64-19-7),64-19-7,CC(O)=O,CC(O)=O,CC(O)=O,CC(O)=O,CC(O)=O,None,CC(O)=O
+97,3,(LGO) (1): Levoglucosenone; (37112-31-5),37112-31-5,O=C1C=C[C@H]2CO[C@@H]1O2,O=C1C=C[C@H]2CO[C@@H]1O2,O=C1C=C[C@H]2CO[C@@H]1O2,O=C1C=C[C@H]2CO[C@@H]1O2,O=C1C=C[C@H]2CO[C@@H]1O2,None,O=C1C=C[C@H]2CO[C@@H]1O2
+97,3,PEG 4000: Poly(ethylene glycol); (25322-68-3),25322-68-3,OCCO,OCCO,OCCO,OCCO,OCCO,None,OCCO
+97,3,Sulfuric acid; (7664-93-9),7664-93-9,O[S](O)(=O)=O,O[S](O)(=O)=O,O[S](O)(=O)=O,O[S](O)(=O)=O,O[S](O)(=O)=O,None,O[S](O)(=O)=O
+97,3,Cellulose; (9004-34-6),9004-34-6,Not Found,C(C1[C@H](C(C(C(O1)O)O)O)O[C@H]2C(C(C(C(O2)CO)O)O)O)O,C(C1[C@H](C(C(C(O1)O)O)O)O[C@H]2C(C(C(C(O2)CO)O)O)O)O,C(C1[C@H](C(C(C(O1)O)O)O)O[C@H]2C(C(C(C(O2)CO)O)O)O)O,C(C1[C@H](C(C(C(O1)O)O)O)O[C@H]2C(C(C(C(O2)CO)O)O)O)O,None,C(C1[C@H](C(C(C(O1)O)O)O)O[C@H]2C(C(C(C(O2)CO)O)O)O)O
+97,4,tert-Butyl-N-hydroxycarbamate: N-tert-Butoxycarbonylhydroxylamine; (36016-38-3),36016-38-3,CC(C)(C)OC(=O)NO,CC(C)(C)OC(=O)NO,CC(C)(C)OC(=O)NO,CC(C)(C)OC(=O)NO,CC(C)(C)OC(=O)NO,None,CC(C)(C)OC(=O)NO
+97,4,"Triethylamine: N,N-Diethylethanamine; (121-44-8)",121-44-8,CCN(CC)CC,CCN(CC)CC,CCN(CC)CC,CCN(CC)CC,CCN(CC)CC,None,CCN(CC)CC
+97,4,"Diphenylphosphinic chloride: Phosphinic chloride, diphenyl-; (1499-21-4)",1499-21-4,Cl[P](=O)(c1ccccc1)c2ccccc2,Cl[P](=O)(c1ccccc1)c2ccccc2,Cl[P](=O)(c1ccccc1)c2ccccc2,Cl[P](=O)(c1ccccc1)c2ccccc2,Cl[P](=O)(c1ccccc1)c2ccccc2,None,Cl[P](=O)(c1ccccc1)c2ccccc2
+97,4,"Citric acid: 2-Hydroxypropane-1,2,3-tricarboxylic acid; (72-99-9)",72-99-9,Not Found,Not Found,Not Found,C(C(=O)O)C(CC(=O)O)(C(=O)O)O,C(C(=O)O)C(CC(=O)O)(C(=O)O)O,None,C(C(=O)O)C(CC(=O)O)(C(=O)O)O
+97,4,Trimethoxybenzene; (634-36-6),634-36-6,COc1cccc(OC)c1OC,COc1cccc(OC)c1OC,COc1cccc(OC)c1OC,COc1cccc(OC)c1OC,COc1cccc(OC)c1OC,None,COc1cccc(OC)c1OC
+97,4,Methanesulfonic acid; (75-75-2),75-75-2,C[S](O)(=O)=O,C[S](O)(=O)=O,C[S](O)(=O)=O,C[S](O)(=O)=O,C[S](O)(=O)=O,None,C[S](O)(=O)=O
+97,4,Sodium hydroxide; (1310-73-2),1310-73-2,[OH-].[Na+],[OH-].[Na+],[OH-].[Na+],[OH-].[Na+],[OH-].[Na+],None,[OH-].[Na+]
+97,4,"Diisopropylethylamine: 2-Propanamine, N-ethyl-N-(1-methylethyl)-; (7087-68-5)",7087-68-5,CCN(C(C)C)C(C)C,CCN(C(C)C)C(C)C,CCN(C(C)C)C(C)C,CCN(C(C)C)C(C)C,CCN(C(C)C)C(C)C,None,CCN(C(C)C)C(C)C
