@@ -1,0 +1,710 @@
+path,item_num,summary
+science_2022_luosz_Deracemization through photochemical EZ isomerization of enamines,0,N/A
+science_2022_luosz_Deracemization through photochemical EZ isomerization of enamines,1," code name | chemical shifts and J | splitting modes | number of atom H |
+|-----------|-----------------|-----------------|------------------|"
+science_2022_luosz_Deracemization through photochemical EZ isomerization of enamines,2,"| code name | chemical shifts and J | splitting modes | number of atom H |
+|-----------|-----------------|-----------------|------------------|
+| 3aa | 7.33 (6.5 Hz), 7.21 (15.4, 7.9 Hz), 7.14-7.11, 6.81 (8.5 Hz), 6.67 (7.2 Hz), 5.65 (8.5 Hz), 3.53 (6.3 Hz), 3.03 (15.5, 5.6 Hz), 2.93-2.84, 2.76-2.68, 2.47 (12.8 Hz), 2.30-2.20, 2.10-2.03, 1.85 (3.2 Hz), 1.70-1.57 | d, dd, m, d, t, d, t, dt, m, m, d, m, m, d, m | 1, 3, 3, 2, 1, 1, 2, 1, 1, 1, 1, 2, 1, 1, 3 |
+| 3ad | 7.36-7.30, 7.18-7.09, 6.90 (12.8, 4.7 Hz), 6.76-6.71, 5.52 (8.4 Hz), 3.50 (10.2, 6.0 Hz), 3.00 (15.2, 5.8 Hz), 2.89-2.79, 2.76-2.72, 2.52-2.42, 2.33-2.19, 2.11-2.03, 1.87 (9.3 Hz), 1.76-1.51 | m, m, dd, m, d, dd, dt, m, m, m, m, m, d, m | 1, 3, 2, 2, 1, 2, 1, 1, 1, 1, 2, 1, 1, 3 |
+| 3ab | 7.37-7.30, 7.19-7.08, 6.72 (9.1 Hz), 5.60 (8.5 Hz), 3.57-3.42, 3.09-2.79, 2.77-2.62, 2.54-2.40, 2.38-2.15, 2.14-2.00, 1.88-1.82, 1.77-1.67 | m, m, d, d, m, m, m, m, m, m, m, m | 1, 5, 2, 1, 2, 2, 1, 1, 3, 1, 2, 1 |"
+science_2022_luosz_Deracemization through photochemical EZ isomerization of enamines,3," code name | chemical shifts and J | splitting modes | number of atom H |
+        |-----------|-----------------|-----------------|------------------|"
+science_2022_luosz_Deracemization through photochemical EZ isomerization of enamines,4,"| code name | chemical shifts and J | splitting modes | number of atom H |
+|-----------|-----------------------|-----------------|------------------|
+| N/A       | N/A                   | N/A             | N/A              |"
+science_2022_luosz_Deracemization through photochemical EZ isomerization of enamines,5, N/
+science_2022_luosz_Deracemization through photochemical EZ isomerization of enamines,6,"The provided text does not contain sufficient 1H NMR data corresponding to a specific code name. Therefore, the answer is:
+
+```
+| code name | chemical shifts and J | splitting modes | number of atom H |
+|-----------|------------------------|-----------------|------------------|
+| N/A       | N/A                    | N/A             | N/A              |
+```"
+science_2022_luosz_Deracemization through photochemical EZ isomerization of enamines,7,"| code name | chemical shifts and J | splitting modes | number of atom H |
+|-----------|-----------------|-----------------|------------------|
+| S1ab | 7.89(8.3Hz), 7.36(8.4Hz), 3.71-3.02, 2.51, 1.42-0.71 | d, d, m, s, m | 2, 2, 4, 3, 6 |
+| S1ae | 7.95(8.5Hz), 7.78(8.4Hz), 7.36-7.21, 7.20-7.09, 6.87(7.7Hz), 5.15-4.97, 3.77, 3.35-3.16, 2.60 | d, d, m, m, d, m, s, m, s | 2, 2, 3, 2, 1, 1, 3, 2, 3 |"
+science_2022_luosz_Deracemization through photochemical EZ isomerization of enamines,8,"| code name | chemical shifts and J | splitting modes | number of atom H |
+|-----------|-----------------------|-----------------|------------------|
+| S1ab      | 7.89(8.3Hz), 7.36(8.4Hz), 3.71-3.02, 2.51, 1.42-0.71 | d, d, m, s, m | 2, 2, 4, 3, 6 |
+| S1ae      | 7.95(8.5Hz), 7.78(8.4Hz), 7.36-7.21, 7.20-7.09, 6.87(7.7Hz), 5.15-4.97, 3.77, 3.35-3.16, 2.60 | d, d, m, m, d, m, s, m, s | 2, 2, 3, 2, 1, 1, 3, 2, 3 |
+| S1ac      | 7.95(8.1Hz), 7.81(8.1Hz), 4.76, 2.44, 0.00 | d, d, s, s, s | 2, 2, 2, 3, 9 |"
+science_2022_luosz_Deracemization through photochemical EZ isomerization of enamines,9,"| code name | chemical shifts and J | splitting modes | number of atom H |
+|-----------|-----------------------|-----------------|------------------|
+| N/A       | N/A                   | N/A             | N/A              |"
+science_2022_luosz_Deracemization through photochemical EZ isomerization of enamines,9,"| code name | chemical shifts and J | splitting modes | number of atom H |
+|-----------|-----------------|-----------------|------------------|
+| S1ac | 7.95(8.1Hz), 7.81(8.1Hz), 4.76, 2.44, 0.00 | d, d, s, s, s | 2, 2, 2, 3, 9 |
+| S1ad | 8.15(8.2Hz), 8.02(8.1Hz), 5.45(5.0Hz), 4.91(12.3Hz, 8.7Hz, 4.5Hz), 2.67, 2.50(8.0Hz), 2.09-1.92, 1.91-1.71, 1.67-0.97, 0.95(6.5Hz), 0.89(6.7Hz, 1.8Hz), 0.71 | d, d, d, dtd, s, d, m, m, m, d, dd, s | 2, 2, 1, 1, 3, 2, 4, 2, 23, 3, 6, 3 |"
+science_2022_luosz_Deracemization through photochemical EZ isomerization of enamines,10,"| code name | chemical shifts and J | splitting modes | number of atom H |
+|-----------|-----------------------|-----------------|------------------|
+| N/A       | N/A                   | N/A             | N/A              |"
+science_2022_luosz_Deracemization through photochemical EZ isomerization of enamines,10,"| code name | chemical shifts and J | splitting modes | number of atom H |
+|-----------|-----------------|-----------------|------------------|
+| 2b | 9.69, 7.22(7.8Hz), 7.13(8.0Hz), 3.63(7.2Hz), 2.38, 1.45(7.0Hz) | s, d, d, q, s, d | 1, 2, 2, 1, 3, 3 |
+| 2c | 9.70(1.4Hz), 7.33-7.24, 7.15(7.6Hz), 7.04(6.1Hz), 3.62(7.0Hz), 2.39, 1.46(7.1Hz) | d, m, d, d, q, s, d | 1, 1, 1, 2, 1, 2, 2 |"
+science_2022_luosz_Deracemization through photochemical EZ isomerization of enamines,11,"| code name | chemical shifts and J | splitting modes | number of atom H |
+|-----------|-----------------------|-----------------|------------------|
+| 2b        | 9.69, 7.22(7.8Hz), 7.13(8.0Hz), 3.63(7.2Hz), 2.38, 1.45(7.0Hz) | s, d, d, q, s, d | 1, 2, 2, 1, 3, 3 |"
+science_2022_luosz_Deracemization through photochemical EZ isomerization of enamines,11,"| code name | chemical shifts and J | splitting modes | number of atom H |
+|-----------|-----------------|-----------------|------------------|
+| 2c | 9.70(1.4Hz), 7.33-7.24, 7.15(7.6Hz), 7.04(6.1Hz), 3.62(7.0Hz), 2.39, 1.46(7.1Hz) | d, m, d, d, q, s, d | 1, 1, 1, 2, 1, 2, 2 |
+| 2d | 9.70(1.5Hz), 7.21-7.11, 3.63(7.1Hz, 1.5Hz), 2.50(7.2Hz), 1.89(13.5Hz, 6.8Hz), 1.46(7.1Hz), 0.93(6.6Hz) | d, m, qd, d, dp, d, d | 1, 4, 1, 2, 1, 3, 6 |
+| 2e | 9.77, 7.65(8.8Hz, 7.3Hz), 7.50(7.7Hz), 7.46-7.37, 7.34(8.2Hz), 3.73(7.0Hz, 1.3Hz), 1.54(7.1Hz) | s, m, t, m, d, qd, d | 1, 4, 2, 1, 2, 1, 3 |"
+science_2022_luosz_Deracemization through photochemical EZ isomerization of enamines,12,"| code name | chemical shifts and J | splitting modes | number of atom H |
+|-----------|-----------------------|-----------------|------------------|
+| 2d        | 9.70(1.5Hz), 7.21-7.11, 3.63(7.1Hz, 1.5Hz), 2.50(7.2Hz), 1.89(13.5Hz, 6.8Hz), 1.46(7.1Hz), 0.93(6.6Hz) | d, m, qd, d, dp, d, d | 1, 4, 1, 2, 1, 3, 6 |"
+science_2022_luosz_Deracemization through photochemical EZ isomerization of enamines,12," ```
+| code name | chemical shifts and J | splitting modes | number of atom H |
+|-----------|-----------------------|-----------------|------------------|
+| 2e        | 9.77, 7.65(8.8Hz, 7.3Hz), 7.50(7.7Hz), 7.46-7.37, 7.34(8.2Hz), 3.73(7.0Hz, 1.3Hz), 1.54(7.1Hz) | s, m, t, m, d, qd, d | 1, 4, 2, 1, 2, 1, 3 |
+| 2f        | 9.69(1.4Hz), 7.20(8.6Hz, 5.3Hz), 7.09(8.6Hz), 3.65(7.1Hz, 1.3Hz), 1.46(7.1Hz) | d, dd, t, qd, d | 1, 2, 2, 1, 3 |
+| 2g        | 9.62, 7.29(8.0Hz, 5.9Hz), 7.00-6.86, 3.60(7.1Hz), 1.39(7.2Hz) | s, m, m, q, d | 1, 1, 3, 1, 3 |
+```"
+science_2022_luosz_Deracemization through photochemical EZ isomerization of enamines,13,"| code name | chemical shifts and J | splitting modes | number of atom H |
+|-----------|-----------------|-----------------|------------------|
+| N/A       | N/A             | N/A             | N/A              |"
+science_2022_luosz_Deracemization through photochemical EZ isomerization of enamines,13,"| code name | chemical shifts and J | splitting modes | number of atom H |
+|-----------|-----------------------|-----------------|------------------|
+| 2g | 9.62, 7.29(8.0Hz, 5.9Hz), 7.00-6.86, 3.60(7.1Hz), 1.39(7.2Hz) | s, m, m, q, d | 1, 1, 3, 1, 3 |
+| 2h | 9.68, 7.36(8.4Hz), 7.16(8.2Hz), 3.63(7.1Hz), 1.45(7.1Hz) | s, d, d, q, d | 1, 2, 2, 1, 3 |
+| 2i | 9.72(1.4Hz), 7.66(8.0Hz), 7.36(8.0Hz), 3.74(7.2Hz), 1.50(7.1Hz) | d, d, d, q, d | 1, 2, 2, 1, 3 |
+| 2j | 9.65(1.4Hz), 7.50(8.4Hz), 7.09(8.2Hz), 3.61(7.1Hz), 1.43(7.1Hz) | d, d, d, q, d | 1, 2, 2, 1, 3 |
+"
+science_2022_luosz_Deracemization through photochemical EZ isomerization of enamines,14,"| code name | chemical shifts and J | splitting modes | number of atom H |
+|-----------|-----------------|-----------------|------------------|
+| N/A | 9.68, 7.36(8.4Hz), 7.16(8.2Hz), 3.63(7.1Hz), 1.45(7.1Hz) | s, d, d, q, d | 1, 2, 2, 1, 3 |"
+science_2022_luosz_Deracemization through photochemical EZ isomerization of enamines,14," code name | chemical shifts and J | splitting modes | number of atom H |
+|-----------|-----------------|-----------------|------------------|----------------------|
+| 2i | 9.72(1.4Hz), 7.66(8.0Hz), 7.36(8.0Hz), 3.74(7.2Hz), 1.50(7.1Hz) | d, d, d, q, d | 1, 2, 2, 1, 3 |
+|2j | 9.65(1.4Hz), 7.50(8.4Hz), 7.09(8.2Hz), 3.61(7.1Hz), 1.43(7.1Hz) | d, d, d, q, d | 1, 2, 2, 1, 3 |
+| 2k | 9.72(1.3Hz), 8.14-7.99, 7.31(8.3Hz), 3.94, 3.73(7.1Hz, 1.3Hz), 1.50(7.1Hz) | d, m, d, s, qd, d | 1, 2, 2, 3, 1, 3 |
+| 2l | 9.68(1.3Hz), 7.19(10.3Hz, 8.3Hz), 7.05(11.1Hz, 7.4Hz, 2.2Hz), 6.96(8.1Hz, 3.9Hz, 1.8Hz), 3.64(7.1Hz, 1.3Hz), 1.46(7.1Hz) | d, dt, ddd, ddt, qd, d | 1, 1, 1, 1, 1, 3 |"
+science_2022_luosz_Deracemization through photochemical EZ isomerization of enamines,15," code name | chemical shifts and J | splitting modes | number of atom H |
+|-----------|-----------------|-----------------|------------------|"
+science_2022_luosz_Deracemization through photochemical EZ isomerization of enamines,15,"| code name | chemical shifts and J | splitting modes | number of atom H |
+|-----------|-----------------------|-----------------|------------------|
+| 2k        | 9.72(1.3Hz), 8.14-7.99, 7.31(8.3Hz), 3.94, 3.73(7.1Hz, 1.3Hz), 1.50(7.1Hz) | d, d, d, s, qd, d | 1, 2, 2, 3, 1, 3 |
+| 2l        | 9.68(1.3Hz), 7.19(10.3Hz, 8.3Hz), 7.05(11.1Hz, 7.4Hz, 2.2Hz), 6.96(8.1Hz, 3.9Hz, 1.8Hz), 3.64(7.1Hz, 1.3Hz), 1.46(7.1Hz) | d, dt, ddd, ddt, qd, d | 1, 1, 1, 1, 1, 3 |
+| 2m        | 9.75(1.4Hz), 7.57(8.1Hz, 1.5Hz), 7.51-7.45, 7.43-7.38, 7.12-7.03, 3.71(7.1Hz, 1.4Hz), 1.52(7.1Hz) | d, dt, m, m, m, qd, d | 1, 2, 3, 1, 2, 1, 3 |
+| 2n        | 9.67(1.5Hz), 7.15(8.6Hz), 6.94(8.7Hz), 3.83, 3.61(7.1Hz, 1.5Hz), 1.44(7.1Hz) | d, d, d, s, qd, d | 1, 2, 1, 3, 1, 3 |"
+science_2022_luosz_Deracemization through photochemical EZ isomerization of enamines,16,"| code name | chemical shifts and J | splitting modes | number of atom H |
+|-----------|-----------------|-----------------|------------------|
+| N/A | 9.75(1.4Hz), 7.57(8.1Hz, 1.5Hz), 7.51-7.45, 7.43-7.38, 7.12-7.03, 3.71(7.1Hz, 1.4Hz), 1.52(7.1Hz) | d, dt, m, m, m, qd, d | 1, 2, 3, 1, 2, 1, 3 |"
+science_2022_luosz_Deracemization through photochemical EZ isomerization of enamines,16,"| code name | chemical shifts and J | splitting modes | number of atom H |
+|-----------|-----------------------|-----------------|------------------|
+| 2n        | 9.67(1.5Hz), 7.15(8.6Hz), 6.94(8.7Hz), 3.83, 3.61(7.1Hz, 1.5Hz), 1.44(7.1Hz) | d, d, d, s, qd, d | 1, 2, 1, 3, 1, 3 |
+| 2o        | 9.71(1.5Hz), 7.40-7.34, 7.22-7.17, 7.17-7.12, 7.07-7.01, 3.65(7.1Hz, 1.4Hz), 1.47(7.1Hz) | d, m, m, m, m, qd, d | 1, 2, 2, 1, 4, 1, 3 |
+| 2p        | 9.71(1.4Hz), 7.43-7.31, 7.21-7.11, 7.08-7.01, 7.00-6.89, 3.63(7.0Hz, 1.4Hz), 1.46(7.1Hz) | d, m, m, m, m, qd, d | 1, 3, 1, 2, 3, 1, 3 |"
+science_2022_luosz_Deracemization through photochemical EZ isomerization of enamines,17,"| code name | chemical shifts and J | splitting modes | number of atom H |
+|-----------|-----------------------|-----------------|------------------|
+| N/A       | N/A                   | N/A             | N/A              |"
+science_2022_luosz_Deracemization through photochemical EZ isomerization of enamines,17," ```markdown
+| code name | chemical shifts and J | splitting modes | number of atom H |
+|-----------|-----------------------|-----------------|------------------|
+| 2p        | 9.71(1.4Hz), 7.43-7.31, 7.21-7.11, 7.08-7.01, 7.00-6.89, 3.63(7.0Hz, 1.4Hz), 1.46(7.1Hz) | d, m, m, m, m, qd, d | 1, 3, 1, 2, 3, 1, 3 |
+| 2q        | 9.67(1.7Hz), 6.90(8.2Hz, 1.8Hz), 6.78(8.2Hz, 2.1Hz), 6.70(1.9Hz), 3.90, 3.89, 3.59(7.0Hz, 1.7Hz), 1.44(7.1Hz, 2.1Hz) | d, dd, dt, d, s, s, qt, dd | 1, 1, 1, 1, 3, 3, 1, 3 |
+| 2r        | 9.65(1.6Hz), 6.83(7.8Hz), 6.75-6.60, 5.98, 3.57(7.0Hz), 1.42(7.1Hz) | d, d, m, s, q, d | 1, 1, 2, 2, 1, 3 |
+| 2s        | 9.66(1.4Hz), 7.04-6.86, 3.91, 3.59(7.1Hz, 1.4Hz), 1.43(7.1Hz) | d, m, s, qd, d | 1, 3, 3, 1, 3 |
+```"
+science_2022_luosz_Deracemization through photochemical EZ isomerization of enamines,18,"| code name | chemical shifts and J | splitting modes | number of atom H |
+|-----------|-----------------|-----------------|------------------|
+| N/A | 9.67(1.7Hz), 6.90(8.2Hz, 1.8Hz), 6.78(8.2Hz, 2.1Hz), 6.70(1.9Hz), 3.90, 3.89, 3.59(7.0Hz, 1.7Hz), 1.44(7.1Hz, 2.1Hz) | d, dd, dt, d, s, s, qt, dd | 1, 1, 1, 1, 3, 3, 1, 3 |"
+science_2022_luosz_Deracemization through photochemical EZ isomerization of enamines,18,"```markdown
+| code name | chemical shifts and J | splitting modes | number of atom H |
+|-----------|-----------------------|-----------------|------------------|
+| 2r        | 9.65(1.6Hz), 6.83(7.8Hz), 6.75-6.60, 5.98, 3.57(7.0Hz), 1.42(7.1Hz) | d, d, m, s, q, d | 1, 1, 2, 2, 1, 3 |
+| 2s        | 9.66(1.4Hz), 7.04-6.86, 3.91, 3.59(7.1Hz, 1.4Hz), 1.43(7.1Hz) | d, m, s, qd, d | 1, 3, 3, 1, 3 |
+| 2t        | 9.68(1.4Hz), 7.33-7.25, 7.19-7.12, 3.62(7.1Hz, 1.4Hz), 2.51, 1.45(7.1Hz) | d, m, m, qd, s, d | 1, 2, 2, 1, 3, 3 |
+| 2u        | 9.65(1.6Hz), 7.14-7.03, 6.79-6.72, 3.56(7.0Hz, 1.6Hz), 2.97, 1.42(7.1Hz) | d, m, m, qd, s, d | 1, 2, 2, 1, 6, 3 |
+```"
+science_2022_luosz_Deracemization through photochemical EZ isomerization of enamines,19,"| code name | chemical shifts and J | splitting modes | number of atom H |
+|-----------|-----------------------|-----------------|------------------|
+| 3aa       | 7.33 (6.5 Hz), 7.21 (15.4 Hz, 7.9 Hz), 7.14-7.11, 6.81 (8.5 Hz), 6.67 (7.2 Hz), 5.65 (8.5 Hz), 3.53 (6.3 Hz), 3.03 (15.5 Hz, 5.6 Hz), 2.93-2.84, 2.76-2.68, 2.47 (12.8 Hz), 2.30-2.20, 2.10-2.03, 1.85 (3.2 Hz), 1.70-1.57 | d, dd, m, d, t, d, t, dt, m, m, d, m, m, d, m | 1, 3, 3, 2, 1, 1, 2, 1, 1, 1, 1, 2, 1, 1, 3 |
+| 3ad       | 7.36-7.30, 7.18-7.09, 6.90 (12.8 Hz, 4.7 Hz), 6.76-6.71, 5.52 (8.4 Hz), 3.50 (10.2 Hz, 6.0 Hz), 3.00 (15.2 Hz, 5.8 Hz), 2.89-2.79, 2.76-2.72, 2.52-2.42, 2.33-2.19, 2.11-2.03, 1.87 (9.3 Hz), 1.76-1.51 | m, m, dd, m, d, dd, dt, m, m, m, m, m, d, m | 1, 3, 2, 2, 1, 2, 1, 1, 1, 1, 2, 1, 1, 3 |
+| 3ab       | 7.37-7.30, 7.19-7.08, 6.72 (9.1 Hz), 5.60 (8.5 Hz), 3.57-3.42, 3.09-2.79, 2.77-2.62, 2.54-2.40, 2.38-2.15, 2.14-2.00, 1.88-1.82, 1.77-1.67 | m, m, d, d, m, m, m, m, m, m, m, m | 1, 5, 2, 1, 2, 2, 1, 1, 3, 1, 2, 1 |"
+science_2022_luosz_Deracemization through photochemical EZ isomerization of enamines,19," ```markdown
+| code name | chemical shifts and J | splitting modes | number of atom H |
+|-----------|-----------------------|-----------------|------------------|
+| 2t        | 9.68(1.4Hz), 7.33-7.25, 7.19-7.12, 3.62(7.1Hz, 1.4Hz), 2.51, 1.45(7.1Hz) | d, m, m, qd, s, d | 1, 2, 2, 1, 3, 3 |
+| 2u        | 9.65(1.6Hz), 7.14-7.03, 6.79-6.72, 3.56(7.0Hz, 1.6Hz), 2.97, 1.42(7.1Hz) | d, m, m, qd, s, d | 1, 2, 2, 1, 6, 3 |
+| 2v        | 9.65(1.4Hz), 7.18(8.2Hz), 7.12(8.2Hz), 3.65-3.56, 3.13(13.9Hz, 4.2Hz), 2.54(13.9Hz, 9.4Hz), 2.40-2.26, 2.17-2.02, 2.02-1.89, 1.73(19.0Hz, 10.6Hz), 1.55(10.8Hz, 6.3Hz, 3.0Hz), 1.42(7.1Hz) | d, d, d, m, dd, dd, m, m, m, td, ddd, d | 1, 2, 2, 1, 1, 1, 2, 2, 1, 1, 1, 3 |
+| 2w        | 9.80(1.5Hz), 7.95-7.79, 7.76-7.67, 7.60-7.44, 7.35(8.5Hz, 1.8Hz), 3.83(7.1Hz, 1.5Hz), 1.57(7.0Hz) | d, m, m, m, dd, qd, d | 1, 3, 1, 2, 1, 1, 3 |
+```"
+science_2022_luosz_Deracemization through photochemical EZ isomerization of enamines,20,"| code name | chemical shifts and J | splitting modes | number of atom H |
+|-----------|-----------------|-----------------|------------------|
+N/A"
+science_2022_luosz_Deracemization through photochemical EZ isomerization of enamines,20," code name | chemical shifts and J | splitting modes | number of atom H |
+|-----------|-----------------|-----------------|------------------|----------------------|
+| 2v | 9.65(1.4Hz), 7.18(8.2Hz), 7.12(8.2Hz), 3.65-3.56, 3.13(13.9Hz, 4.2Hz), 2.54(13.9Hz, 9.4Hz), 2.40-2.26, 2.17-2.02, 2.02-1.89, 1.73(19.0Hz,10.6Hz), 1.55(10.8Hz, 6.3Hz, 3.0Hz), 1.42(7.1Hz) | d, d, d, m, dd, dd, m, m, m, td, ddd, d | 1, 2, 2, 1, 1, 1, 2, 2, 1 1, 1, 3 |
+| 2w | 9.80(1.5Hz), 7.95-7.79, 7.76-7.67, 7.60-7.44, 7.35(8.5Hz, 1.8Hz), 3.83(7.1Hz, 1.5Hz), 1.57(7.0Hz) | d, m, m, m, dd, qd, d | 1, 3, 1, 2, 1, 1, 3 |
+| 2x | 9.78(2.6Hz), 7.41(7.4Hz), 7.38-7.32, 7.32-7.26, 2.84(10.0Hz, 2.2Hz), 1.42-1.30, 0.78(8.3Hz, 5.2Hz), 0.69-0.60, 0.41(10.5Hz, 5.3Hz), 0.26(10.0Hz, 5.1 Hz) | d, t, m, m, dt, m, tt, m, dq, dq | 1, 2, 1, 2, 1, 1, 1, 1, 1, 1 |"
+science_2022_luosz_Deracemization through photochemical EZ isomerization of enamines,21,"| code name | chemical shifts and J | splitting modes | number of atom H |
+|-----------|-----------------------|-----------------|------------------|
+| 3aa       | 7.33(6.5Hz), 7.21(15.4Hz, 7.9Hz), 7.14-7.11, 6.81(8.5Hz), 6.67(7.2Hz), 5.65(8.5Hz), 3.53(6.3Hz), 3.03(15.5Hz, 5.6Hz), 2.93-2.84, 2.76-2.68, 2.47(12.8Hz), 2.30-2.20, 2.10-2.03, 1.85(3.2Hz), 1.70-1.57 | d, dd, m, d, t, d, t, dt, m, m, d, m, m, d, m | 1, 3, 3, 2, 1, 1, 2, 1, 1, 1, 1, 2, 1, 1, 3 |
+| 3ad       | 7.36-7.30, 7.18-7.09, 6.90(12.8Hz, 4.7Hz), 6.76-6.71, 5.52(8.4Hz), 3.50(10.2Hz, 6.0Hz), 3.00(15.2Hz, 5.8Hz), 2.89-2.79, 2.76-2.72, 2.52-2.42, 2.33-2.19, 2.11-2.03, 1.87(9.3Hz), 1.76-1.51 | m, m, dd, m, d, dd, dt, m, m, m, m, m, d, m | 1, 3, 2, 2, 1, 2, 1, 1, 1, 1, 2, 1, 1, 3 |
+| 3ab       | 7.37-7.30, 7.19-7.08, 6.72(9.1Hz), 5.60(8.5Hz), 3.57-3.42, 3.09-2.79, 2.77-2.62, 2.54-2.40, 2.38-2.15, 2.14-2.00, 1.88-1.82, 1.77-1.67 | m, m, d, d, m, m, m, m, m, m, m, m | 1, 5, 2, 1, 2, 2, 1, 1, 3, 1, 2, 1 |"
+science_2022_luosz_Deracemization through photochemical EZ isomerization of enamines,21,"| code name | chemical shifts and J | splitting modes | number of atom H |
+|-----------|-----------------|-----------------|------------------|
+| 2x | 9.78(2.6Hz), 7.41(7.4Hz), 7.38-7.32, 7.32-7.26, 2.84(10.0Hz, 2.2Hz), 1.42-1.30, 0.78(8.3Hz, 5.2Hz), 0.69-0.60, 0.41(10.5Hz, 5.3Hz), 0.26(10.0Hz, 5.1Hz) | d, t, m, m, dt, m, tt, m, dq, dq | 1, 2, 1, 2, 1, 1, 1, 1, 1, 1 |
+| 2y | 9.70(2.0Hz), 7.40(7.5Hz), 7.33(7.3Hz), 7.22(7.3Hz), 3.51-3.26, 2.14(14.2Hz, 7.1Hz), 1.79(14.5Hz, 7.5Hz), 0.93(7.4Hz) | d, t, t, d, m, dt, dt, t | 1, 2, 1, 2, 1, 1, 1, 3 |
+| 2z | 9.71(2.2Hz), 7.28-7.19, 7.22-7.15, 3.62(6.6Hz, 6.2Hz, 2.0Hz), 2.82(6.3Hz), 2.32-2.20, 2.03-1.90, 1.89-1.77 | d, m, m, td, t, m, m, m | 1, 2, 2, 1, 2, 1, 1, 1 |
+| 2aa | N/A | N/A | N/A |"
+science_2022_luosz_Deracemization through photochemical EZ isomerization of enamines,22,"| code name | chemical shifts and J | splitting modes | number of atom H |
+|-----------|-----------------------|-----------------|------------------|
+| N/A       | 9.70(2.0Hz), 7.40(7.5Hz), 7.33(7.3Hz), 7.22(7.3Hz), 3.51-3.26, 2.14(14.2Hz, 7.1Hz), 1.79(14.5Hz, 7.5Hz), 0.93(7.4Hz) | d, t, t, d, m, dt, dt, t | 1, 2, 1, 2, 1, 1, 1, 3 |"
+science_2022_luosz_Deracemization through photochemical EZ isomerization of enamines,22,"| code name | chemical shifts and J | splitting modes | number of atom H |
+|-----------|-----------------------|-----------------|------------------|
+| 2z | 9.71(2.2Hz), 7.28-7.19, 7.22-7.15, 3.62(6.6Hz, 6.2Hz, 2.0Hz), 2.82(6.3Hz), 2.32-2.20, 2.03-1.90, 1.89-1.77 | d, m, m, td, t, m, m, m | 1, 2, 2, 1, 2, 1, 1, 1 |
+| 2aa | 9.71(1.5Hz), 7.24-7.11, 7.04, 6.89-6.84, 3.79, 3.78(7.3Hz, 1.4Hz), 3.43(14.0Hz, 6.7Hz), 2.93(14.0Hz, 8.0Hz) | d, m, m, m, s, td, dABq, dABq | 1, 3, 4, 2, 3, 1, 1, 1 |
+| 2ab | 9.68(1.3Hz), 7.38(7.9Hz), 7.25, 3.66(7.1Hz), 3.59-3.20, 1.45(7.1Hz), 1.31-1.05 | d, d, d, q, m, d, m | 1, 2, 2, 1, 4, 3, 6 |
+| 2ac | 9.71(1.4Hz), 8.10(8.2Hz), 7.32(8.4Hz), 4.95, 3.78-3.69, 1.49(7.0Hz), 0.21 | d, d, d, s, m, d, s | 1, 2, 2, 2, 1, 3, 9 |"
+science_2022_luosz_Deracemization through photochemical EZ isomerization of enamines,23,"| code name | chemical shifts and J | splitting modes | number of atom H |
+|-----------|-----------------|-----------------|------------------|
+| N/A | 9.71(1.5Hz), 7.24-7.11, 7.04, 6.89-6.84, 3.79, 3.78(7.3Hz, 1.4Hz), 3.43(14.0Hz, 6.7Hz), 2.93(14.0Hz, 8.0Hz) | d, m, m, m, s, td, dABq, dABq | 1, 3, 4, 2, 3, 1, 1, 1 |"
+science_2022_luosz_Deracemization through photochemical EZ isomerization of enamines,23,"| code name | chemical shifts and J | splitting modes | number of atom H |
+|-----------|-----------------------|-----------------|------------------|
+| 2ab       | 9.68 (1.3Hz), 7.38 (7.9Hz), 7.25, 3.66 (7.1Hz), 3.59-3.20, 1.45 (7.1Hz), 1.31-1.05 | d, d, d, q, m, d, m | 1, 2, 2, 1, 4, 3, 6 |
+| 2ac       | 9.71 (1.4Hz), 8.10 (8.2Hz), 7.32 (8.4Hz), 4.95, 3.78-3.69, 1.49 (7.0Hz), 0.21 | d, d, d, s, m, d, s | 1, 2, 2, 2, 1, 3, 9 |
+| 2ad       | 9.71 (1.3Hz), 8.07 (8.0Hz), 7.35-7.22, 5.44 (5.1Hz), 4.88 (12.5Hz, 8.5Hz, 4.5Hz), 3.73 (7.1Hz), 2.49 (7.9Hz), 2.10-1.88, 1.67-1.45, 1.41-1.33, 1.29-1.00, 0.95 (6.5Hz), 0.89 (6.5Hz, 1.8Hz), 0.71 | d, d, m, d, dtd, q, t, m, m, m, m, d, dd, s | 1, 2, 2, 1, 1, 1, 2, 5, 10, 3, 14, 3, 6, 3 |"
+science_2022_luosz_Deracemization through photochemical EZ isomerization of enamines,24,N/A
+science_2022_luosz_Deracemization through photochemical EZ isomerization of enamines,24,"| code name | chemical shifts and J | splitting modes | number of atom H |
+|-----------|-----------------|-----------------|------------------|
+| 2ad | 9.71(1.3Hz), 8.07(8.0Hz), 7.35-7.22, 5.44(5.1Hz), 4.88(12.5Hz, 8.5Hz, 4.5Hz), 3.73(7.1Hz), 2.49(7.9Hz), 2.10-1.88, 1.67-1.45, 1.41-1.33, 1.29-1.00, 0.95(6.5Hz), 0.89(6.5Hz, 1.8Hz), 0.71 | d, d, m, d, dtd, q, t, m, m, m, m, d, dd, s | 1, 2, 2, 1, 1, 1, 2, 5, 10, 3, 14, 3, 6, 3 |
+| 2ae | 9.68, 7.74(7.9Hz), 7.37-7.22, 7.17-7.07, 6.57(7.7Hz), 5.09(7.6Hz, 5.5Hz), 3.77, 3.69(7.1Hz), 3.34-3.20, 1.47(7.2Hz) | s, d, m, m, d, dt, s, d, m, d | 1, 2, 7, 3, 1, 1, 3, 1, 2, 3 |
+| 2af | 9.67(1.8Hz), 7.38(5.0Hz, 2.9Hz), 7.21-7.11, 7.01(4.9Hz, 1.4Hz), 3.77(7.2Hz, 1.8Hz), 1.48(7.1Hz) | d, dd, m, dd, dd, d | 1, 1, 1, 1, 1, 3 |
+| 2ag | N/A | N/A | N/A |"
+science_2022_luosz_Deracemization through photochemical EZ isomerization of enamines,25,"The input text does not contain a code name for the molecule, making it impossible to match the provided 1H NMR data to a specific molecule. Therefore, the answer is:
+
+| code name | chemical shifts and J | splitting modes | number of atom H |
+|-----------|-----------------------|-----------------|------------------|
+| N/A       | N/A                   | N/A             | N/A              |"
+science_2022_luosz_Deracemization through photochemical EZ isomerization of enamines,25,"| code name | chemical shifts and J | splitting modes | number of atom H |
+|-----------|-----------------|-----------------|------------------|
+| 2af | 9.67(1.8Hz), 7.38(5.0Hz, 2.9Hz), 7.21-7.11, 7.01(4.9Hz, 1.4Hz), 3.77(7.2Hz, 1.8Hz), 1.48(7.1Hz) | d, dd, m, dd, dd, d | 1, 1, 1, 1, 1, 3 |
+| 2ag | 9.79(1.4Hz), 7.97(7.8Hz, 1.5Hz), 7.81(1.9Hz), 7.60(8.5Hz, 1.5Hz), 7.54-7.46, 7.42-7.36, 7.32(8.4Hz, 1.9Hz), 3.84(qd, 7.0Hz, 1.4Hz), 1.57(7.1Hz) | d, dd, d, dd, m, m, dd, qd, d | 1, 1, 1, 2, 1, 1, 1, 1, 3 |
+| 2ah | 9.69(1.0Hz), 8.38(5.2Hz, 1.6Hz), 7.25-7.17, 7.10(5.1Hz, 1.5Hz), 3.67(q, 7.2Hz), 1.49(dt, 7.3Hz, 1.0Hz) | d, dd, m, dd, q, dt | 1, 1, 1, 1, 1, 3 |"
+science_2022_luosz_Deracemization through photochemical EZ isomerization of enamines,26,"| code name | chemical shifts and J | splitting modes | number of atom H |
+|-----------|-----------------|-----------------|------------------|
+| N/A | 9.79(1.4Hz), 7.97(7.8Hz, 1.5Hz), 7.81(1.9Hz), 7.60(8.5Hz, 1.5Hz), 7.54-7.46, 7.42-7.36, 7.32(8.4Hz, 1.9Hz), 3.84(7.0Hz, 1.4Hz), 1.57(7.1Hz) | d, dd, d, dd, m, m, dd, qd, d | 1, 1, 1, 2, 1, 1, 1, 1, 3 |"
+science_2022_luosz_Deracemization through photochemical EZ isomerization of enamines,26,"| code name | chemical shifts and J | splitting modes | number of atom H |
+|-----------|-----------------|-----------------|------------------|
+| 2ah | 9.69(1.0Hz), 8.38(5.2Hz, 1.6Hz), 7.25-7.17, 7.10(5.1Hz, 1.5Hz), 3.67(7.2Hz), 1.49(7.3Hz, 1.0Hz) | d, dd, m, dd, q, dt | 1, 1, 1, 1, 1, 3 |
+"
+science_2022_luosz_Deracemization through photochemical EZ isomerization of enamines,27,"The provided text does not contain any 1H NMR data corresponding to any specific code name. Therefore, the answer is “N/A”.
+
+| code name | chemical shifts and J | splitting modes | number of atom H |
+|-----------|-----------------------|-----------------|------------------|
+| N/A       | N/A                   | N/A             | N/A              |"
+science_2022_luosz_Deracemization through photochemical EZ isomerization of enamines,28,N/A
+science_2022_luosz_Deracemization through photochemical EZ isomerization of enamines,29,"| code name | chemical shifts and J | splitting modes | number of atom H |
+|-----------|-----------------------|-----------------|------------------|
+| 3aa | 7.33(6.5Hz), 7.21(15.4Hz, 7.9Hz), 7.14-7.11, 6.81(8.5Hz), 6.67(7.2Hz), 5.65(8.5Hz), 3.53(6.3Hz), 3.03(15.5Hz, 5.6Hz), 2.93-2.84, 2.76-2.68, 2.47(12.8Hz), 2.30-2.20, 2.10-2.03, 1.85(3.2Hz), 1.70-1.57 | d, dd, m, d, t, d, t, dt, m, m, d, m, m, d, m | 1, 3, 3, 2, 1, 1, 2, 1, 1, 1, 1, 2, 1, 1, 3 |
+| 3ad | 7.36-7.30, 7.18-7.09, 6.90(12.8Hz, 4.7Hz), 6.76-6.71, 5.52(8.4Hz), 3.50(10.2Hz, 6.0Hz), 3.00(15.2Hz, 5.8Hz), 2.89-2.79, 2.76-2.72, 2.52-2.42, 2.33-2.19, 2.11-2.03, 1.87(9.3Hz), 1.76-1.51 | m, m, dd, m, d, dd, dt, m, m, m, m, m, d, m | 1, 3, 2, 2, 1, 2, 1, 1, 1, 1, 2, 1, 1, 3 |
+| 3ab | 7.37-7.30, 7.19-7.08, 6.72(9.1Hz), 5.60(8.5Hz), 3.57-3.42, 3.09-2.79, 2.77-2.62, 2.54-2.40, 2.38-2.15, 2.14-2.00, 1.88-1.82, 1.77-1.67 | m, m, d, d, m, m, m, m, m, m, m, m | 1, 5, 2, 1, 2, 2, 1, 1, 3, 1, 2, 1 |"
+science_2022_luosz_Deracemization through photochemical EZ isomerization of enamines,30,"| code name | chemical shifts and J | splitting modes | number of atom H |
+|-----------|-----------------|-----------------|------------------|"
+science_2022_luosz_Deracemization through photochemical EZ isomerization of enamines,31,"| code name | chemical shifts and J | splitting modes | number of atom H |
+|-----------|-----------------------|-----------------|------------------|
+| N/A       | N/A                   | N/A             | N/A              |"
+science_2022_luosz_Deracemization through photochemical EZ isomerization of enamines,32,N/A
+science_2022_luosz_Deracemization through photochemical EZ isomerization of enamines,33,N/A
+science_2022_luosz_Deracemization through photochemical EZ isomerization of enamines,34,"The provided text does not contain 1H NMR data.
+
+Answer:
+| code name | chemical shifts and J | splitting modes | number of atom H |
+|-----------|-----------------------|-----------------|------------------|
+| N/A       | N/A                   | N/A             | N/A              |"
+science_2022_luosz_Deracemization through photochemical EZ isomerization of enamines,35,N/A
+science_2022_luosz_Deracemization through photochemical EZ isomerization of enamines,36," code name | chemical shifts and J | splitting modes | number of atom H |
+|-----------|-----------------|-----------------|------------------|"
+science_2022_luosz_Deracemization through photochemical EZ isomerization of enamines,37,"```markdown
+| code name | chemical shifts and J | splitting modes | number of atom H |
+|-----------|-----------------------|-----------------|------------------|
+| 3aa | 7.33(6.5Hz), 7.21(15.4Hz, 7.9Hz), 7.14-7.11, 6.81(8.5Hz), 6.67(7.2Hz), 5.65(8.5Hz), 3.53(6.3Hz), 3.03(15.5Hz, 5.6Hz), 2.93-2.84, 2.76-2.68, 2.47(12.8Hz), 2.30-2.20, 2.10-2.03, 1.85(3.2Hz), 1.70-1.57 | d, dd, m, d, t, d, t, dt, m, m, d, m, m, d, m | 1, 3, 3, 2, 1, 1, 2, 1, 1, 1, 1, 2, 1, 1, 3 |
+| 3ad | 7.36-7.30, 7.18-7.09, 6.90(12.8Hz, 4.7Hz), 6.76-6.71, 5.52(8.4Hz), 3.50(10.2Hz, 6.0Hz), 3.00(15.2Hz, 5.8Hz), 2.89-2.79, 2.76-2.72, 2.52-2.42, 2.33-2.19, 2.11-2.03, 1.87(9.3Hz), 1.76-1.51 | m, m, dd, m, d, dd, dt, m, m, m, m, m, d, m | 1, 3, 2, 2, 1, 2, 1, 1, 1, 1, 2, 1, 1, 3 |
+| 3ab | 7.37-7.30, 7.19-7.08, 6.72(9.1Hz), 5.60(8.5Hz), 3.57-3.42, 3.09-2.79, 2.77-2.62, 2.54-2.40, 2.38-2.15, 2.14-2.00, 1.88-1.82, 1.77-1.67 | m, m, d, d, m, m, m, m, m, m, m, m | 1, 5, 2, 1, 2, 2, 1, 1, 3, 1, 2, 1 |
+```
+
+"
+science_2022_luosz_Deracemization through photochemical EZ isomerization of enamines,38,"| code name | chemical shifts and J | splitting modes | number of atom H |
+|-----------|-----------------------|-----------------|------------------|
+| 3aa       | 7.33 (6.5 Hz), 7.21 (15.4, 7.9 Hz), 7.14-7.11, 6.81 (8.5 Hz), 6.67 (7.2 Hz), 5.65 (8.5 Hz), 3.53 (6.3 Hz), 3.03 (15.5, 5.6 Hz), 2.93-2.84, 2.76-2.68, 2.47 (12.8 Hz), 2.30-2.20, 2.10-2.03, 1.85 (3.2 Hz), 1.70-1.57 | d, dd, m, d, t, d, t, dt, m, m, d, m, m, d, m | 1, 3, 3, 2, 1, 1, 2, 1, 1, 1, 1, 2, 1, 1, 3 |
+| 3ad       | 7.36-7.30, 7.18-7.09, 6.90 (12.8, 4.7 Hz), 6.76-6.71, 5.52 (8.4 Hz), 3.50 (10.2, 6.0 Hz), 3.00 (15.2, 5.8 Hz), 2.89-2.79, 2.76-2.72, 2.52-2.42, 2.33-2.19, 2.11-2.03, 1.87 (9.3 Hz), 1.76-1.51 | m, m, dd, m, d, dd, dt, m, m, m, m, m, d, m | 1, 3, 2, 2, 1, 2, 1, 1, 1, 1, 2, 1, 1, 3 |
+| 3ab       | 7.37-7.30, 7.19-7.08, 6.72 (9.1 Hz), 5.60 (8.5 Hz), 3.57-3.42, 3.09-2.79, 2.77-2.62, 2.54-2.40, 2.38-2.15, 2.14-2.00, 1.88-1.82, 1.77-1.67 | m, m, d, d, m, m, m, m, m, m, m, m | 1, 5, 2, 1, 2, 2, 1, 1, 3, 1, 2, 1 |"
+science_2022_luosz_Deracemization through photochemical EZ isomerization of enamines,39,"The provided input text does not contain 1H NMR data associated with any specific code name. Therefore, the answer is:
+
+| code name | chemical shifts and J | splitting modes | number of atom H |
+|-----------|-----------------|-----------------|------------------|
+| N/A       | N/A             | N/A             | N/A              |"
+science_2022_luosz_Deracemization through photochemical EZ isomerization of enamines,40,"N/A
+"
+science_2022_luosz_Deracemization through photochemical EZ isomerization of enamines,41, N/
+science_2022_luosz_Deracemization through photochemical EZ isomerization of enamines,42,"| code name | chemical shifts and J | splitting modes | number of atom H |
+|-----------|-----------------|-----------------|------------------|
+| 3p | 7.41-7.27, 7.18-7.10, 7.08-7.03, 7.03-6.98, 6.96(2.1Hz), 6.89(8.2Hz, 2.5Hz), 3.71(6.8Hz), 2.96(6.9Hz), 1.54, 1.29(6.8Hz) | m, m, m, m, t, dd, d, q, s, d | 3, 1, 2, 1, 1, 1, 2, 1, 1, 3 |"
+science_2022_luosz_Deracemization through photochemical EZ isomerization of enamines,43,"| code name | chemical shifts and J | splitting modes | number of atom H |
+|-----------|-----------------------|-----------------|------------------|
+| 3p        | 7.41-7.27, 7.18-7.10, 7.08-7.03, 7.03-6.98, 6.96(2.1Hz), 6.89(8.2Hz, 2.5Hz), 3.71(6.8Hz), 2.96(6.9Hz), 1.54, 1.29(6.8Hz) | m, m, m, m, t, dd, d, q, s, d | 3, 1, 2, 1, 1, 1, 2, 1, 1, 3 |
+| 4p        | 10.03, 7.81(7.7Hz), 7.70(6.4Hz), 7.46(7.3Hz), 7.41-7.27, 7.23(7.9Hz), 7.10(7.4Hz), 7.01-6.88, 6.84(8.3Hz), 3.77-3.69, 1.43(10.1Hz, 7.3Hz) | s, d, d, t, m, t, t, m, d, m, dd | 1, 2, 1, 1, 4, 1, 1, 4, 1, 1, 3 |"
+science_2022_luosz_Deracemization through photochemical EZ isomerization of enamines,44,"| code name | chemical shifts and J | splitting modes | number of atom H |
+|-----------|-----------------------|-----------------|------------------|
+| 4p | 10.03, 7.81(7.7Hz), 7.70(6.4Hz), 7.46(7.3Hz), 7.41-7.27, 7.23(7.9Hz), 7.10(7.4Hz), 7.01-6.88, 6.84(8.3Hz), 3.77-3.69, 1.43(10.1Hz, 7.3Hz) | s, d, d, t, m, t, t, m, d, m, dd | 1, 2, 1, 1, 4, 1, 1, 4, 1, 1, 3 |"
+science_2022_luosz_Deracemization through photochemical EZ isomerization of enamines,44,"| code name | chemical shifts and J | splitting modes | number of atom H |
+|-----------|-----------------------|-----------------|------------------|
+| (R)-Ibuprofen (5d) | 11.58, 7.27(8.1Hz), 7.15(8.4Hz), 3.76(7.1Hz), 2.50(7.1Hz), 1.90, 1.55(7.1Hz), 0.95(6.6Hz) | br, d, d, q, d, m, d, d | 1, 2, 2, 1, 2, 1, 3, 6 |
+| (R)-Flurbiprofen (5m) | 11.77, 7.63(7.6Hz), 7.58-7.41, 7.31-7.22, 3.88(7.1Hz), 1.65(7.2Hz) | s, d, m, m, q, d | 1, 2, 4, 2, 1, 3 |"
+science_2022_luosz_Deracemization through photochemical EZ isomerization of enamines,45,"| code name | chemical shifts and J | splitting modes | number of atom H |
+|-----------|------------------------|----------------|------------------|
+| (R)-Ibuprofen (5d) | 11.58, 7.27(8.1Hz), 7.15(8.4Hz), 3.76(7.1Hz), 2.50(7.1Hz), 1.90, 1.55(7.1Hz), 0.95(6.6Hz) | br, d, d, q, d, m, d, d | 1, 2, 2, 1, 2, 1, 3, 6 |
+| (R)-Flurbiprofen (5m) | 11.77, 7.63(7.6Hz), 7.58-7.41, 7.31-7.22, 3.88(7.1Hz), 1.65(7.2Hz) | s, d, m, m, q, d | 1, 2, 4, 2, 1, 3 |
+| (R)-Fenoprofen (5p) | 10.21, 7.43-7.26, 7.19-7.01, 6.93(8.4Hz, 2.5Hz), 3.75(7.1Hz), 1.54(7.2Hz) | br, m, m, dd, q, d | 1, 3, 5, 1, 1, 3 |
+| (R)-Loxoprofen (5v) | 10.96, 7.25(8.2Hz), 7.14(8.2Hz), 3.73(7.1Hz), 3.14(13.9Hz, 4.0Hz), 2.53(13.9Hz, 9.5Hz), 2.43-2.30, 2.23-2.04, 1.98, 1.75, 1.64-1.54, 1.52(7.1Hz) | br, d, d, q, dd, dd, m, m, m, m, m, d | 1, 2, 2, 1, 1, 1, 2, 2, 1, 1, 1, 3 |"
+science_2022_luosz_Deracemization through photochemical EZ isomerization of enamines,46,"| code name | chemical shifts and J | splitting modes | number of atom H |
+|-----------|-----------------------|-----------------|------------------|
+| 5p        | 10.21, 7.43-7.26, 7.19-7.01, 6.93(8.4Hz, 2.5Hz), 3.75(7.1Hz), 1.54(7.2Hz) | br, m, m, dd, q, d | 1, 3, 5, 1, 1, 3 |
+| 5v        | 10.96, 7.25(8.2Hz), 7.14(8.2Hz), 3.73(7.1Hz), 3.14(13.9Hz, 4.0Hz), 2.53(13.9Hz, 9.5Hz), 2.43-2.30, 2.23-2.04, 1.98, 1.75, 1.64-1.54, 1.52(7.1Hz) | br, d, d, q, dd, dd, m, m, m, m, m, d | 1, 2, 2, 1, 1, 1, 2, 2, 1, 1, 1, 3 |"
+science_2022_luosz_Deracemization through photochemical EZ isomerization of enamines,47,N/A
+science_2022_luosz_Deracemization through photochemical EZ isomerization of enamines,48,"| code name | chemical shifts and J | splitting modes | number of atom H |
+|-----------|-----------------------|-----------------|------------------|
+| 3aa       | 7.33(6.5Hz), 7.21(15.4Hz, 7.9Hz), 7.14-7.11, 6.81(8.5Hz), 6.67(7.2Hz), 5.65(8.5Hz), 3.53(6.3Hz), 3.03(15.5Hz, 5.6Hz), 2.93-2.84, 2.76-2.68, 2.47(12.8Hz), 2.30-2.20, 2.10-2.03, 1.85(3.2Hz), 1.70-1.57 | d, dd, m, d, t, d, t, dt, m, m, d, m, m, d, m | 1, 3, 3, 2, 1, 1, 2, 1, 1, 1, 1, 2, 1, 1, 3 |
+| 3ad       | 7.36-7.30, 7.18-7.09, 6.90(12.8Hz, 4.7Hz), 6.76-6.71, 5.52(8.4Hz), 3.50(10.2Hz, 6.0Hz), 3.00(15.2Hz, 5.8Hz), 2.89-2.79, 2.76-2.72, 2.52-2.42, 2.33-2.19, 2.11-2.03, 1.87(9.3Hz), 1.76-1.51 | m, m, dd, m, d, dd, dt, m, m, m, m, m, d, m | 1, 3, 2, 2, 1, 2, 1, 1, 1, 1, 2, 1, 1, 3 |
+| 3ab       | 7.37-7.30, 7.19-7.08, 6.72(9.1Hz), 5.60(8.5Hz), 3.57-3.42, 3.09-2.79, 2.77-2.62, 2.54-2.40, 2.38-2.15, 2.14-2.00, 1.88-1.82, 1.77-1.67 | m, m, d, d, m, m, m, m, m, m, m, m | 1, 5, 2, 1, 2, 2, 1, 1, 3, 1, 2, 1 |"
+science_2022_luosz_Deracemization through photochemical EZ isomerization of enamines,49,"| code name | chemical shifts and J | splitting modes | number of atom H |
+|-----------|-----------------------|-----------------|------------------|
+| N/A       | N/A                   | N/A             | N/A              |"
+science_2022_luosz_Deracemization through photochemical EZ isomerization of enamines,50,N/A
+science_2022_luosz_Deracemization through photochemical EZ isomerization of enamines,51,"The provided text does not contain any 1H NMR data corresponding to a molecule code name. Therefore, the answer is:
+
+| code name | chemical shifts and J | splitting modes | number of atom H |
+|-----------|-----------------|-----------------|------------------|
+| N/A       | N/A             | N/A             | N/A              |
+"
+science_2022_luosz_Deracemization through photochemical EZ isomerization of enamines,52,"| code name | chemical shifts and J | splitting modes | number of atom H |
+|-----------|-----------------|-----------------|------------------|
+| 3aa | 7.33(6.5Hz), 7.21(15.4Hz, 7.9Hz), 7.14-7.11, 6.81(8.5Hz), 6.67(7.2Hz), 5.65(8.5Hz), 3.53(6.3Hz), 3.03(15.5Hz, 5.6Hz), 2.93-2.84, 2.76-2.68, 2.47(12.8Hz), 2.30-2.20, 2.10-2.03, 1.85(3.2Hz), 1.70-1.57 | d, dd, m, d, t, d, t, dt, m, m, d, m, m, d, m | 1, 3, 3, 2, 1, 1, 2, 1, 1, 1, 1, 2, 1, 1, 3 |
+| 3ad | 7.36-7.30, 7.18-7.09, 6.90(12.8Hz, 4.7Hz), 6.76-6.71, 5.52(8.4Hz), 3.50(10.2Hz, 6.0Hz), 3.00(15.2Hz, 5.8Hz), 2.89-2.79, 2.76-2.72, 2.52-2.42, 2.33-2.19, 2.11-2.03, 1.87(9.3Hz), 1.76-1.51 | m, m, dd, m, d, dd, dt, m, m, m, m, m, d, m | 1, 3, 2, 2, 1, 2, 1, 1, 1, 1, 2, 1, 1, 3 |
+| 3ab | 7.37-7.30, 7.19-7.08, 6.72(9.1Hz), 5.60(8.5Hz), 3.57-3.42, 3.09-2.79, 2.77-2.62, 2.54-2.40, 2.38-2.15, 2.14-2.00, 1.88-1.82, 1.77-1.67 | m, m, d, d, m, m, m, m, m, m, m, m | 1, 5, 2, 1, 2, 2, 1, 1, 3, 1, 2, 1 |"
+science_2022_luosz_Deracemization through photochemical EZ isomerization of enamines,53, N/
+science_2022_luosz_Deracemization through photochemical EZ isomerization of enamines,54,"The provided text does not contain enough information for any specific molecule's 1H NMR data. Therefore, the answer is:
+
+| code name | chemical shifts and J | splitting modes | number of atom H |
+|-----------|-----------------------|-----------------|------------------|
+| N/A       | N/A                   | N/A             | N/A              |"
+science_2022_luosz_Deracemization through photochemical EZ isomerization of enamines,55, N/
+science_2022_luosz_Deracemization through photochemical EZ isomerization of enamines,56,"```markdown
+| code name | chemical shifts and J | splitting modes | number of atom H |
+|-----------|------------------------|-----------------|------------------|
+| 3aa       | 7.33(6.5Hz), 7.21(15.4Hz, 7.9Hz), 7.14-7.11, 6.81(8.5Hz), 6.67(7.2Hz), 5.65(8.5Hz), 3.53(6.3Hz), 3.03(15.5Hz, 5.6Hz), 2.93-2.84, 2.76-2.68, 2.47(12.8Hz), 2.30-2.20, 2.10-2.03, 1.85(3.2Hz), 1.70-1.57 | d, dd, m, d, t, d, t, dt, m, m, d, m, m, d, m | 1, 3, 3, 2, 1, 1, 2, 1, 1, 1, 1, 2, 1, 1, 3 |
+| 3ad       | 7.36-7.30, 7.18-7.09, 6.90(12.8Hz, 4.7Hz), 6.76-6.71, 5.52(8.4Hz), 3.50(10.2Hz, 6.0Hz), 3.00(15.2Hz, 5.8Hz), 2.89-2.79, 2.76-2.72, 2.52-2.42, 2.33-2.19, 2.11-2.03, 1.87(9.3Hz), 1.76-1.51 | m, m, dd, m, d, dd, dt, m, m, m, m, m, d, m | 1, 3, 2, 2, 1, 2, 1, 1, 1, 1, 2, 1, 1, 3 |
+| 3ab       | 7.37-7.30, 7.19-7.08, 6.72(9.1Hz), 5.60(8.5Hz), 3.57-3.42, 3.09-2.79, 2.77-2.62, 2.54-2.40, 2.38-2.15, 2.14-2.00, 1.88-1.82, 1.77-1.67 | m, m, d, d, m, m, m, m, m, m, m, m | 1, 5, 2, 1, 2, 2, 1, 1, 3, 1, 2, 1 |
+```"
+science_2022_luosz_Deracemization through photochemical EZ isomerization of enamines,57,"| code name | chemical shifts and J | splitting modes | number of atom H |
+|-----------|-----------------------|-----------------|------------------|
+| 3aa       | 7.33(6.5Hz), 7.21(15.4Hz, 7.9Hz), 7.14-7.11, 6.81(8.5Hz), 6.67(7.2Hz), 5.65(8.5Hz), 3.53(6.3Hz), 3.03(15.5Hz, 5.6Hz), 2.93-2.84, 2.76-2.68, 2.47(12.8Hz), 2.30-2.20, 2.10-2.03, 1.85(3.2Hz), 1.70-1.57 | d, dd, m, d, t, d, t, dt, m, m, d, m, m, d, m | 1, 3, 3, 2, 1, 1, 2, 1, 1, 1, 1, 2, 1, 1, 3 |
+| 3ad       | 7.36-7.30, 7.18-7.09, 6.90(12.8Hz, 4.7Hz), 6.76-6.71, 5.52(8.4Hz), 3.50(10.2Hz, 6.0Hz), 3.00(15.2Hz, 5.8Hz), 2.89-2.79, 2.76-2.72, 2.52-2.42, 2.33-2.19, 2.11-2.03, 1.87(9.3Hz), 1.76-1.51 | m, m, dd, m, d, dd, dt, m, m, m, m, m, d, m | 1, 3, 2, 2, 1, 2, 1, 1, 1, 1, 2, 1, 1, 3 |
+| 3ab       | 7.37-7.30, 7.19-7.08, 6.72(9.1Hz), 5.60(8.5Hz), 3.57-3.42, 3.09-2.79, 2.77-2.62, 2.54-2.40, 2.38-2.15, 2.14-2.00, 1.88-1.82, 1.77-1.67 | m, m, d, d, m, m, m, m, m, m, m, m | 1, 5, 2, 1, 2, 2, 1, 1, 3, 1, 2, 1 |
+"
+science_2022_luosz_Deracemization through photochemical EZ isomerization of enamines,58,"| code name | chemical shifts and J | splitting modes | number of atom H |
+|-----------|-----------------|-----------------|------------------|"
+science_2022_luosz_Deracemization through photochemical EZ isomerization of enamines,59,"The provided text does not contain any 1H NMR data or code names for specific molecules.
+
+N/A"
+science_2022_luosz_Deracemization through photochemical EZ isomerization of enamines,60," code name | chemical shifts and J | splitting modes | number of atom H |
+|-----------|-----------------|-----------------|------------------|"
+science_2022_luosz_Deracemization through photochemical EZ isomerization of enamines,61,N/A
+science_2022_luosz_Deracemization through photochemical EZ isomerization of enamines,62,"```markdown
+| code name | chemical shifts and J | splitting modes | number of atom H |
+|-----------|------------------------|-----------------|------------------|
+| 3aa       | 7.33(6.5Hz), 7.21(15.4Hz, 7.9Hz), 7.14-7.11, 6.81(8.5Hz), 6.67(7.2Hz), 5.65(8.5Hz), 3.53(6.3Hz), 3.03(15.5Hz, 5.6Hz), 2.93-2.84, 2.76-2.68, 2.47(12.8Hz), 2.30-2.20, 2.10-2.03, 1.85(3.2Hz), 1.70-1.57 | d, dd, m, d, t, d, t, dt, m, m, d, m, m, d, m | 1, 3, 3, 2, 1, 1, 2, 1, 1, 1, 1, 2, 1, 1, 3 |
+| 3ad       | 7.36-7.30, 7.18-7.09, 6.90(12.8Hz, 4.7Hz), 6.76-6.71, 5.52(8.4Hz), 3.50(10.2Hz, 6.0Hz), 3.00(15.2Hz, 5.8Hz), 2.89-2.79, 2.76-2.72, 2.52-2.42, 2.33-2.19, 2.11-2.03, 1.87(9.3Hz), 1.76-1.51 | m, m, dd, m, d, dd, dt, m, m, m, m, m, d, m | 1, 3, 2, 2, 1, 2, 1, 1, 1, 1, 2, 1, 1, 3 |
+| 3ab       | 7.37-7.30, 7.19-7.08, 6.72(9.1Hz), 5.60(8.5Hz), 3.57-3.42, 3.09-2.79, 2.77-2.62, 2.54-2.40, 2.38-2.15, 2.14-2.00, 1.88-1.82, 1.77-1.67 | m, m, d, d, m, m, m, m, m, m, m, m | 1, 5, 2, 1, 2, 2, 1, 1, 3, 1, 2, 1 |
+```
+"
+science_2022_luosz_Deracemization through photochemical EZ isomerization of enamines,63,"| code name | chemical shifts and J | splitting modes | number of atom H |
+|-----------|-----------------------|-----------------|------------------|
+| 3aa       | 7.33(6.5Hz), 7.21(15.4Hz, 7.9Hz), 7.14-7.11, 6.81(8.5Hz), 6.67(7.2Hz), 5.65(8.5Hz), 3.53(6.3Hz), 3.03(15.5Hz, 5.6Hz), 2.93-2.84, 2.76-2.68, 2.47(12.8Hz), 2.30-2.20, 2.10-2.03, 1.85(3.2Hz), 1.70-1.57 | d, dd, m, d, t, d, t, dt, m, m, d, m, m, d, m | 1, 3, 3, 2, 1, 1, 2, 1, 1, 1, 1, 2, 1, 1, 3 |
+| 3ad       | 7.36-7.30, 7.18-7.09, 6.90(12.8Hz, 4.7Hz), 6.76-6.71, 5.52(8.4Hz), 3.50(10.2Hz, 6.0Hz), 3.00(15.2Hz, 5.8Hz), 2.89-2.79, 2.76-2.72, 2.52-2.42, 2.33-2.19, 2.11-2.03, 1.87(9.3Hz), 1.76-1.51 | m, m, dd, m, d, dd, dt, m, m, m, m, m, d, m | 1, 3, 2, 2, 1, 2, 1, 1, 1, 1, 2, 1, 1, 3 |
+| 3ab       | 7.37-7.30, 7.19-7.08, 6.72(9.1Hz), 5.60(8.5Hz), 3.57-3.42, 3.09-2.79, 2.77-2.62, 2.54-2.40, 2.38-2.15, 2.14-2.00, 1.88-1.82, 1.77-1.67 | m, m, d, d, m, m, m, m, m, m, m, m | 1, 5, 2, 1, 2, 2, 1, 1, 3, 1, 2, 1 |"
+science_2022_luosz_Deracemization through photochemical EZ isomerization of enamines,64,"N/A
+"
+science_2022_luosz_Deracemization through photochemical EZ isomerization of enamines,65,"| code name | chemical shifts and J | splitting modes | number of atom H |
+|-----------|------------------------|-----------------|------------------|
+| 3aa       | 7.33 (6.5 Hz), 7.21 (15.4, 7.9 Hz), 7.14-7.11, 6.81 (8.5 Hz), 6.67 (7.2 Hz), 5.65 (8.5 Hz), 3.53 (6.3 Hz), 3.03 (15.5, 5.6 Hz), 2.93-2.84, 2.76-2.68, 2.47 (12.8 Hz), 2.30-2.20, 2.10-2.03, 1.85 (3.2 Hz), 1.70-1.57 | d, dd, m, d, t, d, t, dt, m, m, d, m, m, d, m | 1, 3, 3, 2, 1, 1, 2, 1, 1, 1, 1, 2, 1, 1, 3 |
+| 3ad       | 7.36-7.30, 7.18-7.09, 6.90 (12.8, 4.7 Hz), 6.76-6.71, 5.52 (8.4 Hz), 3.50 (10.2, 6.0 Hz), 3.00 (15.2, 5.8 Hz), 2.89-2.79, 2.76-2.72, 2.52-2.42, 2.33-2.19, 2.11-2.03, 1.87 (9.3 Hz), 1.76-1.51 | m, m, dd, m, d, dd, dt, m, m, m, m, m, d, m | 1, 3, 2, 2, 1, 2, 1, 1, 1, 1, 2, 1, 1, 3 |
+| 3ab       | 7.37-7.30, 7.19-7.08, 6.72 (9.1 Hz), 5.60 (8.5 Hz), 3.57-3.42, 3.09-2.79, 2.77-2.62, 2.54-2.40, 2.38-2.15, 2.14-2.00, 1.88-1.82, 1.77-1.67 | m, m, d, d, m, m, m, m, m, m, m, m | 1, 5, 2, 1, 2, 2, 1, 1, 3, 1, 2, 1 |"
+science_2022_luosz_Deracemization through photochemical EZ isomerization of enamines,66, N/
+science_2022_luosz_Deracemization through photochemical EZ isomerization of enamines,67,N/A
+science_2022_luosz_Deracemization through photochemical EZ isomerization of enamines,68,"| code name | chemical shifts and J | splitting modes | number of atom H |
+|-----------|-----------------------|-----------------|------------------|
+| N/A       | N/A                   | N/A             | N/A              |"
+science_2022_luosz_Deracemization through photochemical EZ isomerization of enamines,69,"| code name | chemical shifts and J | splitting modes | number of atom H |
+|-----------|-----------------------|-----------------|------------------|
+| 2f        | N/A                   | N/A             | N/A              |
+| 2y        | N/A                   | N/A             | N/A              |
+| 2aa       | N/A                   | N/A             | N/A              |"
+science_2022_luosz_Deracemization through photochemical EZ isomerization of enamines,70," code name | chemical shifts and J | splitting modes | number of atom H |
+        |-----------|-----------------|-----------------|------------------|"
+science_2022_luosz_Deracemization through photochemical EZ isomerization of enamines,71,N/A
+science_2022_luosz_Deracemization through photochemical EZ isomerization of enamines,72,"Based on the provided text containing 1H NMR data, here is the summary in markdown tabular form:
+
+| code name | chemical shifts and J | splitting modes | number of atom H |
+|-----------|-----------------------|-----------------|------------------|
+| 3aa       | 7.33(6.5Hz), 7.21(15.4Hz, 7.9Hz), 7.14-7.11, 6.81(8.5Hz), 6.67(7.2Hz), 5.65(8.5Hz), 3.53(6.3Hz), 3.03(15.5Hz, 5.6Hz), 2.93-2.84, 2.76-2.68, 2.47(12.8Hz), 2.30-2.20, 2.10-2.03, 1.85(3.2Hz), 1.70-1.57 | d, dd, m, d, t, d, t, dt, m, m, d, m, m, d, m | 1, 3, 3, 2, 1, 1, 2, 1, 1, 1, 1, 2, 1, 1, 3 |
+| 3ad       | 7.36-7.30, 7.18-7.09, 6.90(12.8Hz, 4.7Hz), 6.76-6.71, 5.52(8.4Hz), 3.50(10.2Hz, 6.0Hz), 3.00(15.2Hz, 5.8Hz), 2.89-2.79, 2.76-2.72, 2.52-2.42, 2.33-2.19, 2.11-2.03, 1.87(9.3Hz), 1.76-1.51 | m, m, dd, m, d, dd, dt, m, m, m, m, m, d, m | 1, 3, 2, 2, 1, 2, 1, 1, 1, 1, 2, 1, 1, 3 |
+| 3ab       | 7.37-7.30, 7.19-7.08, 6.72(9.1Hz), 5.60(8.5Hz), 3.57-3.42, 3.09-2.79, 2.77-2.62, 2.54-2.40, 2.38-2.15, 2.14-2.00, 1.88-1.82, 1.77-1.67 | m, m, d, d, m, m, m, m, m, m, m, m | 1, 5, 2, 1, 2, 2, 1, 1, 3, 1, 2, 1 |"
+science_2022_luosz_Deracemization through photochemical EZ isomerization of enamines,73,"```markdown
+| code name | chemical shifts and J | splitting modes | number of atom H |
+|-----------|------------------------|-----------------|------------------|
+| 3aa | 7.33(6.5Hz), 7.21(15.4Hz, 7.9Hz), 7.14-7.11, 6.81(8.5Hz), 6.67(7.2Hz), 5.65(8.5Hz), 3.53(6.3Hz), 3.03(15.5Hz, 5.6Hz), 2.93-2.84, 2.76-2.68, 2.47(12.8Hz), 2.30-2.20, 2.10-2.03, 1.85(3.2Hz), 1.70-1.57 | d, dd, m, d, t, d, t, dt, m, m, d, m, m, d, m | 1, 3, 3, 2, 1, 1, 2, 1, 1, 1, 1, 2, 1, 1, 3 |
+| 3ad | 7.36-7.30, 7.18-7.09, 6.90(12.8Hz, 4.7Hz), 6.76-6.71, 5.52(8.4Hz), 3.50(10.2Hz, 6.0Hz), 3.00(15.2Hz, 5.8Hz), 2.89-2.79, 2.76-2.72, 2.52-2.42, 2.33-2.19, 2.11-2.03, 1.87(9.3Hz), 1.76-1.51 | m, m, dd, m, d, dd, dt, m, m, m, m, m, d, m | 1, 3, 2, 2, 1, 2, 1, 1, 1, 1, 2, 1, 1, 3 |
+| 3ab | 7.37-7.30, 7.19-7.08, 6.72(9.1Hz), 5.60(8.5Hz), 3.57-3.42, 3.09-2.79, 2.77-2.62, 2.54-2.40, 2.38-2.15, 2.14-2.00, 1.88-1.82, 1.77-1.67 | m, m, d, d, m, m, m, m, m, m, m, m | 1, 5, 2, 1, 2, 2, 1, 1, 3, 1, 2, 1 |
+```"
+science_2022_luosz_Deracemization through photochemical EZ isomerization of enamines,74,"| code name | chemical shifts and J | splitting modes | number of atom H |
+|-----------|-----------------------|-----------------|------------------|
+| 3aa       | 7.33(6.5Hz), 7.21(15.4Hz, 7.9Hz), 7.14-7.11, 6.81(8.5Hz), 6.67(7.2Hz), 5.65(8.5Hz), 3.53(6.3Hz), 3.03(15.5Hz, 5.6Hz), 2.93-2.84, 2.76-2.68, 2.47(12.8Hz), 2.30-2.20, 2.10-2.03, 1.85(3.2Hz), 1.70-1.57 | d, dd, m, d, t, d, t, dt, m, m, d, m, m, d, m | 1, 3, 3, 2, 1, 1, 2, 1, 1, 1, 1, 2, 1, 1, 3 |
+| 3ad       | 7.36-7.30, 7.18-7.09, 6.90(12.8Hz, 4.7Hz), 6.76-6.71, 5.52(8.4Hz), 3.50(10.2Hz, 6.0Hz), 3.00(15.2Hz, 5.8Hz), 2.89-2.79, 2.76-2.72, 2.52-2.42, 2.33-2.19, 2.11-2.03, 1.87(9.3Hz), 1.76-1.51 | m, m, dd, m, d, dd, dt, m, m, m, m, m, d, m | 1, 3, 2, 2, 1, 2, 1, 1, 1, 1, 2, 1, 1, 3 |
+| 3ab       | 7.37-7.30, 7.19-7.08, 6.72(9.1Hz), 5.60(8.5Hz), 3.57-3.42, 3.09-2.79, 2.77-2.62, 2.54-2.40, 2.38-2.15, 2.14-2.00, 1.88-1.82, 1.77-1.67 | m, m, d, d, m, m, m, m, m, m, m, m | 1, 5, 2, 1, 2, 2, 1, 1, 3, 1, 2, 1 |"
+science_2022_luosz_Deracemization through photochemical EZ isomerization of enamines,75," code name | chemical shifts and J | splitting modes | number of atom H |
+|-----------|-----------------|-----------------|------------------|"
+science_2022_luosz_Deracemization through photochemical EZ isomerization of enamines,76,N/A
+science_2022_luosz_Deracemization through photochemical EZ isomerization of enamines,77,"| code name | chemical shifts and J | splitting modes | number of atom H |
+|-----------|-----------------------|-----------------|------------------|
+| N/A       | N/A                   | N/A             | N/A              |"
+science_2022_luosz_Deracemization through photochemical EZ isomerization of enamines,78,N/A
+science_2022_luosz_Deracemization through photochemical EZ isomerization of enamines,79,"```markdown
+| code name | chemical shifts and J | splitting modes | number of atom H |
+|-----------|-----------------------|-----------------|------------------|
+| 3aa       | 7.33(6.5Hz), 7.21(15.4Hz, 7.9Hz), 7.14-7.11, 6.81(8.5Hz), 6.67(7.2Hz), 5.65(8.5Hz), 3.53(6.3Hz), 3.03(15.5Hz, 5.6Hz), 2.93-2.84, 2.76-2.68, 2.47(12.8Hz), 2.30-2.20, 2.10-2.03, 1.85(3.2Hz), 1.70-1.57 | d, dd, m, d, t, d, t, dt, m, m, d, m, m, d, m | 1, 3, 3, 2, 1, 1, 2, 1, 1, 1, 1, 2, 1, 1, 3 |
+| 3ad       | 7.36-7.30, 7.18-7.09, 6.90(12.8Hz, 4.7Hz), 6.76-6.71, 5.52(8.4Hz), 3.50(10.2Hz, 6.0Hz), 3.00(15.2Hz, 5.8Hz), 2.89-2.79, 2.76-2.72, 2.52-2.42, 2.33-2.19, 2.11-2.03, 1.87(9.3Hz), 1.76-1.51 | m, m, dd, m, d, dd, dt, m, m, m, m, m, d, m | 1, 3, 2, 2, 1, 2, 1, 1, 1, 1, 2, 1, 1, 3 |
+| 3ab       | 7.37-7.30, 7.19-7.08, 6.72(9.1Hz), 5.60(8.5Hz), 3.57-3.42, 3.09-2.79, 2.77-2.62, 2.54-2.40, 2.38-2.15, 2.14-2.00, 1.88-1.82, 1.77-1.67 | m, m, d, d, m, m, m, m, m, m, m, m | 1, 5, 2, 1, 2, 2, 1, 1, 3, 1, 2, 1 |
+```"
+science_2022_luosz_Deracemization through photochemical EZ isomerization of enamines,80,"| code name | chemical shifts and J | splitting modes | number of atom H |
+|-----------|-----------------------|-----------------|------------------|
+| 3aa       | 7.33(6.5Hz), 7.21(15.4Hz, 7.9Hz), 7.14-7.11, 6.81(8.5Hz), 6.67(7.2Hz), 5.65(8.5Hz), 3.53(6.3Hz), 3.03(15.5Hz, 5.6Hz), 2.93-2.84, 2.76-2.68, 2.47(12.8Hz), 2.30-2.20, 2.10-2.03, 1.85(3.2Hz), 1.70-1.57 | d, dd, m, d, t, d, t, dt, m, m, d, m, m, d, m | 1, 3, 3, 2, 1, 1, 2, 1, 1, 1, 1, 2, 1, 1, 3 |
+| 3ad       | 7.36-7.30, 7.18-7.09, 6.90(12.8Hz, 4.7Hz), 6.76-6.71, 5.52(8.4Hz), 3.50(10.2Hz, 6.0Hz), 3.00(15.2Hz, 5.8Hz), 2.89-2.79, 2.76-2.72, 2.52-2.42, 2.33-2.19, 2.11-2.03, 1.87(9.3Hz), 1.76-1.51 | m, m, dd, m, d, dd, dt, m, m, m, m, m, d, m | 1, 3, 2, 2, 1, 2, 1, 1, 1, 1, 2, 1, 1, 3 |
+| 3ab       | 7.37-7.30, 7.19-7.08, 6.72(9.1Hz), 5.60(8.5Hz), 3.57-3.42, 3.09-2.79, 2.77-2.62, 2.54-2.40, 2.38-2.15, 2.14-2.00, 1.88-1.82, 1.77-1.67 | m, m, d, d, m, m, m, m, m, m, m, m | 1, 5, 2, 1, 2, 2, 1, 1, 3, 1, 2, 1 |
+"
+science_2022_luosz_Deracemization through photochemical EZ isomerization of enamines,81,"```markdown
+| code name | chemical shifts and J | splitting modes | number of atom H |
+|-----------|-----------------------|-----------------|------------------|
+| 3aa       | 7.33(6.5Hz), 7.21(15.4Hz, 7.9Hz), 7.14-7.11, 6.81(8.5Hz), 6.67(7.2Hz), 5.65(8.5Hz), 3.53(6.3Hz), 3.03(15.5Hz, 5.6Hz), 2.93-2.84, 2.76-2.68, 2.47(12.8Hz), 2.30-2.20, 2.10-2.03, 1.85(3.2Hz), 1.70-1.57 | d, dd, m, d, t, d, t, dt, m, m, d, m, m, d, m | 1, 3, 3, 2, 1, 1, 2, 1, 1, 1, 1, 2, 1, 1, 3 |
+| 3ad       | 7.36-7.30, 7.18-7.09, 6.90(12.8Hz, 4.7Hz), 6.76-6.71, 5.52(8.4Hz), 3.50(10.2Hz, 6.0Hz), 3.00(15.2Hz, 5.8Hz), 2.89-2.79, 2.76-2.72, 2.52-2.42, 2.33-2.19, 2.11-2.03, 1.87(9.3Hz), 1.76-1.51 | m, m, dd, m, d, dd, dt, m, m, m, m, m, d, m | 1, 3, 2, 2, 1, 2, 1, 1, 1, 1, 2, 1, 1, 3 |
+| 3ab       | 7.37-7.30, 7.19-7.08, 6.72(9.1Hz), 5.60(8.5Hz), 3.57-3.42, 3.09-2.79, 2.77-2.62, 2.54-2.40, 2.38-2.15, 2.14-2.00, 1.88-1.82, 1.77-1.67 | m, m, d, d, m, m, m, m, m, m, m, m | 1, 5, 2, 1, 2, 2, 1, 1, 3, 1, 2, 1 |
+```
+"
+science_2022_luosz_Deracemization through photochemical EZ isomerization of enamines,82,"The provided text does not contain 1H NMR data or molecule code names.
+
+Answer:
+| code name | chemical shifts and J | splitting modes | number of atom H |
+|-----------|-----------------------|-----------------|------------------|
+| N/A       | N/A                   | N/A             | N/A              |"
+science_2022_luosz_Deracemization through photochemical EZ isomerization of enamines,83,"| code name | chemical shifts and J | splitting modes | number of atom H |
+|-----------|-----------------|-----------------|------------------|
+| TS8 |  |  |  |
+| (S)-2a |  |  |  |
+| TC |  |  |  |
+| (S)-1a |  |  |  |"
+science_2022_luosz_Deracemization through photochemical EZ isomerization of enamines,84,"N/A
+"
+science_2022_luosz_Deracemization through photochemical EZ isomerization of enamines,85,"| code name | chemical shifts and J | splitting modes | number of atom H |
+|-----------|------------------------|-----------------|------------------|
+| 3aa       | 7.33(6.5Hz), 7.21(15.4Hz, 7.9Hz), 7.14-7.11, 6.81(8.5Hz), 6.67(7.2Hz), 5.65(8.5Hz), 3.53(6.3Hz), 3.03(15.5Hz, 5.6Hz), 2.93-2.84, 2.76-2.68, 2.47(12.8Hz), 2.30-2.20, 2.10-2.03, 1.85(3.2Hz), 1.70-1.57 | d, dd, m, d, t, d, t, dt, m, m, d, m, m, d, m | 1, 3, 3, 2, 1, 1, 2, 1, 1, 1, 1, 2, 1, 1, 3 |
+| 3ad       | 7.36-7.30, 7.18-7.09, 6.90(12.8Hz, 4.7Hz), 6.76-6.71, 5.52(8.4Hz), 3.50(10.2Hz, 6.0Hz), 3.00(15.2Hz, 5.8Hz), 2.89-2.79, 2.76-2.72, 2.52-2.42, 2.33-2.19, 2.11-2.03, 1.87(9.3Hz), 1.76-1.51 | m, m, dd, m, d, dd, dt, m, m, m, m, m, d, m | 1, 3, 2, 2, 1, 2, 1, 1, 1, 1, 2, 1, 1, 3 |
+| 3ab       | 7.37-7.30, 7.19-7.08, 6.72(9.1Hz), 5.60(8.5Hz), 3.57-3.42, 3.09-2.79, 2.77-2.62, 2.54-2.40, 2.38-2.15, 2.14-2.00, 1.88-1.82, 1.77-1.67 | m, m, d, d, m, m, m, m, m, m, m, m | 1, 5, 2, 1, 2, 2, 1, 1, 3, 1, 2, 1 |"
+science_2022_luosz_Deracemization through photochemical EZ isomerization of enamines,86,"| code name | chemical shifts and J | splitting modes | number of atom H |
+|-----------|-----------------|-----------------|------------------|
+| 3aa | 7.33(6.5Hz), 7.21(15.4Hz, 7.9Hz), 7.14-7.11, 6.81(8.5Hz), 6.67(7.2Hz), 5.65(8.5Hz), 3.53(6.3Hz), 3.03(15.5Hz, 5.6Hz), 2.93-2.84, 2.76-2.68, 2.47(12.8Hz), 2.30-2.20, 2.10-2.03, 1.85(3.2Hz), 1.70-1.57 | d, dd, m, d, t, d, t, dt, m, m, d, m, m, d, m | 1, 3, 3, 2, 1, 1, 2, 1, 1, 1, 1, 2, 1, 1, 3 |
+| 3ad | 7.36-7.30, 7.18-7.09, 6.90(12.8Hz, 4.7Hz), 6.76-6.71, 5.52(8.4Hz), 3.50(10.2Hz, 6.0Hz), 3.00(15.2Hz, 5.8Hz), 2.89-2.79, 2.76-2.72, 2.52-2.42, 2.33-2.19, 2.11-2.03, 1.87(9.3Hz), 1.76-1.51 | m, m, dd, m, d, dd, dt, m, m, m, m, m, d, m | 1, 3, 2, 2, 1, 2, 1, 1, 1, 1, 2, 1, 1, 3 |
+| 3ab | 7.37-7.30, 7.19-7.08, 6.72(9.1Hz), 5.60(8.5Hz), 3.57-3.42, 3.09-2.79, 2.77-2.62, 2.54-2.40, 2.38-2.15, 2.14-2.00, 1.88-1.82, 1.77-1.67 | m, m, d, d, m, m, m, m, m, m, m, m | 1, 5, 2, 1, 2, 2, 1, 1, 3, 1, 2, 1 |
+| S-2f | N/A | N/A | N/A |"
+science_2022_luosz_Deracemization through photochemical EZ isomerization of enamines,87,"| code name | chemical shifts and J | splitting modes | number of atom H |
+|-----------|-----------------------|-----------------|------------------|
+| 3aa       | 7.33(6.5Hz), 7.21(15.4Hz, 7.9Hz), 7.14-7.11, 6.81(8.5Hz), 6.67(7.2Hz), 5.65(8.5Hz), 3.53(6.3Hz), 3.03(15.5Hz, 5.6Hz), 2.93-2.84, 2.76-2.68, 2.47(12.8Hz), 2.30-2.20, 2.10-2.03, 1.85(3.2Hz), 1.70-1.57 | d, dd, m, d, t, d, t, dt, m, m, d, m, m, d, m | 1, 3, 3, 2, 1, 1, 2, 1, 1, 1, 1, 2, 1, 1, 3 |
+| 3ad       | 7.36-7.30, 7.18-7.09, 6.90(12.8Hz, 4.7Hz), 6.76-6.71, 5.52(8.4Hz), 3.50(10.2Hz, 6.0Hz), 3.00(15.2Hz, 5.8Hz), 2.89-2.79, 2.76-2.72, 2.52-2.42, 2.33-2.19, 2.11-2.03, 1.87(9.3Hz), 1.76-1.51 | m, m, dd, m, d, dd, dt, m, m, m, m, m, d, m | 1, 3, 2, 2, 1, 2, 1, 1, 1, 1, 2, 1, 1, 3 |
+| 3ab       | 7.37-7.30, 7.19-7.08, 6.72(9.1Hz), 5.60(8.5Hz), 3.57-3.42, 3.09-2.79, 2.77-2.62, 2.54-2.40, 2.38-2.15, 2.14-2.00, 1.88-1.82, 1.77-1.67 | m, m, d, d, m, m, m, m, m, m, m, m | 1, 5, 2, 1, 2, 2, 1, 1, 3, 1, 2, 1 |"
+science_2022_luosz_Deracemization through photochemical EZ isomerization of enamines,88,"| code name | chemical shifts and J | splitting modes | number of atom H |
+|-----------|-----------------------|-----------------|------------------|
+| Z-enamine_2f | 0.765926, 1.618925, 3.348739, 2.491412, 1.432247, 3.614017, 3.815216, 0.817375, 2.053323, 2.883440, 4.002107, 4.147729, 3.632974, 1.607221, 3.311944, 1.446532, 1.771343, 5.280310, 5.649324, 6.048461, 5.161070, 0.950067, 0.744154, 1.225814, 5.846105, 2.848739, 0.313627, 5.287639 | H, H, H, H, H, H, H, H, H, H, H, H, H, H, H, H, H, H, H, H, H, H, H, H, H, H, H, H | 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1 |
+| TS1_2f | 0.528705, 0.550359, 0.293078, 0.928543, 3.510465, 1.012371, 3.690865, 1.757554, 1.931779, 2.952342, 0.456003, 4.067054, 1.749842, 2.998284, 0.631196, 5.192127, 0.632239, 4.069357, 3.393215, 4.116130, 1.550637, 2.133954, 1.914804, 5.196010, 1.317110, 6 | H, H, H, H, H, H, H, H, H, H, H, H, H, H, H, H, H, H, H, H, H, H, H, H, H, H | 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1 |"
+science_2022_luosz_Deracemization through photochemical EZ isomerization of enamines,89,"| code name | chemical shifts and J | splitting modes | number of atom H |
+|-----------|-----------------------|-----------------|------------------|
+| TS1_2f    | N/A                   | N/A             | N/A              |
+| TS2_2f    | N/A                   | N/A             | N/A              |
+| TS3_2f    | N/A                   | N/A             | N/A              |"
+science_2022_luosz_Deracemization through photochemical EZ isomerization of enamines,90,"The provided text contains atomic coordinates and other molecular information, but it does not include any 1H NMR data or molecule code names related to such data. Therefore, there is no relevant 1H NMR data to summarize.
+
+N/A"
+science_2022_luosz_Deracemization through photochemical EZ isomerization of enamines,91,"| code name | chemical shifts and J | splitting modes | number of atom H |
+|-----------|------------------------|-----------------|------------------|
+| 3aa       | 7.33(6.5Hz), 7.21(15.4Hz, 7.9Hz), 7.14-7.11, 6.81(8.5Hz), 6.67(7.2Hz), 5.65(8.5Hz), 3.53(6.3Hz), 3.03(15.5Hz, 5.6Hz), 2.93-2.84, 2.76-2.68, 2.47(12.8Hz), 2.30-2.20, 2.10-2.03, 1.85(3.2Hz), 1.70-1.57 | d, dd, m, d, t, d, t, dt, m, m, d, m, m, d, m | 1, 3, 3, 2, 1, 1, 2, 1, 1, 1, 1, 2, 1, 1, 3 |
+| 3ad       | 7.36-7.30, 7.18-7.09, 6.90(12.8Hz, 4.7Hz), 6.76-6.71, 5.52(8.4Hz), 3.50(10.2Hz, 6.0Hz), 3.00(15.2Hz, 5.8Hz), 2.89-2.79, 2.76-2.72, 2.52-2.42, 2.33-2.19, 2.11-2.03, 1.87(9.3Hz), 1.76-1.51 | m, m, dd, m, d, dd, dt, m, m, m, m, m, d, m | 1, 3, 2, 2, 1, 2, 1, 1, 1, 1, 2, 1, 1, 3 |
+| 3ab       | 7.37-7.30, 7.19-7.08, 6.72(9.1Hz), 5.60(8.5Hz), 3.57-3.42, 3.09-2.79, 2.77-2.62, 2.54-2.40, 2.38-2.15, 2.14-2.00, 1.88-1.82, 1.77-1.67 | m, m, d, d, m, m, m, m, m, m, m, m | 1, 5, 2, 1, 2, 2, 1, 1, 3, 1, 2, 1 |
+| TS4_2f    | N/A                    | N/A             | N/A              |
+| T1_2f     | N/A                    | N/A             | N/A              |"
+science_2022_luosz_Deracemization through photochemical EZ isomerization of enamines,92,"| code name | chemical shifts and J | splitting modes | number of atom H |
+|-----------|------------------------|-----------------|------------------|
+| 3aa       | 7.33(6.5Hz), 7.21(15.4Hz, 7.9Hz), 7.14-7.11, 6.81(8.5Hz), 6.67(7.2Hz), 5.65(8.5Hz), 3.53(6.3Hz), 3.03(15.5Hz, 5.6Hz), 2.93-2.84, 2.76-2.68, 2.47(12.8Hz), 2.30-2.20, 2.10-2.03, 1.85(3.2Hz), 1.70-1.57 | d, dd, m, d, t, d, t, dt, m, m, d, m, m, d, m | 1, 3, 3, 2, 1, 1, 2, 1, 1, 1, 1, 2, 1, 1, 3 |
+| 3ad       | 7.36-7.30, 7.18-7.09, 6.90(12.8Hz, 4.7Hz), 6.76-6.71, 5.52(8.4Hz), 3.50(10.2Hz, 6.0Hz), 3.00(15.2Hz, 5.8Hz), 2.89-2.79, 2.76-2.72, 2.52-2.42, 2.33-2.19, 2.11-2.03, 1.87(9.3Hz), 1.76-1.51 | m, m, dd, m, d, dd, dt, m, m, m, m, m, d, m | 1, 3, 2, 2, 1, 2, 1, 1, 1, 1, 2, 1, 1, 3 |
+| 3ab       | 7.37-7.30, 7.19-7.08, 6.72(9.1Hz), 5.60(8.5Hz), 3.57-3.42, 3.09-2.79, 2.77-2.62, 2.54-2.40, 2.38-2.15, 2.14-2.00, 1.88-1.82, 1.77-1.67 | m, m, d, d, m, m, m, m, m, m, m, m | 1, 5, 2, 1, 2, 2, 1, 1, 3, 1, 2, 1 |"
+science_2022_luosz_Deracemization through photochemical EZ isomerization of enamines,93," code name | chemical shifts and J | splitting modes | number of atom H |
+|-----------|-----------------|-----------------|------------------|"
+science_2022_luosz_Deracemization through photochemical EZ isomerization of enamines,94,"| code name | chemical shifts and J | splitting modes | number of atom H |
+|-----------|-----------------------|-----------------|------------------|
+| 3aa | 7.33(6.5Hz), 7.21(15.4Hz, 7.9Hz), 7.14-7.11, 6.81(8.5Hz), 6.67(7.2Hz), 5.65(8.5Hz), 3.53(6.3Hz), 3.03(15.5Hz, 5.6Hz), 2.93-2.84, 2.76-2.68, 2.47(12.8Hz), 2.30-2.20, 2.10-2.03, 1.85(3.2Hz), 1.70-1.57 | d, dd, m, d, t, d, t, dt, m, m, d, m, m, d, m | 1, 3, 3, 2, 1, 1, 2, 1, 1, 1, 1, 2, 1, 1, 3 |
+| 3ad | 7.36-7.30, 7.18-7.09, 6.90(12.8Hz, 4.7Hz), 6.76-6.71, 5.52(8.4Hz), 3.50(10.2Hz, 6.0Hz), 3.00(15.2Hz, 5.8Hz), 2.89-2.79, 2.76-2.72, 2.52-2.42, 2.33-2.19, 2.11-2.03, 1.87(9.3Hz), 1.76-1.51 | m, m, dd, m, d, dd, dt, m, m, m, m, m, d, m | 1, 3, 2, 2, 1, 2, 1, 1, 1, 1, 2, 1, 1, 3 |
+| 3ab | 7.37-7.30, 7.19-7.08, 6.72(9.1Hz), 5.60(8.5Hz), 3.57-3.42, 3.09-2.79, 2.77-2.62, 2.54-2.40, 2.38-2.15, 2.14-2.00, 1.88-1.82, 1.77-1.67 | m, m, d, d, m, m, m, m, m, m, m, m | 1, 5, 2, 1, 2, 2, 1, 1, 3, 1, 2, 1 |
+"
+science_2022_luosz_Deracemization through photochemical EZ isomerization of enamines,95,"| code name | chemical shifts and J | splitting modes | number of atom H |
+|-----------|-----------------------|-----------------|------------------|
+| 3aa       | 7.33 (6.5 Hz), 7.21 (15.4, 7.9 Hz), 7.14-7.11, 6.81 (8.5 Hz), 6.67 (7.2 Hz), 5.65 (8.5 Hz), 3.53 (6.3 Hz), 3.03 (15.5, 5.6 Hz), 2.93-2.84, 2.76-2.68, 2.47 (12.8 Hz), 2.30-2.20, 2.10-2.03, 1.85 (3.2 Hz), 1.70-1.57 | d, dd, m, d, t, d, t, dt, m, m, d, m, m, d, m | 1, 3, 3, 2, 1, 1, 2, 1, 1, 1, 1, 2, 1, 1, 3 |
+| 3ad       | 7.36-7.30, 7.18-7.09, 6.90 (12.8, 4.7 Hz), 6.76-6.71, 5.52 (8.4 Hz), 3.50 (10.2, 6.0 Hz), 3.00 (15.2, 5.8 Hz), 2.89-2.79, 2.76-2.72, 2.52-2.42, 2.33-2.19, 2.11-2.03, 1.87 (9.3 Hz), 1.76-1.51 | m, m, dd, m, d, dd, dt, m, m, m, m, m, d, m | 1, 3, 2, 2, 1, 2, 1, 1, 1, 1, 2, 1, 1, 3 |
+| 3ab       | 7.37-7.30, 7.19-7.08, 6.72 (9.1 Hz), 5.60 (8.5 Hz), 3.57-3.42, 3.09-2.79, 2.77-2.62, 2.54-2.40, 2.38-2.15, 2.14-2.00, 1.88-1.82, 1.77-1.67 | m, m, d, d, m, m, m, m, m, m, m, m | 1, 5, 2, 1, 2, 2, 1, 1, 3, 1, 2, 1 |"
+science_2022_luosz_Deracemization through photochemical EZ isomerization of enamines,96,N/A
+science_2022_luosz_Deracemization through photochemical EZ isomerization of enamines,97,"| code name | chemical shifts and J | splitting modes | number of atom H |
+|-----------|------------------------|----------------|------------------|
+| 3ab       | 7.37-7.30, 7.19-7.08, 6.72(9.1Hz), 5.60(8.5Hz), 3.57-3.42, 3.09-2.79, 2.77-2.62, 2.54-2.40, 2.38-2.15, 2.14-2.00, 1.88-1.82, 1.77-1.67 | m, m, d, d, m, m, m, m, m, m, m, m | 1, 5, 2, 1, 2, 2, 1, 1, 3, 1, 2, 1 |"
+science_2022_luosz_Deracemization through photochemical EZ isomerization of enamines,98,"```markdown
+| code name | chemical shifts and J | splitting modes | number of atom H |
+|-----------|-----------------------|-----------------|------------------|
+| 3aa | 7.33(6.5Hz), 7.21(15.4Hz, 7.9Hz), 7.14-7.11, 6.81(8.5Hz), 6.67(7.2Hz), 5.65(8.5Hz), 3.53(6.3Hz), 3.03(15.5Hz, 5.6Hz), 2.93-2.84, 2.76-2.68, 2.47(12.8Hz), 2.30-2.20, 2.10-2.03, 1.85(3.2Hz), 1.70-1.57 | d, dd, m, d, t, d, t, dt, m, m, d, m, m, d, m | 1, 3, 3, 2, 1, 1, 2, 1, 1, 1, 1, 2, 1, 1, 3 |
+| 3ad | 7.36-7.30, 7.18-7.09, 6.90(12.8Hz, 4.7Hz), 6.76-6.71, 5.52(8.4Hz), 3.50(10.2Hz, 6.0Hz), 3.00(15.2Hz, 5.8Hz), 2.89-2.79, 2.76-2.72, 2.52-2.42, 2.33-2.19, 2.11-2.03, 1.87(9.3Hz), 1.76-1.51 | m, m, dd, m, d, dd, dt, m, m, m, m, m, d, m | 1, 3, 2, 2, 1, 2, 1, 1, 1, 1, 2, 1, 1, 3 |
+| 3ab | 7.37-7.30, 7.19-7.08, 6.72(9.1Hz), 5.60(8.5Hz), 3.57-3.42, 3.09-2.79, 2.77-2.62, 2.54-2.40, 2.38-2.15, 2.14-2.00, 1.88-1.82, 1.77-1.67 | m, m, d, d, m, m, m, m, m, m, m, m | 1, 5, 2, 1, 2, 2, 1, 1, 3, 1, 2, 1 |
+```"
+science_2022_luosz_Deracemization through photochemical EZ isomerization of enamines,99,N/A
+science_2022_luosz_Deracemization through photochemical EZ isomerization of enamines,100,"| code name | chemical shifts and J | splitting modes | number of atom H |
+|-----------|-----------------------|-----------------|------------------|
+| (S)-imine_2aa | - | - | - |
+| (R)-imine_2aa | - | - | - |
+| E-enamine_2aa | - | - | - |"
+science_2022_luosz_Deracemization through photochemical EZ isomerization of enamines,101,"```markdown
+| code name | chemical shifts and J | splitting modes | number of atom H |
+|-----------|-----------------------|-----------------|------------------|
+| 3aa       | 7.33(6.5Hz), 7.21(15.4Hz, 7.9Hz), 7.14-7.11, 6.81(8.5Hz), 6.67(7.2Hz), 5.65(8.5Hz), 3.53(6.3Hz), 3.03(15.5Hz, 5.6Hz), 2.93-2.84, 2.76-2.68, 2.47(12.8Hz), 2.30-2.20, 2.10-2.03, 1.85(3.2Hz), 1.70-1.57 | d, dd, m, d, t, d, t, dt, m, m, d, m, m, d, m | 1, 3, 3, 2, 1, 1, 2, 1, 1, 1, 1, 2, 1, 1, 3 |
+| 3ad       | 7.36-7.30, 7.18-7.09, 6.90(12.8Hz, 4.7Hz), 6.76-6.71, 5.52(8.4Hz), 3.50(10.2Hz, 6.0Hz), 3.00(15.2Hz, 5.8Hz), 2.89-2.79, 2.76-2.72, 2.52-2.42, 2.33-2.19, 2.11-2.03, 1.87(9.3Hz), 1.76-1.51 | m, m, dd, m, d, dd, dt, m, m, m, m, m, d, m | 1, 3, 2, 2, 1, 2, 1, 1, 1, 1, 2, 1, 1, 3 |
+| 3ab       | 7.37-7.30, 7.19-7.08, 6.72(9.1Hz), 5.60(8.5Hz), 3.57-3.42, 3.09-2.79, 2.77-2.62, 2.54-2.40, 2.38-2.15, 2.14-2.00, 1.88-1.82, 1.77-1.67 | m, m, d, d, m, m, m, m, m, m, m, m | 1, 5, 2, 1, 2, 2, 1, 1, 3, 1, 2, 1 |
+```
+"
+science_2022_luosz_Deracemization through photochemical EZ isomerization of enamines,102,"| code name | chemical shifts and J | splitting modes | number of atom H |
+|-----------|-----------------------|-----------------|------------------|
+| Z-enamine_2aa | N/A | N/A | N/A |
+| TS1_2aa | N/A | N/A | N/A |"
+science_2022_luosz_Deracemization through photochemical EZ isomerization of enamines,103,"The provided input text contains the 1H NMR data for several molecules. Below is the markdown tabular summary of the 1H NMR data:
+
+```markdown
+| code name | chemical shifts and J | splitting modes | number of atom H |
+|-----------|-----------------------|-----------------|------------------|
+| 3aa | 7.33(6.5Hz), 7.21(15.4Hz, 7.9Hz), 7.14-7.11, 6.81(8.5Hz), 6.67(7.2Hz), 5.65(8.5Hz), 3.53(6.3Hz), 3.03(15.5Hz, 5.6Hz), 2.93-2.84, 2.76-2.68, 2.47(12.8Hz), 2.30-2.20, 2.10-2.03, 1.85(3.2Hz), 1.70-1.57 | d, dd, m, d, t, d, t, dt, m, m, d, m, m, d, m | 1, 3, 3, 2, 1, 1, 2, 1, 1, 1, 1, 2, 1, 1, 3 |
+| 3ad | 7.36-7.30, 7.18-7.09, 6.90(12.8Hz, 4.7Hz), 6.76-6.71, 5.52(8.4Hz), 3.50(10.2Hz, 6.0Hz), 3.00(15.2Hz, 5.8Hz), 2.89-2.79, 2.76-2.72, 2.52-2.42, 2.33-2.19, 2.11-2.03, 1.87(9.3Hz), 1.76-1.51 | m, m, dd, m, d, dd, dt, m, m, m, m, m, d, m | 1, 3, 2, 2, 1, 2, 1, 1, 1, 1, 2, 1, 1, 3 |
+| 3ab | 7.37-7.30, 7.19-7.08, 6.72(9.1Hz), 5.60(8.5Hz), 3.57-3.42, 3.09-2.79, 2.77-2.62, 2.54-2.40, 2.38-2.15, 2.14-2.00, 1.88-1.82, 1.77-1.67 | m, m, d, d, m, m, m, m, m, m, m, m | 1, 5, 2, 1, 2, 2, 1, 1, 3, 1, 2, 1 |
+```"
+science_2022_luosz_Deracemization through photochemical EZ isomerization of enamines,104,"```markdown
+| code name | chemical shifts and J | splitting modes | number of atom H |
+|-----------|-----------------------|-----------------|------------------|
+| 3aa       | 7.33(6.5Hz), 7.21(15.4Hz, 7.9Hz), 7.14-7.11, 6.81(8.5Hz), 6.67(7.2Hz), 5.65(8.5Hz), 3.53(6.3Hz), 3.03(15.5Hz, 5.6Hz), 2.93-2.84, 2.76-2.68, 2.47(12.8Hz), 2.30-2.20, 2.10-2.03, 1.85(3.2Hz), 1.70-1.57 | d, dd, m, d, t, d, t, dt, m, m, d, m, m, d, m | 1, 3, 3, 2, 1, 1, 2, 1, 1, 1, 1, 2, 1, 1, 3 |
+| 3ad       | 7.36-7.30, 7.18-7.09, 6.90(12.8Hz, 4.7Hz), 6.76-6.71, 5.52(8.4Hz), 3.50(10.2Hz, 6.0Hz), 3.00(15.2Hz, 5.8Hz), 2.89-2.79, 2.76-2.72, 2.52-2.42, 2.33-2.19, 2.11-2.03, 1.87(9.3Hz), 1.76-1.51 | m, m, dd, m, d, dd, dt, m, m, m, m, m, d, m | 1, 3, 2, 2, 1, 2, 1, 1, 1, 1, 2, 1, 1, 3 |
+| 3ab       | 7.37-7.30, 7.19-7.08, 6.72(9.1Hz), 5.60(8.5Hz), 3.57-3.42, 3.09-2.79, 2.77-2.62, 2.54-2.40, 2.38-2.15, 2.14-2.00, 1.88-1.82, 1.77-1.67 | m, m, d, d, m, m, m, m, m, m, m, m | 1, 5, 2, 1, 2, 2, 1, 1, 3, 1, 2, 1 |
+```"
+science_2022_luosz_Deracemization through photochemical EZ isomerization of enamines,105,"| code name | chemical shifts and J | splitting modes | number of atom H |
+|-----------|-----------------------|-----------------|------------------|
+| 3aa | 7.33(6.5Hz), 7.21(15.4Hz, 7.9Hz), 7.14-7.11, 6.81(8.5Hz), 6.67(7.2Hz), 5.65(8.5Hz), 3.53(6.3Hz), 3.03(15.5Hz, 5.6Hz), 2.93-2.84, 2.76-2.68, 2.47(12.8Hz), 2.30-2.20, 2.10-2.03, 1.85(3.2Hz), 1.70-1.57 | d, dd, m, d, t, d, t, dt, m, m, d, m, m, d, m | 1, 3, 3, 2, 1, 1, 2, 1, 1, 1, 1, 2, 1, 1, 3 |
+| 3ad | 7.36-7.30, 7.18-7.09, 6.90(12.8Hz, 4.7Hz), 6.76-6.71, 5.52(8.4Hz), 3.50(10.2Hz, 6.0Hz), 3.00(15.2Hz, 5.8Hz), 2.89-2.79, 2.76-2.72, 2.52-2.42, 2.33-2.19, 2.11-2.03, 1.87(9.3Hz), 1.76-1.51 | m, m, dd, m, d, dd, dt, m, m, m, m, m, d, m | 1, 3, 2, 2, 1, 2, 1, 1, 1, 1, 2, 1, 1, 3 |
+| 3ab | 7.37-7.30, 7.19-7.08, 6.72(9.1Hz), 5.60(8.5Hz), 3.57-3.42, 3.09-2.79, 2.77-2.62, 2.54-2.40, 2.38-2.15, 2.14-2.00, 1.88-1.82, 1.77-1.67 | m, m, d, d, m, m, m, m, m, m, m, m | 1, 5, 2, 1, 2, 2, 1, 1, 3, 1, 2, 1 |"
+science_2022_luosz_Deracemization through photochemical EZ isomerization of enamines,106,"```markdown
+| code name | chemical shifts and J | splitting modes | number of atom H |
+|-----------|-----------------------|-----------------|------------------|
+| 3aa       | 7.33(6.5Hz), 7.21(15.4Hz, 7.9Hz), 7.14-7.11, 6.81(8.5Hz), 6.67(7.2Hz), 5.65(8.5Hz), 3.53(6.3Hz), 3.03(15.5Hz, 5.6Hz), 2.93-2.84, 2.76-2.68, 2.47(12.8Hz), 2.30-2.20, 2.10-2.03, 1.85(3.2Hz), 1.70-1.57 | d, dd, m, d, t, d, t, dt, m, m, d, m, m, d, m | 1, 3, 3, 2, 1, 1, 2, 1, 1, 1, 1, 2, 1, 1, 3 |
+| 3ad       | 7.36-7.30, 7.18-7.09, 6.90(12.8Hz, 4.7Hz), 6.76-6.71, 5.52(8.4Hz), 3.50(10.2Hz, 6.0Hz), 3.00(15.2Hz, 5.8Hz), 2.89-2.79, 2.76-2.72, 2.52-2.42, 2.33-2.19, 2.11-2.03, 1.87(9.3Hz), 1.76-1.51 | m, m, dd, m, d, dd, dt, m, m, m, m, m, d, m | 1, 3, 2, 2, 1, 2, 1, 1, 1, 1, 2, 1, 1, 3 |
+| 3ab       | 7.37-7.30, 7.19-7.08, 6.72(9.1Hz), 5.60(8.5Hz), 3.57-3.42, 3.09-2.79, 2.77-2.62, 2.54-2.40, 2.38-2.15, 2.14-2.00, 1.88-1.82, 1.77-1.67 | m, m, d, d, m, m, m, m, m, m, m, m | 1, 5, 2, 1, 2, 2, 1, 1, 3, 1, 2, 1 |
+```"
+science_2022_luosz_Deracemization through photochemical EZ isomerization of enamines,107,"| code name | chemical shifts and J | splitting modes | number of atom H |
+|-----------|-----------------|-----------------|------------------|"
+science_2022_luosz_Deracemization through photochemical EZ isomerization of enamines,108,"| code name | chemical shifts and J | splitting modes | number of atom H |
+|-----------|-----------------|-----------------|------------------|
+| N/A       | N/A             | N/A             | N/A              |"
+science_2022_luosz_Deracemization through photochemical EZ isomerization of enamines,109,N/A
+science_2022_luosz_Deracemization through photochemical EZ isomerization of enamines,110, N/
+science_2022_luosz_Deracemization through photochemical EZ isomerization of enamines,111," code name | chemical shifts and J | splitting modes | number of atom H |
+        |-----------|-----------------|-----------------|------------------|"
+science_2022_luosz_Deracemization through photochemical EZ isomerization of enamines,112,"| code name | chemical shifts and J | splitting modes | number of atom H |
+|-----------|-----------------------|-----------------|------------------|
+| 3aa       | 7.33(6.5Hz), 7.21(15.4Hz, 7.9Hz), 7.14-7.11, 6.81(8.5Hz), 6.67(7.2Hz), 5.65(8.5Hz), 3.53(6.3Hz), 3.03(15.5Hz, 5.6Hz), 2.93-2.84, 2.76-2.68, 2.47(12.8Hz), 2.30-2.20, 2.10-2.03, 1.85(3.2Hz), 1.70-1.57 | d, dd, m, d, t, d, t, dt, m, m, d, m, m, d, m | 1, 3, 3, 2, 1, 1, 2, 1, 1, 1, 1, 2, 1, 1, 3 |
+| 3ad       | 7.36-7.30, 7.18-7.09, 6.90(12.8Hz, 4.7Hz), 6.76-6.71, 5.52(8.4Hz), 3.50(10.2Hz, 6.0Hz), 3.00(15.2Hz, 5.8Hz), 2.89-2.79, 2.76-2.72, 2.52-2.42, 2.33-2.19, 2.11-2.03, 1.87(9.3Hz), 1.76-1.51 | m, m, dd, m, d, dd, dt, m, m, m, m, m, d, m | 1, 3, 2, 2, 1, 2, 1, 1, 1, 1, 2, 1, 1, 3 |
+| 3ab       | 7.37-7.30, 7.19-7.08, 6.72(9.1Hz), 5.60(8.5Hz), 3.57-3.42, 3.09-2.79, 2.77-2.62, 2.54-2.40, 2.38-2.15, 2.14-2.00, 1.88-1.82, 1.77-1.67 | m, m, d, d, m, m, m, m, m, m, m, m | 1, 5, 2, 1, 2, 2, 1, 1, 3, 1, 2, 1 |"
+science_2022_luosz_Deracemization through photochemical EZ isomerization of enamines,113,"| code name | chemical shifts and J | splitting modes | number of atom H |
+|-----------|-----------------------|-----------------|------------------|
+| N/A       | N/A                   | N/A             | N/A              |"
+science_2022_luosz_Deracemization through photochemical EZ isomerization of enamines,114,"| code name | chemical shifts and J | splitting modes | number of atom H |
+|-----------|-----------------------|-----------------|------------------|
+| 3aa       | 7.33(6.5Hz), 7.21(15.4Hz, 7.9Hz), 7.14-7.11, 6.81(8.5Hz), 6.67(7.2Hz), 5.65(8.5Hz), 3.53(6.3Hz), 3.03(15.5Hz, 5.6Hz), 2.93-2.84, 2.76-2.68, 2.47(12.8Hz), 2.30-2.20, 2.10-2.03, 1.85(3.2Hz), 1.70-1.57 | d, dd, m, d, t, d, t, dt, m, m, d, m, m, d, m | 1, 3, 3, 2, 1, 1, 2, 1, 1, 1, 1, 2, 1, 1, 3 |
+| 3ad       | 7.36-7.30, 7.18-7.09, 6.90(12.8Hz, 4.7Hz), 6.76-6.71, 5.52(8.4Hz), 3.50(10.2Hz, 6.0Hz), 3.00(15.2Hz, 5.8Hz), 2.89-2.79, 2.76-2.72, 2.52-2.42, 2.33-2.19, 2.11-2.03, 1.87(9.3Hz), 1.76-1.51 | m, m, dd, m, d, dd, dt, m, m, m, m, m, d, m | 1, 3, 2, 2, 1, 2, 1, 1, 1, 1, 2, 1, 1, 3 |
+| 3ab       | 7.37-7.30, 7.19-7.08, 6.72(9.1Hz), 5.60(8.5Hz), 3.57-3.42, 3.09-2.79, 2.77-2.62, 2.54-2.40, 2.38-2.15, 2.14-2.00, 1.88-1.82, 1.77-1.67 | m, m, d, d, m, m, m, m, m, m, m, m | 1, 5, 2, 1, 2, 2, 1, 1, 3, 1, 2, 1 |"
+science_2022_luosz_Deracemization through photochemical EZ isomerization of enamines,115,"| code name | chemical shifts and J | splitting modes | number of atom H |
+|-----------|-----------------------|-----------------|------------------|
+| 3aa       | 7.33 (6.5Hz), 7.21 (15.4Hz, 7.9Hz), 7.14-7.11, 6.81 (8.5Hz), 6.67 (7.2Hz), 5.65 (8.5Hz), 3.53 (6.3Hz), 3.03 (15.5Hz, 5.6Hz), 2.93-2.84, 2.76-2.68, 2.47 (12.8Hz), 2.30-2.20, 2.10-2.03, 1.85 (3.2Hz), 1.70-1.57 | d, dd, m, d, t, d, t, dt, m, m, d, m, m, d, m | 1, 3, 3, 2, 1, 1, 2, 1, 1, 1, 1, 2, 1, 1, 3 |
+| 3ad       | 7.36-7.30, 7.18-7.09, 6.90 (12.8Hz, 4.7Hz), 6.76-6.71, 5.52 (8.4Hz), 3.50 (10.2Hz, 6.0Hz), 3.00 (15.2Hz, 5.8Hz), 2.89-2.79, 2.76-2.72, 2.52-2.42, 2.33-2.19, 2.11-2.03, 1.87 (9.3Hz), 1.76-1.51 | m, m, dd, m, d, dd, dt, m, m, m, m, m, d, m | 1, 3, 2, 2, 1, 2, 1, 1, 1, 1, 2, 1, 1, 3 |
+| 3ab       | 7.37-7.30, 7.19-7.08, 6.72 (9.1Hz), 5.60 (8.5Hz), 3.57-3.42, 3.09-2.79, 2.77-2.62, 2.54-2.40, 2.38-2.15, 2.14-2.00, 1.88-1.82, 1.77-1.67 | m, m, d, d, m, m, m, m, m, m, m, m | 1, 5, 2, 1, 2, 2, 1, 1, 3, 1, 2, 1 |
+"
+science_2022_luosz_Deracemization through photochemical EZ isomerization of enamines,116,N/A
+science_2022_luosz_Deracemization through photochemical EZ isomerization of enamines,117,"| code name | chemical shifts and J | splitting modes | number of atom H |
+|-----------|-----------------------|-----------------|------------------|
+| 3aa       | 7.33 (6.5Hz), 7.21 (15.4Hz, 7.9Hz), 7.14-7.11, 6.81 (8.5Hz), 6.67 (7.2Hz), 5.65 (8.5Hz), 3.53 (6.3Hz), 3.03 (15.5Hz, 5.6Hz), 2.93-2.84, 2.76-2.68, 2.47 (12.8Hz), 2.30-2.20, 2.10-2.03, 1.85 (3.2Hz), 1.70-1.57 | d, dd, m, d, t, d, t, dt, m, m, d, m, m, d, m | 1, 3, 3, 2, 1, 1, 2, 1, 1, 1, 1, 2, 1, 1, 3 |
+| 3ad       | 7.36-7.30, 7.18-7.09, 6.90 (12.8Hz, 4.7Hz), 6.76-6.71, 5.52 (8.4Hz), 3.50 (10.2Hz, 6.0Hz), 3.00 (15.2Hz, 5.8Hz), 2.89-2.79, 2.76-2.72, 2.52-2.42, 2.33-2.19, 2.11-2.03, 1.87 (9.3Hz), 1.76-1.51 | m, m, dd, m, d, dd, dt, m, m, m, m, m, d, m | 1, 3, 2, 2, 1, 2, 1, 1, 1, 1, 2, 1, 1, 3 |
+| 3ab       | 7.37-7.30, 7.19-7.08, 6.72 (9.1Hz), 5.60 (8.5Hz), 3.57-3.42, 3.09-2.79, 2.77-2.62, 2.54-2.40, 2.38-2.15, 2.14-2.00, 1.88-1.82, 1.77-1.67 | m, m, d, d, m, m, m, m, m, m, m, m | 1, 5, 2, 1, 2, 2, 1, 1, 3, 1, 2, 1 |"
+science_2022_luosz_Deracemization through photochemical EZ isomerization of enamines,118,"| code name | chemical shifts and J | splitting modes | number of atom H |
+|-----------|-----------------|-----------------|------------------|
+| 3aa | 7.33(6.5Hz), 7.21(15.4Hz, 7.9Hz), 7.14-7.11, 6.81(8.5Hz), 6.67(7.2Hz), 5.65(8.5Hz), 3.53(6.3Hz), 3.03(15.5Hz, 5.6Hz), 2.93-2.84, 2.76-2.68, 2.47(12.8Hz), 2.30-2.20, 2.10-2.03, 1.85(3.2Hz), 1.70-1.57 | d, dd, m, d, t, d, t, dt, m, m, d, m, m, d, m | 1, 3, 3, 2, 1, 1, 2, 1, 1, 1, 1, 2, 1, 1, 3 |
+| 3ad | 7.36-7.30, 7.18-7.09, 6.90(12.8Hz, 4.7Hz), 6.76-6.71, 5.52(8.4Hz), 3.50(10.2Hz, 6.0Hz), 3.00(15.2Hz, 5.8Hz), 2.89-2.79, 2.76-2.72, 2.52-2.42, 2.33-2.19, 2.11-2.03, 1.87(9.3Hz), 1.76-1.51 | m, m, dd, m, d, dd, dt, m, m, m, m, m, d, m | 1, 3, 2, 2, 1, 2, 1, 1, 1, 1, 2, 1, 1, 3 |
+| 3ab | 7.37-7.30, 7.19-7.08, 6.72(9.1Hz), 5.60(8.5Hz), 3.57-3.42, 3.09-2.79, 2.77-2.62, 2.54-2.40, 2.38-2.15, 2.14-2.00, 1.88-1.82, 1.77-1.67 | m, m, d, d, m, m, m, m, m, m, m, m | 1, 5, 2, 1, 2, 2, 1, 1, 3, 1, 2, 1 |"
+science_2022_luosz_Deracemization through photochemical EZ isomerization of enamines,119,"| code name | chemical shifts and J | splitting modes | number of atom H |
+|-----------|-----------------------|-----------------|------------------|
+| 3aa       | 7.33(6.5Hz), 7.21(15.4Hz, 7.9Hz), 7.14-7.11, 6.81(8.5Hz), 6.67(7.2Hz), 5.65(8.5Hz), 3.53(6.3Hz), 3.03(15.5Hz, 5.6Hz), 2.93-2.84, 2.76-2.68, 2.47(12.8Hz), 2.30-2.20, 2.10-2.03, 1.85(3.2Hz), 1.70-1.57 | d, dd, m, d, t, d, t, dt, m, m, d, m, m, d, m | 1, 3, 3, 2, 1, 1, 2, 1, 1, 1, 1, 2, 1, 1, 3 |
+| 3ad       | 7.36-7.30, 7.18-7.09, 6.90(12.8Hz, 4.7Hz), 6.76-6.71, 5.52(8.4Hz), 3.50(10.2Hz, 6.0Hz), 3.00(15.2Hz, 5.8Hz), 2.89-2.79, 2.76-2.72, 2.52-2.42, 2.33-2.19, 2.11-2.03, 1.87(9.3Hz), 1.76-1.51 | m, m, dd, m, d, dd, dt, m, m, m, m, m, d, m | 1, 3, 2, 2, 1, 2, 1, 1, 1, 1, 2, 1, 1, 3 |
+| 3ab       | 7.37-7.30, 7.19-7.08, 6.72(9.1Hz), 5.60(8.5Hz), 3.57-3.42, 3.09-2.79, 2.77-2.62, 2.54-2.40, 2.38-2.15, 2.14-2.00, 1.88-1.82, 1.77-1.67 | m, m, d, d, m, m, m, m, m, m, m, m | 1, 5, 2, 1, 2, 2, 1, 1, 3, 1, 2, 1 |"
+science_2022_luosz_Deracemization through photochemical EZ isomerization of enamines,120,"| code name | chemical shifts and J | splitting modes | number of atom H |
+|-----------|-----------------------|-----------------|------------------|
+| N/A       | N/A                   | N/A             | N/A              |"
+science_2022_luosz_Deracemization through photochemical EZ isomerization of enamines,121,"| code name | chemical shifts and J | splitting modes | number of atom H |
+|-----------|-----------------------|-----------------|------------------|
+| N/A       | N/A                   | N/A             | N/A              |"
+science_2022_luosz_Deracemization through photochemical EZ isomerization of enamines,122," code name | chemical shifts and J | splitting modes | number of atom H |
+|-----------|-----------------|-----------------|------------------|"
+science_2022_luosz_Deracemization through photochemical EZ isomerization of enamines,123,"```markdown
+| code name | chemical shifts and J | splitting modes | number of atom H |
+|-----------|-----------------------|-----------------|------------------|
+| 3aa | 7.33(6.5Hz), 7.21(15.4Hz, 7.9Hz), 7.14-7.11, 6.81(8.5Hz), 6.67(7.2Hz), 5.65(8.5Hz), 3.53(6.3Hz), 3.03(15.5Hz, 5.6Hz), 2.93-2.84, 2.76-2.68, 2.47(12.8Hz), 2.30-2.20, 2.10-2.03, 1.85(3.2Hz), 1.70-1.57 | d, dd, m, d, t, d, t, dt, m, m, d, m, m, d, m | 1, 3, 3, 2, 1, 1, 2, 1, 1, 1, 1, 2, 1, 1, 3 |
+| 3ad | 7.36-7.30, 7.18-7.09, 6.90(12.8Hz, 4.7Hz), 6.76-6.71, 5.52(8.4Hz), 3.50(10.2Hz, 6.0Hz), 3.00(15.2Hz, 5.8Hz), 2.89-2.79, 2.76-2.72, 2.52-2.42, 2.33-2.19, 2.11-2.03, 1.87(9.3Hz), 1.76-1.51 | m, m, dd, m, d, dd, dt, m, m, m, m, m, d, m | 1, 3, 2, 2, 1, 2, 1, 1, 1, 1, 2, 1, 1, 3 |
+| 3ab | 7.37-7.30, 7.19-7.08, 6.72(9.1Hz), 5.60(8.5Hz), 3.57-3.42, 3.09-2.79, 2.77-2.62, 2.54-2.40, 2.38-2.15, 2.14-2.00, 1.88-1.82, 1.77-1.67 | m, m, d, d, m, m, m, m, m, m, m, m | 1, 5, 2, 1, 2, 2, 1, 1, 3, 1, 2, 1 |
+```"
+science_2022_luosz_Deracemization through photochemical EZ isomerization of enamines,124,"| code name | chemical shifts and J | splitting modes | number of atom H |
+|-----------|-----------------|-----------------|------------------|
+| 3aa | 7.33(6.5Hz), 7.21(15.4Hz, 7.9Hz), 7.14-7.11, 6.81(8.5Hz), 6.67(7.2Hz), 5.65(8.5Hz), 3.53(6.3Hz), 3.03(15.5Hz, 5.6Hz), 2.93-2.84, 2.76-2.68, 2.47(12.8Hz), 2.30-2.20, 2.10-2.03, 1.85(3.2Hz), 1.70-1.57 | d, dd, m, d, t, d, t, dt, m, m, d, m, m, d, m | 1, 3, 3, 2, 1, 1, 2, 1, 1, 1, 1, 2, 1, 1, 3 |
+| 3ad | 7.36-7.30, 7.18-7.09, 6.90(12.8Hz, 4.7Hz), 6.76-6.71, 5.52(8.4Hz), 3.50(10.2Hz, 6.0Hz), 3.00(15.2Hz, 5.8Hz), 2.89-2.79, 2.76-2.72, 2.52-2.42, 2.33-2.19, 2.11-2.03, 1.87(9.3Hz), 1.76-1.51 | m, m, dd, m, d, dd, dt, m, m, m, m, m, d, m | 1, 3, 2, 2, 1, 2, 1, 1, 1, 1, 2, 1, 1, 3 |
+| 3ab | 7.37-7.30, 7.19-7.08, 6.72(9.1Hz), 5.60(8.5Hz), 3.57-3.42, 3.09-2.79, 2.77-2.62, 2.54-2.40, 2.38-2.15, 2.14-2.00, 1.88-1.82, 1.77-1.67 | m, m, d, d, m, m, m, m, m, m, m, m | 1, 5, 2, 1, 2, 2, 1, 1, 3, 1, 2, 1 |"
+science_2022_luosz_Deracemization through photochemical EZ isomerization of enamines,125,"| code name | chemical shifts and J | splitting modes | number of atom H |
+|-----------|-----------------|-----------------|------------------|
+| 3aa | 7.33(6.5Hz), 7.21(15.4Hz, 7.9Hz), 7.14-7.11, 6.81(8.5Hz), 6.67(7.2Hz), 5.65(8.5Hz), 3.53(6.3Hz), 3.03(15.5Hz, 5.6Hz), 2.93-2.84, 2.76-2.68, 2.47(12.8Hz), 2.30-2.20, 2.10-2.03, 1.85(3.2Hz), 1.70-1.57 | d, dd, m, d, t, d, t, dt, m, m, d, m, m, d, m | 1, 3, 3, 2, 1, 1, 2, 1, 1, 1, 1, 2, 1, 1, 3 |
+| 3ad | 7.36-7.30, 7.18-7.09, 6.90(12.8Hz, 4.7Hz), 6.76-6.71, 5.52(8.4Hz), 3.50(10.2Hz, 6.0Hz), 3.00(15.2Hz, 5.8Hz), 2.89-2.79, 2.76-2.72, 2.52-2.42, 2.33-2.19, 2.11-2.03, 1.87(9.3Hz), 1.76-1.51 | m, m, dd, m, d, dd, dt, m, m, m, m, m, d, m | 1, 3, 2, 2, 1, 2, 1, 1, 1, 1, 2, 1, 1, 3 |
+| 3ab | 7.37-7.30, 7.19-7.08, 6.72(9.1Hz), 5.60(8.5Hz), 3.57-3.42, 3.09-2.79, 2.77-2.62, 2.54-2.40, 2.38-2.15, 2.14-2.00, 1.88-1.82, 1.77-1.67 | m, m, d, d, m, m, m, m, m, m, m, m | 1, 5, 2, 1, 2, 2, 1, 1, 3, 1, 2, 1 |"
+science_2022_luosz_Deracemization through photochemical EZ isomerization of enamines,126, N/
+science_2022_luosz_Deracemization through photochemical EZ isomerization of enamines,127,"```markdown
+| code name | chemical shifts and J | splitting modes | number of atom H |
+|-----------|-----------------------|-----------------|------------------|
+| 3aa       | 7.33(6.5Hz), 7.21(15.4Hz, 7.9Hz), 7.14-7.11, 6.81(8.5Hz), 6.67(7.2Hz), 5.65(8.5Hz), 3.53(6.3Hz), 3.03(15.5Hz, 5.6Hz), 2.93-2.84, 2.76-2.68, 2.47(12.8Hz), 2.30-2.20, 2.10-2.03, 1.85(3.2Hz), 1.70-1.57 | d, dd, m, d, t, d, t, dt, m, m, d, m, m, d, m | 1, 3, 3, 2, 1, 1, 2, 1, 1, 1, 1, 2, 1, 1, 3 |
+| 3ad       | 7.36-7.30, 7.18-7.09, 6.90(12.8Hz, 4.7Hz), 6.76-6.71, 5.52(8.4Hz), 3.50(10.2Hz, 6.0Hz), 3.00(15.2Hz, 5.8Hz), 2.89-2.79, 2.76-2.72, 2.52-2.42, 2.33-2.19, 2.11-2.03, 1.87(9.3Hz), 1.76-1.51 | m, m, dd, m, d, dd, dt, m, m, m, m, m, d, m | 1, 3, 2, 2, 1, 2, 1, 1, 1, 1, 2, 1, 1, 3 |
+| 3ab       | 7.37-7.30, 7.19-7.08, 6.72(9.1Hz), 5.60(8.5Hz), 3.57-3.42, 3.09-2.79, 2.77-2.62, 2.54-2.40, 2.38-2.15, 2.14-2.00, 1.88-1.82, 1.77-1.67 | m, m, d, d, m, m, m, m, m, m, m, m | 1, 5, 2, 1, 2, 2, 1, 1, 3, 1, 2, 1 |
+```"
+science_2022_luosz_Deracemization through photochemical EZ isomerization of enamines,128,"| code name | chemical shifts and J | splitting modes | number of atom H |
+|-----------|-----------------------|-----------------|------------------|
+| 3aa       | 7.33(6.5Hz), 7.21(15.4Hz, 7.9Hz), 7.14-7.11, 6.81(8.5Hz), 6.67(7.2Hz), 5.65(8.5Hz), 3.53(6.3Hz), 3.03(15.5Hz, 5.6Hz), 2.93-2.84, 2.76-2.68, 2.47(12.8Hz), 2.30-2.20, 2.10-2.03, 1.85(3.2Hz), 1.70-1.57 | d, dd, m, d, t, d, t, dt, m, m, d, m, m, d, m | 1, 3, 3, 2, 1, 1, 2, 1, 1, 1, 1, 2, 1, 1, 3 |
+| 3ad       | 7.36-7.30, 7.18-7.09, 6.90(12.8Hz, 4.7Hz), 6.76-6.71, 5.52(8.4Hz), 3.50(10.2Hz, 6.0Hz), 3.00(15.2Hz, 5.8Hz), 2.89-2.79, 2.76-2.72, 2.52-2.42, 2.33-2.19, 2.11-2.03, 1.87(9.3Hz), 1.76-1.51 | m, m, dd, m, d, dd, dt, m, m, m, m, m, d, m | 1, 3, 2, 2, 1, 2, 1, 1, 1, 1, 2, 1, 1, 3 |
+| 3ab       | 7.37-7.30, 7.19-7.08, 6.72(9.1Hz), 5.60(8.5Hz), 3.57-3.42, 3.09-2.79, 2.77-2.62, 2.54-2.40, 2.38-2.15, 2.14-2.00, 1.88-1.82, 1.77-1.67 | m, m, d, d, m, m, m, m, m, m, m, m | 1, 5, 2, 1, 2, 2, 1, 1, 3, 1, 2, 1 |
+"
+science_2022_luosz_Deracemization through photochemical EZ isomerization of enamines,129,N/A
+science_2022_luosz_Deracemization through photochemical EZ isomerization of enamines,130,N/A
+science_2022_luosz_Deracemization through photochemical EZ isomerization of enamines,131,"| code name | chemical shifts and J | splitting modes | number of atom H |
+|-----------|-----------------|-----------------|------------------|
+| N/A       | N/A             | N/A             | N/A              |"
+science_2022_luosz_Deracemization through photochemical EZ isomerization of enamines,132,N/A
+science_2022_luosz_Deracemization through photochemical EZ isomerization of enamines,133,N/A
+science_2022_luosz_Deracemization through photochemical EZ isomerization of enamines,134,N/A
+science_2022_luosz_Deracemization through photochemical EZ isomerization of enamines,135,N/A
+science_2022_luosz_Deracemization through photochemical EZ isomerization of enamines,136,N/A
+science_2022_luosz_Deracemization through photochemical EZ isomerization of enamines,137,N/A
+science_2022_luosz_Deracemization through photochemical EZ isomerization of enamines,138,N/A
+science_2022_luosz_Deracemization through photochemical EZ isomerization of enamines,139,"| code name | chemical shifts and J | splitting modes | number of atom H |
+|-----------|-----------------|-----------------|------------------|
+| N/A       | N/A             | N/A             | N/A              |"
+science_2022_luosz_Deracemization through photochemical EZ isomerization of enamines,140,"| code name | chemical shifts and J | splitting modes | number of atom H |
+|-----------|-----------------|-----------------|------------------|
+| N/A       | N/A             | N/A             | N/A              |"
+science_2022_luosz_Deracemization through photochemical EZ isomerization of enamines,141,"| code name | chemical shifts and J | splitting modes | number of atom H |
+|-----------|-----------------|-----------------|------------------|
+| N/A       | N/A             | N/A             | N/A              |"
+science_2022_luosz_Deracemization through photochemical EZ isomerization of enamines,142,N/A
+science_2022_luosz_Deracemization through photochemical EZ isomerization of enamines,143,"| code name | chemical shifts and J | splitting modes | number of atom H |
+|-----------|-----------------|-----------------|------------------|
+| N/A       | N/A             | N/A             | N/A              |"
+science_2022_luosz_Deracemization through photochemical EZ isomerization of enamines,144,"| code name | chemical shifts and J | splitting modes | number of atom H |
+|-----------|-----------------|-----------------|------------------|"
+science_2022_luosz_Deracemization through photochemical EZ isomerization of enamines,145,"| code name | chemical shifts and J | splitting modes | number of atom H |
+|-----------|-----------------|-----------------|------------------|"
+science_2022_luosz_Deracemization through photochemical EZ isomerization of enamines,146,N/A
+science_2022_luosz_Deracemization through photochemical EZ isomerization of enamines,147,"| code name | chemical shifts and J | splitting modes | number of atom H |
+|-----------|-----------------|-----------------|------------------|
+| N/A       | N/A             | N/A             | N/A              |"
+science_2022_luosz_Deracemization through photochemical EZ isomerization of enamines,148,N/A
+science_2022_luosz_Deracemization through photochemical EZ isomerization of enamines,149,"| code name | chemical shifts and J | splitting modes | number of atom H |
+|-----------|-----------------|-----------------|------------------|
+| N/A       | N/A             | N/A             | N/A              |"
+science_2022_luosz_Deracemization through photochemical EZ isomerization of enamines,150,"| code name | chemical shifts and J | splitting modes | number of atom H |
+|-----------|-----------------|-----------------|------------------|
+| N/A       | N/A             | N/A             | N/A              |"
+science_2022_luosz_Deracemization through photochemical EZ isomerization of enamines,151,N/A
+science_2022_luosz_Deracemization through photochemical EZ isomerization of enamines,152,"| code name | chemical shifts and J | splitting modes | number of atom H |
+|-----------|-----------------|-----------------|------------------|
+| N/A       | N/A             | N/A             | N/A              |"
+science_2022_luosz_Deracemization through photochemical EZ isomerization of enamines,153,"| code name | chemical shifts and J | splitting modes | number of atom H |
+|-----------|-----------------|-----------------|------------------|"
+science_2022_luosz_Deracemization through photochemical EZ isomerization of enamines,154,"| code name | chemical shifts and J | splitting modes | number of atom H |
+|-----------|-----------------|-----------------|------------------|"
+science_2022_luosz_Deracemization through photochemical EZ isomerization of enamines,155,N/A
+science_2022_luosz_Deracemization through photochemical EZ isomerization of enamines,156,N/A
+science_2022_luosz_Deracemization through photochemical EZ isomerization of enamines,157,N/A
+science_2022_luosz_Deracemization through photochemical EZ isomerization of enamines,158,"| code name | chemical shifts and J | splitting modes | number of atom H |
+|-----------|-----------------|-----------------|------------------|
+| N/A       | N/A             | N/A             | N/A              |"
+science_2022_luosz_Deracemization through photochemical EZ isomerization of enamines,159,N/A
+science_2022_luosz_Deracemization through photochemical EZ isomerization of enamines,160,"| code name | chemical shifts and J | splitting modes | number of atom H |
+|-----------|-----------------|-----------------|------------------|"
+science_2022_luosz_Deracemization through photochemical EZ isomerization of enamines,161,"| code name | chemical shifts and J | splitting modes | number of atom H |
+|-----------|-----------------|-----------------|------------------|"
+science_2022_luosz_Deracemization through photochemical EZ isomerization of enamines,162,N/A
+science_2022_luosz_Deracemization through photochemical EZ isomerization of enamines,163,"| code name | chemical shifts and J | splitting modes | number of atom H |
+|-----------|-----------------|-----------------|------------------|
+| N/A       | N/A             | N/A             | N/A              |"
+science_2022_luosz_Deracemization through photochemical EZ isomerization of enamines,164,"| code name | chemical shifts and J | splitting modes | number of atom H |
+|-----------|-----------------|-----------------|------------------|
+| N/A       | N/A             | N/A             | N/A              |"
+science_2022_luosz_Deracemization through photochemical EZ isomerization of enamines,165,N/A
+science_2022_luosz_Deracemization through photochemical EZ isomerization of enamines,166,N/A
+science_2022_luosz_Deracemization through photochemical EZ isomerization of enamines,167,"| code name | chemical shifts and J | splitting modes | number of atom H |
+|-----------|-----------------|-----------------|------------------|
+N/A"
+science_2022_luosz_Deracemization through photochemical EZ isomerization of enamines,168,N/A
+science_2022_luosz_Deracemization through photochemical EZ isomerization of enamines,169,"| code name | chemical shifts and J | splitting modes | number of atom H |
+|-----------|-----------------|-----------------|------------------|"
+science_2022_luosz_Deracemization through photochemical EZ isomerization of enamines,170,"| code name | chemical shifts and J | splitting modes | number of atom H |
+|-----------|-----------------|-----------------|------------------|
+| N/A       | N/A             | N/A             | N/A              |"
+science_2022_luosz_Deracemization through photochemical EZ isomerization of enamines,171,N/A
+science_2022_luosz_Deracemization through photochemical EZ isomerization of enamines,172,"| code name | chemical shifts and J | splitting modes | number of atom H |
+|-----------|-----------------|-----------------|------------------|
+| N/A       | N/A             | N/A             | N/A              |"
+science_2022_luosz_Deracemization through photochemical EZ isomerization of enamines,173,N/A
+science_2022_luosz_Deracemization through photochemical EZ isomerization of enamines,174,N/A
+science_2022_luosz_Deracemization through photochemical EZ isomerization of enamines,175,N/A
+science_2022_luosz_Deracemization through photochemical EZ isomerization of enamines,176,"| code name | chemical shifts and J | splitting modes | number of atom H |
+|-----------|-----------------|-----------------|------------------|
+| N/A       | N/A             | N/A             | N/A              |"
+science_2022_luosz_Deracemization through photochemical EZ isomerization of enamines,177,"| code name | chemical shifts and J | splitting modes | number of atom H |
+|-----------|-----------------|-----------------|------------------|"
+science_2022_luosz_Deracemization through photochemical EZ isomerization of enamines,178,N/A
+science_2022_luosz_Deracemization through photochemical EZ isomerization of enamines,179,"| code name | chemical shifts and J | splitting modes | number of atom H |
+|-----------|-----------------|-----------------|------------------|"
+science_2022_luosz_Deracemization through photochemical EZ isomerization of enamines,180,"| code name | chemical shifts and J | splitting modes | number of atom H |
+|-----------|-----------------|-----------------|------------------|
+| N/A       | N/A             | N/A             | N/A              |"
+science_2022_luosz_Deracemization through photochemical EZ isomerization of enamines,181,N/A
+science_2022_luosz_Deracemization through photochemical EZ isomerization of enamines,182,N/A
+science_2022_luosz_Deracemization through photochemical EZ isomerization of enamines,183,N/A
+science_2022_luosz_Deracemization through photochemical EZ isomerization of enamines,184,N/A
+science_2022_luosz_Deracemization through photochemical EZ isomerization of enamines,185,"| code name | chemical shifts and J | splitting modes | number of atom H |
+|-----------|-----------------|-----------------|------------------|
+N/A"
+science_2022_luosz_Deracemization through photochemical EZ isomerization of enamines,186,"| code name | chemical shifts and J | splitting modes | number of atom H |
+|-----------|-----------------|-----------------|------------------|
+| N/A       |                 |                 |                  |"
+science_2022_luosz_Deracemization through photochemical EZ isomerization of enamines,187,"| code name | chemical shifts and J | splitting modes | number of atom H |
+|-----------|-----------------|-----------------|------------------|
+| N/A       | N/A             | N/A             | N/A              |"

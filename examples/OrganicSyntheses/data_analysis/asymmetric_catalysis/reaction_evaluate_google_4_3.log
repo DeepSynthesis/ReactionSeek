@@ -1,0 +1,129 @@
+nohup: 忽略输入
+Loaded 106 manually corrected reactions for detailed analysis.
+
+--- Overall Proportions ---
+
+Distribution of 'major_catalyst_class':
+  Metal Catalyst: 75 (70.8%)
+  Organocatalyst: 25 (23.6%)
+  Enzyme/Biocatalyst: 6 (5.7%)
+
+Distribution of 'metal_center' (within Metal Catalysts - Total 75):
+  Unknown Metal: 34 (45.3%)
+  B: 8 (10.7%)
+  CU: 7 (9.3%)
+  TI: 6 (8.0%)
+  RU: 6 (8.0%)
+  RH: 5 (6.7%)
+  PD: 3 (4.0%)
+  NI: 3 (4.0%)
+  ZN: 2 (2.7%)
+  FE: 1 (1.3%)
+
+Distribution of 'ligand_or_core_type' (within Metal Catalysts - Total 75):
+  Unspecified Ligand for Unknown Metal: 32 (42.7%)
+  Unspecified Ligand for B: 8 (10.7%)
+  Unspecified Ligand for CU: 7 (9.3%)
+  Unspecified Ligand for RU: 6 (8.0%)
+  Unspecified Ligand for TI: 6 (8.0%)
+  Unspecified Ligand for RH: 5 (6.7%)
+  Unspecified Ligand for PD: 3 (4.0%)
+  Unspecified Ligand for NI: 3 (4.0%)
+  Chiral Auxiliary (Evans, Oppolzer, etc.): 2 (2.7%)
+  Unspecified Ligand for ZN: 2 (2.7%)
+  Unspecified Ligand for FE: 1 (1.3%)
+
+Distribution of 'ligand_or_core_type' (within Organocatalysts - Total 25):
+  Other Organocatalyst: 16 (64.0%)
+  Proline/Proline Derivative: 5 (20.0%)
+  Chiral Phosphoric Acid (CPA): 4 (16.0%)
+
+Distribution of 'substrate_type':
+  Ketone/Aldehyde/α,β-Unsaturated Carbonyl: 28 (26.4%)
+  Halide/Pseudohalide (for coupling/substitution): 19 (17.9%)
+  Ester/Lactone/Acid/Amide/Anhydride (as main reactant): 15 (14.2%)
+  Alkene/Olefin/Allene/Diene: 10 (9.4%)
+  Substrate Type Unknown: 9 (8.5%)
+  Alcohol/Phenol (for KR or derivatization): 6 (5.7%)
+  Imine/Hydrazone/Nitrone: 6 (5.7%)
+  Sulfide/Thioether: 4 (3.8%)
+  Racemic Mixture (for resolution): 3 (2.8%)
+  Heterocycle (as core structure being modified): 3 (2.8%)
+  Phosphorus Compound (e.g. for making chiral P-ligands): 2 (1.9%)
+  Alkyne: 1 (0.9%)
+
+--- Temporal Trends Data (Counts per Decade) ---
+
+Total Asymmetric Reactions per Decade:
+decade
+1980     4
+1990    17
+2000    24
+2010    52
+2020     9
+Name: count, dtype: int64
+
+Major Catalyst Class Distribution per Decade:
+major_catalyst_class  Enzyme/Biocatalyst  Metal Catalyst  Organocatalyst
+decade                                                                  
+1980                                   1               2               1
+1990                                   2              11               4
+2000                                   1              16               7
+2010                                   2              39              11
+2020                                   0               7               2
+
+Metal Center Distribution per Decade (for Metal Catalysts):
+metal_center  B  CU  FE  NI  PD  RH  RU  TI  Unknown Metal  ZN
+decade                                                        
+1980          0   0   0   0   0   0   0   0              2   0
+1990          1   0   0   0   0   0   2   3              5   0
+2000          2   2   0   0   0   2   1   0              8   1
+2010          5   5   0   3   2   3   3   3             14   1
+2020          0   0   1   0   1   0   0   0              5   0
+
+Ligand/Core Type Distribution per Decade (for Metal Catalysts):
+ligand_or_core_type  Chiral Auxiliary (Evans, Oppolzer, etc.)  Unspecified Ligand for B  Unspecified Ligand for CU  Unspecified Ligand for FE  Unspecified Ligand for NI  Unspecified Ligand for PD  Unspecified Ligand for RH  Unspecified Ligand for RU  Unspecified Ligand for TI  Unspecified Ligand for Unknown Metal  Unspecified Ligand for ZN
+decade                                                                                                                                                                                                                                                                                                                                               
+1980                                                        1                         0                          0                          0                          0                          0                          0                          0                          0                                     1                          0
+1990                                                        1                         1                          0                          0                          0                          0                          0                          2                          3                                     4                          0
+2000                                                        0                         2                          2                          0                          0                          0                          2                          1                          0                                     8                          1
+2010                                                        0                         5                          5                          0                          3                          2                          3                          3                          3                                    14                          1
+2020                                                        0                         0                          0                          1                          0                          1                          0                          0                          0                                     5                          0
+
+Ligand/Core Type Distribution per Decade (for Organocatalysts):
+ligand_or_core_type  Chiral Phosphoric Acid (CPA)  Other Organocatalyst  Proline/Proline Derivative
+decade                                                                                             
+1980                                            1                     0                           0
+1990                                            1                     2                           1
+2000                                            1                     6                           0
+2010                                            1                     6                           4
+2020                                            0                     2                           0
+
+Substrate Type Distribution per Decade:
+substrate_type  Alcohol/Phenol (for KR or derivatization)  Alkene/Olefin/Allene/Diene  Alkyne  Ester/Lactone/Acid/Amide/Anhydride (as main reactant)  Halide/Pseudohalide (for coupling/substitution)  Heterocycle (as core structure being modified)  Imine/Hydrazone/Nitrone  Ketone/Aldehyde/α,β-Unsaturated Carbonyl  Phosphorus Compound (e.g. for making chiral P-ligands)  Racemic Mixture (for resolution)  Substrate Type Unknown  Sulfide/Thioether
+decade                                                                                                                                                                                                                                                                                                                                                                                                                                                       
+1980                                                    0                           1       0                                                      1                                                1                                               0                        0                                         1                                                       0                                 0                       0                  0
+1990                                                    1                           0       0                                                      3                                                7                                               1                        0                                         2                                                       0                                 2                       0                  1
+2000                                                    1                           2       0                                                      4                                                3                                               0                        1                                         7                                                       1                                 1                       3                  1
+2010                                                    4                           6       1                                                      7                                                7                                               2                        5                                        14                                                       1                                 0                       3                  2
+2020                                                    0                           1       0                                                      0                                                1                                               0                        0                                         4                                                       0                                 0                       3                  0
+
+Dataframe with detailed catalyst parsing saved to final_classified_asymmetric_reactions.json
+Dataframe also saved to final_classified_asymmetric_reactions.csv
+
+
+--- INTERPRETATION OF TRENDS (Based on printed tables above) ---
+The textual analysis of trends, proportions, and their interpretations would be manually constructed now,
+drawing insights from the quantitative data printed above. This involves looking at how different categories
+(e.g., 'Metal Catalyst', specific metals like 'Ru', specific ligands like 'BINAP') change in frequency
+across the decades (1980s, 1990s, 2000s, 2010s, 2020s) and their overall share.
+Key aspects to discuss would include:
+1. Overall publication trend of asymmetric reactions in Org. Synth. (from 'Total Asymmetric Reactions per Decade').
+2. Dominance and evolution of major catalyst classes (Metal vs. Organo vs. Enzyme).
+3. For metal catalysts: which metals are prominent overall and in which decades? (e.g., Ti early on, Ru/Rh for hydrogenations, Pd/Cu for C-C couplings/conjugate additions).
+4. For metal catalysts: which ligand types gain prominence? (e.g., emergence of BINAP, Salen, BOX).
+5. For organocatalysts: rise of specific cores (Proline, MacMillan, CPA) especially post-2000.
+6. Evolution of reaction types: are certain reactions more common in earlier vs. later decades?
+7. Common substrate classes and any shifts over time.
+8. Relating these trends to major breakthroughs (e.g., Nobel Prizes) and the specific focus of Org. Synth. (practicality, scalability).
+9. Explaining *why* certain catalysts/reactions/substrates are prevalent (utility, availability, robustness).

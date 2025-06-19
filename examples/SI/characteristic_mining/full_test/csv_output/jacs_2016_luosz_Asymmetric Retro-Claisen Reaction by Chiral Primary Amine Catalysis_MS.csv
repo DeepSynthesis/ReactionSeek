@@ -1,0 +1,293 @@
+path,item_num,summary
+jacs_2016_luosz_Asymmetric Retro-Claisen Reaction by Chiral Primary Amine Catalysis,0,"| code name | name of MS | method of MS | calculated mass | experimental mass |
+|-----------|------------|--------------|-----------------|-------------------|
+| N/A       | N/A        | N/A          | N/A             | N/A               |"
+jacs_2016_luosz_Asymmetric Retro-Claisen Reaction by Chiral Primary Amine Catalysis,1,"| code name | name of MS | method of MS | calculated mass | experimental mass |
+|-----------|------------|--------------|-----------------|-------------------|
+| 4a | HRMS | ESI | 243.0992 | 243.0993 |"
+jacs_2016_luosz_Asymmetric Retro-Claisen Reaction by Chiral Primary Amine Catalysis,2,N/A
+jacs_2016_luosz_Asymmetric Retro-Claisen Reaction by Chiral Primary Amine Catalysis,2,"| code name | name of MS | method of MS | calculated mass | experimental mass |
+|-----------|------------|--------------|-----------------|-------------------|
+| 4b | HRMS | ESI | 257.1148 | 257.1147 |
+| 4c | HRMS | ESI | 271.1305 | 271.1305 |"
+jacs_2016_luosz_Asymmetric Retro-Claisen Reaction by Chiral Primary Amine Catalysis,3,"| code name | name of MS | method of MS | calculated mass | experimental mass |
+|-----------|------------|--------------|-----------------|-------------------|
+| N/A       | HRMS       | ESI          | 257.1148        | N/A               |"
+jacs_2016_luosz_Asymmetric Retro-Claisen Reaction by Chiral Primary Amine Catalysis,3,"| code name | name of MS | method of MS | calculated mass | experimental mass |
+|-----------|------------|--------------|-----------------|-------------------|
+| 4c | HRMS | ESI | 271.1305 | 271.1305 |
+| 4d | HRMS | ESI | 285.1461 | 285.1463 |
+| 4e | HRMS | ESI | 257.1148 | 257.1148 |"
+jacs_2016_luosz_Asymmetric Retro-Claisen Reaction by Chiral Primary Amine Catalysis,4,N/A
+jacs_2016_luosz_Asymmetric Retro-Claisen Reaction by Chiral Primary Amine Catalysis,4,"| code name | name of MS | method of MS | calculated mass | experimental mass |
+|-----------|------------|--------------|-----------------|-------------------|
+| 4e | HRMS | ESI | 257.1148 | 257.1148 |
+| 4f | HRMS | ESI | 269.1148 | 269.1150 |
+| 4g | HRMS | ESI | 267.0992 | 2467.0993 |"
+jacs_2016_luosz_Asymmetric Retro-Claisen Reaction by Chiral Primary Amine Catalysis,5,N/A
+jacs_2016_luosz_Asymmetric Retro-Claisen Reaction by Chiral Primary Amine Catalysis,5,"| code name | name of MS | method of MS | calculated mass | experimental mass |
+|-----------|------------|--------------|-----------------|-------------------|
+| 4g | HRMS | ESI | 267.0992 | 267.0993 |
+| 4h | HRMS | ESI | 397.0410 | 397.0409 |
+| 4i | HRMS | ESI | 315.1203 | 315.1203 |"
+jacs_2016_luosz_Asymmetric Retro-Claisen Reaction by Chiral Primary Amine Catalysis,6,"| code name | name of MS | method of MS | calculated mass | experimental mass |
+|-----------|------------|--------------|-----------------|-------------------|
+| N/A       | HRMS       | ESI          | 397.0410        | N/A               |"
+jacs_2016_luosz_Asymmetric Retro-Claisen Reaction by Chiral Primary Amine Catalysis,6,"| code name | name of MS | method of MS | calculated mass | experimental mass |
+|-----------|------------|--------------|-----------------|-------------------|
+| 4i | HRMS | ESI | 315.1203 | 315.1203 |
+| 4j | HRMS | ESI | 259.0941 | 259.0941 |
+| 4k | HRMS | ESI | 287.0890 | 287.0891 |"
+jacs_2016_luosz_Asymmetric Retro-Claisen Reaction by Chiral Primary Amine Catalysis,7,"| code name | name of MS | method of MS | calculated mass | experimental mass |
+|-----------|------------|--------------|-----------------|-------------------|
+| N/A       | N/A        | N/A          | N/A             | N/A               |"
+jacs_2016_luosz_Asymmetric Retro-Claisen Reaction by Chiral Primary Amine Catalysis,7,"| code name | name of MS | method of MS | calculated mass | experimental mass |
+|-----------|------------|--------------|-----------------|-------------------|
+| 4k | HRMS | ESI | 287.0890 | 287.0891 |
+| 4l | HRMS | ESI | 247.0741 | 247.0742 |
+| 4m | HRMS | ESI | 271.1305 | 271.1305 |"
+jacs_2016_luosz_Asymmetric Retro-Claisen Reaction by Chiral Primary Amine Catalysis,8,N/A
+jacs_2016_luosz_Asymmetric Retro-Claisen Reaction by Chiral Primary Amine Catalysis,8,"| code name | name of MS | method of MS | calculated mass | experimental mass |
+|-----------|------------|--------------|-----------------|-------------------|
+| 4m | HRMS | ESI | 271.1305 | 271.1305 |
+| 4n | HRMS | ESI | 283.1305 | 283.1307 |"
+jacs_2016_luosz_Asymmetric Retro-Claisen Reaction by Chiral Primary Amine Catalysis,9,N/A
+jacs_2016_luosz_Asymmetric Retro-Claisen Reaction by Chiral Primary Amine Catalysis,9,"| code name | name of MS | method of MS | calculated mass | experimental mass |
+|-----------|------------|--------------|-----------------|-------------------|
+| 4n' | HRMS | ESI | 283.1305 | 283.1306 |
+| 4o | HRMS | ESI | 331.1305 | 331.1304 |"
+jacs_2016_luosz_Asymmetric Retro-Claisen Reaction by Chiral Primary Amine Catalysis,10,N/A
+jacs_2016_luosz_Asymmetric Retro-Claisen Reaction by Chiral Primary Amine Catalysis,10,"| code name | name of MS | method of MS | calculated mass | experimental mass |
+|-----------|------------|--------------|-----------------|-------------------|
+| 4o | HRMS | ESI | 331.1305 | 331.1304 |
+| 4p | HRMS | ESI | 297.1461 | 297.1461 |
+| 4q | HRMS | ESI | 321.0097 | 321.0099 |"
+jacs_2016_luosz_Asymmetric Retro-Claisen Reaction by Chiral Primary Amine Catalysis,11,N/A
+jacs_2016_luosz_Asymmetric Retro-Claisen Reaction by Chiral Primary Amine Catalysis,11,"| code name | name of MS | method of MS | calculated mass | experimental mass |
+|-----------|------------|--------------|-----------------|-------------------|
+| 4q | HRMS | ESI | 321.0097 | 321.0099 |
+| 4r | HRMS | ESI | 273.1097 | 273.1099 |
+| 4s | HRMS | ESI | 337.1046 | 337.1045 |"
+jacs_2016_luosz_Asymmetric Retro-Claisen Reaction by Chiral Primary Amine Catalysis,12,"| code name | name of MS | method of MS | calculated mass | experimental mass |
+|-----------|------------|--------------|-----------------|-------------------|
+| N/A       | N/A        | N/A          | N/A             | N/A               |"
+jacs_2016_luosz_Asymmetric Retro-Claisen Reaction by Chiral Primary Amine Catalysis,12,"| code name | name of MS | method of MS | calculated mass | experimental mass |
+|-----------|------------|--------------|-----------------|-------------------|
+| 4s | HRMS | ESI | 337.1046 | 337.1045 |
+| 4t | HRMS | ESI | 317.0996 | 317.0995 |
+| 4u | HRMS | ESI | 313.1410 | 313.1411 |"
+jacs_2016_luosz_Asymmetric Retro-Claisen Reaction by Chiral Primary Amine Catalysis,13,"| code name | name of MS | method of MS | calculated mass | experimental mass |
+|-----------|------------|--------------|-----------------|-------------------|
+| N/A       | HRMS       | ESI          | 317.0996        | N/A               |"
+jacs_2016_luosz_Asymmetric Retro-Claisen Reaction by Chiral Primary Amine Catalysis,13,"| code name | name of MS | method of MS | calculated mass | experimental mass |
+|-----------|------------|--------------|-----------------|-------------------|
+| 4u | HRMS | ESI | 313.1410 | 313.1411 |
+| 4u' | HRMS | ESI | 313.1410 | 313.1412 |
+| 4v | HRMS | APCI | 494.8925 | 494.8926 |"
+jacs_2016_luosz_Asymmetric Retro-Claisen Reaction by Chiral Primary Amine Catalysis,14,"| code name | name of MS | method of MS | calculated mass | experimental mass |
+|-----------|------------|--------------|-----------------|-------------------|
+| N/A       | HRMS       | ESI          | 313.1410        | N/A               |"
+jacs_2016_luosz_Asymmetric Retro-Claisen Reaction by Chiral Primary Amine Catalysis,14,"```markdown
+| code name | name of MS | method of MS | calculated mass | experimental mass |
+|-----------|------------|--------------|-----------------|-------------------|
+| 4v | HRMS | APCI | 494.8925 | 494.8926 |
+| 4w | HRMS | APCI | 283.1305 | 283.1307 |
+| 4x | HRMS | APCI | 311.0866 | 311.0865 |
+```"
+jacs_2016_luosz_Asymmetric Retro-Claisen Reaction by Chiral Primary Amine Catalysis,15,"| code name | name of MS | method of MS | calculated mass | experimental mass |
+|-----------|------------|--------------|-----------------|-------------------|
+| N/A | N/A | N/A | N/A | N/A |"
+jacs_2016_luosz_Asymmetric Retro-Claisen Reaction by Chiral Primary Amine Catalysis,15,"| code name | name of MS | method of MS | calculated mass | experimental mass |
+|-----------|------------|--------------|-----------------|-------------------|
+| 4x | HRMS | APCI | 311.0866 | 311.0865 |
+| 4y | HRMS | APCI | 277.0602 | 277.0604 |"
+jacs_2016_luosz_Asymmetric Retro-Claisen Reaction by Chiral Primary Amine Catalysis,16,N/A
+jacs_2016_luosz_Asymmetric Retro-Claisen Reaction by Chiral Primary Amine Catalysis,16,N/A
+jacs_2016_luosz_Asymmetric Retro-Claisen Reaction by Chiral Primary Amine Catalysis,17,"| code name | name of MS | method of MS | calculated mass | experimental mass |
+|-----------|------------|--------------|-----------------|-------------------|
+| 1b | ESI-HRMS | Positive mode ESI | 173.2012 | 173.2013 |
+| Int1 | ESI-HRMS | Positive mode ESI | 269.2587 | 269.2587 |"
+jacs_2016_luosz_Asymmetric Retro-Claisen Reaction by Chiral Primary Amine Catalysis,18,"| code name | name of MS | method of MS | calculated mass | experimental mass |
+|-----------|------------|--------------|-----------------|-------------------|
+| 1b | ESI-HRMS | ESI | 173.2012 | 173.2013 |
+| Int1 | ESI-HRMS | ESI | 269.2587 | 269.2587 |
+| A | ESI-HRMS | ESI | 279.2431 | 279.2430 |
+| Int2,3,4,5 | ESI-HRMS | ESI | 375.3006 | 375.3004 |
+| B | ESI-HRMS | ESI | 481.3425 | 481.3423 |
+| C | ESI-HRMS | ESI | 393.3296 | 393.3292 |"
+jacs_2016_luosz_Asymmetric Retro-Claisen Reaction by Chiral Primary Amine Catalysis,19,"| code name | name of MS | method of MS | calculated mass | experimental mass |
+|-----------|------------|--------------|-----------------|-------------------|
+| A | ESI-HRMS | ESI | 481.3423 | 481.3425 |
+| B | ESI-HRMS | ESI | 393.3292 | 393.3296 |
+| C | ESI-HRMS | ESI | 375.3004 | 375.3006 |"
+jacs_2016_luosz_Asymmetric Retro-Claisen Reaction by Chiral Primary Amine Catalysis,20,N/A
+jacs_2016_luosz_Asymmetric Retro-Claisen Reaction by Chiral Primary Amine Catalysis,21,N/A
+jacs_2016_luosz_Asymmetric Retro-Claisen Reaction by Chiral Primary Amine Catalysis,22,N/A
+jacs_2016_luosz_Asymmetric Retro-Claisen Reaction by Chiral Primary Amine Catalysis,23,N/A
+jacs_2016_luosz_Asymmetric Retro-Claisen Reaction by Chiral Primary Amine Catalysis,24,N/A
+jacs_2016_luosz_Asymmetric Retro-Claisen Reaction by Chiral Primary Amine Catalysis,24,"| code name | name of MS | method of MS | calculated mass | experimental mass |
+|-----------|------------|--------------|-----------------|-------------------|
+| N/A       | N/A        | N/A          | N/A             | N/A               |"
+jacs_2016_luosz_Asymmetric Retro-Claisen Reaction by Chiral Primary Amine Catalysis,25,N/A
+jacs_2016_luosz_Asymmetric Retro-Claisen Reaction by Chiral Primary Amine Catalysis,25,"| code name | name of MS | method of MS | calculated mass | experimental mass |
+|-----------|------------|--------------|-----------------|-------------------|
+| N/A       | N/A        | N/A          | N/A             | N/A               |"
+jacs_2016_luosz_Asymmetric Retro-Claisen Reaction by Chiral Primary Amine Catalysis,26,N/A
+jacs_2016_luosz_Asymmetric Retro-Claisen Reaction by Chiral Primary Amine Catalysis,27,N/A
+jacs_2016_luosz_Asymmetric Retro-Claisen Reaction by Chiral Primary Amine Catalysis,28,N/A
+jacs_2016_luosz_Asymmetric Retro-Claisen Reaction by Chiral Primary Amine Catalysis,29,N/A
+jacs_2016_luosz_Asymmetric Retro-Claisen Reaction by Chiral Primary Amine Catalysis,30,N/A
+jacs_2016_luosz_Asymmetric Retro-Claisen Reaction by Chiral Primary Amine Catalysis,31,N/A
+jacs_2016_luosz_Asymmetric Retro-Claisen Reaction by Chiral Primary Amine Catalysis,32,N/A
+jacs_2016_luosz_Asymmetric Retro-Claisen Reaction by Chiral Primary Amine Catalysis,33,N/A
+jacs_2016_luosz_Asymmetric Retro-Claisen Reaction by Chiral Primary Amine Catalysis,34,N/A
+jacs_2016_luosz_Asymmetric Retro-Claisen Reaction by Chiral Primary Amine Catalysis,35,N/A
+jacs_2016_luosz_Asymmetric Retro-Claisen Reaction by Chiral Primary Amine Catalysis,36,N/A
+jacs_2016_luosz_Asymmetric Retro-Claisen Reaction by Chiral Primary Amine Catalysis,37,N/A
+jacs_2016_luosz_Asymmetric Retro-Claisen Reaction by Chiral Primary Amine Catalysis,38,N/A
+jacs_2016_luosz_Asymmetric Retro-Claisen Reaction by Chiral Primary Amine Catalysis,39,N/A
+jacs_2016_luosz_Asymmetric Retro-Claisen Reaction by Chiral Primary Amine Catalysis,40,N/A
+jacs_2016_luosz_Asymmetric Retro-Claisen Reaction by Chiral Primary Amine Catalysis,41,N/A
+jacs_2016_luosz_Asymmetric Retro-Claisen Reaction by Chiral Primary Amine Catalysis,42,N/A
+jacs_2016_luosz_Asymmetric Retro-Claisen Reaction by Chiral Primary Amine Catalysis,43,N/A
+jacs_2016_luosz_Asymmetric Retro-Claisen Reaction by Chiral Primary Amine Catalysis,44,N/A
+jacs_2016_luosz_Asymmetric Retro-Claisen Reaction by Chiral Primary Amine Catalysis,45,N/A
+jacs_2016_luosz_Asymmetric Retro-Claisen Reaction by Chiral Primary Amine Catalysis,46,N/A
+jacs_2016_luosz_Asymmetric Retro-Claisen Reaction by Chiral Primary Amine Catalysis,47,N/A
+jacs_2016_luosz_Asymmetric Retro-Claisen Reaction by Chiral Primary Amine Catalysis,48,N/A
+jacs_2016_luosz_Asymmetric Retro-Claisen Reaction by Chiral Primary Amine Catalysis,49,N/A
+jacs_2016_luosz_Asymmetric Retro-Claisen Reaction by Chiral Primary Amine Catalysis,50,N/A
+jacs_2016_luosz_Asymmetric Retro-Claisen Reaction by Chiral Primary Amine Catalysis,51,N/A
+jacs_2016_luosz_Asymmetric Retro-Claisen Reaction by Chiral Primary Amine Catalysis,52,N/A
+jacs_2016_luosz_Asymmetric Retro-Claisen Reaction by Chiral Primary Amine Catalysis,53,N/A
+jacs_2016_luosz_Asymmetric Retro-Claisen Reaction by Chiral Primary Amine Catalysis,54,N/A
+jacs_2016_luosz_Asymmetric Retro-Claisen Reaction by Chiral Primary Amine Catalysis,55,N/A
+jacs_2016_luosz_Asymmetric Retro-Claisen Reaction by Chiral Primary Amine Catalysis,56,N/A
+jacs_2016_luosz_Asymmetric Retro-Claisen Reaction by Chiral Primary Amine Catalysis,57,N/A
+jacs_2016_luosz_Asymmetric Retro-Claisen Reaction by Chiral Primary Amine Catalysis,58,N/A
+jacs_2016_luosz_Asymmetric Retro-Claisen Reaction by Chiral Primary Amine Catalysis,59,N/A
+jacs_2016_luosz_Asymmetric Retro-Claisen Reaction by Chiral Primary Amine Catalysis,60,N/A
+jacs_2016_luosz_Asymmetric Retro-Claisen Reaction by Chiral Primary Amine Catalysis,61,N/A
+jacs_2016_luosz_Asymmetric Retro-Claisen Reaction by Chiral Primary Amine Catalysis,62,N/A
+jacs_2016_luosz_Asymmetric Retro-Claisen Reaction by Chiral Primary Amine Catalysis,63,N/A
+jacs_2016_luosz_Asymmetric Retro-Claisen Reaction by Chiral Primary Amine Catalysis,64,N/A
+jacs_2016_luosz_Asymmetric Retro-Claisen Reaction by Chiral Primary Amine Catalysis,65,N/A
+jacs_2016_luosz_Asymmetric Retro-Claisen Reaction by Chiral Primary Amine Catalysis,66,N/A
+jacs_2016_luosz_Asymmetric Retro-Claisen Reaction by Chiral Primary Amine Catalysis,67,N/A
+jacs_2016_luosz_Asymmetric Retro-Claisen Reaction by Chiral Primary Amine Catalysis,68,N/A
+jacs_2016_luosz_Asymmetric Retro-Claisen Reaction by Chiral Primary Amine Catalysis,69,N/A
+jacs_2016_luosz_Asymmetric Retro-Claisen Reaction by Chiral Primary Amine Catalysis,70,N/A
+jacs_2016_luosz_Asymmetric Retro-Claisen Reaction by Chiral Primary Amine Catalysis,71,N/A
+jacs_2016_luosz_Asymmetric Retro-Claisen Reaction by Chiral Primary Amine Catalysis,72,N/A
+jacs_2016_luosz_Asymmetric Retro-Claisen Reaction by Chiral Primary Amine Catalysis,73,N/A
+jacs_2016_luosz_Asymmetric Retro-Claisen Reaction by Chiral Primary Amine Catalysis,74,N/A
+jacs_2016_luosz_Asymmetric Retro-Claisen Reaction by Chiral Primary Amine Catalysis,75,N/A
+jacs_2016_luosz_Asymmetric Retro-Claisen Reaction by Chiral Primary Amine Catalysis,76,N/A
+jacs_2016_luosz_Asymmetric Retro-Claisen Reaction by Chiral Primary Amine Catalysis,77,N/A
+jacs_2016_luosz_Asymmetric Retro-Claisen Reaction by Chiral Primary Amine Catalysis,78,N/A
+jacs_2016_luosz_Asymmetric Retro-Claisen Reaction by Chiral Primary Amine Catalysis,79,N/A
+jacs_2016_luosz_Asymmetric Retro-Claisen Reaction by Chiral Primary Amine Catalysis,80,N/A
+jacs_2016_luosz_Asymmetric Retro-Claisen Reaction by Chiral Primary Amine Catalysis,81,N/A
+jacs_2016_luosz_Asymmetric Retro-Claisen Reaction by Chiral Primary Amine Catalysis,82,N/A
+jacs_2016_luosz_Asymmetric Retro-Claisen Reaction by Chiral Primary Amine Catalysis,83,N/A
+jacs_2016_luosz_Asymmetric Retro-Claisen Reaction by Chiral Primary Amine Catalysis,84,N/A
+jacs_2016_luosz_Asymmetric Retro-Claisen Reaction by Chiral Primary Amine Catalysis,85,N/A
+jacs_2016_luosz_Asymmetric Retro-Claisen Reaction by Chiral Primary Amine Catalysis,86,N/A
+jacs_2016_luosz_Asymmetric Retro-Claisen Reaction by Chiral Primary Amine Catalysis,87,N/A
+jacs_2016_luosz_Asymmetric Retro-Claisen Reaction by Chiral Primary Amine Catalysis,88,N/A
+jacs_2016_luosz_Asymmetric Retro-Claisen Reaction by Chiral Primary Amine Catalysis,89,N/A
+jacs_2016_luosz_Asymmetric Retro-Claisen Reaction by Chiral Primary Amine Catalysis,90,N/A
+jacs_2016_luosz_Asymmetric Retro-Claisen Reaction by Chiral Primary Amine Catalysis,91,N/A
+jacs_2016_luosz_Asymmetric Retro-Claisen Reaction by Chiral Primary Amine Catalysis,92,N/A
+jacs_2016_luosz_Asymmetric Retro-Claisen Reaction by Chiral Primary Amine Catalysis,93,N/A
+jacs_2016_luosz_Asymmetric Retro-Claisen Reaction by Chiral Primary Amine Catalysis,94,N/A
+jacs_2016_luosz_Asymmetric Retro-Claisen Reaction by Chiral Primary Amine Catalysis,95,N/A
+jacs_2016_luosz_Asymmetric Retro-Claisen Reaction by Chiral Primary Amine Catalysis,96,N/A
+jacs_2016_luosz_Asymmetric Retro-Claisen Reaction by Chiral Primary Amine Catalysis,97,N/A
+jacs_2016_luosz_Asymmetric Retro-Claisen Reaction by Chiral Primary Amine Catalysis,98,N/A
+jacs_2016_luosz_Asymmetric Retro-Claisen Reaction by Chiral Primary Amine Catalysis,99,N/A
+jacs_2016_luosz_Asymmetric Retro-Claisen Reaction by Chiral Primary Amine Catalysis,100,N/A
+jacs_2016_luosz_Asymmetric Retro-Claisen Reaction by Chiral Primary Amine Catalysis,101,N/A
+jacs_2016_luosz_Asymmetric Retro-Claisen Reaction by Chiral Primary Amine Catalysis,102,N/A
+jacs_2016_luosz_Asymmetric Retro-Claisen Reaction by Chiral Primary Amine Catalysis,103,N/A
+jacs_2016_luosz_Asymmetric Retro-Claisen Reaction by Chiral Primary Amine Catalysis,104,N/A
+jacs_2016_luosz_Asymmetric Retro-Claisen Reaction by Chiral Primary Amine Catalysis,105,N/A
+jacs_2016_luosz_Asymmetric Retro-Claisen Reaction by Chiral Primary Amine Catalysis,106,N/A
+jacs_2016_luosz_Asymmetric Retro-Claisen Reaction by Chiral Primary Amine Catalysis,107,N/A
+jacs_2016_luosz_Asymmetric Retro-Claisen Reaction by Chiral Primary Amine Catalysis,108,N/A
+jacs_2016_luosz_Asymmetric Retro-Claisen Reaction by Chiral Primary Amine Catalysis,109,N/A
+jacs_2016_luosz_Asymmetric Retro-Claisen Reaction by Chiral Primary Amine Catalysis,110,N/A
+jacs_2016_luosz_Asymmetric Retro-Claisen Reaction by Chiral Primary Amine Catalysis,111,N/A
+jacs_2016_luosz_Asymmetric Retro-Claisen Reaction by Chiral Primary Amine Catalysis,112,N/A
+jacs_2016_luosz_Asymmetric Retro-Claisen Reaction by Chiral Primary Amine Catalysis,113,N/A
+jacs_2016_luosz_Asymmetric Retro-Claisen Reaction by Chiral Primary Amine Catalysis,114,"| code name | name of MS | method of MS | calculated mass | experimental mass |
+|-----------|------------|--------------|-----------------|-------------------|
+| N/A       | N/A        | N/A          | N/A             | N/A               |"
+jacs_2016_luosz_Asymmetric Retro-Claisen Reaction by Chiral Primary Amine Catalysis,115,N/A
+jacs_2016_luosz_Asymmetric Retro-Claisen Reaction by Chiral Primary Amine Catalysis,116,N/A
+jacs_2016_luosz_Asymmetric Retro-Claisen Reaction by Chiral Primary Amine Catalysis,117,"| code name | name of MS | method of MS | calculated mass | experimental mass |
+|-----------|------------|--------------|-----------------|-------------------|
+| N/A       | N/A        | N/A          | N/A             | N/A               |"
+jacs_2016_luosz_Asymmetric Retro-Claisen Reaction by Chiral Primary Amine Catalysis,118,N/A
+jacs_2016_luosz_Asymmetric Retro-Claisen Reaction by Chiral Primary Amine Catalysis,119,N/A
+jacs_2016_luosz_Asymmetric Retro-Claisen Reaction by Chiral Primary Amine Catalysis,120,N/A
+jacs_2016_luosz_Asymmetric Retro-Claisen Reaction by Chiral Primary Amine Catalysis,121,N/A
+jacs_2016_luosz_Asymmetric Retro-Claisen Reaction by Chiral Primary Amine Catalysis,122,N/A
+jacs_2016_luosz_Asymmetric Retro-Claisen Reaction by Chiral Primary Amine Catalysis,123,N/A
+jacs_2016_luosz_Asymmetric Retro-Claisen Reaction by Chiral Primary Amine Catalysis,124,N/A
+jacs_2016_luosz_Asymmetric Retro-Claisen Reaction by Chiral Primary Amine Catalysis,125,N/A
+jacs_2016_luosz_Asymmetric Retro-Claisen Reaction by Chiral Primary Amine Catalysis,126,N/A
+jacs_2016_luosz_Asymmetric Retro-Claisen Reaction by Chiral Primary Amine Catalysis,127,N/A
+jacs_2016_luosz_Asymmetric Retro-Claisen Reaction by Chiral Primary Amine Catalysis,128,N/A
+jacs_2016_luosz_Asymmetric Retro-Claisen Reaction by Chiral Primary Amine Catalysis,129,N/A
+jacs_2016_luosz_Asymmetric Retro-Claisen Reaction by Chiral Primary Amine Catalysis,130,"| code name | name of MS | method of MS | calculated mass | experimental mass |
+|-----------|------------|--------------|-----------------|-------------------|
+| N/A       | N/A        | N/A          | N/A             | N/A               |"
+jacs_2016_luosz_Asymmetric Retro-Claisen Reaction by Chiral Primary Amine Catalysis,131,N/A
+jacs_2016_luosz_Asymmetric Retro-Claisen Reaction by Chiral Primary Amine Catalysis,132,N/A
+jacs_2016_luosz_Asymmetric Retro-Claisen Reaction by Chiral Primary Amine Catalysis,133,N/A
+jacs_2016_luosz_Asymmetric Retro-Claisen Reaction by Chiral Primary Amine Catalysis,134,"| code name | name of MS | method of MS | calculated mass | experimental mass |
+|-----------|------------|--------------|-----------------|-------------------|
+| N/A       | N/A        | N/A          | N/A             | N/A               |"
+jacs_2016_luosz_Asymmetric Retro-Claisen Reaction by Chiral Primary Amine Catalysis,135,"| code name | name of MS | method of MS | calculated mass | experimental mass |
+|-----------|------------|--------------|-----------------|-------------------|
+| N/A       | N/A        | N/A          | N/A             | N/A               |"
+jacs_2016_luosz_Asymmetric Retro-Claisen Reaction by Chiral Primary Amine Catalysis,136,N/A
+jacs_2016_luosz_Asymmetric Retro-Claisen Reaction by Chiral Primary Amine Catalysis,137,N/A
+jacs_2016_luosz_Asymmetric Retro-Claisen Reaction by Chiral Primary Amine Catalysis,138,N/A
+jacs_2016_luosz_Asymmetric Retro-Claisen Reaction by Chiral Primary Amine Catalysis,139,N/A
+jacs_2016_luosz_Asymmetric Retro-Claisen Reaction by Chiral Primary Amine Catalysis,140,N/A
+jacs_2016_luosz_Asymmetric Retro-Claisen Reaction by Chiral Primary Amine Catalysis,141,N/A
+jacs_2016_luosz_Asymmetric Retro-Claisen Reaction by Chiral Primary Amine Catalysis,142,N/A
+jacs_2016_luosz_Asymmetric Retro-Claisen Reaction by Chiral Primary Amine Catalysis,143,N/A
+jacs_2016_luosz_Asymmetric Retro-Claisen Reaction by Chiral Primary Amine Catalysis,144,N/A
+jacs_2016_luosz_Asymmetric Retro-Claisen Reaction by Chiral Primary Amine Catalysis,145,N/A
+jacs_2016_luosz_Asymmetric Retro-Claisen Reaction by Chiral Primary Amine Catalysis,146, N/
+jacs_2016_luosz_Asymmetric Retro-Claisen Reaction by Chiral Primary Amine Catalysis,147,N/A
+jacs_2016_luosz_Asymmetric Retro-Claisen Reaction by Chiral Primary Amine Catalysis,148,N/A
+jacs_2016_luosz_Asymmetric Retro-Claisen Reaction by Chiral Primary Amine Catalysis,149,"        | code name | name of MS | method of MS | calculated mass | experimental mass |
+        |-----------|------------|--------------|-----------------|-------------------|
+        | S150 | - | - | - | - |"
+jacs_2016_luosz_Asymmetric Retro-Claisen Reaction by Chiral Primary Amine Catalysis,150,N/A
+jacs_2016_luosz_Asymmetric Retro-Claisen Reaction by Chiral Primary Amine Catalysis,151,N/A
+jacs_2016_luosz_Asymmetric Retro-Claisen Reaction by Chiral Primary Amine Catalysis,152,N/A
+jacs_2016_luosz_Asymmetric Retro-Claisen Reaction by Chiral Primary Amine Catalysis,153,N/A
+jacs_2016_luosz_Asymmetric Retro-Claisen Reaction by Chiral Primary Amine Catalysis,154,N/A
+jacs_2016_luosz_Asymmetric Retro-Claisen Reaction by Chiral Primary Amine Catalysis,155,N/A
+jacs_2016_luosz_Asymmetric Retro-Claisen Reaction by Chiral Primary Amine Catalysis,156,N/A
+jacs_2016_luosz_Asymmetric Retro-Claisen Reaction by Chiral Primary Amine Catalysis,157,N/A
+jacs_2016_luosz_Asymmetric Retro-Claisen Reaction by Chiral Primary Amine Catalysis,158,N/A
+jacs_2016_luosz_Asymmetric Retro-Claisen Reaction by Chiral Primary Amine Catalysis,159,N/A
+jacs_2016_luosz_Asymmetric Retro-Claisen Reaction by Chiral Primary Amine Catalysis,160,N/A
+jacs_2016_luosz_Asymmetric Retro-Claisen Reaction by Chiral Primary Amine Catalysis,161,N/A
+jacs_2016_luosz_Asymmetric Retro-Claisen Reaction by Chiral Primary Amine Catalysis,162,N/A
+jacs_2016_luosz_Asymmetric Retro-Claisen Reaction by Chiral Primary Amine Catalysis,163,"| code name | name of MS | method of MS | calculated mass | experimental mass |
+|-----------|------------|--------------|-----------------|-------------------|
+| N/A       | N/A        | N/A          | N/A             | N/A               |"
+jacs_2016_luosz_Asymmetric Retro-Claisen Reaction by Chiral Primary Amine Catalysis,164,N/A
+jacs_2016_luosz_Asymmetric Retro-Claisen Reaction by Chiral Primary Amine Catalysis,165,N/A
+jacs_2016_luosz_Asymmetric Retro-Claisen Reaction by Chiral Primary Amine Catalysis,166,N/A
+jacs_2016_luosz_Asymmetric Retro-Claisen Reaction by Chiral Primary Amine Catalysis,167,N/A
+jacs_2016_luosz_Asymmetric Retro-Claisen Reaction by Chiral Primary Amine Catalysis,168,N/A
+jacs_2016_luosz_Asymmetric Retro-Claisen Reaction by Chiral Primary Amine Catalysis,169,N/A
+jacs_2016_luosz_Asymmetric Retro-Claisen Reaction by Chiral Primary Amine Catalysis,170,N/A

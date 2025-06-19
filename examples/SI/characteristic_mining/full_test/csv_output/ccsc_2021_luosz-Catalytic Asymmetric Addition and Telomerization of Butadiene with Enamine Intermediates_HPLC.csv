@@ -1,0 +1,455 @@
+path,item_num,summary
+ccsc_2021_luosz-Catalytic Asymmetric Addition and Telomerization of Butadiene with Enamine Intermediates,0,"| code name | column type | solvent | flow rate | wavelength | minor retention time | major retention time |
+|-----------|-------------|---------|-----------|------------|----------------------|----------------------|
+| N/A       | N/A         | N/A     | N/A       | N/A        | N/A                  | N/A                  |"
+ccsc_2021_luosz-Catalytic Asymmetric Addition and Telomerization of Butadiene with Enamine Intermediates,1,"| code name | column type | solvent | flow rate | wavelength | minor retention time | major retention time |
+|-----------|-------------|---------|-----------|------------|----------------------|----------------------|
+| 3aa | Daicel Chiralpak AS-H | hexane/iso-propanol = 95:5 | 0.7 mL/min | 251 nm | 9.60 min | 11.11 min |
+| 3ad | Daicel Chiralpak AS-H | hexane/iso-propanol = 95:5 | 0.7 mL/min | 251 nm | 10.29 min | 12.19 min |
+| 3ab | Daicel Chiralpak AS-H | hexane/iso-propanol = 95:5 | 0.7 mL/min | 251 nm | 10.76 min | 12.75 min |"
+ccsc_2021_luosz-Catalytic Asymmetric Addition and Telomerization of Butadiene with Enamine Intermediates,2,"```
+| code name | column type | solvent | flow rate | wavelength | minor retention time | major retention time |
+|-----------|-------------|---------|-----------|------------|----------------------|----------------------|
+```"
+ccsc_2021_luosz-Catalytic Asymmetric Addition and Telomerization of Butadiene with Enamine Intermediates,3," code name | column type | solvent | flow rate | wavelength | minor retention time | major retention time |
+|-----------|-------------|---------|-----------|------------|----------------------|----------------------|"
+ccsc_2021_luosz-Catalytic Asymmetric Addition and Telomerization of Butadiene with Enamine Intermediates,4,N/A
+ccsc_2021_luosz-Catalytic Asymmetric Addition and Telomerization of Butadiene with Enamine Intermediates,5, N/
+ccsc_2021_luosz-Catalytic Asymmetric Addition and Telomerization of Butadiene with Enamine Intermediates,6,N/A
+ccsc_2021_luosz-Catalytic Asymmetric Addition and Telomerization of Butadiene with Enamine Intermediates,7, N/
+ccsc_2021_luosz-Catalytic Asymmetric Addition and Telomerization of Butadiene with Enamine Intermediates,8,N/A
+ccsc_2021_luosz-Catalytic Asymmetric Addition and Telomerization of Butadiene with Enamine Intermediates,9," ```
+| code name | column type | solvent | flow rate | wavelength | minor retention time | major retention time |
+|-----------|-------------|---------|-----------|------------|----------------------|----------------------|
+| 4a | N/A | N/A | 1.0 mL/min | N/A | 19.4 min | 19.1 min |
+| 4b | Daicel Chiralpak 2*OD | 1% iso-propanol/hexane | 0.7 mL/min | 254 nm | 25.2 min | 27.7 min |
+```"
+ccsc_2021_luosz-Catalytic Asymmetric Addition and Telomerization of Butadiene with Enamine Intermediates,10,"| code name | column type | solvent | flow rate | wavelength | minor retention time | major retention time |
+|-----------|-------------|---------|-----------|------------|----------------------|----------------------|
+| 3aa | Daicel Chiralpak AS-H | hexane/iso-propanol = 95:5 | 0.7 mL/min | 251 nm | 9.60 min | 11.11 min |
+| 3ad | Daicel Chiralpak AS-H | hexane/iso-propanol = 95:5 | 0.7 mL/min | 251 nm | 10.29 min | 12.19 min |
+| 3ab | Daicel Chiralpak AS-H | hexane/iso-propanol = 95:5 | 0.7 mL/min | 251 nm | 10.76 min | 12.75 min |"
+ccsc_2021_luosz-Catalytic Asymmetric Addition and Telomerization of Butadiene with Enamine Intermediates,10,"| code name | column type | solvent | flow rate | wavelength | minor retention time | major retention time |
+|-----------|-------------|---------|-----------|------------|----------------------|----------------------|
+| 4b | Daicel Chiralpak 2*OD | 1% iso-propanol/hexane | 0.7 mL/min | 254 nm | 25.2 min | 27.7 min |
+| 4c | Daicel Chiralpak OJ | 2% iso-propanol/hexane | 1.0 mL/min | 254 nm | 24.3 min | 17.0 min |
+| 4d | Daicel Chiralpak OJ | 2% iso-propanol/hexane | 1.0 mL/min | 254 nm | 20.2 min | 17.4 min |"
+ccsc_2021_luosz-Catalytic Asymmetric Addition and Telomerization of Butadiene with Enamine Intermediates,11,N/A
+ccsc_2021_luosz-Catalytic Asymmetric Addition and Telomerization of Butadiene with Enamine Intermediates,11,"| code name | column type | solvent | flow rate | wavelength | minor retention time | major retention time |
+|-----------|-------------|---------|-----------|------------|----------------------|----------------------|
+| 4d | Daicel Chiralpak OJ | 2% iso-propanol/hexane | 1.0 mL/min | 254 nm | 20.2 min | 17.4 min |
+| 4e | Daicel Chiralpak 2*AD | 3% iso-propanol/hexane | 0.7 mL/min | 254 nm | 31.8 min | 33.0 min |
+| 4f | Daicel Chiralpak OJ | 15% iso-propanol/hexane | 1.0 mL/min | 254 nm | 17.6 min | 19.2 min |"
+ccsc_2021_luosz-Catalytic Asymmetric Addition and Telomerization of Butadiene with Enamine Intermediates,12,"| code name | column type | solvent | flow rate | wavelength | minor retention time | major retention time |
+|-----------|-------------|---------|-----------|------------|----------------------|----------------------|
+| - | Daicel Chiralpak 2*AD | 3% iso-propanol/hexane | 0.7 mL/min | 254 nm | 31.8 min | 33.0 min |"
+ccsc_2021_luosz-Catalytic Asymmetric Addition and Telomerization of Butadiene with Enamine Intermediates,12,"| code name | column type | solvent | flow rate | wavelength | minor retention time | major retention time |
+|-----------|-------------|---------|-----------|------------|----------------------|----------------------|
+| 4f | Daicel Chiralpak OJ | 15% iso-propanol/hexane | 1.0 mL/min | 254 nm | 17.6 min | 19.2 min |
+| 4g | Daicel Chiralpak OJ | 15% iso-propanol/hexane | 1.0 mL/min | 254 nm | 14.3 min | 16.2 min |
+| 4i | Daicel Chiralpak 2*OD | 1% iso-propanol/hexane | 0.7 mL/min | 254 nm | 20.9 min | 35.9 min |"
+ccsc_2021_luosz-Catalytic Asymmetric Addition and Telomerization of Butadiene with Enamine Intermediates,13,"| code name | column type | solvent | flow rate | wavelength | minor retention time | major retention time |
+|-----------|-------------|---------|-----------|------------|----------------------|----------------------|
+| 4g | Daicel Chiralpak OJ | 15% iso-propanol/hexane | 1.0 mL/min | 254 nm | 14.3 min | 16.2 min |"
+ccsc_2021_luosz-Catalytic Asymmetric Addition and Telomerization of Butadiene with Enamine Intermediates,13,"| code name | column type | solvent | flow rate | wavelength | minor retention time | major retention time |
+|-----------|-------------|---------|-----------|------------|----------------------|----------------------|
+| 4i | Daicel Chiralpak 2*OD | 1% iso-propanol/hexane | 0.7 mL/min | 254 nm | 20.9 min | 35.9 min |
+| 4j | Daicel Chiralpak OJ | 3% iso-propanol/hexane | 1.0 mL/min | 254 nm | 24.2 min | 38.2 min |
+| 4k | Daicel Chiralpak AD | 2% iso-propanol/hexane | 1.0 mL/min | 254 nm | 13.4 min | 17.0 min |"
+ccsc_2021_luosz-Catalytic Asymmetric Addition and Telomerization of Butadiene with Enamine Intermediates,14,"| code name | column type | solvent | flow rate | wavelength | minor retention time | major retention time |
+|-----------|-------------|---------|-----------|------------|----------------------|----------------------|
+| 4j | Daicel Chiralpak OJ | 3% iso-propanol/hexane | 1.0 mL/min | 254 nm | 24.2 min | 38.2 min |"
+ccsc_2021_luosz-Catalytic Asymmetric Addition and Telomerization of Butadiene with Enamine Intermediates,14," code name | column type | solvent | flow rate | wavelength | minor retention time | major retention time |
+        |-----------|-------------|---------|-----------|------------|----------------------|----------------------|
+        | 4k | Daicel Chiralpak AD | 2% iso-propanol/hexane | 1.0 mL/min | 254 nm | 13.4 min | 17.0 min |
+        | 4m | Daicel Chiralpak OJ | 15% iso-propanol/hexane | 1.0 mL/min | 254 nm | 20.0 min | 26.1 min |
+        | 4n | Daicel Chiralpak 2OJ | 15% iso-propanol/hexane | 1.0 mL/min | 254 nm | 22.5 min | 19.9 min |"
+ccsc_2021_luosz-Catalytic Asymmetric Addition and Telomerization of Butadiene with Enamine Intermediates,15," code name | column type | solvent | flow rate | wavelength | minor retention time | major retention time |
+        |-----------|-------------|---------|-----------|------------|----------------------|----------------------|
+        | 4m | Daicel Chiralpak OJ | 15% iso-propanol/hexane | 1.0 mL/min | 254 nm | 20.0 min | 26.1 min |"
+ccsc_2021_luosz-Catalytic Asymmetric Addition and Telomerization of Butadiene with Enamine Intermediates,15,"| code name | column type | solvent | flow rate | wavelength | minor retention time | major retention time |
+|-----------|-------------|---------|-----------|------------|----------------------|----------------------|
+| 4n | Daicel Chiralpak 2OJ | 15% iso-propanol/hexane | 1.0 mL/min | 254 nm | 22.5 min | 19.9 min |
+| 4o | Daicel Chiralpak OJ | 5% iso-propanol/hexane | 1.0 mL/min | 254 nm | 17.7 min | 26.9 min |
+| 4p | Daicel Chiralpak OJ | 5% iso-propanol/hexane | 1.0 mL/min | 254 nm | 15.4 min | 14.2 min |
+"
+ccsc_2021_luosz-Catalytic Asymmetric Addition and Telomerization of Butadiene with Enamine Intermediates,16,"| code name | column type | solvent | flow rate | wavelength | minor retention time | major retention time |
+|-----------|-------------|---------|-----------|------------|----------------------|----------------------|
+| 3aa | Daicel Chiralpak AS-H | hexane/iso-propanol = 95:5 | 0.7 mL/min | 251 nm | 9.60 min | 11.11 min |
+| 3ad | Daicel Chiralpak AS-H | hexane/iso-propanol = 95:5 | 0.7 mL/min | 251 nm | 10.29 min | 12.19 min |
+| 3ab | Daicel Chiralpak AS-H | hexane/iso-propanol = 95:5 | 0.7 mL/min | 251 nm | 10.76 min | 12.75 min |"
+ccsc_2021_luosz-Catalytic Asymmetric Addition and Telomerization of Butadiene with Enamine Intermediates,16,"| code name | column type             | solvent                  | flow rate   | wavelength | minor retention time | major retention time |
+|-----------|-------------------------|--------------------------|-------------|------------|----------------------|----------------------|
+| 4o        | Daicel Chiralpak OJ     | 5% iso-propanol/hexane   | 1.0 mL/min  | 254 nm     | 17.7 min             | 26.9 min             |
+| 4p        | Daicel Chiralpak OJ     | 5% iso-propanol/hexane   | 1.0 mL/min  | 254 nm     | 15.4 min             | 14.2 min             |
+| 4q        | Daicel Chiralpak OJ     | 10% iso-propanol/hexane  | 1.0 mL/min  | 254 nm     | 24.1 min             | 22.4 min             |
+| 4r        | Daicel Chiralpak OJ     | 10% iso-propanol/hexane  | 1.0 mL/min  | 254 nm     | 20.7 min             | 16.8 min             |"
+ccsc_2021_luosz-Catalytic Asymmetric Addition and Telomerization of Butadiene with Enamine Intermediates,17,"| code name | column type | solvent | flow rate | wavelength | minor retention time | major retention time |
+|-----------|-------------|---------|-----------|------------|----------------------|----------------------|
+
+"
+ccsc_2021_luosz-Catalytic Asymmetric Addition and Telomerization of Butadiene with Enamine Intermediates,17,"| code name | column type | solvent | flow rate | wavelength | minor retention time | major retention time |
+|-----------|-------------|---------|-----------|------------|----------------------|----------------------|
+| 4q | Daicel Chiralpak OJ | 10% iso-propanol/hexane | 1.0 mL/min | 254 nm | 24.1 min | 22.4 min |
+| 4r | Daicel Chiralpak OJ | 10% iso-propanol/hexane | 1.0 mL/min | 254 nm | 20.7 min | 16.8 min |"
+ccsc_2021_luosz-Catalytic Asymmetric Addition and Telomerization of Butadiene with Enamine Intermediates,18,"| code name | column type | solvent | flow rate | wavelength | minor retention time | major retention time |
+|-----------|-------------|---------|-----------|------------|----------------------|----------------------|
+N/A"
+ccsc_2021_luosz-Catalytic Asymmetric Addition and Telomerization of Butadiene with Enamine Intermediates,18," code name | column type | solvent | flow rate | wavelength | minor retention time | major retention time |
+|-----------|-------------|---------|-----------|------------|----------------------|----------------------|
+| 5a | Daicel Chiralpak OJ | 5% iso-propanol/hexane | 1.0 mL/min | 254 nm | 11.8 min | 8.8 min |"
+ccsc_2021_luosz-Catalytic Asymmetric Addition and Telomerization of Butadiene with Enamine Intermediates,19," code name | column type | solvent | flow rate | wavelength | minor retention time | major retention time |
+        |-----------|-------------|---------|-----------|------------|----------------------|----------------------|
+        | N/A | N/A | N/A | N/A | N/A | N/A | N/A |"
+ccsc_2021_luosz-Catalytic Asymmetric Addition and Telomerization of Butadiene with Enamine Intermediates,19,"| code name | column type | solvent | flow rate | wavelength | minor retention time | major retention time |
+|-----------|-------------|---------|-----------|------------|----------------------|----------------------|
+| 5a | Daicel Chiralpak OJ | 5% iso-propanol/hexane | 1.0 mL/min | 254 nm | 11.8 min | 8.8 min |
+| 5b | Daicel Chiralpak 2*OD | 1% iso-propanol/hexane | 0.7 mL/min | 254 nm | 25.8 min | 28.2 min |
+| 5c | Daicel Chiralpak OJ | 2% iso-propanol/hexane | 1.0 mL/min | 254 nm | 24.1 min | 16.9 min |"
+ccsc_2021_luosz-Catalytic Asymmetric Addition and Telomerization of Butadiene with Enamine Intermediates,20,"| code name | column type | solvent | flow rate | wavelength | minor retention time | major retention time |
+|-----------|-------------|---------|-----------|------------|----------------------|----------------------|
+| 3aa | Daicel Chiralpak AS-H | hexane/iso-propanol = 95:5 | 0.7 mL/min | 251 nm | 9.60 min | 11.11 min |
+| 3ad | Daicel Chiralpak AS-H | hexane/iso-propanol = 95:5 | 0.7 mL/min | 251 nm | 10.29 min | 12.19 min |
+| 3ab | Daicel Chiralpak AS-H | hexane/iso-propanol = 95:5 | 0.7 mL/min | 251 nm | 10.76 min | 12.75 min |"
+ccsc_2021_luosz-Catalytic Asymmetric Addition and Telomerization of Butadiene with Enamine Intermediates,20,"| code name | column type | solvent | flow rate | wavelength | minor retention time | major retention time |
+|-----------|-------------|---------|-----------|------------|----------------------|----------------------|
+| 5c | Daicel Chiralpak OJ | 2% iso-propanol/hexane | 1.0 mL/min | 254 nm | 24.1 min | 16.9 min |
+| 5d | Daicel Chiralpak OJ | 2% iso-propanol/hexane | 1.0 mL/min | 254 nm | 19.9 min | 17.1 min |
+| 5e | Daicel Chiralpak AD | 3% iso-propanol/hexane | 0.7 mL/min | 254 nm | 31.3 min | 32.6 min |"
+ccsc_2021_luosz-Catalytic Asymmetric Addition and Telomerization of Butadiene with Enamine Intermediates,21,"| code name | column type | solvent | flow rate | wavelength | minor retention time | major retention time |
+|-----------|-------------|---------|-----------|------------|----------------------|----------------------|
+| N/A | Daicel Chiralpak OJ | 2% iso-propanol/hexane | 1.0 mL/min | 254 nm | 19.9 min | 17.1 min |"
+ccsc_2021_luosz-Catalytic Asymmetric Addition and Telomerization of Butadiene with Enamine Intermediates,21,"| code name | column type | solvent | flow rate | wavelength | minor retention time | major retention time |
+|-----------|-------------|---------|-----------|------------|----------------------|----------------------|
+| 5e | Daicel Chiralpak 2*AD | 3% iso-propanol/hexane | 0.7 mL/min | 254 nm | 31.3 min | 32.6 min |
+| 5f | Daicel Chiralpak OJ | 15% iso-propanol/hexane | 1.0 mL/min | 254 nm | 17.6 min | 19.2 min |
+| 5g | Daicel Chiralpak OJ | 15% iso-propanol/hexane | 1.0 mL/min | 254 nm | 14.3 min | 16.3 min |"
+ccsc_2021_luosz-Catalytic Asymmetric Addition and Telomerization of Butadiene with Enamine Intermediates,22,"| code name | column type | solvent | flow rate | wavelength | minor retention time | major retention time |
+|-----------|-------------|---------|-----------|------------|----------------------|----------------------|
+| 5f | Daicel Chiralpak OJ | 15% iso-propanol/hexane | 1.0 mL/min | 254 nm | 17.6 min | 19.2 min |"
+ccsc_2021_luosz-Catalytic Asymmetric Addition and Telomerization of Butadiene with Enamine Intermediates,22,"| code name | column type | solvent | flow rate | wavelength | minor retention time | major retention time |
+|-----------|-------------|---------|-----------|------------|----------------------|----------------------|
+| 5g | Daicel Chiralpak OJ | 15% iso-propanol/hexane | 1.0 mL/min | 254 nm | 14.3 min | 16.3 min |
+| 5h | Daicel Chiralpak 2*OJ | 1% iso-propanol/hexane | 0.5 mL/min | 254 nm | 75.4 min | 59.3 min |"
+ccsc_2021_luosz-Catalytic Asymmetric Addition and Telomerization of Butadiene with Enamine Intermediates,23,"| code name | column type | solvent | flow rate | wavelength | minor retention time | major retention time |
+|-----------|-------------|---------|-----------|------------|----------------------|----------------------|
+N/A"
+ccsc_2021_luosz-Catalytic Asymmetric Addition and Telomerization of Butadiene with Enamine Intermediates,23,"| code name | column type | solvent | flow rate | wavelength | minor retention time | major retention time |
+|-----------|-------------|---------|-----------|------------|----------------------|----------------------|
+| 5h | Daicel Chiralpak 2*OJ | 1% iso-propanol/hexane | 0.5 mL/min | 254 nm | 75.4 min | 59.3 min |
+| 5j | Daicel Chiralpak OJ | 3% iso-propanol/hexane | 1.0 mL/min | 254 nm | 24.6 min | 38.9 min |
+| 5k | Daicel Chiralpak AD | 2% iso-propanol/hexane | 1.0 mL/min | 254 nm | 13.4 min | 17.0 min |"
+ccsc_2021_luosz-Catalytic Asymmetric Addition and Telomerization of Butadiene with Enamine Intermediates,24,"| code name | column type | solvent | flow rate | wavelength | minor retention time | major retention time |
+|-----------|-------------|---------|-----------|------------|----------------------|----------------------|
+| N/A       | N/A         | N/A     | N/A       | N/A        | N/A                  | N/A                  |"
+ccsc_2021_luosz-Catalytic Asymmetric Addition and Telomerization of Butadiene with Enamine Intermediates,24,"| code name | column type | solvent | flow rate | wavelength | minor retention time | major retention time |
+|-----------|-------------|---------|-----------|------------|----------------------|----------------------|
+| 5j | Daicel Chiralpak OJ | 3% iso-propanol/hexane | 1.0 mL/min | 254 nm | 24.6 min | 38.9 min |
+| 5k | Daicel Chiralpak AD | 2% iso-propanol/hexane | 1.0 mL/min | 254 nm | 13.4 min | 17.0 min |
+| 5l | Daicel Chiralpak 2*OD | 5% iso-propanol/hexane | 0.7 mL/min | 254 nm | 12.4 min | 14.9 min |"
+ccsc_2021_luosz-Catalytic Asymmetric Addition and Telomerization of Butadiene with Enamine Intermediates,25,"The input text does not provide sufficient HPLC data or any related code name of a molecule. Therefore, the output in the requested format is:
+
+| code name | column type | solvent | flow rate | wavelength | minor retention time | major retention time |
+|-----------|-------------|---------|-----------|------------|----------------------|----------------------|
+| N/A       | N/A         | N/A     | N/A       | N/A        | N/A                  | N/A                  |"
+ccsc_2021_luosz-Catalytic Asymmetric Addition and Telomerization of Butadiene with Enamine Intermediates,25,"| code name | column type | solvent | flow rate | wavelength | minor retention time | major retention time |
+|-----------|-------------|---------|-----------|------------|----------------------|----------------------|
+| 5l | Daicel Chiralpak 2*OD | 5% iso-propanol/hexane | 0.7 mL/min | 254 nm | 12.4 min | 14.9 min |
+| 5m | Daicel Chiralpak OJ | 15% iso-propanol/hexane | 1.0 mL/min | 254 nm | 20.8 min | 25.8 min |
+| 5n | Daicel Chiralpak 2OJ | 15% iso-propanol/hexane | 1.0 mL/min | 254 nm | 22.5 min | 19.8 min |"
+ccsc_2021_luosz-Catalytic Asymmetric Addition and Telomerization of Butadiene with Enamine Intermediates,26,"| code name | column type | solvent | flow rate | wavelength | minor retention time | major retention time |
+|-----------|-------------|---------|-----------|------------|----------------------|----------------------|
+| N/A | Daicel Chiralpak OJ | 15% iso-propanol/hexane | 1.0 mL/min | 254 nm | 20.8 min | 25.8 min |"
+ccsc_2021_luosz-Catalytic Asymmetric Addition and Telomerization of Butadiene with Enamine Intermediates,26,"| code name | column type | solvent | flow rate | wavelength | minor retention time | major retention time |
+|-----------|-------------|---------|-----------|------------|----------------------|----------------------|
+| 5n | Daicel Chiralpak 2OJ | 15% iso-propanol/hexane | 1.0 mL/min | 254 nm | 22.5 min | 19.8 min |
+| 5o | Daicel Chiralpak OJ | 5% iso-propanol/hexane | 1.0 mL/min | 254 nm | 17.8 min | 26.9 min |
+| 5p | Daicel Chiralpak AD | 5% iso-propanol/hexane | 0.5 mL/min | 210 nm | 17.2 min | 18.7 min |"
+ccsc_2021_luosz-Catalytic Asymmetric Addition and Telomerization of Butadiene with Enamine Intermediates,27,N/A
+ccsc_2021_luosz-Catalytic Asymmetric Addition and Telomerization of Butadiene with Enamine Intermediates,27,"| code name | column type | solvent | flow rate | wavelength | minor retention time | major retention time |
+|-----------|-------------|---------|-----------|------------|----------------------|----------------------|
+| 5o | Daicel Chiralpak OJ | 5% iso-propanol/hexane | 1.0 mL/min | 254 nm | 17.8 min | 26.9 min |
+| 5p | Daicel Chiralpak AD | 5% iso-propanol/hexane | 0.5 mL/min | 210 nm | 17.2 min | 18.7 min |
+| 5r | Daicel Chiralpak OJ | 10% iso-propanol/hexane | 1.0 mL/min | 254 nm | 20.8 min | 16.9 min |"
+ccsc_2021_luosz-Catalytic Asymmetric Addition and Telomerization of Butadiene with Enamine Intermediates,28,"| code name | column type | solvent | flow rate | wavelength | minor retention time | major retention time |
+|-----------|-------------|---------|-----------|------------|----------------------|----------------------|
+| N/A       | N/A         | N/A     | N/A       | N/A        | N/A                  | N/A                  |"
+ccsc_2021_luosz-Catalytic Asymmetric Addition and Telomerization of Butadiene with Enamine Intermediates,28,"| code name | column type | solvent | flow rate | wavelength | minor retention time | major retention time |
+|-----------|-------------|---------|-----------|------------|----------------------|----------------------|
+| 5r | Daicel Chiralpak OJ | 10% iso-propanol/hexane | 1.0 mL/min | 254 nm | 20.8 min | 16.9 min |"
+ccsc_2021_luosz-Catalytic Asymmetric Addition and Telomerization of Butadiene with Enamine Intermediates,29, N/
+ccsc_2021_luosz-Catalytic Asymmetric Addition and Telomerization of Butadiene with Enamine Intermediates,29,"| code name | column type | solvent | flow rate | wavelength | minor retention time | major retention time |
+|-----------|-------------|---------|-----------|------------|----------------------|----------------------|
+| 8a | Daicel Chiralpak OJ | 2% iso-propanol/hexane | 0.5 mL/min | 254 nm | 22.4 min | 23.2 min |
+| 8b | Daicel Chiralpak 2*AS | 3% iso-propanol/hexane | 0.5 mL/min | 254 nm | 20.0 min | 21.0 min |"
+ccsc_2021_luosz-Catalytic Asymmetric Addition and Telomerization of Butadiene with Enamine Intermediates,30,"| code name | column type | solvent | flow rate | wavelength | minor retention time | major retention time |
+|-----------|-------------|---------|-----------|------------|----------------------|----------------------|
+| 8a | Daicel Chiralpak OJ | 2% iso-propanol/hexane | 0.5 mL/min | 254 nm | 22.4 min | 23.2 min |"
+ccsc_2021_luosz-Catalytic Asymmetric Addition and Telomerization of Butadiene with Enamine Intermediates,30," code name | column type | solvent | flow rate | wavelength | minor retention time | major retention time |
+|-----------|-------------|---------|-----------|------------|----------------------|----------------------|
+| 8b | Daicel Chiralpak 2*AS | 3% iso-propanol/hexane | 0.5 mL/min | 254 nm | 20.0 min | 21.0 min |
+| 8c | Daicel Chiralpak 2*AS | 3% iso-propanol/hexane | 0.5 mL/min | 254 nm | 22.1 min | 23.8 min |"
+ccsc_2021_luosz-Catalytic Asymmetric Addition and Telomerization of Butadiene with Enamine Intermediates,31,"| code name | column type | solvent | flow rate | wavelength | minor retention time | major retention time |
+|-----------|-------------|---------|-----------|------------|----------------------|----------------------|"
+ccsc_2021_luosz-Catalytic Asymmetric Addition and Telomerization of Butadiene with Enamine Intermediates,31,"| code name | column type | solvent | flow rate | wavelength | minor retention time | major retention time |
+|-----------|-------------|---------|-----------|------------|----------------------|----------------------|
+| 8c | Daicel Chiralpak 2*AS | 3% iso-propanol/hexane | 0.5 mL/min | 254 nm | 22.1 min | 23.8 min |
+| 8d | Daicel Chiralpak 2*AS | 3% iso-propanol/hexane | 0.5 mL/min | 254 nm | 25.2 min | 27.7 min |
+| 8e | Daicel Chiralpak 2*AS | 3% iso-propanol/hexane | 0.5 mL/min | 254 nm | 23.6 min | 25.6 min |"
+ccsc_2021_luosz-Catalytic Asymmetric Addition and Telomerization of Butadiene with Enamine Intermediates,32,"| code name | column type | solvent | flow rate | wavelength | minor retention time | major retention time |
+|-----------|-------------|---------|-----------|------------|----------------------|----------------------|
+| N/A       | N/A         | N/A     | N/A       | N/A        | N/A                  | N/A                  |"
+ccsc_2021_luosz-Catalytic Asymmetric Addition and Telomerization of Butadiene with Enamine Intermediates,32,"| code name | column type | solvent | flow rate | wavelength | minor retention time | major retention time |
+|-----------|-------------|---------|-----------|------------|----------------------|----------------------|
+| 8e | Daicel Chiralpak 2*AS | 3% iso-propanol/hexane | 0.5 mL/min | 254 nm | 23.6 min | 25.6 min |
+| 8f | Daicel Chiralpak OJ | 2% iso-propanol/hexane | 1.0 mL/min | 254 nm | 13.0 min | 14.1 min |
+| 8g | Daicel Chiralpak 2*As | 3% iso-propanol/hexane | 0.5 mL/min | 254 nm | 27.8 min | 31.1 min |"
+ccsc_2021_luosz-Catalytic Asymmetric Addition and Telomerization of Butadiene with Enamine Intermediates,33,"| code name | column type | solvent | flow rate | wavelength | minor retention time | major retention time |
+|-----------|-------------|---------|-----------|------------|----------------------|----------------------|
+| 8f | Daicel Chiralpak OJ | 2% iso-propanol/hexane | 1.0 mL/min | 254 nm | 13.0 min | 14.1 min |"
+ccsc_2021_luosz-Catalytic Asymmetric Addition and Telomerization of Butadiene with Enamine Intermediates,33,"| code name | column type | solvent | flow rate | wavelength | minor retention time | major retention time |
+|-----------|-------------|---------|-----------|------------|----------------------|----------------------|
+| 8g | Daicel Chiralpak 2*As | 3% iso-propanol/hexane | 0.5 mL/min | 254 nm | 27.8 min | 31.1 min |
+| 8h | Daicel Chiralpak OJ | 2% iso-propanol/hexane | 1.0 mL/min | 254 nm | 22.0 min | 22.8 min |"
+ccsc_2021_luosz-Catalytic Asymmetric Addition and Telomerization of Butadiene with Enamine Intermediates,34,"| code name | column type | solvent | flow rate | wavelength | minor retention time | major retention time |
+|-----------|-------------|---------|-----------|------------|----------------------|----------------------|
+| 3aa | Daicel Chiralpak AS-H | hexane/iso-propanol = 95:5 | 0.7 mL/min | 251 nm | 9.60 min | 11.11 min |
+| 3ad | Daicel Chiralpak AS-H | hexane/iso-propanol = 95:5 | 0.7 mL/min | 251 nm | 10.29 min | 12.19 min |
+| 3ab | Daicel Chiralpak AS-H | hexane/iso-propanol = 95:5 | 0.7 mL/min | 251 nm | 10.76 min | 12.75 min |"
+ccsc_2021_luosz-Catalytic Asymmetric Addition and Telomerization of Butadiene with Enamine Intermediates,34,"| code name | column type | solvent | flow rate | wavelength | minor retention time | major retention time |
+|-----------|-------------|---------|-----------|------------|----------------------|----------------------|
+| 8h | Daicel Chiralpak OJ | 2% iso-propanol/hexane | 1.0 mL/min | 254 nm | 22.0 min | 22.8 min |
+| 8i | Daicel Chiralpak 2*As | 1% iso-propanol/hexane | 0.5 mL/min | 254 nm | 36.3 min | 41.8 min |
+| 8j | Daicel Chiralpak 2*As | 3% iso-propanol/hexane | 0.5 mL/min | 254 nm | 39.3 min | 50.9 min |"
+ccsc_2021_luosz-Catalytic Asymmetric Addition and Telomerization of Butadiene with Enamine Intermediates,35,"| code name | column type | solvent | flow rate | wavelength | minor retention time | major retention time |
+|-----------|-------------|---------|-----------|------------|----------------------|----------------------|
+| N/A | Daicel Chiralpak 2*As | 1% iso-propanol/hexane | 0.5 mL/min | 254 nm | 36.3 min | 41.8 min |"
+ccsc_2021_luosz-Catalytic Asymmetric Addition and Telomerization of Butadiene with Enamine Intermediates,35,"| code name | column type | solvent | flow rate | wavelength | minor retention time | major retention time |
+|-----------|-------------|---------|-----------|------------|----------------------|----------------------|
+| 8j | Daicel Chiralpak 2*As | 3% iso-propanol/hexane | 0.5 mL/min | 254 nm | 39.3 min | 50.9 min |
+| 8k | Daicel Chiralpak OJ | 10% iso-propanol/hexane | 1.0 mL/min | 254 nm | 14.9 min | 19.1 min |"
+ccsc_2021_luosz-Catalytic Asymmetric Addition and Telomerization of Butadiene with Enamine Intermediates,36,"| code name | column type | solvent | flow rate | wavelength | minor retention time | major retention time |
+|-----------|-------------|---------|-----------|------------|----------------------|----------------------|"
+ccsc_2021_luosz-Catalytic Asymmetric Addition and Telomerization of Butadiene with Enamine Intermediates,36," code name | column type | solvent | flow rate | wavelength | minor retention time | major retention time |
+|-----------|-------------|---------|-----------|------------|----------------------|----------------------|
+| 8k | Daicel Chiralpak OJ | 10% iso-propanol/hexane | 1.0 mL/min | 254 nm | 14.9 min | 19.1 min |"
+ccsc_2021_luosz-Catalytic Asymmetric Addition and Telomerization of Butadiene with Enamine Intermediates,37," code name | column type | solvent | flow rate | wavelength | minor retention time | major retention time |
+|-----------|-------------|---------|-----------|------------|----------------------|----------------------|"
+ccsc_2021_luosz-Catalytic Asymmetric Addition and Telomerization of Butadiene with Enamine Intermediates,38,"| code name | column type | solvent | flow rate | wavelength | minor retention time | major retention time |
+|-----------|-------------|---------|-----------|------------|----------------------|----------------------|
+| N/A       | N/A         | N/A     | N/A       | N/A        | N/A                  | N/A                  |"
+ccsc_2021_luosz-Catalytic Asymmetric Addition and Telomerization of Butadiene with Enamine Intermediates,39," code name | column type | solvent | flow rate | wavelength | minor retention time | major retention time |
+|-----------|-------------|---------|-----------|------------|----------------------|----------------------|"
+ccsc_2021_luosz-Catalytic Asymmetric Addition and Telomerization of Butadiene with Enamine Intermediates,40,"| code name | column type | solvent | flow rate | wavelength | minor retention time | major retention time |
+|-----------|-------------|---------|-----------|------------|----------------------|----------------------|"
+ccsc_2021_luosz-Catalytic Asymmetric Addition and Telomerization of Butadiene with Enamine Intermediates,41,N/A
+ccsc_2021_luosz-Catalytic Asymmetric Addition and Telomerization of Butadiene with Enamine Intermediates,42,"| code name | column type | solvent | flow rate | wavelength | minor retention time | major retention time |
+|-----------|-------------|---------|-----------|------------|----------------------|----------------------|"
+ccsc_2021_luosz-Catalytic Asymmetric Addition and Telomerization of Butadiene with Enamine Intermediates,43," code name | column type | solvent | flow rate | wavelength | minor retention time | major retention time |
+|-----------|-------------|---------|-----------|------------|----------------------|----------------------|"
+ccsc_2021_luosz-Catalytic Asymmetric Addition and Telomerization of Butadiene with Enamine Intermediates,44,N/A
+ccsc_2021_luosz-Catalytic Asymmetric Addition and Telomerization of Butadiene with Enamine Intermediates,45, N/
+ccsc_2021_luosz-Catalytic Asymmetric Addition and Telomerization of Butadiene with Enamine Intermediates,46,"| code name | column type | solvent | flow rate | wavelength | minor retention time | major retention time |
+|-----------|-------------|---------|-----------|------------|----------------------|----------------------|
+| N/A       | N/A         | N/A     | N/A       | N/A        | N/A                  | N/A                  |"
+ccsc_2021_luosz-Catalytic Asymmetric Addition and Telomerization of Butadiene with Enamine Intermediates,47,"Based on the input text provided, there is no HPLC data or other relevant information given that can be extracted and summarized into a markdown table. The provided text appears to be just two code names, ""S48"" and ""S49,"" without any further description or data.
+
+Thus, the markdown table for HPLC data would appear as follows:
+
+```
+| code name | column type | solvent | flow rate | wavelength | minor retention time | major retention time |
+|-----------|-------------|---------|-----------|------------|----------------------|----------------------|
+```"
+ccsc_2021_luosz-Catalytic Asymmetric Addition and Telomerization of Butadiene with Enamine Intermediates,48,"| code name | column type | solvent | flow rate | wavelength | minor retention time | major retention time |
+|-----------|-------------|---------|-----------|------------|----------------------|----------------------|
+| 3aa | Daicel Chiralpak AS-H | hexane/iso-propanol = 95:5 | 0.7 mL/min | 251 nm | 9.60 min | 11.11 min |
+| 3ad | Daicel Chiralpak AS-H | hexane/iso-propanol = 95:5 | 0.7 mL/min | 251 nm | 10.29 min | 12.19 min |
+| 3ab | Daicel Chiralpak AS-H | hexane/iso-propanol = 95:5 | 0.7 mL/min | 251 nm | 10.76 min | 12.75 min |"
+ccsc_2021_luosz-Catalytic Asymmetric Addition and Telomerization of Butadiene with Enamine Intermediates,49,N/A
+ccsc_2021_luosz-Catalytic Asymmetric Addition and Telomerization of Butadiene with Enamine Intermediates,50," code name | column type | solvent | flow rate | wavelength | minor retention time | major retention time |
+|-----------|-------------|---------|-----------|------------|----------------------|----------------------|"
+ccsc_2021_luosz-Catalytic Asymmetric Addition and Telomerization of Butadiene with Enamine Intermediates,51, N/
+ccsc_2021_luosz-Catalytic Asymmetric Addition and Telomerization of Butadiene with Enamine Intermediates,52," code name | column type | solvent | flow rate | wavelength | minor retention time | major retention time |
+|-----------|-------------|---------|-----------|------------|----------------------|----------------------|"
+ccsc_2021_luosz-Catalytic Asymmetric Addition and Telomerization of Butadiene with Enamine Intermediates,53,"| code name | column type | solvent | flow rate | wavelength | minor retention time | major retention time |
+|-----------|-------------|---------|-----------|------------|----------------------|----------------------|
+| 3aa | Daicel Chiralpak AS-H | hexane/iso-propanol = 95:5 | 0.7 mL/min | 251 nm | 9.60 min | 11.11 min |
+| 3ad | Daicel Chiralpak AS-H | hexane/iso-propanol = 95:5 | 0.7 mL/min | 251 nm | 10.29 min | 12.19 min |
+| 3ab | Daicel Chiralpak AS-H | hexane/iso-propanol = 95:5 | 0.7 mL/min | 251 nm | 10.76 min | 12.75 min |"
+ccsc_2021_luosz-Catalytic Asymmetric Addition and Telomerization of Butadiene with Enamine Intermediates,54,N/A
+ccsc_2021_luosz-Catalytic Asymmetric Addition and Telomerization of Butadiene with Enamine Intermediates,55,N/A
+ccsc_2021_luosz-Catalytic Asymmetric Addition and Telomerization of Butadiene with Enamine Intermediates,56, N/
+ccsc_2021_luosz-Catalytic Asymmetric Addition and Telomerization of Butadiene with Enamine Intermediates,57, N/
+ccsc_2021_luosz-Catalytic Asymmetric Addition and Telomerization of Butadiene with Enamine Intermediates,58,"| code name | column type | solvent | flow rate | wavelength | minor retention time | major retention time |
+|-----------|-------------|---------|-----------|------------|----------------------|----------------------|
+| N/A | N/A | N/A | N/A | N/A | N/A | N/A |"
+ccsc_2021_luosz-Catalytic Asymmetric Addition and Telomerization of Butadiene with Enamine Intermediates,59,N/A
+ccsc_2021_luosz-Catalytic Asymmetric Addition and Telomerization of Butadiene with Enamine Intermediates,60,N/A
+ccsc_2021_luosz-Catalytic Asymmetric Addition and Telomerization of Butadiene with Enamine Intermediates,61,N/A
+ccsc_2021_luosz-Catalytic Asymmetric Addition and Telomerization of Butadiene with Enamine Intermediates,62," code name | column type | solvent | flow rate | wavelength | minor retention time | major retention time |
+|-----------|-------------|---------|-----------|------------|----------------------|----------------------|"
+ccsc_2021_luosz-Catalytic Asymmetric Addition and Telomerization of Butadiene with Enamine Intermediates,63,"| code name | column type | solvent | flow rate | wavelength | minor retention time | major retention time |
+|-----------|-------------|---------|-----------|------------|----------------------|----------------------|
+| N/A       | N/A         | N/A     | N/A       | N/A        | N/A                  | N/A                  |"
+ccsc_2021_luosz-Catalytic Asymmetric Addition and Telomerization of Butadiene with Enamine Intermediates,64,"| code name | column type | solvent | flow rate | wavelength | minor retention time | major retention time |
+|-----------|-------------|---------|-----------|------------|----------------------|----------------------|
+| N/A       | N/A         | N/A     | N/A       | N/A        | N/A                  | N/A                  |"
+ccsc_2021_luosz-Catalytic Asymmetric Addition and Telomerization of Butadiene with Enamine Intermediates,65,"| code name | column type | solvent | flow rate | wavelength | minor retention time | major retention time |
+|-----------|-------------|---------|-----------|------------|----------------------|----------------------|"
+ccsc_2021_luosz-Catalytic Asymmetric Addition and Telomerization of Butadiene with Enamine Intermediates,66,"| code name | column type | solvent | flow rate | wavelength | minor retention time | major retention time |
+|-----------|-------------|---------|-----------|------------|----------------------|----------------------|
+"
+ccsc_2021_luosz-Catalytic Asymmetric Addition and Telomerization of Butadiene with Enamine Intermediates,67,"| code name | column type | solvent | flow rate | wavelength | minor retention time | major retention time |
+|-----------|-------------|---------|-----------|------------|----------------------|----------------------|
+| N/A       | N/A         | N/A     | N/A       | N/A        | N/A                  | N/A                  |"
+ccsc_2021_luosz-Catalytic Asymmetric Addition and Telomerization of Butadiene with Enamine Intermediates,68,N/A
+ccsc_2021_luosz-Catalytic Asymmetric Addition and Telomerization of Butadiene with Enamine Intermediates,69," code name | column type | solvent | flow rate | wavelength | minor retention time | major retention time |
+|-----------|-------------|---------|-----------|------------|----------------------|----------------------|
+| N/A | N/A | N/A | N/A | N/A | N/A | N/A |"
+ccsc_2021_luosz-Catalytic Asymmetric Addition and Telomerization of Butadiene with Enamine Intermediates,70,N/A
+ccsc_2021_luosz-Catalytic Asymmetric Addition and Telomerization of Butadiene with Enamine Intermediates,71,N/A
+ccsc_2021_luosz-Catalytic Asymmetric Addition and Telomerization of Butadiene with Enamine Intermediates,72,"| code name | column type | solvent | flow rate | wavelength | minor retention time | major retention time |
+|-----------|-------------|---------|-----------|------------|----------------------|----------------------|
+| N/A       | N/A         | N/A     | N/A       | N/A        | N/A                  | N/A                  |"
+ccsc_2021_luosz-Catalytic Asymmetric Addition and Telomerization of Butadiene with Enamine Intermediates,73,"| code name | column type | solvent | flow rate | wavelength | minor retention time | major retention time |
+|-----------|-------------|---------|-----------|------------|----------------------|----------------------|
+| 3aa | Daicel Chiralpak AS-H | hexane/iso-propanol = 95:5 | 0.7 mL/min | 251 nm | 9.60 min | 11.11 min |
+| 3ad | Daicel Chiralpak AS-H | hexane/iso-propanol = 95:5 | 0.7 mL/min | 251 nm | 10.29 min | 12.19 min |
+| 3ab | Daicel Chiralpak AS-H | hexane/iso-propanol = 95:5 | 0.7 mL/min | 251 nm | 10.76 min | 12.75 min |"
+ccsc_2021_luosz-Catalytic Asymmetric Addition and Telomerization of Butadiene with Enamine Intermediates,74,N/A
+ccsc_2021_luosz-Catalytic Asymmetric Addition and Telomerization of Butadiene with Enamine Intermediates,75,N/A
+ccsc_2021_luosz-Catalytic Asymmetric Addition and Telomerization of Butadiene with Enamine Intermediates,76,N/A
+ccsc_2021_luosz-Catalytic Asymmetric Addition and Telomerization of Butadiene with Enamine Intermediates,77,N/A
+ccsc_2021_luosz-Catalytic Asymmetric Addition and Telomerization of Butadiene with Enamine Intermediates,78,"        | code name | column type | solvent | flow rate | wavelength | minor retention time | major retention time |
+        |-----------|-------------|---------|-----------|------------|----------------------|----------------------|
+        | 3aa | Daicel Chiralpak AS-H | hexane/iso-propanol = 95:5 | 0.7 mL/min | 251 nm | 9.60 min | 11.11 min |
+        | 3ad | Daicel Chiralpak AS-H | hexane/iso-propanol = 95:5 | 0.7 mL/min | 251 nm | 10.29 min | 12.19 min |
+        | 3ab | Daicel Chiralpak AS-H | hexane/iso-propanol = 95:5 | 0.7 mL/min | 251 nm | 10.76 min | 12.75 min |"
+ccsc_2021_luosz-Catalytic Asymmetric Addition and Telomerization of Butadiene with Enamine Intermediates,79,N/A
+ccsc_2021_luosz-Catalytic Asymmetric Addition and Telomerization of Butadiene with Enamine Intermediates,80,"| code name | column type | solvent | flow rate | wavelength | minor retention time | major retention time |
+|-----------|-------------|---------|-----------|------------|----------------------|----------------------|"
+ccsc_2021_luosz-Catalytic Asymmetric Addition and Telomerization of Butadiene with Enamine Intermediates,81,"| code name | column type | solvent | flow rate | wavelength | minor retention time | major retention time |
+|-----------|-------------|---------|-----------|------------|----------------------|----------------------|
+| 3aa | Daicel Chiralpak AS-H | hexane/iso-propanol = 95:5 | 0.7 mL/min | 251 nm | 9.60 min | 11.11 min |
+| 3ad | Daicel Chiralpak AS-H | hexane/iso-propanol = 95:5 | 0.7 mL/min | 251 nm | 10.29 min | 12.19 min |
+| 3ab | Daicel Chiralpak AS-H | hexane/iso-propanol = 95:5 | 0.7 mL/min | 251 nm | 10.76 min | 12.75 min |"
+ccsc_2021_luosz-Catalytic Asymmetric Addition and Telomerization of Butadiene with Enamine Intermediates,82," code name | column type | solvent | flow rate | wavelength | minor retention time | major retention time |
+        |-----------|-------------|---------|-----------|------------|----------------------|----------------------|"
+ccsc_2021_luosz-Catalytic Asymmetric Addition and Telomerization of Butadiene with Enamine Intermediates,83,"| code name | column type | solvent | flow rate | wavelength | minor retention time | major retention time |
+|-----------|-------------|---------|-----------|------------|----------------------|----------------------|
+| 3aa | Daicel Chiralpak AS-H | hexane/iso-propanol = 95:5 | 0.7 mL/min | 251 nm | 9.60 min | 11.11 min |
+| 3ad | Daicel Chiralpak AS-H | hexane/iso-propanol = 95:5 | 0.7 mL/min | 251 nm | 10.29 min | 12.19 min |
+| 3ab | Daicel Chiralpak AS-H | hexane/iso-propanol = 95:5 | 0.7 mL/min | 251 nm | 10.76 min | 12.75 min |"
+ccsc_2021_luosz-Catalytic Asymmetric Addition and Telomerization of Butadiene with Enamine Intermediates,84,N/A
+ccsc_2021_luosz-Catalytic Asymmetric Addition and Telomerization of Butadiene with Enamine Intermediates,85,N/A
+ccsc_2021_luosz-Catalytic Asymmetric Addition and Telomerization of Butadiene with Enamine Intermediates,86,"| code name | column type | solvent | flow rate | wavelength | minor retention time | major retention time |
+|-----------|-------------|---------|-----------|------------|----------------------|----------------------|
+| 3aa | Daicel Chiralpak AS-H | hexane/iso-propanol = 95:5 | 0.7 mL/min | 251 nm | 9.60 min | 11.11 min |
+| 3ad | Daicel Chiralpak AS-H | hexane/iso-propanol = 95:5 | 0.7 mL/min | 251 nm | 10.29 min | 12.19 min |
+| 3ab | Daicel Chiralpak AS-H | hexane/iso-propanol = 95:5 | 0.7 mL/min | 251 nm | 10.76 min | 12.75 min |"
+ccsc_2021_luosz-Catalytic Asymmetric Addition and Telomerization of Butadiene with Enamine Intermediates,87,N/A
+ccsc_2021_luosz-Catalytic Asymmetric Addition and Telomerization of Butadiene with Enamine Intermediates,88,N/A
+ccsc_2021_luosz-Catalytic Asymmetric Addition and Telomerization of Butadiene with Enamine Intermediates,89,"| code name | column type | solvent | flow rate | wavelength | minor retention time | major retention time |
+|-----------|-------------|---------|-----------|------------|----------------------|----------------------|
+| 3aa | Daicel Chiralpak AS-H | hexane/iso-propanol = 95:5 | 0.7 mL/min | 251 nm | 9.60 min | 11.11 min |
+| 3ad | Daicel Chiralpak AS-H | hexane/iso-propanol = 95:5 | 0.7 mL/min | 251 nm | 10.29 min | 12.19 min |
+| 3ab | Daicel Chiralpak AS-H | hexane/iso-propanol = 95:5 | 0.7 mL/min | 251 nm | 10.76 min | 12.75 min |"
+ccsc_2021_luosz-Catalytic Asymmetric Addition and Telomerization of Butadiene with Enamine Intermediates,90,"| code name | column type | solvent | flow rate | wavelength | minor retention time | major retention time |
+|-----------|-------------|---------|-----------|------------|----------------------|----------------------|
+| N/A | N/A | N/A | N/A | N/A | N/A | N/A |"
+ccsc_2021_luosz-Catalytic Asymmetric Addition and Telomerization of Butadiene with Enamine Intermediates,91,N/A
+ccsc_2021_luosz-Catalytic Asymmetric Addition and Telomerization of Butadiene with Enamine Intermediates,92,"Given the inputs provided, I will analyze the latest input to determine if it contains any relevant HPLC data and format it accordingly.
+
+Input_Text: <'''S93 S94'''>
+Answer:
+
+This input text, ""S93 S94"", does not contain any HPLC data or relevant chemical analysis data. Therefore, the correct output is an empty response since no HPLC data is present to be formatted into the markdown table."
+ccsc_2021_luosz-Catalytic Asymmetric Addition and Telomerization of Butadiene with Enamine Intermediates,93,N/A
+ccsc_2021_luosz-Catalytic Asymmetric Addition and Telomerization of Butadiene with Enamine Intermediates,94, N/
+ccsc_2021_luosz-Catalytic Asymmetric Addition and Telomerization of Butadiene with Enamine Intermediates,95,"| code name | column type | solvent | flow rate | wavelength | minor retention time | major retention time |
+|-----------|-------------|---------|-----------|------------|----------------------|----------------------|"
+ccsc_2021_luosz-Catalytic Asymmetric Addition and Telomerization of Butadiene with Enamine Intermediates,96,N/A
+ccsc_2021_luosz-Catalytic Asymmetric Addition and Telomerization of Butadiene with Enamine Intermediates,97,N/A
+ccsc_2021_luosz-Catalytic Asymmetric Addition and Telomerization of Butadiene with Enamine Intermediates,98,"| code name | column type | solvent | flow rate | wavelength | minor retention time | major retention time |
+|-----------|-------------|---------|-----------|------------|----------------------|----------------------|"
+ccsc_2021_luosz-Catalytic Asymmetric Addition and Telomerization of Butadiene with Enamine Intermediates,99,"| code name | column type | solvent | flow rate | wavelength | minor retention time | major retention time |
+|-----------|-------------|---------|-----------|------------|----------------------|----------------------|
+| N/A | N/A | N/A | N/A | N/A | N/A | N/A |"
+ccsc_2021_luosz-Catalytic Asymmetric Addition and Telomerization of Butadiene with Enamine Intermediates,100,N/A
+ccsc_2021_luosz-Catalytic Asymmetric Addition and Telomerization of Butadiene with Enamine Intermediates,101,"| code name | column type | solvent | flow rate | wavelength | minor retention time | major retention time |
+|-----------|-------------|---------|-----------|------------|----------------------|----------------------|
+| N/A       | N/A         | N/A     | N/A       | N/A        | N/A                  | N/A                  |"
+ccsc_2021_luosz-Catalytic Asymmetric Addition and Telomerization of Butadiene with Enamine Intermediates,102,"| code name | column type | solvent | flow rate | wavelength | minor retention time | major retention time |
+|-----------|-------------|---------|-----------|------------|----------------------|----------------------|"
+ccsc_2021_luosz-Catalytic Asymmetric Addition and Telomerization of Butadiene with Enamine Intermediates,103,"| code name | column type | solvent | flow rate | wavelength | minor retention time | major retention time |
+|-----------|-------------|---------|-----------|------------|----------------------|----------------------|"
+ccsc_2021_luosz-Catalytic Asymmetric Addition and Telomerization of Butadiene with Enamine Intermediates,104,"| code name | column type | solvent | flow rate | wavelength | minor retention time | major retention time |
+|-----------|-------------|---------|-----------|------------|----------------------|----------------------|
+| N/A       | N/A         | N/A     | N/A       | N/A        | N/A                  | N/A                  |"
+ccsc_2021_luosz-Catalytic Asymmetric Addition and Telomerization of Butadiene with Enamine Intermediates,105,"| code name | column type | solvent | flow rate | wavelength | minor retention time | major retention time |
+|-----------|-------------|---------|-----------|------------|----------------------|----------------------|
+| 3aa | Daicel Chiralpak AS-H | hexane/iso-propanol = 95:5 | 0.7 mL/min | 251 nm | 9.60 min | 11.11 min |
+| 3ad | Daicel Chiralpak AS-H | hexane/iso-propanol = 95:5 | 0.7 mL/min | 251 nm | 10.29 min | 12.19 min |
+| 3ab | Daicel Chiralpak AS-H | hexane/iso-propanol = 95:5 | 0.7 mL/min | 251 nm | 10.76 min | 12.75 min |"
+ccsc_2021_luosz-Catalytic Asymmetric Addition and Telomerization of Butadiene with Enamine Intermediates,106,N/A
+ccsc_2021_luosz-Catalytic Asymmetric Addition and Telomerization of Butadiene with Enamine Intermediates,107, N/
+ccsc_2021_luosz-Catalytic Asymmetric Addition and Telomerization of Butadiene with Enamine Intermediates,108, N/
+ccsc_2021_luosz-Catalytic Asymmetric Addition and Telomerization of Butadiene with Enamine Intermediates,109,N/A
+ccsc_2021_luosz-Catalytic Asymmetric Addition and Telomerization of Butadiene with Enamine Intermediates,110,"| code name | column type | solvent | flow rate | wavelength | minor retention time | major retention time |
+|-----------|-------------|---------|-----------|------------|----------------------|----------------------|
+| N/A       | N/A         | N/A     | N/A       | N/A        | N/A                  | N/A                  |"
+ccsc_2021_luosz-Catalytic Asymmetric Addition and Telomerization of Butadiene with Enamine Intermediates,111,"| code name | column type | solvent | flow rate | wavelength | minor retention time | major retention time |
+|-----------|-------------|---------|-----------|------------|----------------------|----------------------|
+| N/A       | N/A         | N/A     | N/A       | N/A        | N/A                  | N/A                  |"
+ccsc_2021_luosz-Catalytic Asymmetric Addition and Telomerization of Butadiene with Enamine Intermediates,112,N/A
+ccsc_2021_luosz-Catalytic Asymmetric Addition and Telomerization of Butadiene with Enamine Intermediates,113,N/A
+ccsc_2021_luosz-Catalytic Asymmetric Addition and Telomerization of Butadiene with Enamine Intermediates,114,N/A
+ccsc_2021_luosz-Catalytic Asymmetric Addition and Telomerization of Butadiene with Enamine Intermediates,115,N/A
+ccsc_2021_luosz-Catalytic Asymmetric Addition and Telomerization of Butadiene with Enamine Intermediates,116,"| code name | column type | solvent | flow rate | wavelength | minor retention time | major retention time |
+|-----------|-------------|---------|-----------|------------|----------------------|----------------------|
+| N/A       | N/A         | N/A     | N/A       | N/A        | N/A                  | N/A                  |"
+ccsc_2021_luosz-Catalytic Asymmetric Addition and Telomerization of Butadiene with Enamine Intermediates,117,"| code name | column type | solvent | flow rate | wavelength | minor retention time | major retention time |
+|-----------|-------------|---------|-----------|------------|----------------------|----------------------|
+| N/A       | N/A         | N/A     | N/A       | N/A        | N/A                  | N/A                  |"
+ccsc_2021_luosz-Catalytic Asymmetric Addition and Telomerization of Butadiene with Enamine Intermediates,118,"| code name | column type | solvent | flow rate | wavelength | minor retention time | major retention time |
+|-----------|-------------|---------|-----------|------------|----------------------|----------------------|
+| N/A       | N/A         | N/A     | N/A       | N/A        | N/A                  | N/A                  |"
+ccsc_2021_luosz-Catalytic Asymmetric Addition and Telomerization of Butadiene with Enamine Intermediates,119,"| code name | column type | solvent | flow rate | wavelength | minor retention time | major retention time |
+|-----------|-------------|---------|-----------|------------|----------------------|----------------------|
+
+"
+ccsc_2021_luosz-Catalytic Asymmetric Addition and Telomerization of Butadiene with Enamine Intermediates,120,"| code name | column type | solvent | flow rate | wavelength | minor retention time | major retention time |
+|-----------|-------------|---------|-----------|------------|----------------------|----------------------|
+N/A"
+ccsc_2021_luosz-Catalytic Asymmetric Addition and Telomerization of Butadiene with Enamine Intermediates,121,"```markdown
+| code name | column type | solvent | flow rate | wavelength | minor retention time | major retention time |
+|-----------|-------------|---------|-----------|------------|----------------------|----------------------|
+| 3aa | Daicel Chiralpak AS-H | hexane/iso-propanol = 95:5 | 0.7 mL/min | 251 nm | 9.60 min | 11.11 min |
+| 3ad | Daicel Chiralpak AS-H | hexane/iso-propanol = 95:5 | 0.7 mL/min | 251 nm | 10.29 min | 12.19 min |
+| 3ab | Daicel Chiralpak AS-H | hexane/iso-propanol = 95:5 | 0.7 mL/min | 251 nm | 10.76 min | 12.75 min |
+```"
+ccsc_2021_luosz-Catalytic Asymmetric Addition and Telomerization of Butadiene with Enamine Intermediates,122,"| code name | column type | solvent | flow rate | wavelength | minor retention time | major retention time |
+|-----------|-------------|---------|-----------|------------|----------------------|----------------------|"
+ccsc_2021_luosz-Catalytic Asymmetric Addition and Telomerization of Butadiene with Enamine Intermediates,123,N/A
+ccsc_2021_luosz-Catalytic Asymmetric Addition and Telomerization of Butadiene with Enamine Intermediates,124,N/A
+ccsc_2021_luosz-Catalytic Asymmetric Addition and Telomerization of Butadiene with Enamine Intermediates,125, N/
+ccsc_2021_luosz-Catalytic Asymmetric Addition and Telomerization of Butadiene with Enamine Intermediates,126,"| code name | column type | solvent | flow rate | wavelength | minor retention time | major retention time |
+|-----------|-------------|---------|-----------|------------|----------------------|----------------------|
+| 3aa | Daicel Chiralpak AS-H | hexane/iso-propanol = 95:5 | 0.7 mL/min | 251 nm | 9.60 min | 11.11 min |
+| 3ad | Daicel Chiralpak AS-H | hexane/iso-propanol = 95:5 | 0.7 mL/min | 251 nm | 10.29 min | 12.19 min |
+| 3ab | Daicel Chiralpak AS-H | hexane/iso-propanol = 95:5 | 0.7 mL/min | 251 nm | 10.76 min | 12.75 min |"
+ccsc_2021_luosz-Catalytic Asymmetric Addition and Telomerization of Butadiene with Enamine Intermediates,127,"| code name | column type | solvent | flow rate | wavelength | minor retention time | major retention time |
+|-----------|-------------|---------|-----------|------------|----------------------|----------------------|"
+ccsc_2021_luosz-Catalytic Asymmetric Addition and Telomerization of Butadiene with Enamine Intermediates,128,"        | code name | column type | solvent | flow rate | wavelength | minor retention time | major retention time |
+        |-----------|-------------|---------|-----------|------------|----------------------|----------------------|
+        | 3aa | Daicel Chiralpak AS-H | hexane/iso-propanol = 95:5 | 0.7 mL/min | 251 nm | 9.60 min | 11.11 min |
+        | 3ad | Daicel Chiralpak AS-H | hexane/iso-propanol = 95:5 | 0.7 mL/min | 251 nm | 10.29 min | 12.19 min |
+        | 3ab | Daicel Chiralpak AS-H | hexane/iso-propanol = 95:5 | 0.7 mL/min | 251 nm | 10.76 min | 12.75 min |"
+ccsc_2021_luosz-Catalytic Asymmetric Addition and Telomerization of Butadiene with Enamine Intermediates,129," code name | column type | solvent | flow rate | wavelength | minor retention time | major retention time |
+|-----------|-------------|---------|-----------|------------|----------------------|----------------------|"
+ccsc_2021_luosz-Catalytic Asymmetric Addition and Telomerization of Butadiene with Enamine Intermediates,130,N/A
+ccsc_2021_luosz-Catalytic Asymmetric Addition and Telomerization of Butadiene with Enamine Intermediates,131,"| code name | column type | solvent | flow rate | wavelength | minor retention time | major retention time |
+|-----------|-------------|---------|-----------|------------|----------------------|----------------------|
+| 3aa | Daicel Chiralpak AS-H | hexane/iso-propanol = 95:5 | 0.7 mL/min | 251 nm | 9.60 min | 11.11 min |
+| 3ad | Daicel Chiralpak AS-H | hexane/iso-propanol = 95:5 | 0.7 mL/min | 251 nm | 10.29 min | 12.19 min |
+| 3ab | Daicel Chiralpak AS-H | hexane/iso-propanol = 95:5 | 0.7 mL/min | 251 nm | 10.76 min | 12.75 min |"

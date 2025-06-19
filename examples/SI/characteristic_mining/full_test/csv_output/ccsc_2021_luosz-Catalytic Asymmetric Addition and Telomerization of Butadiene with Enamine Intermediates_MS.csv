@@ -1,0 +1,292 @@
+path,item_num,summary
+ccsc_2021_luosz-Catalytic Asymmetric Addition and Telomerization of Butadiene with Enamine Intermediates,0,N/A
+ccsc_2021_luosz-Catalytic Asymmetric Addition and Telomerization of Butadiene with Enamine Intermediates,1,N/A
+ccsc_2021_luosz-Catalytic Asymmetric Addition and Telomerization of Butadiene with Enamine Intermediates,2,N/A
+ccsc_2021_luosz-Catalytic Asymmetric Addition and Telomerization of Butadiene with Enamine Intermediates,3,N/A
+ccsc_2021_luosz-Catalytic Asymmetric Addition and Telomerization of Butadiene with Enamine Intermediates,4,N/A
+ccsc_2021_luosz-Catalytic Asymmetric Addition and Telomerization of Butadiene with Enamine Intermediates,5,N/A
+ccsc_2021_luosz-Catalytic Asymmetric Addition and Telomerization of Butadiene with Enamine Intermediates,6,N/A
+ccsc_2021_luosz-Catalytic Asymmetric Addition and Telomerization of Butadiene with Enamine Intermediates,7,N/A
+ccsc_2021_luosz-Catalytic Asymmetric Addition and Telomerization of Butadiene with Enamine Intermediates,8,N/A
+ccsc_2021_luosz-Catalytic Asymmetric Addition and Telomerization of Butadiene with Enamine Intermediates,9,"| code name | name of MS | method of MS | calculated mass | experimental mass |
+|-----------|------------|--------------|-----------------|-------------------|
+| 4a | HRMS | ESI | 249.1461 | 249.1461 |
+| 4b | HRMS | ESI | 327.1931 | 327.1917 |
+| 4c | N/A | N/A | N/A | N/A |"
+ccsc_2021_luosz-Catalytic Asymmetric Addition and Telomerization of Butadiene with Enamine Intermediates,10,N/A
+ccsc_2021_luosz-Catalytic Asymmetric Addition and Telomerization of Butadiene with Enamine Intermediates,10,"| code name | name of MS | method of MS | calculated mass | experimental mass |
+|-----------|------------|--------------|-----------------|-------------------|
+| 4b | HRMS | ESI | 327.1931 | 327.1917 |
+| 4c | HRMS | ESI | 235.1305 | 235.1298 |
+| 4d | HRMS | ESI | 249.1461 | 249.1455 |"
+ccsc_2021_luosz-Catalytic Asymmetric Addition and Telomerization of Butadiene with Enamine Intermediates,11,"| code name | name of MS | method of MS | calculated mass | experimental mass |
+|-----------|------------|--------------|-----------------|-------------------|
+| N/A       | HRMS       | ESI          | 235.1305        | N/A               |"
+ccsc_2021_luosz-Catalytic Asymmetric Addition and Telomerization of Butadiene with Enamine Intermediates,11,"| code name | name of MS | method of MS | calculated mass | experimental mass |
+|-----------|------------|--------------|-----------------|-------------------|
+| 4d | HRMS | ESI | 249.1461 | 249.1455 |
+| 4e | HRMS | ESI | 333.1461 | 333.1453 |
+| 4f | HRMS | ESI | 269.0915 | 269.0905 |"
+ccsc_2021_luosz-Catalytic Asymmetric Addition and Telomerization of Butadiene with Enamine Intermediates,12,N/A
+ccsc_2021_luosz-Catalytic Asymmetric Addition and Telomerization of Butadiene with Enamine Intermediates,12,"| code name | name of MS | method of MS | calculated mass | experimental mass |
+|-----------|------------|--------------|-----------------|-------------------|
+| 4f | HRMS | ESI | 269.0915 | 269.0905 |
+| 4g | HRMS | ESI | 350.1938 | 350.1927 |
+| 4i | HRMS | ESI | 275.1618 | 275.1607 |"
+ccsc_2021_luosz-Catalytic Asymmetric Addition and Telomerization of Butadiene with Enamine Intermediates,13,N/A
+ccsc_2021_luosz-Catalytic Asymmetric Addition and Telomerization of Butadiene with Enamine Intermediates,13,"| code name | name of MS | method of MS | calculated mass | experimental mass |
+|-----------|------------|--------------|-----------------|-------------------|
+| 4i | HRMS | ESI | 275.1618 | 275.1607 |
+| 4j | HRMS | ESI | 247.1305 | 247.1301 |
+| 4k | HRMS | ESI | 309.1461 | 309.1453 |"
+ccsc_2021_luosz-Catalytic Asymmetric Addition and Telomerization of Butadiene with Enamine Intermediates,14,"| code name | name of MS | method of MS | calculated mass | experimental mass |
+|-----------|------------|--------------|-----------------|-------------------|
+| N/A       | N/A        | N/A          | N/A             | N/A               |"
+ccsc_2021_luosz-Catalytic Asymmetric Addition and Telomerization of Butadiene with Enamine Intermediates,14,"```markdown
+| code name | name of MS | method of MS | calculated mass | experimental mass |
+|-----------|------------|--------------|-----------------|-------------------|
+| 4k        | HRMS       | ESI          | 309.1461        | 309.1453          |
+| 4m        | HRMS       | ESI          | 249.1097        | 249.1088          |
+```"
+ccsc_2021_luosz-Catalytic Asymmetric Addition and Telomerization of Butadiene with Enamine Intermediates,15,"| code name | name of MS | method of MS | calculated mass | experimental mass |
+|-----------|------------|--------------|-----------------|-------------------|
+| N/A       | N/A        | N/A          | N/A             | N/A               |"
+ccsc_2021_luosz-Catalytic Asymmetric Addition and Telomerization of Butadiene with Enamine Intermediates,15,"| code name | name of MS | method of MS | calculated mass | experimental mass |
+|-----------|------------|--------------|-----------------|-------------------|
+| 4n | HRMS | ESI | 348.1781 | 348.1772 |
+| 4o | HRMS | ESI | 233.1140 | 233.1148 |"
+ccsc_2021_luosz-Catalytic Asymmetric Addition and Telomerization of Butadiene with Enamine Intermediates,16,N/A
+ccsc_2021_luosz-Catalytic Asymmetric Addition and Telomerization of Butadiene with Enamine Intermediates,16,"| code name | name of MS | method of MS | calculated mass | experimental mass |
+|-----------|------------|--------------|-----------------|-------------------|
+| 4o | HRMS | ESI | 233.1140 | 233.1148 |
+| 4p | HRMS | ESI | 268.1308 | 268.1299 |
+| 4q | HRMS | ESI | 298.1414 | 298.1406 |"
+ccsc_2021_luosz-Catalytic Asymmetric Addition and Telomerization of Butadiene with Enamine Intermediates,17,"| code name | name of MS | method of MS | calculated mass | experimental mass |
+|-----------|------------|--------------|-----------------|-------------------|
+| N/A       | N/A        | N/A          | N/A             | N/A               |"
+ccsc_2021_luosz-Catalytic Asymmetric Addition and Telomerization of Butadiene with Enamine Intermediates,17,"| code name | name of MS | method of MS | calculated mass | experimental mass |
+|-----------|------------|--------------|-----------------|-------------------|
+| 4q | HRMS | ESI | 298.1414 | 298.1406 |
+| 4r | HRMS | ESI | 205.1199 | 205.1193 |
+| 4s | HRMS | ESI | 331.2244 | 331.2235 |"
+ccsc_2021_luosz-Catalytic Asymmetric Addition and Telomerization of Butadiene with Enamine Intermediates,18,"| code name | name of MS | method of MS | calculated mass | experimental mass |
+|-----------|------------|--------------|-----------------|-------------------|
+| N/A       | N/A        | N/A          | N/A             | N/A               |"
+ccsc_2021_luosz-Catalytic Asymmetric Addition and Telomerization of Butadiene with Enamine Intermediates,18,"```markdown
+| code name | name of MS | method of MS | calculated mass | experimental mass |
+|-----------|------------|--------------|-----------------|-------------------|
+| 4s        | HRMS       | ESI          | 331.2244        | 331.2235          |
+| 4t        | HRMS       | ESI          | 341.2087        | 341.2076          |
+| 5a        | HRMS       | ESI          | 303.1931        | 303.1926          |
+```"
+ccsc_2021_luosz-Catalytic Asymmetric Addition and Telomerization of Butadiene with Enamine Intermediates,19,"| code name | name of MS | method of MS | calculated mass | experimental mass |
+|-----------|------------|--------------|-----------------|-------------------|
+| N/A       | HRMS       | ESI          | 341.2087        | N/A               |"
+ccsc_2021_luosz-Catalytic Asymmetric Addition and Telomerization of Butadiene with Enamine Intermediates,19,"| code name | name of MS | method of MS | calculated mass | experimental mass |
+|-----------|------------|--------------|-----------------|-------------------|
+| 5a | HRMS | ESI | 303.1931 | 303.1926 |
+| 5b | HRMS | ESI | 381.2400 | 381.2389 |
+| 5c | HRMS | ESI | 289.1774 | 289.1766 |"
+ccsc_2021_luosz-Catalytic Asymmetric Addition and Telomerization of Butadiene with Enamine Intermediates,20,N/A
+ccsc_2021_luosz-Catalytic Asymmetric Addition and Telomerization of Butadiene with Enamine Intermediates,20,"| code name | name of MS | method of MS | calculated mass | experimental mass |
+|-----------|------------|--------------|-----------------|-------------------|
+| 5c | HRMS | ESI | 289.1774 | 289.1766 |
+| 5d | HRMS | ESI | 303.1931 | 303.1924 |
+| 5e | HRMS | ESI | 387.1931 | 387.1924 |"
+ccsc_2021_luosz-Catalytic Asymmetric Addition and Telomerization of Butadiene with Enamine Intermediates,21,"| code name | name of MS | method of MS | calculated mass | experimental mass |
+|-----------|------------|--------------|-----------------|-------------------|
+| N/A       | HRMS       | ESI          | 303.1931        | N/A               |"
+ccsc_2021_luosz-Catalytic Asymmetric Addition and Telomerization of Butadiene with Enamine Intermediates,21,"| code name | name of MS | method of MS | calculated mass | experimental mass |
+|-----------|------------|--------------|-----------------|-------------------|
+| 5e | HRMS | ESI | 387.1931 | 387.1924 |
+| 5f | HRMS | ESI | 323.1384 | 323.1375 |"
+ccsc_2021_luosz-Catalytic Asymmetric Addition and Telomerization of Butadiene with Enamine Intermediates,22,"| code name | name of MS | method of MS | calculated mass | experimental mass |
+|-----------|------------|--------------|-----------------|-------------------|
+| N/A       | N/A        | N/A          | N/A             | N/A               |"
+ccsc_2021_luosz-Catalytic Asymmetric Addition and Telomerization of Butadiene with Enamine Intermediates,22,"| code name | name of MS | method of MS | calculated mass | experimental mass |
+|-----------|------------|--------------|-----------------|-------------------|
+| 5g | HRMS | ESI | 404.2407 | 404.2395 |
+| 5h | HRMS | ESI | 317.2087 | 317.2087 |"
+ccsc_2021_luosz-Catalytic Asymmetric Addition and Telomerization of Butadiene with Enamine Intermediates,23,N/A
+ccsc_2021_luosz-Catalytic Asymmetric Addition and Telomerization of Butadiene with Enamine Intermediates,23,"| code name | name of MS | method of MS | calculated mass | experimental mass |
+|-----------|------------|--------------|-----------------|-------------------|
+| 5h | HRMS | ESI | 317.2087 | 317.2087 |
+| 5i | HRMS | ESI | 329.2087 | 329.2075 |
+| 5j | HRMS | ESI | 301.1774 | 301.1763 |"
+ccsc_2021_luosz-Catalytic Asymmetric Addition and Telomerization of Butadiene with Enamine Intermediates,24,N/A
+ccsc_2021_luosz-Catalytic Asymmetric Addition and Telomerization of Butadiene with Enamine Intermediates,24,"| code name | name of MS | method of MS | calculated mass | experimental mass |
+|-----------|------------|--------------|-----------------|-------------------|
+| 5j | HRMS | ESI | 301.1774 | 301.1763 |
+| 5k | HRMS | ESI | 363.1931 | 363.1921 |
+| 5l | HRMS | ESI | 371.2556 | 371.2557 |"
+ccsc_2021_luosz-Catalytic Asymmetric Addition and Telomerization of Butadiene with Enamine Intermediates,25,N/A
+ccsc_2021_luosz-Catalytic Asymmetric Addition and Telomerization of Butadiene with Enamine Intermediates,25,N/A
+ccsc_2021_luosz-Catalytic Asymmetric Addition and Telomerization of Butadiene with Enamine Intermediates,26,N/A
+ccsc_2021_luosz-Catalytic Asymmetric Addition and Telomerization of Butadiene with Enamine Intermediates,26,"| code name | name of MS | method of MS | calculated mass | experimental mass |
+|-----------|------------|--------------|-----------------|-------------------|
+| 5o | HRMS | ESI | 402.2251 | 402.2242 |
+| 5p | HRMS | ESI | 287.1618 | 287.1606 |"
+ccsc_2021_luosz-Catalytic Asymmetric Addition and Telomerization of Butadiene with Enamine Intermediates,27,N/A
+ccsc_2021_luosz-Catalytic Asymmetric Addition and Telomerization of Butadiene with Enamine Intermediates,27,"| code name | name of MS | method of MS | calculated mass | experimental mass |
+|-----------|------------|--------------|-----------------|-------------------|
+| 5o | HRMS | ESI | 287.1618 | 287.1606 |
+| 5p | HRMS | ESI | 343.1778 | 322.1768 |
+| 5r | HRMS | ESI | 259.1669 | 259.1662 |"
+ccsc_2021_luosz-Catalytic Asymmetric Addition and Telomerization of Butadiene with Enamine Intermediates,28,N/A
+ccsc_2021_luosz-Catalytic Asymmetric Addition and Telomerization of Butadiene with Enamine Intermediates,28,"| code name | name of MS | method of MS | calculated mass | experimental mass |
+|-----------|------------|--------------|-----------------|-------------------|
+| 5r | HRMS | ESI | 259.1669 | 259.1662 |
+| 5s | HRMS | ESI | 385.2713 | 385.2703 |
+| 5u | HRMS | ESI | 615.4748 | 615.4747 |"
+ccsc_2021_luosz-Catalytic Asymmetric Addition and Telomerization of Butadiene with Enamine Intermediates,29,N/A
+ccsc_2021_luosz-Catalytic Asymmetric Addition and Telomerization of Butadiene with Enamine Intermediates,29,"| code name | name of MS | method of MS | calculated mass | experimental mass |
+|-----------|------------|--------------|-----------------|-------------------|
+| 5u | HRMS | ESI | 615.4748 | 615.4747 |
+| 8a | HRMS | ESI | 265.1563 | 265.1564 |"
+ccsc_2021_luosz-Catalytic Asymmetric Addition and Telomerization of Butadiene with Enamine Intermediates,30,"| code name | name of MS | method of MS | calculated mass | experimental mass |
+|-----------|------------|--------------|-----------------|-------------------|
+| 8a | HRMS | ESI | 265.1563 | N/A |"
+ccsc_2021_luosz-Catalytic Asymmetric Addition and Telomerization of Butadiene with Enamine Intermediates,30,"| code name | name of MS | method of MS | calculated mass | experimental mass |
+|-----------|------------|--------------|-----------------|-------------------|
+| 8b | HRMS | ESI | 261.1649 | 261.1640 |
+| 8c | HRMS | ESI | 261.1649 | 261.1640 |"
+ccsc_2021_luosz-Catalytic Asymmetric Addition and Telomerization of Butadiene with Enamine Intermediates,31,N/A
+ccsc_2021_luosz-Catalytic Asymmetric Addition and Telomerization of Butadiene with Enamine Intermediates,31,"| code name | name of MS | method of MS | calculated mass | experimental mass |
+|-----------|------------|--------------|-----------------|-------------------|
+| 8c | HRMS | ESI | 261.1649 | 261.1640 |
+| 8d | HRMS | ESI | 321.0849 | 321.0849 |
+| 8e | HRMS | ESI | 277.1354 | 277.1348 |"
+ccsc_2021_luosz-Catalytic Asymmetric Addition and Telomerization of Butadiene with Enamine Intermediates,32,"| code name | name of MS | method of MS | calculated mass | experimental mass |
+|-----------|------------|--------------|-----------------|-------------------|
+| N/A       | HRMS       | ESI          | 321.0849        | N/A               |"
+ccsc_2021_luosz-Catalytic Asymmetric Addition and Telomerization of Butadiene with Enamine Intermediates,32,"| code name | name of MS | method of MS | calculated mass | experimental mass |
+|-----------|------------|--------------|-----------------|-------------------|
+| 8e | HRMS | ESI | 277.1354 | 277.1348 |
+| 8f | HRMS | ESI | 307.2032 | 307.2034 |
+| N/A | N/A | N/A | N/A | N/A |"
+ccsc_2021_luosz-Catalytic Asymmetric Addition and Telomerization of Butadiene with Enamine Intermediates,33,N/A
+ccsc_2021_luosz-Catalytic Asymmetric Addition and Telomerization of Butadiene with Enamine Intermediates,33,"| code name | name of MS | method of MS | calculated mass | experimental mass |
+|-----------|------------|--------------|-----------------|-------------------|
+| 8g | HRMS | ESI | 319.2056 | 319.2050 |
+| 8h | HRMS | ESI | 311.1617 | 311.1617 |"
+ccsc_2021_luosz-Catalytic Asymmetric Addition and Telomerization of Butadiene with Enamine Intermediates,34,N/A
+ccsc_2021_luosz-Catalytic Asymmetric Addition and Telomerization of Butadiene with Enamine Intermediates,34,"| code name | name of MS | method of MS | calculated mass | experimental mass |
+|-----------|------------|--------------|-----------------|-------------------|
+| 8h | HRMS | ESI | 311.1617 | 311.1617 |
+| 8i | HRMS | ESI | 293.1900 | 293.1889 |
+| N/A | N/A | N/A | N/A | N/A |"
+ccsc_2021_luosz-Catalytic Asymmetric Addition and Telomerization of Butadiene with Enamine Intermediates,35,N/A
+ccsc_2021_luosz-Catalytic Asymmetric Addition and Telomerization of Butadiene with Enamine Intermediates,35,"| code name | name of MS | method of MS | calculated mass | experimental mass |
+|-----------|------------|--------------|-----------------|-------------------|
+| 8j | HRMS | ESI | 287.1642 | 287.1632 |
+| 8k | HRMS | ESI | 269.1900 | 269.1889 |"
+ccsc_2021_luosz-Catalytic Asymmetric Addition and Telomerization of Butadiene with Enamine Intermediates,36,"| code name | name of MS | method of MS | calculated mass | experimental mass |
+|-----------|------------|--------------|-----------------|-------------------|
+| N/A       | HRMS       | ESI          | 287.1642        | N/A               |"
+ccsc_2021_luosz-Catalytic Asymmetric Addition and Telomerization of Butadiene with Enamine Intermediates,36,"| code name | name of MS | method of MS | calculated mass | experimental mass |
+|-----------|------------|--------------|-----------------|-------------------|
+| 8k | HRMS | ESI | 269.1900 | 269.1889 |"
+ccsc_2021_luosz-Catalytic Asymmetric Addition and Telomerization of Butadiene with Enamine Intermediates,37,N/A
+ccsc_2021_luosz-Catalytic Asymmetric Addition and Telomerization of Butadiene with Enamine Intermediates,38,N/A
+ccsc_2021_luosz-Catalytic Asymmetric Addition and Telomerization of Butadiene with Enamine Intermediates,39,N/A
+ccsc_2021_luosz-Catalytic Asymmetric Addition and Telomerization of Butadiene with Enamine Intermediates,40,N/A
+ccsc_2021_luosz-Catalytic Asymmetric Addition and Telomerization of Butadiene with Enamine Intermediates,41,"| code name | name of MS | method of MS | calculated mass | experimental mass |
+|-----------|------------|--------------|-----------------|-------------------|
+| N/A | N/A | N/A | N/A | N/A |"
+ccsc_2021_luosz-Catalytic Asymmetric Addition and Telomerization of Butadiene with Enamine Intermediates,42,"| code name | name of MS | method of MS | calculated mass | experimental mass |
+|-----------|------------|--------------|-----------------|-------------------|
+| N/A       | N/A        | N/A          | N/A             | N/A               |"
+ccsc_2021_luosz-Catalytic Asymmetric Addition and Telomerization of Butadiene with Enamine Intermediates,43,N/A
+ccsc_2021_luosz-Catalytic Asymmetric Addition and Telomerization of Butadiene with Enamine Intermediates,44,N/A
+ccsc_2021_luosz-Catalytic Asymmetric Addition and Telomerization of Butadiene with Enamine Intermediates,45,N/A
+ccsc_2021_luosz-Catalytic Asymmetric Addition and Telomerization of Butadiene with Enamine Intermediates,46,N/A
+ccsc_2021_luosz-Catalytic Asymmetric Addition and Telomerization of Butadiene with Enamine Intermediates,47,N/A
+ccsc_2021_luosz-Catalytic Asymmetric Addition and Telomerization of Butadiene with Enamine Intermediates,48,N/A
+ccsc_2021_luosz-Catalytic Asymmetric Addition and Telomerization of Butadiene with Enamine Intermediates,49,N/A
+ccsc_2021_luosz-Catalytic Asymmetric Addition and Telomerization of Butadiene with Enamine Intermediates,50,N/A
+ccsc_2021_luosz-Catalytic Asymmetric Addition and Telomerization of Butadiene with Enamine Intermediates,51,N/A
+ccsc_2021_luosz-Catalytic Asymmetric Addition and Telomerization of Butadiene with Enamine Intermediates,52,N/A
+ccsc_2021_luosz-Catalytic Asymmetric Addition and Telomerization of Butadiene with Enamine Intermediates,53,N/A
+ccsc_2021_luosz-Catalytic Asymmetric Addition and Telomerization of Butadiene with Enamine Intermediates,54,N/A
+ccsc_2021_luosz-Catalytic Asymmetric Addition and Telomerization of Butadiene with Enamine Intermediates,55,N/A
+ccsc_2021_luosz-Catalytic Asymmetric Addition and Telomerization of Butadiene with Enamine Intermediates,56,N/A
+ccsc_2021_luosz-Catalytic Asymmetric Addition and Telomerization of Butadiene with Enamine Intermediates,57,N/A
+ccsc_2021_luosz-Catalytic Asymmetric Addition and Telomerization of Butadiene with Enamine Intermediates,58,N/A
+ccsc_2021_luosz-Catalytic Asymmetric Addition and Telomerization of Butadiene with Enamine Intermediates,59,N/A
+ccsc_2021_luosz-Catalytic Asymmetric Addition and Telomerization of Butadiene with Enamine Intermediates,60,N/A
+ccsc_2021_luosz-Catalytic Asymmetric Addition and Telomerization of Butadiene with Enamine Intermediates,61,N/A
+ccsc_2021_luosz-Catalytic Asymmetric Addition and Telomerization of Butadiene with Enamine Intermediates,62,N/A
+ccsc_2021_luosz-Catalytic Asymmetric Addition and Telomerization of Butadiene with Enamine Intermediates,63,N/A
+ccsc_2021_luosz-Catalytic Asymmetric Addition and Telomerization of Butadiene with Enamine Intermediates,64,N/A
+ccsc_2021_luosz-Catalytic Asymmetric Addition and Telomerization of Butadiene with Enamine Intermediates,65,N/A
+ccsc_2021_luosz-Catalytic Asymmetric Addition and Telomerization of Butadiene with Enamine Intermediates,66,N/A
+ccsc_2021_luosz-Catalytic Asymmetric Addition and Telomerization of Butadiene with Enamine Intermediates,67,N/A
+ccsc_2021_luosz-Catalytic Asymmetric Addition and Telomerization of Butadiene with Enamine Intermediates,68,N/A
+ccsc_2021_luosz-Catalytic Asymmetric Addition and Telomerization of Butadiene with Enamine Intermediates,69,N/A
+ccsc_2021_luosz-Catalytic Asymmetric Addition and Telomerization of Butadiene with Enamine Intermediates,70,N/A
+ccsc_2021_luosz-Catalytic Asymmetric Addition and Telomerization of Butadiene with Enamine Intermediates,71,N/A
+ccsc_2021_luosz-Catalytic Asymmetric Addition and Telomerization of Butadiene with Enamine Intermediates,72,N/A
+ccsc_2021_luosz-Catalytic Asymmetric Addition and Telomerization of Butadiene with Enamine Intermediates,73,N/A
+ccsc_2021_luosz-Catalytic Asymmetric Addition and Telomerization of Butadiene with Enamine Intermediates,74,"| code name | name of MS | method of MS | calculated mass | experimental mass |
+|-----------|------------|--------------|-----------------|-------------------|"
+ccsc_2021_luosz-Catalytic Asymmetric Addition and Telomerization of Butadiene with Enamine Intermediates,75,N/A
+ccsc_2021_luosz-Catalytic Asymmetric Addition and Telomerization of Butadiene with Enamine Intermediates,76,N/A
+ccsc_2021_luosz-Catalytic Asymmetric Addition and Telomerization of Butadiene with Enamine Intermediates,77,N/A
+ccsc_2021_luosz-Catalytic Asymmetric Addition and Telomerization of Butadiene with Enamine Intermediates,78,N/A
+ccsc_2021_luosz-Catalytic Asymmetric Addition and Telomerization of Butadiene with Enamine Intermediates,79,N/A
+ccsc_2021_luosz-Catalytic Asymmetric Addition and Telomerization of Butadiene with Enamine Intermediates,80,N/A
+ccsc_2021_luosz-Catalytic Asymmetric Addition and Telomerization of Butadiene with Enamine Intermediates,81,N/A
+ccsc_2021_luosz-Catalytic Asymmetric Addition and Telomerization of Butadiene with Enamine Intermediates,82,N/A
+ccsc_2021_luosz-Catalytic Asymmetric Addition and Telomerization of Butadiene with Enamine Intermediates,83,N/A
+ccsc_2021_luosz-Catalytic Asymmetric Addition and Telomerization of Butadiene with Enamine Intermediates,84,N/A
+ccsc_2021_luosz-Catalytic Asymmetric Addition and Telomerization of Butadiene with Enamine Intermediates,85,N/A
+ccsc_2021_luosz-Catalytic Asymmetric Addition and Telomerization of Butadiene with Enamine Intermediates,86,N/A
+ccsc_2021_luosz-Catalytic Asymmetric Addition and Telomerization of Butadiene with Enamine Intermediates,87,N/A
+ccsc_2021_luosz-Catalytic Asymmetric Addition and Telomerization of Butadiene with Enamine Intermediates,88,N/A
+ccsc_2021_luosz-Catalytic Asymmetric Addition and Telomerization of Butadiene with Enamine Intermediates,89,N/A
+ccsc_2021_luosz-Catalytic Asymmetric Addition and Telomerization of Butadiene with Enamine Intermediates,90,N/A
+ccsc_2021_luosz-Catalytic Asymmetric Addition and Telomerization of Butadiene with Enamine Intermediates,91,N/A
+ccsc_2021_luosz-Catalytic Asymmetric Addition and Telomerization of Butadiene with Enamine Intermediates,92,N/A
+ccsc_2021_luosz-Catalytic Asymmetric Addition and Telomerization of Butadiene with Enamine Intermediates,93,N/A
+ccsc_2021_luosz-Catalytic Asymmetric Addition and Telomerization of Butadiene with Enamine Intermediates,94,N/A
+ccsc_2021_luosz-Catalytic Asymmetric Addition and Telomerization of Butadiene with Enamine Intermediates,95,N/A
+ccsc_2021_luosz-Catalytic Asymmetric Addition and Telomerization of Butadiene with Enamine Intermediates,96,N/A
+ccsc_2021_luosz-Catalytic Asymmetric Addition and Telomerization of Butadiene with Enamine Intermediates,97,N/A
+ccsc_2021_luosz-Catalytic Asymmetric Addition and Telomerization of Butadiene with Enamine Intermediates,98,N/A
+ccsc_2021_luosz-Catalytic Asymmetric Addition and Telomerization of Butadiene with Enamine Intermediates,99,N/A
+ccsc_2021_luosz-Catalytic Asymmetric Addition and Telomerization of Butadiene with Enamine Intermediates,100,N/A
+ccsc_2021_luosz-Catalytic Asymmetric Addition and Telomerization of Butadiene with Enamine Intermediates,101,N/A
+ccsc_2021_luosz-Catalytic Asymmetric Addition and Telomerization of Butadiene with Enamine Intermediates,102,N/A
+ccsc_2021_luosz-Catalytic Asymmetric Addition and Telomerization of Butadiene with Enamine Intermediates,103,"| code name | name of MS | method of MS | calculated mass | experimental mass |
+|-----------|------------|--------------|-----------------|-------------------|
+| N/A       | N/A        | N/A          | N/A             | N/A               |"
+ccsc_2021_luosz-Catalytic Asymmetric Addition and Telomerization of Butadiene with Enamine Intermediates,104,N/A
+ccsc_2021_luosz-Catalytic Asymmetric Addition and Telomerization of Butadiene with Enamine Intermediates,105,N/A
+ccsc_2021_luosz-Catalytic Asymmetric Addition and Telomerization of Butadiene with Enamine Intermediates,106,N/A
+ccsc_2021_luosz-Catalytic Asymmetric Addition and Telomerization of Butadiene with Enamine Intermediates,107,N/A
+ccsc_2021_luosz-Catalytic Asymmetric Addition and Telomerization of Butadiene with Enamine Intermediates,108,N/A
+ccsc_2021_luosz-Catalytic Asymmetric Addition and Telomerization of Butadiene with Enamine Intermediates,109,N/A
+ccsc_2021_luosz-Catalytic Asymmetric Addition and Telomerization of Butadiene with Enamine Intermediates,110,N/A
+ccsc_2021_luosz-Catalytic Asymmetric Addition and Telomerization of Butadiene with Enamine Intermediates,111,N/A
+ccsc_2021_luosz-Catalytic Asymmetric Addition and Telomerization of Butadiene with Enamine Intermediates,112,N/A
+ccsc_2021_luosz-Catalytic Asymmetric Addition and Telomerization of Butadiene with Enamine Intermediates,113,N/A
+ccsc_2021_luosz-Catalytic Asymmetric Addition and Telomerization of Butadiene with Enamine Intermediates,114,N/A
+ccsc_2021_luosz-Catalytic Asymmetric Addition and Telomerization of Butadiene with Enamine Intermediates,115,N/A
+ccsc_2021_luosz-Catalytic Asymmetric Addition and Telomerization of Butadiene with Enamine Intermediates,116,N/A
+ccsc_2021_luosz-Catalytic Asymmetric Addition and Telomerization of Butadiene with Enamine Intermediates,117,N/A
+ccsc_2021_luosz-Catalytic Asymmetric Addition and Telomerization of Butadiene with Enamine Intermediates,118,N/A
+ccsc_2021_luosz-Catalytic Asymmetric Addition and Telomerization of Butadiene with Enamine Intermediates,119,N/A
+ccsc_2021_luosz-Catalytic Asymmetric Addition and Telomerization of Butadiene with Enamine Intermediates,120,N/A
+ccsc_2021_luosz-Catalytic Asymmetric Addition and Telomerization of Butadiene with Enamine Intermediates,121,N/A
+ccsc_2021_luosz-Catalytic Asymmetric Addition and Telomerization of Butadiene with Enamine Intermediates,122,"| code name | name of MS | method of MS | calculated mass | experimental mass |
+|-----------|------------|--------------|-----------------|-------------------|
+| N/A       | N/A        | N/A          | N/A             | N/A               |"
+ccsc_2021_luosz-Catalytic Asymmetric Addition and Telomerization of Butadiene with Enamine Intermediates,123,N/A
+ccsc_2021_luosz-Catalytic Asymmetric Addition and Telomerization of Butadiene with Enamine Intermediates,124,N/A
+ccsc_2021_luosz-Catalytic Asymmetric Addition and Telomerization of Butadiene with Enamine Intermediates,125,N/A
+ccsc_2021_luosz-Catalytic Asymmetric Addition and Telomerization of Butadiene with Enamine Intermediates,126,N/A
+ccsc_2021_luosz-Catalytic Asymmetric Addition and Telomerization of Butadiene with Enamine Intermediates,127,N/A
+ccsc_2021_luosz-Catalytic Asymmetric Addition and Telomerization of Butadiene with Enamine Intermediates,128,N/A
+ccsc_2021_luosz-Catalytic Asymmetric Addition and Telomerization of Butadiene with Enamine Intermediates,129,N/A
+ccsc_2021_luosz-Catalytic Asymmetric Addition and Telomerization of Butadiene with Enamine Intermediates,130,N/A
+ccsc_2021_luosz-Catalytic Asymmetric Addition and Telomerization of Butadiene with Enamine Intermediates,131,N/A

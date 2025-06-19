@@ -1,0 +1,341 @@
+nohup: ignoring input
+
+Loading checkpoint shards:   0%|          | 0/37 [00:00<?, ?it/s]
+Loading checkpoint shards:   3%|▎         | 1/37 [00:00<00:32,  1.10it/s]
+Loading checkpoint shards:   5%|▌         | 2/37 [00:01<00:30,  1.16it/s]
+Loading checkpoint shards:   8%|▊         | 3/37 [00:02<00:28,  1.18it/s]
+Loading checkpoint shards:  11%|█         | 4/37 [00:03<00:28,  1.16it/s]
+Loading checkpoint shards:  14%|█▎        | 5/37 [00:04<00:27,  1.16it/s]
+Loading checkpoint shards:  16%|█▌        | 6/37 [00:05<00:27,  1.14it/s]
+Loading checkpoint shards:  19%|█▉        | 7/37 [00:06<00:25,  1.18it/s]
+Loading checkpoint shards:  22%|██▏       | 8/37 [00:06<00:24,  1.18it/s]
+Loading checkpoint shards:  24%|██▍       | 9/37 [00:07<00:23,  1.19it/s]
+Loading checkpoint shards:  27%|██▋       | 10/37 [00:08<00:22,  1.18it/s]
+Loading checkpoint shards:  30%|██▉       | 11/37 [00:09<00:21,  1.20it/s]
+Loading checkpoint shards:  32%|███▏      | 12/37 [00:10<00:20,  1.20it/s]
+Loading checkpoint shards:  35%|███▌      | 13/37 [00:11<00:20,  1.19it/s]
+Loading checkpoint shards:  38%|███▊      | 14/37 [00:11<00:19,  1.20it/s]
+Loading checkpoint shards:  41%|████      | 15/37 [00:12<00:18,  1.21it/s]
+Loading checkpoint shards:  43%|████▎     | 16/37 [00:13<00:17,  1.20it/s]
+Loading checkpoint shards:  46%|████▌     | 17/37 [00:14<00:16,  1.21it/s]
+Loading checkpoint shards:  49%|████▊     | 18/37 [00:15<00:15,  1.19it/s]
+Loading checkpoint shards:  51%|█████▏    | 19/37 [00:16<00:14,  1.20it/s]
+Loading checkpoint shards:  54%|█████▍    | 20/37 [00:16<00:14,  1.19it/s]
+Loading checkpoint shards:  57%|█████▋    | 21/37 [00:17<00:13,  1.19it/s]
+Loading checkpoint shards:  59%|█████▉    | 22/37 [00:18<00:12,  1.19it/s]
+Loading checkpoint shards:  62%|██████▏   | 23/37 [00:19<00:11,  1.21it/s]
+Loading checkpoint shards:  65%|██████▍   | 24/37 [00:20<00:10,  1.20it/s]
+Loading checkpoint shards:  68%|██████▊   | 25/37 [00:21<00:09,  1.21it/s]
+Loading checkpoint shards:  70%|███████   | 26/37 [00:21<00:09,  1.20it/s]
+Loading checkpoint shards:  73%|███████▎  | 27/37 [00:22<00:08,  1.22it/s]
+Loading checkpoint shards:  76%|███████▌  | 28/37 [00:23<00:07,  1.22it/s]
+Loading checkpoint shards:  78%|███████▊  | 29/37 [00:24<00:06,  1.20it/s]
+Loading checkpoint shards:  81%|████████  | 30/37 [00:25<00:05,  1.19it/s]
+Loading checkpoint shards:  84%|████████▍ | 31/37 [00:25<00:05,  1.20it/s]
+Loading checkpoint shards:  86%|████████▋ | 32/37 [00:26<00:04,  1.20it/s]
+Loading checkpoint shards:  89%|████████▉ | 33/37 [00:27<00:03,  1.21it/s]
+Loading checkpoint shards:  92%|█████████▏| 34/37 [00:28<00:02,  1.21it/s]
+Loading checkpoint shards:  95%|█████████▍| 35/37 [00:29<00:01,  1.21it/s]
+Loading checkpoint shards:  97%|█████████▋| 36/37 [00:30<00:00,  1.22it/s]
+Loading checkpoint shards: 100%|██████████| 37/37 [00:30<00:00,  1.27it/s]
+Loading checkpoint shards: 100%|██████████| 37/37 [00:30<00:00,  1.20it/s]
+| Reactants | Reactant amounts | Products | Product amounts | Solvents | Reaction temperature | Reaction time | Yield |
+|-----------|-----------------|----------|-----------------|-----------|----------------------|----------------|-------|
+| 3-nitrophthalic acid, sodium hydroxide, mercuric acetate | 211 g (1 mole), 80 g (2 moles), 350 g (1.1 moles) | Anhydro-2-hydroxymercuri-3-nitrobenzoic acid | 300-330 g | water, glacial acetic acid | 165-175°C | 70 hours | 82-90% |
+| Reactants | Reactant amounts | Products | Product amounts | Solvents | Reaction temperature | Reaction time | Yield |
+|-----------|-----------------|----------|-----------------|-----------|----------------------|----------------|-------|
+| p-hydroxyphenylarsonic acid, sodium hydroxide, chloroacetic acid, hydrochloric acid | 218 g (1 mole), 180 g (4.5 moles), 189 g (2 moles), 200 cc (2.1 moles) | p-Arsonophenoxyacetic acid | 110-120 g | water | 40-50°C, 20°C | 4 hours | 40-43% |
+| Reactants | Reactant amounts | Products | Product amounts | Solvents | Reaction temperature | Reaction time | Yield |
+|-----------|-----------------|----------|-----------------|-----------|----------------------|----------------|-------|
+| aniline, benzoic acid | 750 g (8.1 moles), 1 kg (8.2 moles) | benzanilide | 1270-1325 g | aniline | 180-225°C | 2-6 hours | 80-84% |
+| Reactants | Reactant amounts | Products | Product amounts | Solvents | Reaction temperature | Reaction time | Yield |
+|-----------|-----------------|----------|-----------------|-----------|----------------------|----------------|-------|
+| phthalimide, absolute alcohol, potassium hydroxide | 80 g (0.54 mole), 1600 cc, 30.5 g (0.54 mole) | potassium phthalimide | 160-180 g | absolute alcohol | room temperature | N/A | 80-90% |
+| potassium phthalimide, ethylene dibromide | 150 g (0.81 mole), 450 g (2.4 moles) | β-bromoethylphthalimide | 140-160 g | alcohol, carbon disulfide | 180-190°C | 12 hours | 69-79% |
+| Reactants | Reactant amounts | Products | Product amounts | Solvents | Reaction temperature | Reaction time | Yield |
+|-----------|-----------------|----------|-----------------|-----------|----------------------|----------------|-------|
+| anhydro-2-hydroxymercuri-3-nitrobenzoic acid, sodium hydroxide, hydrochloric acid, glacial acetic acid, sodium bromide, bromine | 330 g (0.9 mole), 50 g (1.25 moles), 101 g (85 cc, 0.95 mole), 31.5 g (30 cc, 0.5 mole), 103 g (1 mole), 160 g (50.2 cc, 1 mole) | 2-bromo-3-nitrobenzoic acid | 130-150 g | water, 30% alcohol | boiling | 5 minutes | 53-61% |
+| Reactants | Reactant amounts | Products | Product amounts | Solvents | Reaction temperature | Reaction time | Yield |
+|-----------|-----------------|----------|-----------------|-----------|----------------------|----------------|-------|
+| citric acid monohydrate, sulfuric acid, water, glacial acetic acid | 210 g (1 mole), 210 g (115 cc, 2 moles), 105 cc, 10 cc | aconitic acid | 71-77 g | water, glacial acetic acid | 140-145°C | 7 hours | 41-44% |
+| Reactants | Reactant amounts | Products | Product amounts | Solvents | Reaction temperature | Reaction time | Yield |
+|-----------|-----------------|----------|-----------------|-----------|----------------------|----------------|-------|
+| potassium phthalimide, γ-chlorobutyronitrile | 100 g (0.54 mole), 52 g (0.5 mole) | γ-Aminobutyric acid | 24-32 g | distilled water, concentrated sulfuric acid, barium carbonate, absolute alcohol | 150-180°C, gentle warming, reflux | 1.5 hours, 3 hours, overnight | 47-62% |
+| Reactants | Reactant amounts | Products | Product amounts | Solvents | Reaction temperature | Reaction time | Yield |
+|-----------|-----------------|----------|-----------------|-----------|----------------------|----------------|-------|
+| 2-ketohexamethylenimine, concentrated hydrochloric acid, water | 50 g (0.44 mole), 45 cc, 150 cc | ε-aminocaproic acid | 52.5-53.5 g | water, absolute alcohol, ether | boiling | 1 hour | 90-92% |
+| Reactants | Reactant amounts | Products | Product amounts | Solvents | Reaction temperature | Reaction time | Yield |
+|-----------|-----------------|----------|-----------------|-----------|----------------------|----------------|-------|
+| Nitroso-β-naphthol, sodium hydroxide, sodium hydrosulfite, hydrochloric acid | 240 g (1.39 moles), 2.7 l (5 N), 600 g (85% pure), 500 cc + 1.2 l (technical concentrated, sp. gr. 1.16) | 1,2-Aminonaphthol hydrochloride | 180-200 g | water | 35°C, 60-65°C, 20°C, 85-90°C | 30 minutes, 5 minutes, 15 minutes, 1 hour, 2 hours | 66-74% |
+| Reactants | Reactant amounts | Products | Product amounts | Solvents | Reaction temperature | Reaction time | Yield |
+|-----------|-----------------|----------|-----------------|-----------|----------------------|----------------|-------|
+| sulfanilic acid dihydrate, sodium carbonate, sodium nitrite, hydrochloric acid | 105 g (0.5 mole), 26.5 g (0.25 mole), 37 g (0.54 mole), 106 cc (1.25 moles) | p-benzenediazonium sulfonate | N/A | water | 15°C, 15-25 minutes | 15-25 minutes | N/A |
+| p-benzenediazonium sulfonate, β-naphthol, sodium hydroxide | N/A, 72 g (0.5 mole), 110 g (2.75 moles) | Orange II | N/A | water | 5°C | 1 hour | N/A |
+| Orange II, sodium hydrosulfite, stannous chloride dihydrate, hydrochloric acid | N/A, 230 g (1.1 moles), 2 g, 53 cc (0.63 mole) | 1,2-aminonaphthol hydrochloride | 70-83 g | water | 45-50°C, 25°C, 30°C, 0°C | 1 hour, 5 minutes, N/A | 72-85% |
+| Reactants | Reactant amounts | Products | Product amounts | Solvents | Reaction temperature | Reaction time | Yield |
+|-----------|-----------------|----------|-----------------|-----------|----------------------|----------------|-------|
+| sulfanilic acid dihydrate, α-naphthol, sodium hydroxide, sodium hydrosulfite, stannous chloride dihydrate, hydrochloric acid | 105 g (0.5 mole), 72 g (0.5 mole), 110 g (2.75 moles), 230 g (about 1.1 moles), 2 g, 63 cc + 100 cc + 100 cc | 1,4-aminonaphthol hydrochloride | 70-73 g | water | 25°C, 45-50°C, 70°C, 30°C, 0°C | 1 hour, 5-10 minutes, N/A | 72-75% |
+| Reactants | Reactant amounts | Products | Product amounts | Solvents | Reaction temperature | Reaction time | Yield |
+|-----------|-----------------|----------|-----------------|-----------|----------------------|----------------|-------|
+| Technical barium hydroxide octahydrate, β-aminopropionitrile | 185 g (0.55 mole), 70.1 g (1.00 mole) | β-alanine | 75-80 g | water, methanol | 90-95°C, 85-90°C, 15-20°C | 40 minutes, 20 minutes, several hours | 85-90% |
+| Reactants | Reactant amounts | Products | Product amounts | Solvents | Reaction temperature | Reaction time | Yield |
+|-----------|-----------------|----------|-----------------|-----------|----------------------|----------------|-------|
+| Ammonium hydroxide, acrylonitrile | 400 ml (28-30% ammonia), 100 ml (80 g, 1.5 moles) | β-aminopropionitrile, bis-(β-cyanoethyl)amine | 130-140 g, 210 g | ammonium hydroxide | N/A | a few hours or overnight | 31-33%, 57% |
+| Reactants | Reactant amounts | Products | Product amounts | Solvents | Reaction temperature | Reaction time | Yield |
+|-----------|-----------------|----------|-----------------|-----------|----------------------|----------------|-------|
+| Benzalacetone, bromine | 100 g (0.68 mole), 109.5 g (34.2 ml, 0.68 mole) | Benzalacetone dibromide | 110-120 g | Carbon tetrachloride | 10-20°C | 4-5 minutes | 52-57% |
+| Reactants | Reactant amounts | Products | Product amounts | Solvents | Reaction temperature | Reaction time | Yield |
+|-----------|-----------------|----------|-----------------|-----------|----------------------|----------------|-------|
+| Magnesium, allyl chloride, ether | 82 g (3.5 gram atoms), 459 g (6 moles), 2.4 l | Biallyl | 135-160 g | ether | Room temperature, Ice bath | 5 hours, 1-1.5 hours | 55-65% |
+| Reactants | Reactant amounts | Products | Product amounts | Solvents | Reaction temperature | Reaction time | Yield |
+|-----------|-----------------|----------|-----------------|-----------|----------------------|----------------|-------|
+| Benzalacetone dibromide, anhydrous sodium acetate | 100 g (0.33 mole), 30 g (0.37 mole) | α-Bromobenzalacetone | 47-54 g | 95% ethanol | reflux | 4 hours | 64-73% |
+For the provided procedure for the synthesis of **Sodium Hypochlorite Solution**, here is the summarized table:
+
+| Reactants | Reactant amounts | Products | Product amounts | Solvents | Reaction temperature | Reaction time | Yield |
+|-----------|-----------------|----------|-----------------|-----------|----------------------|----------------|-------|
+| Sodium hydroxide, water, chlorine gas | 50 g (1.25 moles), 200 ml, 41 g (0.58 mole) | Sodium hypochlorite solution | N/A | water | 0°C | Until 41 g of chlorine is absorbed | N/A |
+
+### Explanation:
+- **Reactants**: Sodium hydroxide, water, and chlorine gas are the reactants.
+- **Reactant amounts**: 
+  - Sodium hydroxide: 50 g (1.25 moles)
+  - Water: 200 ml
+  - Chlorine gas: 41 g (0.58 mole)
+- **Products**: The product is a sodium hypochlorite solution.
+- **Product amounts**: Not specified.
+- **Solvents**: Water is used as the solvent.
+- **Reaction temperature**: The reaction is conducted at 0°C.
+- **Reaction time**: The reaction continues until 41 g of chlorine is absorbed.
+- **Yield**: Not specified.
+| Reactants | Reactant amounts | Products | Product amounts | Solvents | Reaction temperature | Reaction time | Yield |
+|-----------|-----------------|----------|-----------------|-----------|----------------------|----------------|-------|
+| o-nitroaniline, potassium hydroxide, sodium hypochlorite solution | 40 g (0.29 mole), 21 g (0.32 mole), N/A | Benzofurazan oxide | 31.6-32.5 g | 95% ethanol, water | 0°C | 10 minutes | 80-82% |
+Certainly! Here is the summarized table for the synthesis of **o-Nitrophenylazide** and **Benzofurazan Oxide**:
+
+```markdown
+| Reactants | Reactant amounts | Products | Product amounts | Solvents | Reaction temperature | Reaction time | Yield |
+|-----------|-----------------|----------|-----------------|-----------|----------------------|----------------|-------|
+| o-nitroaniline, hydrochloric acid, sodium nitrite | 28 g (0.2 mole), 80 ml, 14.5 g (0.2 mole) | o-nitrophenylazide | 31-32 g | water | 0-5°C | 1 hour, 15-20 minutes | 94-97% |
+| o-nitrophenylazide, toluene | 16.4 g (0.1 mole), 30 ml | Benzofurazan oxide | 10.5-11.5 g | toluene | steam cone (reflux) | 3 hours | 77-85% |
+```
+
+### Explanation:
+1. **o-Nitrophenylazide Synthesis:**
+   - **Reactants:** o-nitroaniline, hydrochloric acid, sodium nitrite.
+   - **Reactant amounts:** 28 g (0.2 mole) of o-nitroaniline, 80 ml of water, 45 ml of concentrated hydrochloric acid, 14.5 g (0.2 mole) of sodium nitrite.
+   - **Products:** o-nitrophenylazide.
+   - **Product amounts:** 31-32 g.
+   - **Solvents:** Water.
+   - **Reaction temperature:** 0-5°C.
+   - **Reaction time:** 1 hour for diazotization, 15-20 minutes for azide formation.
+   - **Yield:** 94-97%.
+
+2. **Benzofurazan Oxide Synthesis:**
+   - **Reactants:** o-nitrophenylazide, toluene.
+   - **Reactant amounts:** 16.4 g (0.1 mole) of o-nitrophenylazide, 30 ml of toluene.
+   - **Products:** Benzof
+| Reactants | Reactant amounts | Products | Product amounts | Solvents | Reaction temperature | Reaction time | Yield |
+|-----------|-----------------|----------|-----------------|-----------|----------------------|----------------|-------|
+| ethyl benzoylacetate, aniline | 105.7 g (0.55 mole), 46.6 g (0.5 mole) | Benzoylacetanilide | 99-100 g | xylene, ethanol | 135°C | 15 minutes | 83-84% |
+| Reactants | Reactant amounts | Products | Product amounts | Solvents | Reaction temperature | Reaction time | Yield |
+|-----------|-----------------|----------|-----------------|-----------|----------------------|----------------|-------|
+| Nicotinic acid, thionyl chloride, aluminum chloride | 123 g (1 mole), 500 ml (818 g, 6.9 moles), 330 g (2.5 moles) | 3-benzoylpyridine | 165-175 g | thionyl chloride, benzene, chloroform | 5-10°C, room temperature, reflux | 15-20 minutes, 1 hour, 6 hours | 90-96% |
+| Reactants | Reactant amounts | Products | Product amounts | Solvents | Reaction temperature | Reaction time | Yield |
+|-----------|-----------------|----------|-----------------|-----------|----------------------|----------------|-------|
+| 2-methylcyclohexanone, sulfuryl chloride | 224 g (2.0 moles), 179 ml (297 g, 2.2 moles) | 2-chloro-2-methylcyclohexanone | 243-248 g | carbon tetrachloride | room temperature | 1 hour, 2 hours | 83-85% |
+| Reactants | Reactant amounts | Products | Product amounts | Solvents | Reaction temperature | Reaction time | Yield |
+|-----------|-----------------|----------|-----------------|-----------|----------------------|----------------|-------|
+| 2-chloro-2-methylcyclohexanone, 2,4,6-collidine | N/A, 290 ml (266 g, 2.2 moles) | 2-methyl-2-cyclohexenone | 100-109 g | benzene | 145-150°C | 1 minute | 45-49% |
+| 2-chloro-2-methylcyclohexanone, lithium chloride, dimethylformamide | N/A, 26 g, 250 ml | 2-methyl-2-cyclohexenone | 47-50 g | ether, dimethylformamide | 100-112°C | 10 minutes, 25 minutes, 4 hours | 43-45% |
+| Reactants | Reactant amounts | Products | Product amounts | Solvents | Reaction temperature | Reaction time | Yield |
+|-----------|-----------------|----------|-----------------|-----------|----------------------|----------------|-------|
+| Nicotinamide-1-oxide, phosphorus pentachloride, phosphorus oxychloride | 85.0 g (0.62 mole), 180.0 g (0.86 mole), 243 mL | 2-Chloronicotinonitrile | 30-33 g | Phosphorus oxychloride | 100-120°C | 1.5 hours, 0.5-1.0 hour, overnight | 35-39% |
+| Reactants | Reactant amounts | Products | Product amounts | Solvents | Reaction temperature | Reaction time | Yield |
+|-----------|-----------------|----------|-----------------|-----------|----------------------|----------------|-------|
+| mesitylene, titanium tetrachloride, dichloromethyl methyl ether | 72 g (0.60 mole), 190 g (110 ml, 1.0 mole), 57.5 g (0.5 mole) | mesitaldehyde | 60-66 g | methylene chloride | 0°C, 35°C | 3 minutes, 5 minutes, 30 minutes, 15 minutes | 81-89% |
+| Reactants | Reactant amounts | Products | Product amounts | Solvents | Reaction temperature | Reaction time | Yield |
+|-----------|-----------------|----------|-----------------|-----------|----------------------|----------------|-------|
+| 2-nitroaniline, sulfuric acid, phosphoric acid, water, sodium nitrite, sulfamic acid, liquid sulfur dioxide, FeSO4·7H2O, defatted copper powder, ammonia, hydrochloric acid | 13.8 g (0.10 mole), 75 ml, 100 ml, 50 ml, 8.3 g (0.12 mole), N/A, 50 ml, 55.6 g (0.20 mole), 1 g, N/A, N/A, N/A | 2-nitrobenzenesulfinic acid | 9.4-14.9 g | sulfuric acid, phosphoric acid, water, ether, methylene chloride | 10-15°C, -10°C | 30 minutes | 50-80% |
+| Reactants | Reactant amounts | Products | Product amounts | Solvents | Reaction temperature | Reaction time | Yield |
+|-----------|-----------------|----------|-----------------|-----------|----------------------|----------------|-------|
+| 2-nitrobenzenesulfinic acid, sodium hydroxide, palladium oxide | 3.74 g (0.020 mole), about 20 ml (1N NaOH), 0.2-1.0 g | Sodium 2-aminobenzenesulfinate | 3.05-3.20 g | water | N/A | 2-6 hours | 85-89% |
+| Reactants | Reactant amounts | Products | Product amounts | Solvents | Reaction temperature | Reaction time | Yield |
+|-----------|-----------------|----------|-----------------|-----------|----------------------|----------------|-------|
+| Sodium 2-aminobenzenesulfinate, sodium nitrite, sulfuric acid, glycerol | 1.43 g (0.0080 mole), 0.55 g (0.0080 mole), 16 ml (2N), 22 ml | 1,2,3-Benzothiadiazole 1,1-dioxide | 0.77-1.04 g | water, ether | -15°C | 2 hours, 5 minutes | 57-77% |
+| Reactants | Reactant amounts | Products | Product amounts | Solvents | Reaction temperature | Reaction time | Yield |
+|-----------|-----------------|----------|-----------------|-----------|----------------------|----------------|-------|
+| cis,cis-1,5-cyclooctadiene, chloroform, benzoyl peroxide | 325 g (3.0 moles), 3 l, 14.6 g (0.06 mole), 4 x 7.3 g (0.03 mole) | 2-(trichloromethyl)bicyclo[3.3.0]octane | 106-117 g | chloroform | 63-65°C | 5 days | 35% |
+| Reactants | Reactant amounts | Products | Product amounts | Solvents | Reaction temperature | Reaction time | Yield |
+|-----------|-----------------|----------|-----------------|-----------|----------------------|----------------|-------|
+| 2-(trichloromethyl)bicyclo[3.3.0]octane, phosphoric acid | 100 g (0.440 mole), 500 ml (85%) | exo-cis-Bicyclo[3.3.0]octane-2-carboxylic acid | 29-32 g | phosphoric acid | 150°C | 16 hours | 43-47% |
+| Reactants | Reactant amounts | Products | Product amounts | Solvents | Reaction temperature | Reaction time | Yield |
+|-----------|-----------------|----------|-----------------|-----------|----------------------|----------------|-------|
+| N,N'-diphenylethylenediamine, triethyl orthoformate | 20 g (0.094 mole), 100 ml | Bis(1,3-diphenylimidazolidinylidene-2) | 19-20 g | triethyl orthoformate | 190-200°C | 5 hours | 91-95% |
+| Reactants | Reactant amounts | Products | Product amounts | Solvents | Reaction temperature | Reaction time | Yield |
+|-----------|-----------------|----------|-----------------|-----------|----------------------|----------------|-------|
+| Aluminum chloride, lithium aluminum hydride, 4-t-butylcyclohexanone, t-butanol | 67 g (0.5 mole), 5.5 g, 77.2 g (0.5 mole), 10 ml | trans-4-t-Butylcyclohexanol | 57-61 g (main crop), 12 g (additional crop) | ether | reflux | 45-60 minutes, 2 hours, 4 hours, overnight | 73-78% (main crop), 15% (additional crop) |
+| Reactants | Reactant amounts | Products | Product amounts | Solvents | Reaction temperature | Reaction time | Yield |
+|-----------|-----------------|----------|-----------------|-----------|----------------------|----------------|-------|
+| Sodium, diethyl succinate, chlorotrimethylsilane | 9.6-9.8 g (~0.4 g-atom), 17.4 g (0.100 mole), 45-50 g (~0.4 mole) | 1,2-Bis(trimethylsilyloxy)cyclobutene | 18 g | Dry solvent | Reflux | 5 hours | 78% |
+| Sodium, potassium, diethyl succinate, chlorotrimethylsilane | 4.8-5.0 g (~0.2 g-atom), 8.0-8.2 g (~0.2 g-atom), 17.4 g (0.100 mole), 44 g (0.41 mole) | 1,2-Bis(trimethylsilyloxy)cyclobutene | 13.8-16.1 g | Anhydrous ether | Reflux | 4-6 hours | 60-70% |
+| Reactants | Reactant amounts | Products | Product amounts | Solvents | Reaction temperature | Reaction time | Yield |
+|-----------|-----------------|----------|-----------------|-----------|----------------------|----------------|-------|
+| 1,2-bis(trimethylsilyloxy)cyclobutene, methanol | 23 g (0.10 mole), 450 ml | 2-hydroxycyclobutanone | 6.1-7.4 g | methanol | N/A | 24-30 hours | 71-86% |
+| Reactants | Reactant amounts | Products | Product amounts | Solvents | Reaction temperature | Reaction time | Yield |
+|-----------|-----------------|----------|-----------------|-----------|----------------------|----------------|-------|
+| adamantanone, p-tolylsulfonylmethyl isocyanide, absolute ethanol, 1,2-dimethoxyethane, potassium tert-butoxide | 15.0 g (0.100 mole), 25.4 g (0.130 mole), 10 ml (0.17 mole), 350 ml, 28 g (0.25 mole) | 2-adamantanecarbonitrile | 13.5-14.5 g | 1,2-dimethoxyethane | 5-10°C, 35-40°C | 30 minutes, 30 minutes | 84-90% |
+| Reactants | Reactant amounts | Products | Product amounts | Solvents | Reaction temperature | Reaction time | Yield |
+|-----------|-----------------|----------|-----------------|-----------|----------------------|----------------|-------|
+| Rhodium(III) oxide, cyclohexene, benzene, carbon monoxide, hydrogen | 0.2 g (0.8 mmole), 82 g (1.0 mole), 140 ml, N/A, N/A | Cyclohexanecarboxaldehyde | 92-94 g | benzene | 100°C | 2 hours | 82-84% |
+| Reactants | Reactant amounts | Products | Product amounts | Solvents | Reaction temperature | Reaction time | Yield |
+|-----------|-----------------|----------|-----------------|-----------|----------------------|----------------|-------|
+| tricarbonyl[(1,2,3,4,5-η)-2,4-cyclohexadien-1-yl]iron(1+) hexafluorophosphate(1−), dimedone | 5 g (0.013 mole), 2.5 g (0.018 mole) | Tricarbonyl[2-[(2,3,4,5-η)-4-methoxy-2,4-cyclohexadien-1-yl]-5,5-dimethyl-1,3-cyclohexanedione]iron | 4.3 g | water, ethanol | reflux | 15 minutes | 87% |
+| Reactants | Reactant amounts | Products | Product amounts | Solvents | Reaction temperature | Reaction time | Yield |
+|-----------|-----------------|----------|-----------------|-----------|----------------------|----------------|-------|
+| tellurium tetrachloride, anisole | 27.0 g (0.100 mole), 64.8 g (0.600 mole) | Bis(4-methoxyphenyl)tellurium dichloride | 35.5-38.5 g | anisole, acetonitrile | 160°C | 6 hours | 84-90% |
+| Reactants | Reactant amounts | Products | Product amounts | Solvents | Reaction temperature | Reaction time | Yield |
+|-----------|-----------------|----------|-----------------|-----------|----------------------|----------------|-------|
+| Raney nickel, bis(2-methoxyethyl) ether, bis(4-methoxyphenyl)tellurium dichloride | 60 g, 400 ml, 20.6 g (0.0497 mole) | 4,4'-Dimethoxy-1,1'-biphenyl | 8.5-9.8 g | bis(2-methoxyethyl) ether | reflux | 8 hours | 78-90% |
+Certainly! Below is the summarized table for the synthesis of (S)-(+)- and (R)-(−)-1,1'-binaphthyl-2,2'-diyl hydrogen phosphate:
+
+| Reactants | Reactant amounts | Products | Product amounts | Solvents | Reaction temperature | Reaction time | Yield |
+|-----------|-----------------|----------|-----------------|-----------|----------------------|----------------|-------|
+| (±)-1,1'-bi-2-naphthol, phosphorus oxychloride, water | 100 g (0.35 mol), 73.6 g (0.48 mol), 40 mL | (±)-binaphthylphosphoric acid | 114-119 g | pyridine, 6 N hydrochloric acid | 80-118°C | N/A | 94-99% |
+| (±)-binaphthylphosphoric acid, (+)-cinchonine | 95.2 g (0.27 mol), 80.4 g (0.27 mol) | (S)-(+)-BNP acid, (R)-(−)-BNP acid | 26.7 g, 23.3 g | methanol, water, 6 N hydrochloric acid | 65-80°C | 20 min, 30 min | 56%, 49% |
+
+### Explanation:
+1. **First Reaction:**
+   - **Reactants:** (±)-1,1'-bi-2-naphthol, phosphorus oxychloride, water.
+   - **Reactant amounts:** 100 g (0.35 mol) of (±)-1,1'-bi-2-naphthol, 73.6 g (0.48 mol) of phosphorus oxychloride, 40 mL of water.
+   - **Products:** (±)-binaphthylphosphoric acid.
+   - **Product amounts:** 114-119 g.
+   - **Solvents:** Pyridine, 6 N hydrochloric acid.
+   - **Reaction temperature:** 80-118°C.
+   - **Reaction time:** Not explicitly stated.
+   - **Yield:** 94-99%.
+
+2. **Second Reaction:**
+   - **React
+Certainly! Here's the summarized table for the synthesis of (R)-(+)-1,1'-BINAPHTHALENE-2,2'-DIOL:
+
+```markdown
+| Reactants | Reactant amounts | Products | Product amounts | Solvents | Reaction temperature | Reaction time | Yield |
+|-----------|-----------------|----------|-----------------|-----------|----------------------|----------------|-------|
+| (R)-(−)-1,1'-binaphthyl-2,2'-diyl hydrogen phosphate, N,N-dimethylacetamide, dimethyl sulfate, sodium bicarbonate | 20.0 g (57.4 mmol), 40 mL, 10.0 mL (105.7 mmol), 10.4 g (123.8 mmol) | (R)-(−)-Methyl 1,1'-binaphthyl-2,2'-diylphosphate | 16.4 g (45.2 mmol) | N,N-dimethylacetamide, toluene, ethyl acetate | Room temperature | Overnight | 79% |
+| (R)-(−)-methyl 1,1'-binaphthyl-2,2'-diyl phosphate, Red-Al | 14.7 g (40.6 mmol), 27.0 mL (91.8 mmol) | Crude (R)-(+)-1,1'-binaphthalene-2,2'-diol | 11.4 g | toluene | 10°C to 26°C | 90 min + 20 min | 98% |
+| Crude (R)-(+)-1,1'-binaphthalene-2,2'-diol, Norit A, Celite | 11.4 g, 1.5 g, 5 g | (R)-(+)-1,1'-binaphthalene-2,2'-diol | 10.66 g | toluene | 50°C | 5 min, overnight | 94% |
+```
+
+### Explanation:
+1. **First Reaction:**
+   - **Reactants:** (R)-(−)-1,1'-binaphthyl-2,2'-diyl hydrogen phosphate, N,N-dimethylacetamide, dimethyl sulfate, sodium bicarbonate.
+   -
+Here is the summarized information for the synthesis of (R)-(+)- and (S)-(−)-2,2'-Bis(diphenylphosphino)-1,1'-binaphthyl (BINAP) in a tabular format:
+
+| Reactants | Reactant amounts | Products | Product amounts | Solvents | Reaction temperature | Reaction time | Yield |
+|-----------|-----------------|----------|-----------------|-----------|----------------------|----------------|-------|
+| Triphenylphosphine, Bromine, 2,2'-dihydroxy-1,1'-binaphthyl | 240 g (0.915 mol), 155 g (50 mL, 0.969 mol), 120 g (0.420 mol) | 2,2'-Dibromo-1,1'-binaphthyl | 78.0 g | Acetonitrile, Celite, Benzene, Hexane, Ethanol | 60°C, 240-260°C, 260-270°C, 310-320°C, 200°C, 70°C, 100°C | 30 min, 1 hr, 1 hr, 30 min, 2 days | 45% |
+| 2,2'-Dibromo-1,1'-binaphthyl, Magnesium, Diphenylphosphinyl chloride | 20.0 g (50.0 mmol), 2.84 g (0.117 g-atom), 28.4 g (120 mmol) | (±)-2,2'-Bis(diphenylphosphinyl)-1,1'-binaphthyl [(±)-BINAPO] | 24.5 g, 3.6 g | Tetrahydrofuran, Toluene, Heptane, Chloroform, Ethyl acetate, Water, Sodium hydroxide, Ammonium chloride | 50-70°C, 75°C, 10-15°C, 60°C, 60°C | 3.5 hr, 2 hr, 20 min, 2 hr, 10 min | 75%, 11%
+Certainly! Below is the summarized table based on the provided procedure:
+
+```markdown
+| Reactants | Reactant amounts | Products | Product amounts | Solvents | Reaction temperature | Reaction time | Yield |
+|-----------|-----------------|----------|-----------------|-----------|----------------------|----------------|-------|
+| chloro-(1,5-cyclooctadiene)rhodium(I) dimer, silver perchlorate, (+)-2,2'-bis(diphenylphosphino)-1,1'-binaphthyl | 0.53 g (1.08 mmol), 0.45 g (2.17 mmol), 1.34 g (2.16 mmol) | [(+)-2,2'-Bis(diphenylphosphino)-1,1'-binaphthyl](η4-1,5-cyclooctadiene) rhodium(I) perchlorate | 2.07 g | acetone, ether | ambient temperature | 18 hours, 18 hours | N/A |
+| chloro-(1,5-cyclooctadiene)rhodium(I) dimer, silver perchlorate, (−)-2,2'-bis(diphenylphosphino)-1,1'-binaphthyl | 0.53 g (1.08 mmol), 0.45 g (2.17 mmol), 1.34 g (2.16 mmol) | [(−)-2,2'-Bis(diphenylphosphino)-1,1'-binaphthyl](η4-1,5-cyclooctadiene) rhodium(I) perchlorate | 2.02 g | acetone, ether | ambient temperature | 18 hours, 18 hours | N/A |
+| N,N-diethylgeranylamine, [(−)-2,2'-bis(diphenylphosphino)-1,1'-binaphthyl](η4-1,5-cyclooctadiene) rhodium(I) perchlorate | 83.8 g (0.40 mol), 373 mg (0.40 mmol) | (R)-(−)-N,N-Diethyl-(E)-citronellalenamine | 78.7 g | tetrahydrofuran | reflux
+| Reactants | Reactant amounts | Products | Product amounts | Solvents | Reaction temperature | Reaction time | Yield |
+|-----------|-----------------|----------|-----------------|-----------|----------------------|----------------|-------|
+| myrcene, diethylamine, metallic lithium | 13.60 g (74 mmol), 10.29 g (141 mmol), 0.185 g (0.0267 g-atom) | N,N-diethylgeranylamine | 12.66-13.28 g | diethyl ether, water, sodium sulfate solution | 55°C | 5 hours | 74-77% |
+| myrcene, dipropylamine | N/A, N/A | N,N-dipropylgeranylamine | N/A | benzene, diethyl ether, water, sodium sulfate solution | 50°C | 20 hours | 80% |
+| Reactants | Reactant amounts | Products | Product amounts | Solvents | Reaction temperature | Reaction time | Yield |
+|-----------|-----------------|----------|-----------------|-----------|----------------------|----------------|-------|
+| Aluminum chloride, nitrobenzene, 1,2-dichloroethane, 2,4-pentanedione, chloroacetyl chloride | 65.0 g (0.487 mol), 82 mL, 96 mL, 50.0 mL (0.487 mol), 85.0 mL (1.07 mol) | Bis(1,5-dichloro-2,4-pentanedione)copper(II) complex | 55.6-56.4 g | nitrobenzene, 1,2-dichloroethane | 60-70°C | 30 min, 2 hr, 17 hr, 3 hr | 57-58% |
+| Reactants | Reactant amounts | Products | Product amounts | Solvents | Reaction temperature | Reaction time | Yield |
+|-----------|-----------------|----------|-----------------|-----------|----------------------|----------------|-------|
+| 1,5-cyclooctadieneruthenium(II) chloride, (S)-BINAP, triethylamine, toluene | 79.2 mg (0.283 mmol), 212 mg (0.340 mmol), 470 μL (3.37 mmol), 20 mL | [RuCl2-(S)-BINAP)]2-Et3N catalyst | N/A | toluene | reflux | 16 hours | N/A |
+| bis(1,5-dichloro-2,4-pentanedione)copper(II) complex, diethyl ether, 10% sulfuric acid, [RuCl2-(S)-BINAP)]-Et3N catalyst, methanol, hydrogen | 22.0 g (55.1 mmol), 200 mL, 200 mL, N/A, 40 mL, 1250 psi | (2R,4R)-1,5-Dichloro-2,4-pentanediol | 7.66 g | diethyl ether, methanol, 1:1 ethyl acetate/hexanes, hexane:CH2Cl2 (2:3, v/v) | 65°C | 12-14 hours | 40% |
+| Reactants | Reactant amounts | Products | Product amounts | Solvents | Reaction temperature | Reaction time | Yield |
+|-----------|-----------------|----------|-----------------|-----------|----------------------|----------------|-------|
+| (2R,4R)-1,5-dichloro-2,4-pentanediol, potassium hydroxide | 6.00 g (34.7 mmol), 18.5 g (330 mmol) | (2R,4R)-1,2:4,5-Diepoxypentane | 3.20 g | diethyl ether | 0°C, 25°C | 3 hours | 92% |
+| Reactants | Reactant amounts | Products | Product amounts | Solvents | Reaction temperature | Reaction time | Yield |
+|-----------|-----------------|----------|-----------------|-----------|----------------------|----------------|-------|
+| (1R,2S)-(−)-norephedrine, 1,4-dibromobutane, sodium bicarbonate | 37.8 g (0.25 mol), 59.38 g (0.275 mol), 46.2 g (0.55 mol) | [R-(R,S)]-β-methyl-α-phenyl-1-pyrrolidineethanol | 45.9 g | toluene, 2-propanol, heptane, water, 2 M sodium hydroxide | 105-118°C, 10-15°C, room temperature, -25°C | N/A, 1 hr, 2 hr, 1 hr | 90% |
+| Reactants | Reactant amounts | Products | Product amounts | Solvents | Reaction temperature | Reaction time | Yield |
+|-----------|-----------------|----------|-----------------|-----------|----------------------|----------------|-------|
+| (1S,2S)-(+)-pseudoephedrine, propionic anhydride | 21.3 g (129 mmol), 18.0 g (138 mmol) | (1S,2S)-N-(2-Hydroxy-1-methyl-2-phenylethyl)-N-methylpropionamide | 27.2 g | tetrahydrofuran | 23°C | 10 min, 3 hr | 95% |
+| Reactants | Reactant amounts | Products | Product amounts | Solvents | Reaction temperature | Reaction time | Yield |
+|-----------|-----------------|----------|-----------------|-----------|----------------------|----------------|-------|
+| Lithium chloride, diisopropylamine, butyllithium, (1S,2S)-pseudoephedrinepropionamide, benzyl bromide | 25.0 g (590 mmol), 31.3 mL (223 mmol), 85.1 mL (207 mmol, 2.43 M in hexanes), 22.0 g (99.4 mmol), 17.7 mL (149 mmol) | [1S(R),2S]-N-(2-Hydroxy-1-methyl-2-phenylethyl)-N,2-dimethylbenzenepropionamide | 27.8 g | tetrahydrofuran, hexanes, ethyl acetate, toluene | −78°C, 0°C, 23°C | 1 hr, 15 min, 5 min, 15 min, 10 hr | 90% |
+| Reactants | Reactant amounts | Products | Product amounts | Solvents | Reaction temperature | Reaction time | Yield |
+|-----------|-----------------|----------|-----------------|-----------|----------------------|----------------|-------|
+| Lithium aluminum hydride, ethyl acetate, (1S,2S)-pseudoephedrine-(R)-2-methylhydrocinnamamide, trifluoroacetic acid, hydrochloric acid | 2.95 g (73.9 mmol), 10.7 mL (109 mmol), 10.0 g (32.1 mmol), 25 mL (325 mmol), 400 mL (1 N) | (R)-α-Methylbenzenepropanal | 3.64 g | hexanes, tetrahydrofuran, ethyl acetate, water | 0°C, -78°C, 23°C | 1.25 hr, 5 min, 1 hr, 5 min | 76% |
+| Reactants | Reactant amounts | Products | Product amounts | Solvents | Reaction temperature | Reaction time | Yield |
+|-----------|-----------------|----------|-----------------|-----------|----------------------|----------------|-------|
+| (1S,2S)-pseudoephedrine-(R)-2-methylhydrocinnamamide, diisopropylamine, butyllithium, borane-ammonia complex, hydrochloric acid | 10.0 g (32.1 mmol), 18.9 mL (135 mmol), 53.5 mL (125 mmol, 2.34 M in hexanes), 4.41 g (129 mmol, 90%), 350 mL (3 N) | (R)-β-Methylbenzenepropanol | 4.35 g | tetrahydrofuran, hexanes, ether, petroleum ether | -78°C, 0°C, 23°C | 10 min, 5 min, 20 min, 50 min, 30 min | 90% |
+| Reactants | Reactant amounts | Products | Product amounts | Solvents | Reaction temperature | Reaction time | Yield |
+|-----------|-----------------|----------|-----------------|-----------|----------------------|----------------|-------|
+| (1S,2S)-pseudoephedrine-(R)-2-methylhydrocinnamamide, butyllithium, diisopropylamine, acetic acid | 10.0 g (32.1 mmol), 32.3 mL (77.2 mmol, 2.39 M in hexanes), 4.5 mL (32 mmol), 100 mL (20% v/v in ether) | (R)-2-methyl-1-phenyl-3-heptanone | 5.80 g | toluene, ether, hexanes, ethyl acetate, dichloromethane | −78°C, 0°C | 5 min, 15 min, 15 min | 88% |
+| Reactants | Reactant amounts | Products | Product amounts | Solvents | Reaction temperature | Reaction time | Yield |
+|-----------|-----------------|----------|-----------------|-----------|----------------------|----------------|-------|
+| (R)-(+)-1,1,2-triphenyl-1,2-ethanediol, acetic anhydride, scandium(III) trifluoromethanesulfonate | 35.0 g (0.121 mol), 17.1 mL (0.181 mol), 1.23 g (2.5 mmol) | (R)-(+)-2-hydroxy-1,2,2-triphenylethyl acetate | 35.42 g (0.107 mol) | acetonitrile | room temperature | 3 hours | 88% |
+| Reactants | Reactant amounts | Products | Product amounts | Solvents | Reaction temperature | Reaction time | Yield |
+|-----------|-----------------|----------|-----------------|-----------|----------------------|----------------|-------|
+| Benzaldehyde, Pyrrolidine, tert-butyl hydroperoxide | 5.71 mL (6.0 g, 57 mmol), 5.66 mL (4.82 g, 68 mmol), 12.4 mL (62-74 mmol) | N-benzoyl pyrrolidine | 8.74 g (49.9 mmol) | acetonitrile | 70°C | 6 hours | 88% |
+| Reactants | Reactant amounts | Products | Product amounts | Solvents | Reaction temperature | Reaction time | Yield |
+|-----------|-----------------|----------|-----------------|-----------|----------------------|----------------|-------|
+| 6,7-dimethoxy-1,2,3,4-tetrahydroisoquinoline hydrochloride, tert-butanol, water, toluene, sodium hypochlorite | 5.16 g (21.8 mmol), 2.11 mL (21.8 mmol), 15 mL, 40 mL, 30.9 mL (25.1 mmol) | 2-Chloro-6,7-dimethoxy-1,2,3,4-tetrahydroisoquinoline | 4.70-4.83 g | tert-butanol, water, toluene | -5 to 0°C | 30 min, 15 min, 3 h | 95-97% |
+| Reactants | Reactant amounts | Products | Product amounts | Solvents | Reaction temperature | Reaction time | Yield |
+|-----------|-----------------|----------|-----------------|-----------|----------------------|----------------|-------|
+| 2-thiophenecarboxaldehyde, K2CO3, tosylmethylisocyanide | 11.21 g (100.0 mmol), 24.19 g (175.0 mmol), 21.12 g (100.0 mmol) | 5-(Thiophen-2-yl)oxazole | 12.70 g | methanol | 66°C (reflux) | 4 hours | 84% |
+
+This table summarizes the key details of the synthesis procedure for 5-(Thiophen-2-yl)oxazole, including reactants, amounts, products, product amounts, solvents, reaction temperature, reaction time, and yield.
+| Reactants | Reactant amounts | Products | Product amounts | Solvents | Reaction temperature | Reaction time | Yield |
+|-----------|-----------------|----------|-----------------|-----------|----------------------|----------------|-------|
+| 5-(thiophen-2-yl)oxazole, lithium bis(trimethylsilyl)amide, N-bromosuccinimide | 9.14 g (60.5 mmol), 63.5 mL (1.0 M solution, 63.5 mmol), 10.76 g (60.45 mmol) | 4-Bromo-5-(thiophen-2-yl)oxazole | 11.01 g | DMF, THF | -15°C to -10°C, -78°C | 30 min, 30 min | 79% |
+| Reactants | Reactant amounts | Products | Product amounts | Solvents | Reaction temperature | Reaction time | Yield |
+|-----------|-----------------|----------|-----------------|-----------|----------------------|----------------|-------|
+| Phenylmagnesium chloride, L-Valine methyl ester hydrochloride | 300 g (288 mL, 0.576 mol), 19.2 g (114 mmol) | (2S)-2-Amino-3-methyl-1,1-diphenyl-butan-1-ol | 18.1 g | THF, ethyl acetate | -2°C to room temperature | 50 min, 1 hour, 2 hours | 62% |
+| Reactants | Reactant amounts | Products | Product amounts | Solvents | Reaction temperature | Reaction time | Yield |
+|-----------|-----------------|----------|-----------------|-----------|----------------------|----------------|-------|
+| (2S)-2-amino-3-methyl-1,1-diphenyl-butanol, triisopropyl borate, ethylene glycol | 5.20 g (20.4 mmol), 3.88 g (4.7 mL, 20.6 mmol), 1.26 g (20.3 mmol) | (-)-(S)-1-(1,3,2-Dioxaborolan-2-yloxy)-3-methyl-1,1-diphenylbutan-2-amine | 6.56 g | toluene | 60-80°C | 30 min, 3 min, 20 min | 99% |
+| Reactants | Reactant amounts | Products | Product amounts | Solvents | Reaction temperature | Reaction time | Yield |
+|-----------|-----------------|----------|-----------------|-----------|----------------------|----------------|-------|
+| 3-acetyl pyridine, NH2OH•Cl, Na2CO3 | 12.1 g (100 mmol), 11.85 g (170 mmol), 7.46 g (70 mmol) | (E)-1-pyridin-3-yl-ethanone oxime | 11.3 g (first crop), 1.40 g (second crop) | EtOH, water | 55-62°C | 2.5 hours, 3 hours, 1 hour | 83% (first crop), 10% (second crop), 93% (combined) |
+| Reactants | Reactant amounts | Products | Product amounts | Solvents | Reaction temperature | Reaction time | Yield |
+|-----------|-----------------|----------|-----------------|-----------|----------------------|----------------|-------|
+| (E)-1-pyridin-3-yl-ethanone oxime, sodium hydride, benzyl bromide, DMF | 10.95 g (80.5 mmol), 4.59 g (60%, 115 mmol), 14.45 g (85 mmol), 255 mL (175 mL + 80 mL + 5 mL) | (E)-1-pyridin-3-yl-ethanone O-benzyl-oxime | 18.02 g | DMF | -15°C to -10°C | 15 min, 30 min, 10 min, 40 min | 99% |
+| Reactants | Reactant amounts | Products | Product amounts | Solvents | Reaction temperature | Reaction time | Yield |
+|-----------|-----------------|----------|-----------------|-----------|----------------------|----------------|-------|
+| Spiroborate ester 33, borane-tetrahydrofuran complex, (E)-1-pyridin-3-yl-ethanone O-benzyl-oxime | 5.80 g (18 mmol), 1.0 M (235 mL, 235 mmol), 13.54 g (60 mmol) | (S)-1-pyridin-3-yl-ethylamine | 8.03 g (83 wt% pure) | dioxane, methanol | Room temperature, 0-5 °C, 67-69 °C | 0.5 h, 1 h, 30 h, 15 h | 91% (corrected for purity) |
+| Reactants | Reactant amounts | Products | Product amounts | Solvents | Reaction temperature | Reaction time | Yield |
+|-----------|-----------------|----------|-----------------|-----------|----------------------|----------------|-------|
+| (S)-1-Pyridin-3-yl-ethylamine 4, hydrochloric acid in ether, methanol | 7.49 g (50.9 mmol, 83% pure), 120 mmol, 25 mL, 3 mL | (S)-1-Pyridin-3-yl-ethylamine bis-hydrochloride | 8.90 g | methanol, ether | ambient temperature, 30 °C | 20 min, 2 h | 89% |
+Based on the provided procedure, here is the summarized table:
+
+| Reactants | Reactant amounts | Products | Product amounts | Solvents | Reaction temperature | Reaction time | Yield |
+|-----------|-----------------|----------|-----------------|-----------|----------------------|----------------|-------|
+| Aryl amines, B2pin2, dibenzoyl peroxide | N/A, N/A, N/A | Arylboronic pinacol esters | N/A | N/A | Room temperature | 1-2 hours | Moderate to good yields |
+
+Note:
+- The exact amounts of reactants and products are not provided in the procedure.
+- The yield is described qualitatively as "moderate to good yields."
+- The solvent is not explicitly mentioned, so it is listed as "N/A."
+- The reaction temperature is specified as "room temperature."
+| Reactants | Reactant amounts | Products | Product amounts | Solvents | Reaction temperature | Reaction time | Yield |
+|-----------|-----------------|----------|-----------------|-----------|----------------------|----------------|-------|
+| celecoxib, potassium carbonate, 2-mesityl-2,5,6,7-tetrahydropyrrolo[2,1-c][1,2,4]triazol-4-ium chloride, benzaldehyde, benzyl bromide | 7.00 g (18.4 mmol), 5.07 g (36.7 mmol), 97 mg (0.37 mmol), 2.25 mL (2.33 g, 22.0 mmol), 3.27 mL (4.70 g, 27.5 mmol) | 1-(4-(Benzylsulfonyl)phenyl)-5-(p-tolyl)-3-(trifluoromethyl)-1H-pyrazole | 7.23 g | ethanol, DMF | 70°C, 20-24°C | 16 h, 3 h | 86% |
+| Reactants | Reactant amounts | Products | Product amounts | Solvents | Reaction temperature | Reaction time | Yield |
+|-----------|-----------------|----------|-----------------|-----------|----------------------|----------------|-------|
+| Pyronin Y, sodium phosphate tribasic dodecahydrate, N-Methyl-2-pyrrolidone (NMP), water, iodine, sodium phosphate | 7.40 g (24.4 mmol), 18.6 g (48.8 mmol), 150 mL, 5.00 mL (278 mmol), 6.20 g (24.4 mmol), 9.30 g (24.4 mmol) | 3,6-Bis(dimethylamino)-9H-xanthen-9-one | 3.65 g | N-Methyl-2-pyrrolidone (NMP), water, methylene chloride, methanol, acetic acid | 110°C, 23°C | 2 hours, 16 hours, 1 hour, 3 hours | 53% |
+| Reactants | Reactant amounts | Products | Product amounts | Solvents | Reaction temperature | Reaction time | Yield |
+|-----------|-----------------|----------|-----------------|-----------|----------------------|----------------|-------|
+| Polyethylene glycol 4000, sulfuric acid, methanol, cellulose powder | 200 g, 2.50 g (25.5 mmol), 15 mL, 100 g (616 mmol) | (-)-Levoglucosenone (LGO) | 13.9 g | PEG 4000, methanol, ethyl acetate | 180-190°C | 30 min | 18% |
+| Reactants | Reactant amounts | Products | Product amounts | Solvents | Reaction temperature | Reaction time | Yield |
+|-----------|-----------------|----------|-----------------|-----------|----------------------|----------------|-------|
+| tert-butyl-N-hydroxycarbamate, triethylamine, diphenylphosphinic chloride | 30.9 g (232 mmol), 37 mL (264 mmol), 40.4 mL (50.0 g, 211 mmol) | tert-butyl (diphenylphosphoryl)oxycarbamate | 67.0 g (201 mmol) | dichloromethane, hexane | -5°C to -15°C, room temperature | 15 min, 30 min, 12 h | 95% |
+| Reactants | Reactant amounts | Products | Product amounts | Solvents | Reaction temperature | Reaction time | Yield |
+|-----------|-----------------|----------|-----------------|-----------|----------------------|----------------|-------|
+| tert-butyl-(diphenylphosphoryl) oxycarbamate, methanesulfonic acid, diisopropylethylamine | 10.0 g (30.0 mmoles), 5.85 mL (8.65 g, 90.0 mmoles), 10.5 mL (60.0 mmoles) | O-(diphenylphosphinyl)hydroxylamine | 5.32 g (22.8 mmol) | dichloromethane | -5°C to 15°C | 2 hours, 1 hour, warming to 15°C | 76% |
+runningtime:5204.409811126068

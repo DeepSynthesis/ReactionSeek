@@ -1,0 +1,301 @@
+nohup: ignoring input
+
+Loading checkpoint shards:   0%|          | 0/30 [00:00<?, ?it/s]
+Loading checkpoint shards:   3%|▎         | 1/30 [00:01<00:35,  1.23s/it]
+Loading checkpoint shards:   7%|▋         | 2/30 [00:02<00:32,  1.17s/it]
+Loading checkpoint shards:  10%|█         | 3/30 [00:03<00:32,  1.19s/it]
+Loading checkpoint shards:  13%|█▎        | 4/30 [00:04<00:30,  1.19s/it]
+Loading checkpoint shards:  17%|█▋        | 5/30 [00:05<00:29,  1.17s/it]
+Loading checkpoint shards:  20%|██        | 6/30 [00:07<00:28,  1.17s/it]
+Loading checkpoint shards:  23%|██▎       | 7/30 [00:08<00:26,  1.16s/it]
+Loading checkpoint shards:  27%|██▋       | 8/30 [00:09<00:25,  1.17s/it]
+Loading checkpoint shards:  30%|███       | 9/30 [00:10<00:24,  1.18s/it]
+Loading checkpoint shards:  33%|███▎      | 10/30 [00:11<00:23,  1.16s/it]
+Loading checkpoint shards:  37%|███▋      | 11/30 [00:12<00:21,  1.15s/it]
+Loading checkpoint shards:  40%|████      | 12/30 [00:13<00:20,  1.14s/it]
+Loading checkpoint shards:  43%|████▎     | 13/30 [00:15<00:19,  1.16s/it]
+Loading checkpoint shards:  47%|████▋     | 14/30 [00:16<00:18,  1.18s/it]
+Loading checkpoint shards:  50%|█████     | 15/30 [00:17<00:17,  1.16s/it]
+Loading checkpoint shards:  53%|█████▎    | 16/30 [00:18<00:16,  1.16s/it]
+Loading checkpoint shards:  57%|█████▋    | 17/30 [00:19<00:14,  1.15s/it]
+Loading checkpoint shards:  60%|██████    | 18/30 [00:21<00:14,  1.17s/it]
+Loading checkpoint shards:  63%|██████▎   | 19/30 [00:22<00:12,  1.18s/it]
+Loading checkpoint shards:  67%|██████▋   | 20/30 [00:23<00:11,  1.17s/it]
+Loading checkpoint shards:  70%|███████   | 21/30 [00:24<00:10,  1.16s/it]
+Loading checkpoint shards:  73%|███████▎  | 22/30 [00:25<00:09,  1.15s/it]
+Loading checkpoint shards:  77%|███████▋  | 23/30 [00:26<00:08,  1.17s/it]
+Loading checkpoint shards:  80%|████████  | 24/30 [00:28<00:07,  1.18s/it]
+Loading checkpoint shards:  83%|████████▎ | 25/30 [00:29<00:05,  1.16s/it]
+Loading checkpoint shards:  87%|████████▋ | 26/30 [00:30<00:04,  1.15s/it]
+Loading checkpoint shards:  90%|█████████ | 27/30 [00:31<00:03,  1.15s/it]
+Loading checkpoint shards:  93%|█████████▎| 28/30 [00:32<00:02,  1.17s/it]
+Loading checkpoint shards:  97%|█████████▋| 29/30 [00:33<00:01,  1.18s/it]
+Loading checkpoint shards: 100%|██████████| 30/30 [00:34<00:00,  1.01it/s]
+Loading checkpoint shards: 100%|██████████| 30/30 [00:34<00:00,  1.15s/it]
+Setting `pad_token_id` to `eos_token_id`:128001 for open-end generation.
+Please provide the title and procedure of the reaction you'd like me to summarize. I'll create a table with the requested information.
+
+Please paste the title and procedure here.
+Setting `pad_token_id` to `eos_token_id`:128001 for open-end generation.
+| Reactants | Reactant amounts | Products | Product amounts | Solvents | Reaction temperature | Reaction time | Yield |
+|-----------|-----------------|----------|-----------------|-----------|----------------------|----------------|-------|
+| p-hydroxyphenylarsonic acid, sodium hydroxide, chloroacetic acid, hydrochloric acid | 218 g (1 mole), 180 g (4.5 moles), 189 g (2 moles), 200 cc (2.1 moles) | p-arsonophenoxyacetic acid | 110-120 g | water | 40-50°C, 20°C | 4 hours | 40-43% |
+Setting `pad_token_id` to `eos_token_id`:128001 for open-end generation.
+Please provide the reaction title and synthesis procedure for which you would like me to summarize the details in a table.
+Setting `pad_token_id` to `eos_token_id`:128001 for open-end generation.
+| Reactants | Reactant amounts | Products | Product amounts | Solvents | Reaction temperature | Reaction time | Yield |
+|-----------|-----------------|----------|-----------------|-----------|----------------------|----------------|-------|
+| phthalimide, potassium hydroxide, absolute alcohol | 80 g (0.54 mole), 30.5 g (0.54 mole), 1600 cc | potassium phthalimide | 160-180 g | absolute alcohol | reflux | 15 minutes | 80-90% |
+| potassium phthalimide, ethylene dibromide | 150 g (0.81 mole), 450 g (2.4 moles) | β-Bromoethylphthalimide | 140-160 g | ethylene dibromide | 180-190° | 12 hours | 69-79% |
+Setting `pad_token_id` to `eos_token_id`:128001 for open-end generation.
+| Reactants | Reactant amounts | Products | Product amounts | Solvents | Reaction temperature | Reaction time | Yield |
+|-----------|-----------------|----------|-----------------|-----------|----------------------|----------------|-------|
+| sodium hydroxide, anhydro-2-hydroxymercuri-3-nitrobenzoic acid, hydrochloric acid, glacial acetic acid, sodium bromide, bromine | 50 g (1.25 moles), 330 g (0.9 mole), 101 g (85 cc, 0.95 mole), 31.5 g (30 cc, 0.5 mole), 103 g (1 mole), 160 g (50.2 cc, 1 mole) | 2-bromo-3-nitrobenzoic acid | 130-150 g | water | boiling | 5 minutes | 53-61% |
+Setting `pad_token_id` to `eos_token_id`:128001 for open-end generation.
+| Reactants | Reactant amounts | Products | Product amounts | Solvents | Reaction temperature | Reaction time | Yield |
+|-----------|-----------------|----------|-----------------|-----------|----------------------|----------------|-------|
+| citric acid monohydrate, sulfuric acid | 210 g (1 mole), 210 g (115 cc, 2 moles) | aconitic acid | 71-77 g | water | 140-145°C | 7 hours | 41-44% |
+Setting `pad_token_id` to `eos_token_id`:128001 for open-end generation.
+Please provide the title and procedure of the reaction you would like me to summarize. I will then create a table with the requested information.
+Setting `pad_token_id` to `eos_token_id`:128001 for open-end generation.
+| Reactants | Reactant amounts | Products | Product amounts | Solvents | Reaction temperature | Reaction time | Yield |
+|-----------|-----------------|----------|-----------------|-----------|----------------------|----------------|-------|
+| 2-ketohexamethylenimine, hydrochloric acid | 50 g (0.44 mole), 45 cc | ε-aminocaproic acid hydrochloride | N/A | water | Boiling | 1 hour | N/A |
+| ε-aminocaproic acid hydrochloride | N/A | ε-aminocaproic acid | 52.5-53.5 g | water | N/A | N/A | 90-92% |
+Setting `pad_token_id` to `eos_token_id`:128001 for open-end generation.
+Please provide the title and procedure of the reaction you want me to summarize. I will then create a table with the requested information.
+
+Please format your text as follows:
+
+Title: <'''your title'''>
+Procedure: <'''your procedure'''>
+Setting `pad_token_id` to `eos_token_id`:128001 for open-end generation.
+Please provide the title and procedure of the reaction you would like me to summarize.
+You seem to be using the pipelines sequentially on GPU. In order to maximize efficiency please use a dataset
+Setting `pad_token_id` to `eos_token_id`:128001 for open-end generation.
+Please provide the text of the procedure you'd like me to summarize. I'll extract the relevant details and format them into the 8-column table as requested.
+Setting `pad_token_id` to `eos_token_id`:128001 for open-end generation.
+Please provide the title and procedure of the synthesis you would like me to summarize.
+Setting `pad_token_id` to `eos_token_id`:128001 for open-end generation.
+| Reactants | Reactant amounts | Products | Product amounts | Solvents | Reaction temperature | Reaction time | Yield |
+|-----------|-----------------|----------|-----------------|-----------|----------------------|----------------|-------|
+| acrylonitrile, ammonium hydroxide | 80 g (1.5 moles), 400 ml | β-AMINOPROPIONITRILE, bis-(β-CYANOETHYL)-AMINE | 130-140 g, 210 g | ammonium hydroxide | N/A | a few hours or overnight | 31-33%, 57% |
+Setting `pad_token_id` to `eos_token_id`:128001 for open-end generation.
+| Reactants | Reactant amounts | Products | Product amounts | Solvents | Reaction temperature | Reaction time | Yield |
+|-----------|-----------------|----------|-----------------|-----------|----------------------|----------------|-------|
+| benzalacetone, bromine | 100 g (0.68 mole), 109.5 g (34.2 ml, 0.68 mole) | Benzalacetone dibromide | 110-120 g | carbon tetrachloride | 10-20°C | 4-5 minutes | 52-57% |
+Setting `pad_token_id` to `eos_token_id`:128001 for open-end generation.
+| Reactants | Reactant amounts | Products | Product amounts | Solvents | Reaction temperature | Reaction time | Yield |
+|-----------|-----------------|----------|-----------------|-----------|----------------------|----------------|-------|
+| Magnesium, allyl chloride | 82 g (3.5 gram atoms), 459 g (6 moles) | Biallyl | 135-160 g | anhydrous ether | room temperature, ice bath | 5 hours, 1-1.5 hours | 55-65% |
+Setting `pad_token_id` to `eos_token_id`:128001 for open-end generation.
+| Reactants | Reactant amounts | Products | Product amounts | Solvents | Reaction temperature | Reaction time | Yield |
+|-----------|-----------------|----------|-----------------|-----------|----------------------|----------------|-------|
+| benzalacetone dibromide, sodium acetate, ethanol | 100 g (0.33 mole), 30 g (0.37 mole), 250 ml | α-Bromobenzalacetone | 47-54 g | ethanol | reflux | 4 hours | 64-73% |
+Setting `pad_token_id` to `eos_token_id`:128001 for open-end generation.
+| Reactants | Reactant amounts | Products | Product amounts | Solvents | Reaction temperature | Reaction time | Yield |
+|-----------|-----------------|----------|-----------------|-----------|----------------------|----------------|-------|
+| sodium hydroxide, water, chlorine gas | 50 g (1.25 moles), 200 ml, 41 g (0.58 mole) | Sodium hypochlorite solution | N/A | water | 0°C | N/A | N/A |
+Setting `pad_token_id` to `eos_token_id`:128001 for open-end generation.
+| Reactants | Reactant amounts | Products | Product amounts | Solvents | Reaction temperature | Reaction time | Yield |
+|-----------|-----------------|----------|-----------------|-----------|----------------------|----------------|-------|
+| potassium hydroxide, ethanol, o-Nitroaniline, sodium hypochlorite | 21 g (0.32 mole), 250 ml, 40 g (0.29 mole), N/A | Benzofurazan oxide | 31.6-32.5 g | ethanol, water | 0°C | 10 minutes | 80-82% |
+Setting `pad_token_id` to `eos_token_id`:128001 for open-end generation.
+Please provide the title and procedure of the reaction you'd like me to summarize.
+Setting `pad_token_id` to `eos_token_id`:128001 for open-end generation.
+| Reactants | Reactant amounts | Products | Product amounts | Solvents | Reaction temperature | Reaction time | Yield |
+|-----------|-----------------|----------|-----------------|-----------|----------------------|----------------|-------|
+| ethyl benzoylacetate, aniline | 105.7 g (0.55 mole), 46.6 g (0.5 mole) | Benzoyleacetanilide | 99-100 g | xylene | 135°C | 15 minutes | 83-84% |
+Setting `pad_token_id` to `eos_token_id`:128001 for open-end generation.
+| Reactants | Reactant amounts | Products | Product amounts | Solvents | Reaction temperature | Reaction time | Yield |
+|-----------|-----------------|----------|-----------------|-----------|----------------------|----------------|-------|
+| nicotinic acid, thionyl chloride, aluminum chloride | 123 g (1 mole), 500 ml (818 g, 6.9 moles), 330 g (2.5 moles) | 3-benzoylpyridine | 165-175 g | benzene, thionyl chloride | 5-10°C, reflux | 1 hour, 6 hours | 90-96% |
+Setting `pad_token_id` to `eos_token_id`:128001 for open-end generation.
+Please provide the text for the reaction title and synthesis procedure you'd like me to summarize. I'll create a table with the requested information.
+
+Please note that I'll use the format you provided, with 8 columns: Reactants, Reactant amounts, Products, Product amounts, Solvents, Reaction temperature, Reaction time, and Yield. If any information is not provided or I'm unsure, I'll use "N/A" in the cell.
+
+Go ahead and provide the text, and I'll get started!
+Setting `pad_token_id` to `eos_token_id`:128001 for open-end generation.
+Please provide the title and procedure for the reaction you would like me to summarize. I will then provide the summary in the format you specified.
+
+(Note: Please paste the title and procedure in the same format as the examples you provided)
+Setting `pad_token_id` to `eos_token_id`:128001 for open-end generation.
+Please provide the title and procedure for the synthesis you would like me to summarize. I'll create the table with the requested information.
+Setting `pad_token_id` to `eos_token_id`:128001 for open-end generation.
+| Reactants | Reactant amounts | Products | Product amounts | Solvents | Reaction temperature | Reaction time | Yield |
+|-----------|-----------------|----------|-----------------|-----------|----------------------|----------------|-------|
+| mesitylene, titanium tetrachloride, dichloromethyl methyl ether | 72 g (0.60 mole), 190 g (110 ml, 1.0 mole), 57.5 g (0.5 mole) | mesitaldehyde | 60-66 g | methylene chloride | ice bath, 35°C | 3 minutes, 25 minutes, 5 minutes, 30 minutes, 15 minutes | 81-89% |
+Setting `pad_token_id` to `eos_token_id`:128001 for open-end generation.
+| Reactants | Reactant amounts | Products | Product amounts | Solvents | Reaction temperature | Reaction time | Yield |
+|-----------|-----------------|----------|-----------------|-----------|----------------------|----------------|-------|
+| 2-Nitroaniline, sulfuric acid, phosphoric acid, sodium nitrite, sulfamic acid, liquid sulfur dioxide, FeSO4·7 H2O, defatted copper powder | 13.8 g (0.10 mole), 75 ml, 100 ml, 8.3 g (0.12 mole), N/A, 50 ml, 55.6 g (0.20 mole), 1 g | 2-Nitrobenzenesulfinic acid | 9.4-14.9 g | sulfuric acid, phosphoric acid, water | 10-15° | N/A | 50-80% |
+Setting `pad_token_id` to `eos_token_id`:128001 for open-end generation.
+| Reactants | Reactant amounts | Products | Product amounts | Solvents | Reaction temperature | Reaction time | Yield |
+|-----------|-----------------|----------|-----------------|-----------|----------------------|----------------|-------|
+| 2-Nitrobenzenesulfinic acid, NaOH, palladium oxide | 3.74 g (0.020 mole), 20 ml (1N), 0.2–1.0 g | Sodium 2-aminobenzenesulfinate | 3.05–3.20 g | water | N/A | 2–6 hours | 85–89% |
+Setting `pad_token_id` to `eos_token_id`:128001 for open-end generation.
+| Reactants | Reactant amounts | Products | Product amounts | Solvents | Reaction temperature | Reaction time | Yield |
+|-----------|-----------------|----------|-----------------|-----------|----------------------|----------------|-------|
+| sodium 2-aminobenzenesulfinate, sodium nitrite, sulfuric acid, glycerol | 1.43 g (0.0080 mole), 0.55 g (0.0080 mole), 16 ml of 2N, 22 ml | 1,2,3-Benzothiadiazole 1,1-dioxide | 0.77–1.04 g | water, ether | -15°C | 2 hours | 57–77% |
+Setting `pad_token_id` to `eos_token_id`:128001 for open-end generation.
+| Reactants | Reactant amounts | Products | Product amounts | Solvents | Reaction temperature | Reaction time | Yield |
+|-----------|-----------------|----------|-----------------|-----------|----------------------|----------------|-------|
+| cis,cis-1,5-cyclooctadiene, chloroform, benzoyl peroxide | 325 g (3.0 moles), 3 l, 14.6 g (0.06 mole) | 2-(Trichloromethyl)bicyclo[3.3.0]octane | 106-117 g | chloroform | 63-65°C | 5 days | 35% |
+Setting `pad_token_id` to `eos_token_id`:128001 for open-end generation.
+| Reactants | Reactant amounts | Products | Product amounts | Solvents | Reaction temperature | Reaction time | Yield |
+|-----------|-----------------|----------|-----------------|-----------|----------------------|----------------|-------|
+| 2-(trichloromethyl)bicyclo[3.3.0]octane, phosphoric acid | 100 g (0.440 mole), 500 ml | exo-cis-Bicyclo[3.3.0]octane-2-carboxylic acid | 29-32 g | phosphoric acid, water, ether | 150°C | 16 hours | 43-47% |
+Setting `pad_token_id` to `eos_token_id`:128001 for open-end generation.
+| Reactants | Reactant amounts | Products | Product amounts | Solvents | Reaction temperature | Reaction time | Yield |
+|-----------|-----------------|----------|-----------------|-----------|----------------------|----------------|-------|
+| N,N'-diphenylethylenediamine, triethyl orthoformate | 20 g (0.094 mole), 100 ml | Bis(1,3-diphenylimidazolidinylidene-2) | 19-20 g | triethyl orthoformate | 190-200°C | 5 hours | 91-95% |
+Setting `pad_token_id` to `eos_token_id`:128001 for open-end generation.
+Please provide the title and procedure of the reaction you would like me to summarize. I will then provide the summary in the format you requested.
+Setting `pad_token_id` to `eos_token_id`:128001 for open-end generation.
+Please provide the text for the reaction title and synthesis procedure you would like me to summarize. I will then provide the summary in the format you requested.
+
+Please paste the text, and I will get started!
+Setting `pad_token_id` to `eos_token_id`:128001 for open-end generation.
+| Reactants | Reactant amounts | Products | Product amounts | Solvents | Reaction temperature | Reaction time | Yield |
+|-----------|-----------------|----------|-----------------|-----------|----------------------|----------------|-------|
+| 1,2-bis(trimethylsilyloxy)cyclobutene | 23 g (0.10 mole) | 2-Hydroxycyclobutanone | 6.1–7.4 g | methanol | N/A | 24–30 hours | 71–86% |
+Setting `pad_token_id` to `eos_token_id`:128001 for open-end generation.
+| Reactants | Reactant amounts | Products | Product amounts | Solvents | Reaction temperature | Reaction time | Yield |
+|-----------|-----------------|----------|-----------------|-----------|----------------------|----------------|-------|
+| adamantanone, p-tolylsulfonylmethyl isocyanide, ethanol, potassium tert-butoxide | 15.0 g (0.100 mole), 25.4 g (0.130 mole), 10 ml (0.17 mole), 28 g (0.25 mole) | 2-adamantanecarbonitrile | 13.5-14.5 g | 1,2-dimethoxyethane | 5-10°C, 35-40°C | 30 minutes, 30 minutes | 84-90% |
+Setting `pad_token_id` to `eos_token_id`:128001 for open-end generation.
+Please provide the title and procedure for the reaction you would like me to summarize. I will then provide the summary in the format you specified.
+Setting `pad_token_id` to `eos_token_id`:128001 for open-end generation.
+| Reactants | Reactant amounts | Products | Product amounts | Solvents | Reaction temperature | Reaction time | Yield |
+|-----------|-----------------|----------|-----------------|-----------|----------------------|----------------|-------|
+| tricarbonyl[(1,2,3,4,5-η)-2,4-cyclohexadien-1-yl]iron(1+) hexafluorophosphate(1−), dimedone | 5 g (0.013 mole), 2.5 g (0.018 mole) | tricarbonyl[2-[(2,3,4,5-η)-4-methoxy-2,4-cyclohexadien-1-yl]-5,5-dimethyl-1,3-cyclohexanedione]iron | 4.3 g | water, ethanol | reflux, 25° | 15 minutes | 87% |
+Setting `pad_token_id` to `eos_token_id`:128001 for open-end generation.
+| Reactants | Reactant amounts | Products | Product amounts | Solvents | Reaction temperature | Reaction time | Yield |
+|-----------|-----------------|----------|-----------------|-----------|----------------------|----------------|-------|
+| tellurium tetrachloride, anisole | 27.0 g (0.100 mole), 64.8 g (0.600 mole) | Bis(4-methoxyphenyl)tellurium dichloride | 35.5–38.5 g | anisole | 160°C | 6 hours | 84–90% |
+Setting `pad_token_id` to `eos_token_id`:128001 for open-end generation.
+| Reactants | Reactant amounts | Products | Product amounts | Solvents | Reaction temperature | Reaction time | Yield |
+|-----------|-----------------|----------|-----------------|-----------|----------------------|----------------|-------|
+| bis(4-methoxyphenyl)tellurium dichloride | 20.6 g (0.0497 mole) | 4,4'-Dimethoxy-1,1'-biphenyl | 8.5–9.8 g | bis(2-methoxyethyl) ether | reflux | 8 hours | 78–90% |
+Setting `pad_token_id` to `eos_token_id`:128001 for open-end generation.
+Please provide the title and procedure of the reaction you would like me to summarize.
+Setting `pad_token_id` to `eos_token_id`:128001 for open-end generation.
+| Reactants | Reactant amounts | Products | Product amounts | Solvents | Reaction temperature | Reaction time | Yield |
+|-----------|-----------------|----------|-----------------|-----------|----------------------|----------------|-------|
+| (R)-(−)-1,1'-binaphthyl-2,2'-diyl hydrogen phosphate, dimethyl sulfate, sodium bicarbonate | 20.0 g (57.4 mmol), 10.0 mL (105.7 mmol), 10.4 g (123.8 mmol) | (R)-(−)-Methyl 1,1'-binaphthyl-2,2'-diylphosphate | 16.4 g (45.2 mmol) | N,N-dimethylacetamide | room temperature | overnight | 79% |
+| (R)-(−)-methyl 1,1'-binaphthyl-2,2'-diyl phosphate, Red-Al | 14.7 g (40.6 mmol), 27.0 mL (91.8 mmol) | Crude (R)-(+)-1,1'-binaphthalene-2,2'-diol | 11.4 g | toluene | 10
+Setting `pad_token_id` to `eos_token_id`:128001 for open-end generation.
+I'll be happy to help you with summarizing the details of the reaction in a table format. However, I don't see a specific reaction procedure provided in your prompt. Please provide the reaction title and procedure you'd like me to summarize, and I'll be happy to assist you.
+
+Once you provide the reaction procedure, I'll create a table with the following columns:
+
+| Reactants | Reactant amounts | Products | Product amounts | Solvents | Reaction temperature | Reaction time | Yield |
+
+Please go ahead and provide the reaction procedure, and I'll get started on summarizing the details in a table format.
+Setting `pad_token_id` to `eos_token_id`:128001 for open-end generation.
+| Reactants | Reactant amounts | Products | Product amounts | Solvents | Reaction temperature | Reaction time | Yield |
+|-----------|-----------------|----------|-----------------|-----------|----------------------|----------------|-------|
+| chloro-(1,5-cyclooctadiene)rhodium(I) dimer, silver perchlorate, (+)-2,2'-bis(diphenylphosphino)-1,1'-binaphthyl [(+)-BINAP] | 0.53 g (1.08 mmol), 0.45 g (2.17 mmol), 1.34 g (2.16 mmol) | [(+)-2,2'-Bis(diphenylphosphino)-1,1'-binaphthyl]-(η4-1,5-cyclooctadiene) rhodium(I) perchlorate | 2.07 g | acetone | ambient temperature | 1 hr, 18 hr | N/A |
+| chloro-(1,5-cyclooctadiene)rhodium(I) dimer, silver perchlorate, (−)-2,2'-bis(diphenylphosphino)-1,1'-binaphthyl
+Setting `pad_token_id` to `eos_token_id`:128001 for open-end generation.
+| Reactants | Reactant amounts | Products | Product amounts | Solvents | Reaction temperature | Reaction time | Yield |
+|-----------|-----------------|----------|-----------------|-----------|----------------------|----------------|-------|
+| myrcene, diethylamine, metallic lithium | 13.60 g (74 mmol), 10.29 g (141 mmol), 0.185 g (0.0267 g-atom) | N,N-diethylgeranylamine | 12.66-13.28 g | N/A | 55°C | 5 hr | 74-77% |
+Setting `pad_token_id` to `eos_token_id`:128001 for open-end generation.
+Please provide the text for the synthesis procedure you would like me to summarize. I will extract the relevant information and present it in a table format as shown in the examples.
+Setting `pad_token_id` to `eos_token_id`:128001 for open-end generation.
+Please provide the title and procedure of the reaction you would like me to summarize. I will then create a table with the following columns: Reactants, Reactant amounts, Products, Product amounts, Solvents, Reaction temperature, Reaction time, and Yield.
+Setting `pad_token_id` to `eos_token_id`:128001 for open-end generation.
+| Reactants | Reactant amounts | Products | Product amounts | Solvents | Reaction temperature | Reaction time | Yield |
+|-----------|-----------------|----------|-----------------|-----------|----------------------|----------------|-------|
+| (2R,4R)-1,5-dichloro-2,4-pentanediol, potassium hydroxide | 6.00 g (34.7 mmol), 18.5 g (330 mmol) | (2R,4R)-1,2:4,5-Diepoxypentane | 3.20 g | diethyl ether | 25°C | 3 hr | 92% |
+Setting `pad_token_id` to `eos_token_id`:128001 for open-end generation.
+Please provide the text for the title and procedure of the reaction you would like me to summarize. I will create a table with the requested information.
+
+Please format the text as follows:
+
+Title: <'''TITLE'''>
+Procedure: <'''PROCEDURE'''>
+Setting `pad_token_id` to `eos_token_id`:128001 for open-end generation.
+Please provide the reaction title and procedure you'd like me to summarize. I'll create a table with the details: Reactants, Reactant amounts, Products, Product amounts, solvents, reaction temperature, reaction time, and yield.
+Setting `pad_token_id` to `eos_token_id`:128001 for open-end generation.
+Please provide the reaction title and procedure for the synthesis you'd like me to summarize. I will then create a table with the requested details.
+Setting `pad_token_id` to `eos_token_id`:128001 for open-end generation.
+I'm ready to help. Please provide the reaction title and synthesis procedure you'd like me to summarize. I'll extract the relevant information and present it in the table format you specified.
+Setting `pad_token_id` to `eos_token_id`:128001 for open-end generation.
+Please provide the title and procedure you would like me to summarize. I will create a table with the requested details.
+Setting `pad_token_id` to `eos_token_id`:128001 for open-end generation.
+Please provide the text of the reaction title and synthesis procedure you would like me to summarize. I will create a table with the following columns: Reactants, Reactant amounts, Products, Product amounts, Solvents, Reaction temperature, Reaction time, and Yield.
+
+Please format the text as follows:
+
+Title: <'''TITLE'''>
+Procedure: <'''PROCEDURE'''>
+Setting `pad_token_id` to `eos_token_id`:128001 for open-end generation.
+| Reactants | Reactant amounts | Products | Product amounts | Solvents | Reaction temperature | Reaction time | Yield |
+|-----------|-----------------|----------|-----------------|-----------|----------------------|----------------|-------|
+| (R)-(+)-1,1,2-triphenyl-1,2-ethanediol, acetic anhydride, scandium(III) trifluoromethanesulfonate | 35.0 g (0.121 mol), 17.1 mL (0.181 mol), 1.23 g (2.5 mmol) | (R)-(+)-2-Hydroxy-1,2,2-triphenylethyl acetate | 35.42 g (0.107 mol) | anhydrous acetonitrile | room temperature | 3 hours | 88% |
+Setting `pad_token_id` to `eos_token_id`:128001 for open-end generation.
+| Reactants | Reactant amounts | Products | Product amounts | Solvents | Reaction temperature | Reaction time | Yield |
+|-----------|-----------------|----------|-----------------|-----------|----------------------|----------------|-------|
+| Benzaldehyde, pyrrolidine, tert-butyl hydroperoxide | 5.71 mL (6.0 g, 57 mmol), 5.66 mL (4.82 g, 68 mmol), 12.4 mL (62-74 mmol) | N-benzoyl pyrrolidine | 8.74 g (49.9 mmol) | acetonitrile | 70°C | 6 hours | 88% |
+Setting `pad_token_id` to `eos_token_id`:128001 for open-end generation.
+| Reactants | Reactant amounts | Products | Product amounts | Solvents | Reaction temperature | Reaction time | Yield |
+|-----------|-----------------|----------|-----------------|-----------|----------------------|----------------|-------|
+| 6,7-dimethoxy-1,2,3,4-tetrahydroisoquinoline hydrochloride, tert-butanol, water, toluene, 5% aqueous sodium hypochlorite | 5.16 g (21.8 mmol), 2.11 mL (21.8 mmol), 15 mL, 40 mL, 30.9 mL (25.1 mmol) | 2-Chloro-6,7-dimethoxy-1,2,3,4-tetrahydroisoquinoline | 4.70-4.83 g | toluene, n-heptane | -5 to 0 °C, 0 °C, room temperature | 30 min, 15 min, 20 min, 3 h | 95-97% |
+Setting `pad_token_id` to `eos_token_id`:128001 for open-end generation.
+| Reactants | Reactant amounts | Products | Product amounts | Solvents | Reaction temperature | Reaction time | Yield |
+|-----------|-----------------|----------|-----------------|-----------|----------------------|----------------|-------|
+| 2-thiophenecarboxaldehyde, K2CO3, tosylmethylisocyanide, methanol | 11.21 g (100.0 mmol), 24.19 g (175.0 mmol), 21.12 g (100.0 mol), 448 mL | 5-(Thiophen-2-yl)oxazole | 12.70 g | methanol | 66 °C | 4 h | 84% |
+Setting `pad_token_id` to `eos_token_id`:128001 for open-end generation.
+Please provide the reaction title and procedure you'd like me to summarize, and I'll create the table with the requested details.
+Setting `pad_token_id` to `eos_token_id`:128001 for open-end generation.
+| Reactants | Reactant amounts | Products | Product amounts | Solvents | Reaction temperature | Reaction time | Yield |
+|-----------|-----------------|----------|-----------------|-----------|----------------------|----------------|-------|
+| 2.0 M phenylmagnesium chloride in THF, L-Valine methyl ester hydrochloride | 300 g (288 mL, 0.576 mol), 19.2 g (114 mmol) | (2S)-2-Amino-3-methyl-1,1-diphenyl-butan-1-ol | 18.1 g | THF | -2 °C, 5 °C, room temperature | 50 min, 1 h, 2 h | 62% |
+Setting `pad_token_id` to `eos_token_id`:128001 for open-end generation.
+| Reactants | Reactant amounts | Products | Product amounts | Solvents | Reaction temperature | Reaction time | Yield |
+|-----------|-----------------|----------|-----------------|-----------|----------------------|----------------|-------|
+| 1,2-aminoalcohol, ethylene glycol, triisopropyl borate | N/A, 1.26 g (20.3 mmol), 3.88 g (4.7 mL, 20.6 mmol) | (-)-(S)-1-(1,3,2-Dioxaborolan-2-yloxy)-3-methyl-1,1-diphenylbutan-2-amine | 6.56 g | toluene | 80°C, 60°C, 55°C | 20 min, 3 min, 30 min | 99% |
+Setting `pad_token_id` to `eos_token_id`:128001 for open-end generation.
+Please provide the reaction title and procedure for the synthesis you would like me to summarize.
+Setting `pad_token_id` to `eos_token_id`:128001 for open-end generation.
+I'm ready to help. Please go ahead and provide the reaction title and procedure you'd like me to summarize. I'll extract the relevant details and present them in a table format with the following columns:
+
+| Reactants | Reactant amounts | Products | Product amounts | Solvents | Reaction temperature | Reaction time | Yield |
+
+If any information is missing or unclear, I'll use "N/A" in the corresponding cell.
+Setting `pad_token_id` to `eos_token_id`:128001 for open-end generation.
+Please provide the title and procedure of the reaction you would like me to summarize. I'll create a table with the requested information.
+Setting `pad_token_id` to `eos_token_id`:128001 for open-end generation.
+Please provide the text of the reaction title and synthesis procedure you would like me to summarize. I will then create a table with the requested information.
+
+Please note that I will use the format specified in the examples you provided, with 8 columns: Reactants, Reactant amounts, Products, Product amounts, Solvents, Reaction temperature, Reaction time, and Yield.
+
+Please go ahead and provide the text, and I will get started!
+Setting `pad_token_id` to `eos_token_id`:128001 for open-end generation.
+There is no reaction procedure provided for this example.
+Setting `pad_token_id` to `eos_token_id`:128001 for open-end generation.
+| Reactants | Reactant amounts | Products | Product amounts | Solvents | Reaction temperature | Reaction time | Yield |
+|-----------|-----------------|----------|-----------------|-----------|----------------------|----------------|-------|
+| celecoxib, potassium carbonate powder, 2-mesityl-2,5,6,7-tetrahydropyrrolo[2,1-c][1,2,4]triazol-4-ium chloride, anhydrous ethanol, benzaldehyde, benzyl bromide | 7.00 g (18.4 mmol), 5.07 g (36.7 mmol), 97 mg (0.37 mmol), 70 mL, 2.25 mL (2.33 g, 22.0 mmol), 3.27 mL (4.70 g, 27.5 mmol) | 1-(4-(Benzylsulfonyl)phenyl)-5-(p-tolyl)-3-(trifluoromethyl)-1H-pyrazole | 7.23 g | anhydrous ethanol | 70°C, 20-24°C | 16 h, 3 h | 86% |
+Setting `pad_token_id` to `eos_token_id`:128001 for open-end generation.
+| Reactants | Reactant amounts | Products | Product amounts | Solvents | Reaction temperature | Reaction time | Yield |
+|-----------|-----------------|----------|-----------------|-----------|----------------------|----------------|-------|
+| pyronin Y, sodium phosphate tribasic dodecahydrate, N-Methyl-2-pyrrolidone, water, iodine, sodium phosphate | 7.40 g (24.4 mmol), 18.6 g (48.8 mmol), 150 mL, 5.00 mL (278 mmol), 6.20 g (24.4 mmol), 9.30 g (24.4 mmol) | 3,6-Bis(dimethylamino)-9H-xanthen-9-one | 3.65 g | N-Methyl-2-pyrrolidone, methylene chloride, methanol, acetic acid | 110 ºC, 23 ºC | 2 h, 16 h, 1 h, 3 h | 53% |
+Setting `pad_token_id` to `eos_token_id`:128001 for open-end generation.
+| Reactants | Reactant amounts | Products | Product amounts | Solvents | Reaction temperature | Reaction time | Yield |
+|-----------|-----------------|----------|-----------------|-----------|----------------------|----------------|-------|
+| Polyethylene glycol 4000, sulfuric acid, methanol, cellulose | 200 g, 2.50 g (25.5 mmol), 15 mL, 50 g (308 mmol) | (-)-Levoglucosenone | 13.9 g | methanol, ethyl acetate | 170-190 °C | 30 min | 18% |
+Setting `pad_token_id` to `eos_token_id`:128001 for open-end generation.
+| Reactants | Reactant amounts | Products | Product amounts | Solvents | Reaction temperature | Reaction time | Yield |
+|-----------|-----------------|----------|-----------------|-----------|----------------------|----------------|-------|
+| tert-butyl-N-hydroxycarbamate, dichloromethane, triethylamine, diphenylphosphinic chloride | 30.9 g (232 mmol), 200 mL, 37 mL (264 mmol), 40.4 mL (50.0 g, 211 mmol) | tert-butyl (diphenylphosphoryl)oxycarbamate | 67.0 g (201 mmol) | dichloromethane | -5 °C and -15 °C | 30 min, 10 min, 30 min, 15 min | 95% |
+Setting `pad_token_id` to `eos_token_id`:128001 for open-end generation.
+Please provide the text for the reaction title and synthesis procedure you would like me to summarize. I will then create a table with the following columns:
+
+| Reactants | Reactant amounts | Products | Product amounts | Solvents | Reaction temperature | Reaction time | Yield |
+
+and fill in the information accordingly. If any information is not provided or I am unsure, I will use "N/A" in the cell.
+runningtime:2814.2217588420026

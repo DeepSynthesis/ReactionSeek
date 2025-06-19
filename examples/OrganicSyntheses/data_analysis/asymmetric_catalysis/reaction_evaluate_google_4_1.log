@@ -1,0 +1,66 @@
+nohup: 忽略输入
+Processing file: Volume1-10_deleted.json...
+Processing file: Volume11-20_deleted.json...
+Processing file: Volume21-30_deleted.json...
+Processing file: Volume31-40_deleted.json...
+Processing file: Volume41-50_deleted.json...
+Processing file: Volume51-60_deleted.json...
+Processing file: Volume61-70_deleted.json...
+Processing file: Volume71-80_deleted.json...
+Processing file: Volume81-90_deleted.json...
+Processing file: Volume91-100_deleted.json...
+
+--- Processing Summary ---
+Total files processed: 10
+Total articles scanned (since 1980): Approximately articles in processed files from this year onwards.
+Total articles fully parsed: 3091
+Identified relevant asymmetric reactions (with ee/er/dr mentions since 1980): 106
+
+--- Sample of Extracted Asymmetric Reactions (first 5) ---
+
+Reaction 1:
+  Source: Volume61-70
+  Article ID: volume63article1
+  Year: 1985
+  Title: YEAST REDUCTION OF ETHYL ACETOACETATE: (S)-( + )-ETHYL 3-HYDROXYBUTANOATE
+  DOI: DOI: 10.15227/orgsyn.063.0001
+  Mentions: ['enantiomeric excess of 85%']
+  Title indicates asymmetric: False
+
+Reaction 2:
+  Source: Volume61-70
+  Article ID: volume65article27
+  Year: 1987
+  Title: (−)-α-PINENE BY ISOMERIZATION OF (−)-β-PINENE
+  DOI: DOI: 10.15227/orgsyn.065.0224
+  Mentions: ['92% ee']
+  Title indicates asymmetric: False
+
+Reaction 3:
+  Source: Volume61-70
+  Article ID: volume67article1
+  Year: 1989
+  Title: ENANTIOMERIC (S)-(+)- AND (R)-(−)-1,1'-BINAPHTHYL-2,2'-DIYL HYDROGEN PHOSPHATE
+  DOI: DOI: 10.15227/orgsyn.067.0001
+  Mentions: ['99.4% ee', '100.0% ee']
+  Title indicates asymmetric: False
+
+Reaction 4:
+  Source: Volume61-70
+  Article ID: volume67article10
+  Year: 1989
+  Title: CONDENSATION OF (−)-DIMENTHYL SUCCINATE DIANION WITH 1,ω-DIHALIDES: (+)-(1S,2S)-CYCLOPROPANE-1,2-DICARBOXYLIC ACID
+  DOI: DOI: 10.15227/orgsyn.067.0076
+  Mentions: ['diastereomeric ratio of 96 : 4']
+  Title indicates asymmetric: False
+
+Reaction 5:
+  Source: Volume61-70
+  Article ID: volume68article7
+  Year: 1990
+  Title: ENANTIOSELECTIVE OXIDATION OF A SULFIDE: (S)-(−)-METHYL p-TOLYL SULFOXIDE
+  DOI: DOI: 10.15227/orgsyn.068.0049
+  Mentions: ['89% ee']
+  Title indicates asymmetric: True
+
+All 106 extracted reactions saved to extracted_asymmetric_reactions.json

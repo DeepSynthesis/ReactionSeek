@@ -1,0 +1,234 @@
+path,item_num,summary
+"chem-com_2020_luosz_Collective enantioselective total synthesis of (+)-sinensilactam A, (+)-lingzhilactone B and (−)-lingzhiol divergent reactivity of styrene",0,"```markdown
+| code name | column type | solvent | flow rate | wavelength | minor retention time | major retention time |
+|-----------|-------------|---------|-----------|------------|----------------------|----------------------|
+| 3aa       | Daicel Chiralpak AS-H | hexane/iso-propanol = 95:5 | 0.7 mL/min | 251 nm | 9.60 min | 11.11 min |
+| 3ad       | Daicel Chiralpak AS-H | hexane/iso-propanol = 95:5 | 0.7 mL/min | 251 nm | 10.29 min | 12.19 min |
+| 3ab       | Daicel Chiralpak AS-H | hexane/iso-propanol = 95:5 | 0.7 mL/min | 251 nm | 10.76 min | 12.75 min |
+```"
+"chem-com_2020_luosz_Collective enantioselective total synthesis of (+)-sinensilactam A, (+)-lingzhilactone B and (−)-lingzhiol divergent reactivity of styrene",1,"| code name | column type | solvent | flow rate | wavelength | minor retention time | major retention time |
+|-----------|-------------|---------|-----------|------------|----------------------|----------------------|
+| 3aa | Daicel Chiralpak AS-H | hexane/iso-propanol = 95:5 | 0.7 mL/min | 251 nm | 9.60 min | 11.11 min |
+| 3ad | Daicel Chiralpak AS-H | hexane/iso-propanol = 95:5 | 0.7 mL/min | 251 nm | 10.29 min | 12.19 min |
+| 3ab | Daicel Chiralpak AS-H | hexane/iso-propanol = 95:5 | 0.7 mL/min | 251 nm | 10.76 min | 12.75 min |"
+"chem-com_2020_luosz_Collective enantioselective total synthesis of (+)-sinensilactam A, (+)-lingzhilactone B and (−)-lingzhiol divergent reactivity of styrene",2,"| code name | column type | solvent | flow rate | wavelength | minor retention time | major retention time |
+|-----------|-------------|---------|-----------|------------|----------------------|----------------------|
+| N/A       | N/A         | N/A     | N/A       | N/A        | N/A                  | N/A                  |"
+"chem-com_2020_luosz_Collective enantioselective total synthesis of (+)-sinensilactam A, (+)-lingzhilactone B and (−)-lingzhiol divergent reactivity of styrene",3,"| code name | column type | solvent | flow rate | wavelength | minor retention time | major retention time |
+|-----------|-------------|---------|-----------|------------|----------------------|----------------------|
+| N/A       | N/A         | N/A     | N/A       | N/A        | N/A                  | N/A                  |"
+"chem-com_2020_luosz_Collective enantioselective total synthesis of (+)-sinensilactam A, (+)-lingzhilactone B and (−)-lingzhiol divergent reactivity of styrene",4, N/
+"chem-com_2020_luosz_Collective enantioselective total synthesis of (+)-sinensilactam A, (+)-lingzhilactone B and (−)-lingzhiol divergent reactivity of styrene",4,"| code name | column type | solvent | flow rate | wavelength | minor retention time | major retention time |
+|-----------|-------------|---------|-----------|------------|----------------------|----------------------|
+| chiral-3 | Daicel Chiralpak OJ-H | iso-propanol/hexane = 5/95 | 1.0 mL/min | 254 nm | 40.27 min | 37.62 min |
+"
+"chem-com_2020_luosz_Collective enantioselective total synthesis of (+)-sinensilactam A, (+)-lingzhilactone B and (−)-lingzhiol divergent reactivity of styrene",5,"| code name | column type | solvent | flow rate | wavelength | minor retention time | major retention time |
+|-----------|-------------|---------|-----------|------------|----------------------|----------------------|
+| N/A | Daicel Chiralpak OJ-H | iso-propanol/hexane = 5/95 | 1.0 mL/min | 254 nm | 40.27 min | 37.62 min |"
+"chem-com_2020_luosz_Collective enantioselective total synthesis of (+)-sinensilactam A, (+)-lingzhilactone B and (−)-lingzhiol divergent reactivity of styrene",6,"| code name | column type | solvent | flow rate | wavelength | minor retention time | major retention time |
+|-----------|-------------|---------|-----------|------------|----------------------|----------------------|
+| 6 | Daicel Chiralpak AD-H | iso-propanol/hexane = 5/95 | 1.0 mL/min | 254 nm | 10.23 min | 9.45 min |"
+"chem-com_2020_luosz_Collective enantioselective total synthesis of (+)-sinensilactam A, (+)-lingzhilactone B and (−)-lingzhiol divergent reactivity of styrene",7," code name | column type | solvent | flow rate | wavelength | minor retention time | major retention time |
+        |-----------|-------------|---------|-----------|------------|----------------------|----------------------|
+        | 6 | Daicel Chiralpak AD-H | iso- propanol/hexane = 5/95 | 1.0 mL/min | 254 nm | 10.23 min | 9.45 min |"
+"chem-com_2020_luosz_Collective enantioselective total synthesis of (+)-sinensilactam A, (+)-lingzhilactone B and (−)-lingzhiol divergent reactivity of styrene",7,"| code name | column type | solvent | flow rate | wavelength | minor retention time | major retention time |
+|-----------|-------------|---------|-----------|------------|----------------------|----------------------|
+| N/A       | N/A         | N/A     | N/A       | N/A        | N/A                  | N/A                  |"
+"chem-com_2020_luosz_Collective enantioselective total synthesis of (+)-sinensilactam A, (+)-lingzhilactone B and (−)-lingzhiol divergent reactivity of styrene",8,"| code name | column type | solvent | flow rate | wavelength | minor retention time | major retention time |
+|-----------|-------------|---------|-----------|------------|----------------------|----------------------|
+| N/A       |             |         |           |            |                      |                      |"
+"chem-com_2020_luosz_Collective enantioselective total synthesis of (+)-sinensilactam A, (+)-lingzhilactone B and (−)-lingzhiol divergent reactivity of styrene",8," code name | column type | solvent | flow rate | wavelength | minor retention time | major retention time |
+|-----------|-------------|---------|-----------|------------|----------------------|----------------------|"
+"chem-com_2020_luosz_Collective enantioselective total synthesis of (+)-sinensilactam A, (+)-lingzhilactone B and (−)-lingzhiol divergent reactivity of styrene",9,"| code name | column type | solvent | flow rate | wavelength | minor retention time | major retention time |
+|-----------|-------------|---------|-----------|------------|----------------------|----------------------|"
+"chem-com_2020_luosz_Collective enantioselective total synthesis of (+)-sinensilactam A, (+)-lingzhilactone B and (−)-lingzhiol divergent reactivity of styrene",9," code name | column type | solvent | flow rate | wavelength | minor retention time | major retention time |
+        |-----------|-------------|---------|-----------|------------|----------------------|----------------------|"
+"chem-com_2020_luosz_Collective enantioselective total synthesis of (+)-sinensilactam A, (+)-lingzhilactone B and (−)-lingzhiol divergent reactivity of styrene",10,"| code name | column type | solvent | flow rate | wavelength | minor retention time | major retention time |
+|-----------|-------------|---------|-----------|------------|----------------------|----------------------|
+| N/A       | N/A         | N/A     | N/A       | N/A        | N/A                  | N/A                  |"
+"chem-com_2020_luosz_Collective enantioselective total synthesis of (+)-sinensilactam A, (+)-lingzhilactone B and (−)-lingzhiol divergent reactivity of styrene",10,"| code name | column type | solvent | flow rate | wavelength | minor retention time | major retention time |
+|-----------|-------------|---------|-----------|------------|----------------------|----------------------|
+| N/A       | N/A         | N/A     | N/A       | N/A        | N/A                  | N/A                  |"
+"chem-com_2020_luosz_Collective enantioselective total synthesis of (+)-sinensilactam A, (+)-lingzhilactone B and (−)-lingzhiol divergent reactivity of styrene",11,"| code name | column type | solvent | flow rate | wavelength | minor retention time | major retention time |
+|-----------|-------------|---------|-----------|------------|----------------------|----------------------|
+| N/A       | N/A         | N/A     | N/A       | N/A        | N/A                  | N/A                  |"
+"chem-com_2020_luosz_Collective enantioselective total synthesis of (+)-sinensilactam A, (+)-lingzhilactone B and (−)-lingzhiol divergent reactivity of styrene",11,"| code name | column type | solvent | flow rate | wavelength | minor retention time | major retention time |
+|-----------|-------------|---------|-----------|------------|----------------------|----------------------|
+| 12 | Daicel Chiralpak AD-H | iso-propanol/hexane = 20/80 | 1.0 mL/min | 254 nm | 13.98 min | 26.89 min |"
+"chem-com_2020_luosz_Collective enantioselective total synthesis of (+)-sinensilactam A, (+)-lingzhilactone B and (−)-lingzhiol divergent reactivity of styrene",12,"| code name | column type | solvent | flow rate | wavelength | minor retention time | major retention time |
+|-----------|-------------|---------|-----------|------------|----------------------|----------------------|
+| 12 | Daicel Chiralpak AD-H | iso-propanol/hexane = 20/80 | 1.0 mL/min | 254 nm | 13.98 min | 26.89 min |"
+"chem-com_2020_luosz_Collective enantioselective total synthesis of (+)-sinensilactam A, (+)-lingzhilactone B and (−)-lingzhiol divergent reactivity of styrene",12,"| code name | column type | solvent | flow rate | wavelength | minor retention time | major retention time |
+|-----------|-------------|---------|-----------|------------|----------------------|----------------------|
+| N/A       | N/A         | N/A     | N/A       | N/A        | N/A                  | N/A                  |"
+"chem-com_2020_luosz_Collective enantioselective total synthesis of (+)-sinensilactam A, (+)-lingzhilactone B and (−)-lingzhiol divergent reactivity of styrene",13," | code name | column type | solvent | flow rate | wavelength | minor retention time | major retention time |
+|-----------|-------------|---------|-----------|------------|----------------------|----------------------|
+| N/A       | N/A         | N/A     | N/A       | N/A        | N/A                  | N/A                  |"
+"chem-com_2020_luosz_Collective enantioselective total synthesis of (+)-sinensilactam A, (+)-lingzhilactone B and (−)-lingzhiol divergent reactivity of styrene",13,"| code name | column type | solvent | flow rate | wavelength | minor retention time | major retention time |
+|-----------|-------------|---------|-----------|------------|----------------------|----------------------|
+| 15 | Daicel Chiralpak OJ-H | iso-propanol/hexane = 20/80 | 1.0 mL/min | 254 nm | 29.15 min | 42.16 min |"
+"chem-com_2020_luosz_Collective enantioselective total synthesis of (+)-sinensilactam A, (+)-lingzhilactone B and (−)-lingzhiol divergent reactivity of styrene",14,"| code name | column type | solvent | flow rate | wavelength | minor retention time | major retention time |
+|-----------|-------------|---------|-----------|------------|----------------------|----------------------|
+| N/A       | N/A         | N/A     | N/A       | N/A        | N/A                  | N/A                  |"
+"chem-com_2020_luosz_Collective enantioselective total synthesis of (+)-sinensilactam A, (+)-lingzhilactone B and (−)-lingzhiol divergent reactivity of styrene",14," ```
+| code name | column type | solvent | flow rate | wavelength | minor retention time | major retention time |
+|-----------|-------------|---------|-----------|------------|----------------------|----------------------|
+| 15 | Daicel Chiralpak OJ-H | iso-propanol/hexane = 20/80 | 1.0 mL/min | 254 nm | 29.15 min | 42.16 min |
+```"
+"chem-com_2020_luosz_Collective enantioselective total synthesis of (+)-sinensilactam A, (+)-lingzhilactone B and (−)-lingzhiol divergent reactivity of styrene",15,"| code name | column type | solvent | flow rate | wavelength | minor retention time | major retention time |
+|-----------|-------------|---------|-----------|------------|----------------------|----------------------|
+N/A"
+"chem-com_2020_luosz_Collective enantioselective total synthesis of (+)-sinensilactam A, (+)-lingzhilactone B and (−)-lingzhiol divergent reactivity of styrene",15,"| code name | column type | solvent | flow rate | wavelength | minor retention time | major retention time |
+|-----------|-------------|---------|-----------|------------|----------------------|----------------------|
+| N/A       | N/A         | N/A     | N/A       | N/A        | N/A                  | N/A                  |"
+"chem-com_2020_luosz_Collective enantioselective total synthesis of (+)-sinensilactam A, (+)-lingzhilactone B and (−)-lingzhiol divergent reactivity of styrene",16,"| code name | column type | solvent | flow rate | wavelength | minor retention time | major retention time |
+|-----------|-------------|---------|-----------|------------|----------------------|----------------------|
+| - | - | - | - | - | - | - |"
+"chem-com_2020_luosz_Collective enantioselective total synthesis of (+)-sinensilactam A, (+)-lingzhilactone B and (−)-lingzhiol divergent reactivity of styrene",16," code name | column type | solvent | flow rate | wavelength | minor retention time | major retention time |
+|-----------|-------------|---------|-----------|------------|----------------------|----------------------|
+| N/A | N/A | N/A | N/A | N/A | N/A | N/A |"
+"chem-com_2020_luosz_Collective enantioselective total synthesis of (+)-sinensilactam A, (+)-lingzhilactone B and (−)-lingzhiol divergent reactivity of styrene",17, N/
+"chem-com_2020_luosz_Collective enantioselective total synthesis of (+)-sinensilactam A, (+)-lingzhilactone B and (−)-lingzhiol divergent reactivity of styrene",17,"| code name | column type | solvent | flow rate | wavelength | minor retention time | major retention time |
+|-----------|-------------|---------|-----------|------------|----------------------|----------------------|
+| N/A       | N/A         | N/A     | N/A       | N/A        | N/A                  | N/A                  |"
+"chem-com_2020_luosz_Collective enantioselective total synthesis of (+)-sinensilactam A, (+)-lingzhilactone B and (−)-lingzhiol divergent reactivity of styrene",18,"| code name | column type | solvent | flow rate | wavelength | minor retention time | major retention time |
+|-----------|-------------|---------|-----------|------------|----------------------|----------------------|
+| N/A       | N/A         | N/A     | N/A       | N/A        | N/A                  | N/A                  |"
+"chem-com_2020_luosz_Collective enantioselective total synthesis of (+)-sinensilactam A, (+)-lingzhilactone B and (−)-lingzhiol divergent reactivity of styrene",18,"| code name | column type | solvent | flow rate | wavelength | minor retention time | major retention time |
+|-----------|-------------|---------|-----------|------------|----------------------|----------------------|
+| 20 | Daicel Chiralpak OJ-H | iso-propanol/hexane = 20/80 | 1.0 mL/min | 254 nm | 32.89 min | 44.39 min |"
+"chem-com_2020_luosz_Collective enantioselective total synthesis of (+)-sinensilactam A, (+)-lingzhilactone B and (−)-lingzhiol divergent reactivity of styrene",19,"| code name | column type | solvent | flow rate | wavelength | minor retention time | major retention time |
+|-----------|-------------|---------|-----------|------------|----------------------|----------------------|
+| 20 | Daicel Chiralpak OJ-H | iso-propanol/hexane = 20/80 | 1.0 mL/min | 254 nm | 32.89 min | 44.39 min |"
+"chem-com_2020_luosz_Collective enantioselective total synthesis of (+)-sinensilactam A, (+)-lingzhilactone B and (−)-lingzhiol divergent reactivity of styrene",19,"```markdown
+| code name | column type | solvent | flow rate | wavelength | minor retention time | major retention time |
+|-----------|-------------|---------|-----------|------------|----------------------|----------------------|
+| 3aa | Daicel Chiralpak AS-H | hexane/iso-propanol = 95:5 | 0.7 mL/min | 251 nm | 9.60 min | 11.11 min |
+| 3ad | Daicel Chiralpak AS-H | hexane/iso-propanol = 95:5 | 0.7 mL/min | 251 nm | 10.29 min | 12.19 min |
+| 3ab | Daicel Chiralpak AS-H | hexane/iso-propanol = 95:5 | 0.7 mL/min | 251 nm | 10.76 min | 12.75 min |
+```"
+"chem-com_2020_luosz_Collective enantioselective total synthesis of (+)-sinensilactam A, (+)-lingzhilactone B and (−)-lingzhiol divergent reactivity of styrene",20,"| code name | column type | solvent | flow rate | wavelength | minor retention time | major retention time |
+|-----------|-------------|---------|-----------|------------|----------------------|----------------------|
+| N/A       | N/A         | N/A     | N/A       | N/A        | N/A                  | N/A                  |"
+"chem-com_2020_luosz_Collective enantioselective total synthesis of (+)-sinensilactam A, (+)-lingzhilactone B and (−)-lingzhiol divergent reactivity of styrene",20,"| code name | column type | solvent | flow rate | wavelength | minor retention time | major retention time |
+|-----------|-------------|---------|-----------|------------|----------------------|----------------------|
+| N/A       | N/A         | N/A     | N/A       | N/A        | N/A                  | N/A                  |"
+"chem-com_2020_luosz_Collective enantioselective total synthesis of (+)-sinensilactam A, (+)-lingzhilactone B and (−)-lingzhiol divergent reactivity of styrene",21,
+"chem-com_2020_luosz_Collective enantioselective total synthesis of (+)-sinensilactam A, (+)-lingzhilactone B and (−)-lingzhiol divergent reactivity of styrene",21,"| code name | column type | solvent | flow rate | wavelength | minor retention time | major retention time |
+|-----------|-------------|---------|-----------|------------|----------------------|----------------------|
+| N/A       | N/A         | N/A     | N/A       | N/A        | N/A                  | N/A                  |"
+"chem-com_2020_luosz_Collective enantioselective total synthesis of (+)-sinensilactam A, (+)-lingzhilactone B and (−)-lingzhiol divergent reactivity of styrene",22,"| code name | column type | solvent | flow rate | wavelength | minor retention time | major retention time |
+|-----------|-------------|---------|-----------|------------|----------------------|----------------------|
+| N/A       | N/A         | N/A     | N/A       | N/A        | N/A                  | N/A                  |"
+"chem-com_2020_luosz_Collective enantioselective total synthesis of (+)-sinensilactam A, (+)-lingzhilactone B and (−)-lingzhiol divergent reactivity of styrene",22,"| code name | column type | solvent | flow rate | wavelength | minor retention time | major retention time |
+|-----------|-------------|---------|-----------|------------|----------------------|----------------------|
+| 17 | Daicel Chiralpak AD-H | iso-propanol/hexane = 20/80 | 1.0 mL/min | 254 nm | 19.39 min | 17.97 min |"
+"chem-com_2020_luosz_Collective enantioselective total synthesis of (+)-sinensilactam A, (+)-lingzhilactone B and (−)-lingzhiol divergent reactivity of styrene",23,"| code name | column type | solvent | flow rate | wavelength | minor retention time | major retention time |
+|-----------|-------------|---------|-----------|------------|----------------------|----------------------|
+| 17 | Daicel Chiralpak AD-H | iso-propanol/hexane = 20/80 | 1.0 mL/min | 254 nm | 19.39 min | 17.97 min |"
+"chem-com_2020_luosz_Collective enantioselective total synthesis of (+)-sinensilactam A, (+)-lingzhilactone B and (−)-lingzhiol divergent reactivity of styrene",23,"```markdown
+| code name | column type | solvent | flow rate | wavelength | minor retention time | major retention time |
+|-----------|-------------|---------|-----------|------------|----------------------|----------------------|
+| 3ab | Daicel Chiralpak AS-H | hexane/iso-propanol = 95:5 | 0.7 mL/min | 251 nm | 10.76 min | 12.75 min |
+```"
+"chem-com_2020_luosz_Collective enantioselective total synthesis of (+)-sinensilactam A, (+)-lingzhilactone B and (−)-lingzhiol divergent reactivity of styrene",24,"| code name | column type | solvent | flow rate | wavelength | minor retention time | major retention time |
+|-----------|-------------|---------|-----------|------------|----------------------|----------------------|
+N/A"
+"chem-com_2020_luosz_Collective enantioselective total synthesis of (+)-sinensilactam A, (+)-lingzhilactone B and (−)-lingzhiol divergent reactivity of styrene",24,"| code name | column type | solvent | flow rate | wavelength | minor retention time | major retention time |
+|-----------|-------------|---------|-----------|------------|----------------------|----------------------|
+| 19 | Daicel Chiralpak AD-H | iso-propanol/hexane = 5/95 | 1.0 mL/min | 254 nm | 30.46 min | 19.46 min |"
+"chem-com_2020_luosz_Collective enantioselective total synthesis of (+)-sinensilactam A, (+)-lingzhilactone B and (−)-lingzhiol divergent reactivity of styrene",25,"| code name | column type | solvent | flow rate | wavelength | minor retention time | major retention time |
+|-----------|-------------|---------|-----------|------------|----------------------|----------------------|
+| 19 | Daicel Chiralpak AD-H | iso-propanol/hexane = 5/95 | 1.0 mL/min | 254 nm | 30.46 min | 19.46 min |"
+"chem-com_2020_luosz_Collective enantioselective total synthesis of (+)-sinensilactam A, (+)-lingzhilactone B and (−)-lingzhiol divergent reactivity of styrene",25,
+"chem-com_2020_luosz_Collective enantioselective total synthesis of (+)-sinensilactam A, (+)-lingzhilactone B and (−)-lingzhiol divergent reactivity of styrene",26,"| code name | column type | solvent | flow rate | wavelength | minor retention time | major retention time |
+|-----------|-------------|---------|-----------|------------|----------------------|----------------------|"
+"chem-com_2020_luosz_Collective enantioselective total synthesis of (+)-sinensilactam A, (+)-lingzhilactone B and (−)-lingzhiol divergent reactivity of styrene",26,
+"chem-com_2020_luosz_Collective enantioselective total synthesis of (+)-sinensilactam A, (+)-lingzhilactone B and (−)-lingzhiol divergent reactivity of styrene",27,N/A
+"chem-com_2020_luosz_Collective enantioselective total synthesis of (+)-sinensilactam A, (+)-lingzhilactone B and (−)-lingzhiol divergent reactivity of styrene",28,N/A
+"chem-com_2020_luosz_Collective enantioselective total synthesis of (+)-sinensilactam A, (+)-lingzhilactone B and (−)-lingzhiol divergent reactivity of styrene",29," code name | column type | solvent | flow rate | wavelength | minor retention time | major retention time |
+|-----------|-------------|---------|-----------|------------|----------------------|----------------------|
+| N/A | N/A | N/A | N/A | N/A | N/A | N/A |"
+"chem-com_2020_luosz_Collective enantioselective total synthesis of (+)-sinensilactam A, (+)-lingzhilactone B and (−)-lingzhiol divergent reactivity of styrene",30,"| code name | column type | solvent | flow rate | wavelength | minor retention time | major retention time |
+|-----------|-------------|---------|-----------|------------|----------------------|----------------------|
+| 3aa | Daicel Chiralpak AS-H | hexane/iso-propanol = 95:5 | 0.7 mL/min | 251 nm | 9.60 min | 11.11 min |
+| 3ad | Daicel Chiralpak AS-H | hexane/iso-propanol = 95:5 | 0.7 mL/min | 251 nm | 10.29 min | 12.19 min |
+| 3ab | Daicel Chiralpak AS-H | hexane/iso-propanol = 95:5 | 0.7 mL/min | 251 nm | 10.76 min | 12.75 min |"
+"chem-com_2020_luosz_Collective enantioselective total synthesis of (+)-sinensilactam A, (+)-lingzhilactone B and (−)-lingzhiol divergent reactivity of styrene",31,N/A
+"chem-com_2020_luosz_Collective enantioselective total synthesis of (+)-sinensilactam A, (+)-lingzhilactone B and (−)-lingzhiol divergent reactivity of styrene",32,N/A
+"chem-com_2020_luosz_Collective enantioselective total synthesis of (+)-sinensilactam A, (+)-lingzhilactone B and (−)-lingzhiol divergent reactivity of styrene",33,"| code name | column type | solvent | flow rate | wavelength | minor retention time | major retention time |
+|-----------|-------------|---------|-----------|------------|----------------------|----------------------|"
+"chem-com_2020_luosz_Collective enantioselective total synthesis of (+)-sinensilactam A, (+)-lingzhilactone B and (−)-lingzhiol divergent reactivity of styrene",34,N/A
+"chem-com_2020_luosz_Collective enantioselective total synthesis of (+)-sinensilactam A, (+)-lingzhilactone B and (−)-lingzhiol divergent reactivity of styrene",35,
+"chem-com_2020_luosz_Collective enantioselective total synthesis of (+)-sinensilactam A, (+)-lingzhilactone B and (−)-lingzhiol divergent reactivity of styrene",36," code name | column type | solvent | flow rate | wavelength | minor retention time | major retention time |
+|-----------|-------------|---------|-----------|------------|----------------------|----------------------|"
+"chem-com_2020_luosz_Collective enantioselective total synthesis of (+)-sinensilactam A, (+)-lingzhilactone B and (−)-lingzhiol divergent reactivity of styrene",37,"| code name | column type | solvent | flow rate | wavelength | minor retention time | major retention time |
+|-----------|-------------|---------|-----------|------------|----------------------|----------------------|
+N/A"
+"chem-com_2020_luosz_Collective enantioselective total synthesis of (+)-sinensilactam A, (+)-lingzhilactone B and (−)-lingzhiol divergent reactivity of styrene",38,
+"chem-com_2020_luosz_Collective enantioselective total synthesis of (+)-sinensilactam A, (+)-lingzhilactone B and (−)-lingzhiol divergent reactivity of styrene",39,"| code name | column type | solvent | flow rate | wavelength | minor retention time | major retention time |
+|-----------|-------------|---------|-----------|------------|----------------------|----------------------|
+N/A"
+"chem-com_2020_luosz_Collective enantioselective total synthesis of (+)-sinensilactam A, (+)-lingzhilactone B and (−)-lingzhiol divergent reactivity of styrene",40,"The provided input text does not contain any HPLC data or relevant chemical analysis data for any specific molecule codes, such as retention times, column type, solvent, flow rate, or wavelengths typically associated with HPLC analysis. Thus, the table to be generated should remain empty as there is no applicable data to display. Here is the appropriate markdown table output:
+
+```
+| code name | column type | solvent | flow rate | wavelength | minor retention time | major retention time |
+|-----------|-------------|---------|-----------|------------|----------------------|----------------------|
+```"
+"chem-com_2020_luosz_Collective enantioselective total synthesis of (+)-sinensilactam A, (+)-lingzhilactone B and (−)-lingzhiol divergent reactivity of styrene",41,"| code name | column type | solvent | flow rate | wavelength | minor retention time | major retention time |
+|-----------|-------------|---------|-----------|------------|----------------------|----------------------|"
+"chem-com_2020_luosz_Collective enantioselective total synthesis of (+)-sinensilactam A, (+)-lingzhilactone B and (−)-lingzhiol divergent reactivity of styrene",42,"| code name | column type | solvent | flow rate | wavelength | minor retention time | major retention time |
+|-----------|-------------|---------|-----------|------------|----------------------|----------------------|"
+"chem-com_2020_luosz_Collective enantioselective total synthesis of (+)-sinensilactam A, (+)-lingzhilactone B and (−)-lingzhiol divergent reactivity of styrene",43,"| code name | column type | solvent | flow rate | wavelength | minor retention time | major retention time |
+|-----------|-------------|---------|-----------|------------|----------------------|----------------------|
+| N/A       | N/A         | N/A     | N/A       | N/A        | N/A                  | N/A                  |"
+"chem-com_2020_luosz_Collective enantioselective total synthesis of (+)-sinensilactam A, (+)-lingzhilactone B and (−)-lingzhiol divergent reactivity of styrene",44,"| code name | column type | solvent | flow rate | wavelength | minor retention time | major retention time |
+|-----------|-------------|---------|-----------|------------|----------------------|----------------------|
+
+"
+"chem-com_2020_luosz_Collective enantioselective total synthesis of (+)-sinensilactam A, (+)-lingzhilactone B and (−)-lingzhiol divergent reactivity of styrene",45,
+"chem-com_2020_luosz_Collective enantioselective total synthesis of (+)-sinensilactam A, (+)-lingzhilactone B and (−)-lingzhiol divergent reactivity of styrene",46, N/
+"chem-com_2020_luosz_Collective enantioselective total synthesis of (+)-sinensilactam A, (+)-lingzhilactone B and (−)-lingzhiol divergent reactivity of styrene",47,N/A
+"chem-com_2020_luosz_Collective enantioselective total synthesis of (+)-sinensilactam A, (+)-lingzhilactone B and (−)-lingzhiol divergent reactivity of styrene",48,"| code name | column type | solvent | flow rate | wavelength | minor retention time | major retention time |
+|-----------|-------------|---------|-----------|------------|----------------------|----------------------|
+"
+"chem-com_2020_luosz_Collective enantioselective total synthesis of (+)-sinensilactam A, (+)-lingzhilactone B and (−)-lingzhiol divergent reactivity of styrene",49,"| code name | column type | solvent | flow rate | wavelength | minor retention time | major retention time |
+|-----------|-------------|---------|-----------|------------|----------------------|----------------------|
+| N/A       | N/A         | N/A     | N/A       | N/A        | N/A                  | N/A                  |"
+"chem-com_2020_luosz_Collective enantioselective total synthesis of (+)-sinensilactam A, (+)-lingzhilactone B and (−)-lingzhiol divergent reactivity of styrene",50,"| code name | column type | solvent | flow rate | wavelength | minor retention time | major retention time |
+|-----------|-------------|---------|-----------|------------|----------------------|----------------------|"
+"chem-com_2020_luosz_Collective enantioselective total synthesis of (+)-sinensilactam A, (+)-lingzhilactone B and (−)-lingzhiol divergent reactivity of styrene",51,"| code name | column type | solvent | flow rate | wavelength | minor retention time | major retention time |
+|-----------|-------------|---------|-----------|------------|----------------------|----------------------|"
+"chem-com_2020_luosz_Collective enantioselective total synthesis of (+)-sinensilactam A, (+)-lingzhilactone B and (−)-lingzhiol divergent reactivity of styrene",52,
+"chem-com_2020_luosz_Collective enantioselective total synthesis of (+)-sinensilactam A, (+)-lingzhilactone B and (−)-lingzhiol divergent reactivity of styrene",53,"| code name | column type | solvent | flow rate | wavelength | minor retention time | major retention time |
+|-----------|-------------|---------|-----------|------------|----------------------|----------------------|
+| N/A       | N/A         | N/A     | N/A       | N/A        | N/A                  | N/A                  |"
+"chem-com_2020_luosz_Collective enantioselective total synthesis of (+)-sinensilactam A, (+)-lingzhilactone B and (−)-lingzhiol divergent reactivity of styrene",54,"| code name | column type | solvent | flow rate | wavelength | minor retention time | major retention time |
+|-----------|-------------|---------|-----------|------------|----------------------|----------------------|"
+"chem-com_2020_luosz_Collective enantioselective total synthesis of (+)-sinensilactam A, (+)-lingzhilactone B and (−)-lingzhiol divergent reactivity of styrene",55,"| code name | column type | solvent | flow rate | wavelength | minor retention time | major retention time |
+|-----------|-------------|---------|-----------|------------|----------------------|----------------------|
+"
+"chem-com_2020_luosz_Collective enantioselective total synthesis of (+)-sinensilactam A, (+)-lingzhilactone B and (−)-lingzhiol divergent reactivity of styrene",56,"| code name | column type | solvent | flow rate | wavelength | minor retention time | major retention time |
+|-----------|-------------|---------|-----------|------------|----------------------|----------------------|
+N/A"
+"chem-com_2020_luosz_Collective enantioselective total synthesis of (+)-sinensilactam A, (+)-lingzhilactone B and (−)-lingzhiol divergent reactivity of styrene",57, N/
+"chem-com_2020_luosz_Collective enantioselective total synthesis of (+)-sinensilactam A, (+)-lingzhilactone B and (−)-lingzhiol divergent reactivity of styrene",58,"| code name | column type | solvent | flow rate | wavelength | minor retention time | major retention time |
+|-----------|-------------|---------|-----------|------------|----------------------|----------------------|"
+"chem-com_2020_luosz_Collective enantioselective total synthesis of (+)-sinensilactam A, (+)-lingzhilactone B and (−)-lingzhiol divergent reactivity of styrene",59,"| code name | column type | solvent | flow rate | wavelength | minor retention time | major retention time |
+|-----------|-------------|---------|-----------|------------|----------------------|----------------------|"
+"chem-com_2020_luosz_Collective enantioselective total synthesis of (+)-sinensilactam A, (+)-lingzhilactone B and (−)-lingzhiol divergent reactivity of styrene",60,N/A
+"chem-com_2020_luosz_Collective enantioselective total synthesis of (+)-sinensilactam A, (+)-lingzhilactone B and (−)-lingzhiol divergent reactivity of styrene",61,"| code name | column type | solvent | flow rate | wavelength | minor retention time | major retention time |
+|-----------|-------------|---------|-----------|------------|----------------------|----------------------|
+| N/A       | N/A         | N/A     | N/A       | N/A        | N/A                  | N/A                  |"
+"chem-com_2020_luosz_Collective enantioselective total synthesis of (+)-sinensilactam A, (+)-lingzhilactone B and (−)-lingzhiol divergent reactivity of styrene",62,
+"chem-com_2020_luosz_Collective enantioselective total synthesis of (+)-sinensilactam A, (+)-lingzhilactone B and (−)-lingzhiol divergent reactivity of styrene",63,"| code name | column type | solvent | flow rate | wavelength | minor retention time | major retention time |
+|-----------|-------------|---------|-----------|------------|----------------------|----------------------|"
+"chem-com_2020_luosz_Collective enantioselective total synthesis of (+)-sinensilactam A, (+)-lingzhilactone B and (−)-lingzhiol divergent reactivity of styrene",64," code name | column type | solvent | flow rate | wavelength | minor retention time | major retention time |
+|-----------|-------------|---------|-----------|------------|----------------------|----------------------|
+|N/A|N/A|N/A|N/A|N/A|N/A|N/A|"
+"chem-com_2020_luosz_Collective enantioselective total synthesis of (+)-sinensilactam A, (+)-lingzhilactone B and (−)-lingzhiol divergent reactivity of styrene",65," code name | column type | solvent | flow rate | wavelength | minor retention time | major retention time |
+|-----------|-------------|---------|-----------|------------|----------------------|----------------------|
+| N/A | N/A | N/A | N/A | N/A | N/A | N/A |"
+"chem-com_2020_luosz_Collective enantioselective total synthesis of (+)-sinensilactam A, (+)-lingzhilactone B and (−)-lingzhiol divergent reactivity of styrene",66,"| code name | column type | solvent | flow rate | wavelength | minor retention time | major retention time |
+|-----------|-------------|---------|-----------|------------|----------------------|----------------------|
+N/A"

@@ -1,0 +1,73 @@
+nohup: 忽略输入
+Loaded 106 reactions for classification.
+Generated plot: asymmetric_reactions_per_year.png
+Generated plot: catalyst_types_per_decade.png
+Generated plot: reaction_types_per_decade.png
+
+--- Sample of Classified Reactions (first 10) ---
+   year                                                                                                               title                     catalyst_system_type                                  reaction_type                                         substrate_type
+0  1985                                           YEAST REDUCTION OF ETHYL ACETOACETATE: (S)-( + )-ETHYL 3-HYDROXYBUTANOATE                       Enzyme/Biocatalyst                          Reaction Type Unknown               Ketone/Aldehyde/α,β-Unsaturated Carbonyl
+1  1987                                                                       (−)-α-PINENE BY ISOMERIZATION OF (−)-β-PINENE                  Catalyst System Unknown                                  Isomerization                                 Substrate Type Unknown
+2  1989                                      ENANTIOMERIC (S)-(+)- AND (R)-(−)-1,1'-BINAPHTHYL-2,2'-DIYL HYDROGEN PHOSPHATE                  Catalyst System Unknown  Synthesis of Chiral Catalyst/Ligand/Auxiliary        Halide/Pseudohalide (for coupling/substitution)
+3  1989  CONDENSATION OF (−)-DIMENTHYL SUCCINATE DIANION WITH 1,ω-DIHALIDES: (+)-(1S,2S)-CYCLOPROPANE-1,2-DICARBOXYLIC ACID  Stoichiometric Chiral Auxiliary/Reagent                          Reaction Type Unknown  Ester/Lactone/Acid/Amide/Anhydride (as main reactant)
+4  1990                                           ENANTIOSELECTIVE OXIDATION OF A SULFIDE: (S)-(−)-METHYL p-TOLYL SULFOXIDE           Metal Catalyst - Titanium (Ti)                                      Oxidation                                      Sulfide/Thioether
+5  1990                  ENANTIOMERICALLY PURE ETHYL (R)- AND (S)- 2-FLUOROHEXANOATE BY ENZYME-CATALYZED KINETIC RESOLUTION                       Enzyme/Biocatalyst         Resolution (Kinetic/Dynamic/Classical)                                 Substrate Type Unknown
+6  1992                                                                             (S)-(−)- AND (R)-(+)-1,1'-BI-2-NAPHTHOL                       Enzyme/Biocatalyst                          Reaction Type Unknown        Halide/Pseudohalide (for coupling/substitution)
+7  1993   ASYMMETRIC HYDROGENATION OF 3-OXO CARBOXYLATES USING BINAP-RUTHENIUM COMPLEXES: (R)-(−)-METHYL 3-HYDROXYBUTANOATE          Metal Catalyst - Ruthenium (Ru)                       Hydrogenation (C=C, C#C)               Ketone/Aldehyde/α,β-Unsaturated Carbonyl
+8  1993                           ASYMMETRIC CATALYTIC GLYOXYLATE-ENE REACTION: METHYL (2R)-2-HYDROXY-4-PHENYL-4-PENTENOATE           Metal Catalyst - Titanium (Ti)                          Reaction Type Unknown        Halide/Pseudohalide (for coupling/substitution)
+9  1995                                                                        (1R,5R)-(+)-VERBENONE OF HIGH OPTICAL PURITY                  Catalyst System Unknown                          Reaction Type Unknown                                 Substrate Type Unknown
+
+---Counts for Catalyst System Types---
+catalyst_system_type
+Catalyst System Unknown                                        57
+Metal Catalyst - Copper (Cu)                                    6
+Metal Catalyst - Titanium (Ti)                                  6
+Metal Catalyst (Ligand Family Mentioned)                        5
+Organocatalyst - Proline/Amino Acid                             4
+Metal Catalyst - Boron (B)                                      4
+Enzyme/Biocatalyst                                              3
+Organocatalyst - Chiral Amine/Imidazolidinone                   3
+Metal Catalyst - Rhodium (Rh)                                   3
+Metal Catalyst - Nickel (Ni)                                    3
+Metal Catalyst - Ruthenium (Ru)                                 2
+Stoichiometric Chiral Auxiliary/Reagent                         2
+Metal Catalyst - Zinc (Zn)                                      2
+Organocatalyst - General/Other                                  2
+Metal Catalyst - Palladium (Pd)                                 2
+Organocatalyst - Chiral Phosphoric Acid (CPA)/Brønsted Acid     1
+Metal Catalyst - Iron (Fe)                                      1
+
+---Counts for Reaction Types---
+reaction_type
+Reaction Type Unknown                              65
+Michael Addition/Conjugate Addition                 6
+Other/General Asymmetric Transformation             6
+Resolution (Kinetic/Dynamic/Classical)              5
+Ring Opening/Closing (non-cycloaddition)            4
+Alkylation/Addition (non-carbonyl, non-allylic)     4
+Oxidation                                           4
+Allylic Substitution/Alkylation                     2
+Hydrogenation (C=C, C#C)                            2
+Synthesis of Chiral Catalyst/Ligand/Auxiliary       2
+Cycloaddition                                       2
+Isomerization                                       1
+Reduction (C=O, C=N)                                1
+Aldol/Mannich/Related C-C                           1
+Hydrofunctionalization (of C=C, C#C)                1
+
+---Counts for Substrate Types---
+substrate_type
+Substrate Type Unknown                                    38
+Halide/Pseudohalide (for coupling/substitution)           21
+Ketone/Aldehyde/α,β-Unsaturated Carbonyl                  16
+Ester/Lactone/Acid/Amide/Anhydride (as main reactant)     14
+Alcohol/Phenol (for KR or derivatization)                  4
+Sulfide/Thioether                                          3
+Heterocycle (as core structure being modified)             3
+Alkene/Olefin/Allene/Diene                                 3
+Imine/Hydrazone/Nitrone                                    2
+Phosphorus Compound (e.g. for making chiral P-ligands)     1
+Alkyne                                                     1
+
+Enriched data saved to classified_asymmetric_reactions.json
+Enriched data also saved to classified_asymmetric_reactions.csv

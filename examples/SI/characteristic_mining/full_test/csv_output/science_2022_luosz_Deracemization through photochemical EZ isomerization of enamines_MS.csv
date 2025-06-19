@@ -1,0 +1,341 @@
+path,item_num,summary
+science_2022_luosz_Deracemization through photochemical EZ isomerization of enamines,0,N/A
+science_2022_luosz_Deracemization through photochemical EZ isomerization of enamines,1,N/A
+science_2022_luosz_Deracemization through photochemical EZ isomerization of enamines,2,"| code name | name of MS | method of MS | calculated mass | experimental mass |
+|-----------|------------|--------------|-----------------|-------------------|"
+science_2022_luosz_Deracemization through photochemical EZ isomerization of enamines,3,N/A
+science_2022_luosz_Deracemization through photochemical EZ isomerization of enamines,4,N/A
+science_2022_luosz_Deracemization through photochemical EZ isomerization of enamines,5,N/A
+science_2022_luosz_Deracemization through photochemical EZ isomerization of enamines,6,N/A
+science_2022_luosz_Deracemization through photochemical EZ isomerization of enamines,7,N/A
+science_2022_luosz_Deracemization through photochemical EZ isomerization of enamines,8,"| code name | name of MS | method of MS | calculated mass | experimental mass |
+|-----------|------------|--------------|-----------------|-------------------|
+| S1ae | HRMS | ESI | 348.1206 | 348.1195 |
+| S1ac | HRMS | ESI | 297.0917 | 297.0911 |"
+science_2022_luosz_Deracemization through photochemical EZ isomerization of enamines,9,N/A
+science_2022_luosz_Deracemization through photochemical EZ isomerization of enamines,9,"| code name | name of MS | method of MS | calculated mass | experimental mass |
+|-----------|------------|--------------|-----------------|-------------------|
+| S1ac | HRMS | ESI | 297.0917 | 297.0911 |
+| S1ad | HRMS | ESI | 555.3809 | 555.3820 |"
+science_2022_luosz_Deracemization through photochemical EZ isomerization of enamines,10,"| code name | name of MS | method of MS | calculated mass | experimental mass |
+|-----------|------------|--------------|-----------------|-------------------|
+| N/A       | N/A        | N/A          | N/A             | N/A               |"
+science_2022_luosz_Deracemization through photochemical EZ isomerization of enamines,10,"| code name | name of MS | method of MS | calculated mass | experimental mass |
+|-----------|------------|--------------|-----------------|-------------------|
+| 2b | HRMS | ESI | 171.0780 | 171.0776 |
+| 2c | HRMS | ESI | 171.0780 | 171.0776 |"
+science_2022_luosz_Deracemization through photochemical EZ isomerization of enamines,11,"| code name | name of MS | method of MS | calculated mass | experimental mass |
+|-----------|------------|--------------|-----------------|-------------------|
+| 2b | HRMS | ESI | 171.0780 | N/A |"
+science_2022_luosz_Deracemization through photochemical EZ isomerization of enamines,11,"| code name | name of MS | method of MS | calculated mass | experimental mass |
+|-----------|------------|--------------|-----------------|-------------------|
+| 2c | HRMS | ESI | 171.0780 | 171.0776 |
+| 2d | HRMS | ESI | 213.1250 | 213.1248 |
+| 2e | HRMS | ESI | 233.0937 | 233.0934 |"
+science_2022_luosz_Deracemization through photochemical EZ isomerization of enamines,12,N/A
+science_2022_luosz_Deracemization through photochemical EZ isomerization of enamines,12,"| code name | name of MS | method of MS | calculated mass | experimental mass |
+|-----------|------------|--------------|-----------------|-------------------|
+| 2e | HRMS | ESI | 233.0937 | 233.0934 |
+| 2f | HRMS | ESI | 175.0530 | 175.0527 |
+| 2g | HRMS | ESI | 175.0530 | 175.0525 |"
+science_2022_luosz_Deracemization through photochemical EZ isomerization of enamines,13,N/A
+science_2022_luosz_Deracemization through photochemical EZ isomerization of enamines,13,"| code name | name of MS | method of MS | calculated mass | experimental mass |
+|-----------|------------|--------------|-----------------|-------------------|
+| 2g | HRMS | ESI | 175.0530 | 175.0527 |
+| 2h | HRMS | ESI | 191.0234 | 191.0231 |
+| 2i | HRMS | APCI | 203.0678 | 203.0685 |"
+science_2022_luosz_Deracemization through photochemical EZ isomerization of enamines,14,N/A
+science_2022_luosz_Deracemization through photochemical EZ isomerization of enamines,14,"| code name | name of MS | method of MS | calculated mass | experimental mass |
+|-----------|------------|--------------|-----------------|-------------------|
+| 2i | HRMS | APCI | 203.0678 | 203.0685 |
+| 2j | HRMS | ESI | 234.9729 | 234.9722 |
+| 2k | HRMS | ESI | 215.0679 | 215.0674 |
+| 2l | HRMS | APCI | 171.0616 | 171.0620 |"
+science_2022_luosz_Deracemization through photochemical EZ isomerization of enamines,15,"| code name | name of MS | method of MS | calculated mass | experimental mass |
+|-----------|------------|--------------|-----------------|-------------------|
+| N/A       | N/A        | N/A          | N/A             | N/A               |"
+science_2022_luosz_Deracemization through photochemical EZ isomerization of enamines,15,"| code name | name of MS | method of MS | calculated mass | experimental mass |
+|-----------|------------|--------------|-----------------|-------------------|
+| 2k | HRMS | ESI | 215.0679 | 215.0674 |
+| 2l | HRMS | APCI | 171.0616 | 171.0620 |
+| 2m | HRMS | ESI | 251.0843 | 251.0839 |
+| 2n | HRMS | ESI | 187.0730 | 187.0727 |"
+science_2022_luosz_Deracemization through photochemical EZ isomerization of enamines,16,N/A
+science_2022_luosz_Deracemization through photochemical EZ isomerization of enamines,16,"| code name | name of MS | method of MS | calculated mass | experimental mass |
+|-----------|------------|--------------|-----------------|-------------------|
+| 2n | HRMS | ESI | 187.0730 | 187.0727 |
+| 2o | HRMS | ESI | 249.0886 | 249.0882 |
+| 2p | HRMS | ESI | 249.0886 | 249.0880 |"
+science_2022_luosz_Deracemization through photochemical EZ isomerization of enamines,17,"| code name | name of MS | method of MS | calculated mass | experimental mass |
+|-----------|------------|--------------|-----------------|-------------------|
+| N/A       | HRMS       | ESI          | 249.0886        | N/A               |"
+science_2022_luosz_Deracemization through photochemical EZ isomerization of enamines,17,"| code name | name of MS | method of MS | calculated mass | experimental mass |
+|-----------|------------|--------------|-----------------|-------------------|
+| 2p | HRMS | ESI | 249.0886 | 249.0880 |
+| 2q | HRMS | ESI | 217.0835 | 217.0813 |
+| 2r | HRMS | ESI | 201.0522 | 201.0520 |
+| 2s | HRMS | ESI | N/A | N/A |"
+science_2022_luosz_Deracemization through photochemical EZ isomerization of enamines,18,"| code name | name of MS | method of MS | calculated mass | experimental mass |
+|-----------|------------|--------------|-----------------|-------------------|
+| N/A       | HRMS       | ESI          | 217.0835        | N/A               |"
+science_2022_luosz_Deracemization through photochemical EZ isomerization of enamines,18,"| code name | name of MS | method of MS | calculated mass | experimental mass |
+|-----------|------------|--------------|-----------------|-------------------|
+| 2r | HRMS | ESI | 201.0522 | 201.0520 |
+| 2s | HRMS | ESI | 205.0635 | 205.0632 |
+| 2t | HRMS | ESI | 203.0501 | 203.0499 |
+| 2u | HRMS | ESI | N/A | N/A |"
+science_2022_luosz_Deracemization through photochemical EZ isomerization of enamines,19,"| code name | name of MS | method of MS | calculated mass | experimental mass |
+|-----------|------------|--------------|-----------------|-------------------|
+| N/A       | HRMS       | ESI          | 205.0635        | N/A               |"
+science_2022_luosz_Deracemization through photochemical EZ isomerization of enamines,19,"| code name | name of MS | method of MS | calculated mass | experimental mass |
+|-----------|------------|--------------|-----------------|-------------------|
+| 2t | HRMS | ESI | 203.0501 | 203.0499 |
+| 2u | HRMS | ESI | 178.1226 | 178.1224 |
+| 2v | HRMS | ESI | 253.1199 | 253.1195 |
+| 2w | N/A | N/A | N/A | N/A |"
+science_2022_luosz_Deracemization through photochemical EZ isomerization of enamines,20,"| code name | name of MS | method of MS | calculated mass | experimental mass |
+|-----------|------------|--------------|-----------------|-------------------|
+| N/A       | HRMS       | ESI          | 178.1226        | N/A               |"
+science_2022_luosz_Deracemization through photochemical EZ isomerization of enamines,20,"| code name | name of MS | method of MS | calculated mass | experimental mass |
+|-----------|------------|--------------|-----------------|-------------------|
+| 2v | HRMS | ESI | 253.1199 | 253.1195 |
+| 2w | HRMS | ESI | 207.0780 | 207.0778 |
+| 2x | HRMS | ESI | 183.0780 | 183.0778 |"
+science_2022_luosz_Deracemization through photochemical EZ isomerization of enamines,21,"| code name | name of MS | method of MS | calculated mass | experimental mass |
+|-----------|------------|--------------|-----------------|-------------------|
+| N/A       | N/A        | N/A          | N/A             | N/A               |"
+science_2022_luosz_Deracemization through photochemical EZ isomerization of enamines,21,"| code name | name of MS | method of MS | calculated mass | experimental mass |
+|-----------|------------|--------------|-----------------|-------------------|
+| 2x | HRMS | ESI | 183.0780 | 183.0778 |
+| 2y | HRMS | ESI | 171.0780 | 171.0777 |
+| 2z | HRMS | ESI | 183.0780 | 183.0779 |"
+science_2022_luosz_Deracemization through photochemical EZ isomerization of enamines,22,N/A
+science_2022_luosz_Deracemization through photochemical EZ isomerization of enamines,22,"| code name | name of MS | method of MS | calculated mass | experimental mass |
+|-----------|------------|--------------|-----------------|-------------------|
+| 2z | HRMS | ESI | 183.0780 | 183.0779 |
+| 2aa | HRMS | ESI | 241.1223 | 241.1402 |
+| 2ab | HRMS | ESI | 234.1489 | 234.1480 |"
+science_2022_luosz_Deracemization through photochemical EZ isomerization of enamines,23,"| code name | name of MS | method of MS | calculated mass | experimental mass |
+|-----------|------------|--------------|-----------------|-------------------|
+| N/A       | HRMS       | ESI          | 241.1223        | N/A               |"
+science_2022_luosz_Deracemization through photochemical EZ isomerization of enamines,23,"| code name | name of MS | method of MS | calculated mass | experimental mass |
+|-----------|------------|--------------|-----------------|-------------------|
+| 2ab | HRMS | ESI | 234.1489 | 234.1480 |
+| 2ac | HRMS | ESI | 311.1074 | 311.1065 |
+| 2ad | HRMS | ESI | 569.3965 | 569.3963 |"
+science_2022_luosz_Deracemization through photochemical EZ isomerization of enamines,24,"| code name | name of MS | method of MS | calculated mass | experimental mass |
+|-----------|------------|--------------|-----------------|-------------------|
+| N/A       | HRMS       | ESI          | 311.1074        | N/A               |"
+science_2022_luosz_Deracemization through photochemical EZ isomerization of enamines,24,"| code name | name of MS | method of MS | calculated mass | experimental mass |
+|-----------|------------|--------------|-----------------|-------------------|
+| 2ad | HRMS | ESI | 569.3965 | 569.3963 |
+| 2ae | HRMS | ESI | 340.1543 | 340.1535 |
+| 2af | HRMS | APCI | 141.0369 | 141.0366 |
+| 2ag | N/A | N/A | N/A | N/A |"
+science_2022_luosz_Deracemization through photochemical EZ isomerization of enamines,25,N/A
+science_2022_luosz_Deracemization through photochemical EZ isomerization of enamines,25,"| code name | name of MS | method of MS | calculated mass | experimental mass |
+|-----------|------------|--------------|-----------------|-------------------|
+| 2af | HRMS | APCI | 141.0369 | 141.0366 |
+| 2ag | HRMS | APCI | 225.0910 | 225.0907 |
+| 2ah | HRMS | ESI | 170.0367 | 170.036627 |"
+science_2022_luosz_Deracemization through photochemical EZ isomerization of enamines,26,N/A
+science_2022_luosz_Deracemization through photochemical EZ isomerization of enamines,26,N/A
+science_2022_luosz_Deracemization through photochemical EZ isomerization of enamines,27,N/A
+science_2022_luosz_Deracemization through photochemical EZ isomerization of enamines,28,N/A
+science_2022_luosz_Deracemization through photochemical EZ isomerization of enamines,29,"| code name | name of MS | method of MS | calculated mass | experimental mass |
+|-----------|------------|--------------|-----------------|-------------------|
+| N/A       | N/A        | N/A          | N/A             | N/A               |"
+science_2022_luosz_Deracemization through photochemical EZ isomerization of enamines,30,N/A
+science_2022_luosz_Deracemization through photochemical EZ isomerization of enamines,31,N/A
+science_2022_luosz_Deracemization through photochemical EZ isomerization of enamines,32,N/A
+science_2022_luosz_Deracemization through photochemical EZ isomerization of enamines,33,N/A
+science_2022_luosz_Deracemization through photochemical EZ isomerization of enamines,34,N/A
+science_2022_luosz_Deracemization through photochemical EZ isomerization of enamines,35,N/A
+science_2022_luosz_Deracemization through photochemical EZ isomerization of enamines,36,"| code name | name of MS | method of MS | calculated mass | experimental mass |
+|-----------|------------|--------------|-----------------|-------------------|
+| N/A       | N/A        | N/A          | N/A             | N/A               |"
+science_2022_luosz_Deracemization through photochemical EZ isomerization of enamines,37,N/A
+science_2022_luosz_Deracemization through photochemical EZ isomerization of enamines,38,N/A
+science_2022_luosz_Deracemization through photochemical EZ isomerization of enamines,39,"| code name | name of MS | method of MS | calculated mass | experimental mass |
+|-----------|------------|--------------|-----------------|-------------------|
+| N/A       | N/A        | N/A          | N/A             | N/A               |"
+science_2022_luosz_Deracemization through photochemical EZ isomerization of enamines,40,N/A
+science_2022_luosz_Deracemization through photochemical EZ isomerization of enamines,41,N/A
+science_2022_luosz_Deracemization through photochemical EZ isomerization of enamines,42,N/A
+science_2022_luosz_Deracemization through photochemical EZ isomerization of enamines,43,"| code name | name of MS | method of MS | calculated mass | experimental mass |
+|-----------|------------|--------------|-----------------|-------------------|
+| 4p | HRMS | ESI | 367.1417 | 367.1405 |"
+science_2022_luosz_Deracemization through photochemical EZ isomerization of enamines,44,"| code name | name of MS | method of MS | calculated mass | experimental mass |
+|-----------|------------|--------------|-----------------|-------------------|
+| 4p | HRMS | ESI | 367.1417 | N/A |"
+science_2022_luosz_Deracemization through photochemical EZ isomerization of enamines,44,N/A
+science_2022_luosz_Deracemization through photochemical EZ isomerization of enamines,45,N/A
+science_2022_luosz_Deracemization through photochemical EZ isomerization of enamines,46,N/A
+science_2022_luosz_Deracemization through photochemical EZ isomerization of enamines,47,N/A
+science_2022_luosz_Deracemization through photochemical EZ isomerization of enamines,48,N/A
+science_2022_luosz_Deracemization through photochemical EZ isomerization of enamines,49,"| code name | name of MS | method of MS | calculated mass | experimental mass |
+|-----------|------------|--------------|-----------------|-------------------|
+| N/A       | N/A        | N/A          | N/A             | N/A               |"
+science_2022_luosz_Deracemization through photochemical EZ isomerization of enamines,50,N/A
+science_2022_luosz_Deracemization through photochemical EZ isomerization of enamines,51,N/A
+science_2022_luosz_Deracemization through photochemical EZ isomerization of enamines,52,N/A
+science_2022_luosz_Deracemization through photochemical EZ isomerization of enamines,53,N/A
+science_2022_luosz_Deracemization through photochemical EZ isomerization of enamines,54,N/A
+science_2022_luosz_Deracemization through photochemical EZ isomerization of enamines,55,"| code name | name of MS | method of MS | calculated mass | experimental mass |
+|-----------|------------|--------------|-----------------|-------------------|
+| N/A       | N/A        | N/A          | N/A             | N/A               |"
+science_2022_luosz_Deracemization through photochemical EZ isomerization of enamines,56,"| code name | name of MS | method of MS | calculated mass | experimental mass |
+|-----------|------------|--------------|-----------------|-------------------|
+| N/A       | N/A        | N/A          | N/A             | N/A               |"
+science_2022_luosz_Deracemization through photochemical EZ isomerization of enamines,57,N/A
+science_2022_luosz_Deracemization through photochemical EZ isomerization of enamines,58,N/A
+science_2022_luosz_Deracemization through photochemical EZ isomerization of enamines,59,N/A
+science_2022_luosz_Deracemization through photochemical EZ isomerization of enamines,60,N/A
+science_2022_luosz_Deracemization through photochemical EZ isomerization of enamines,61,"| code name | name of MS | method of MS | calculated mass | experimental mass |
+|-----------|------------|--------------|-----------------|-------------------|
+| N/A       | N/A        | N/A          | N/A             | N/A               |"
+science_2022_luosz_Deracemization through photochemical EZ isomerization of enamines,62,"| code name | name of MS | method of MS | calculated mass | experimental mass |
+|-----------|------------|--------------|-----------------|-------------------|
+| N/A       | N/A        | N/A          | N/A             | N/A               |"
+science_2022_luosz_Deracemization through photochemical EZ isomerization of enamines,63,N/A
+science_2022_luosz_Deracemization through photochemical EZ isomerization of enamines,64,N/A
+science_2022_luosz_Deracemization through photochemical EZ isomerization of enamines,65,N/A
+science_2022_luosz_Deracemization through photochemical EZ isomerization of enamines,66,N/A
+science_2022_luosz_Deracemization through photochemical EZ isomerization of enamines,67,N/A
+science_2022_luosz_Deracemization through photochemical EZ isomerization of enamines,68,N/A
+science_2022_luosz_Deracemization through photochemical EZ isomerization of enamines,69,N/A
+science_2022_luosz_Deracemization through photochemical EZ isomerization of enamines,70,N/A
+science_2022_luosz_Deracemization through photochemical EZ isomerization of enamines,71,N/A
+science_2022_luosz_Deracemization through photochemical EZ isomerization of enamines,72,N/A
+science_2022_luosz_Deracemization through photochemical EZ isomerization of enamines,73,N/A
+science_2022_luosz_Deracemization through photochemical EZ isomerization of enamines,74,N/A
+science_2022_luosz_Deracemization through photochemical EZ isomerization of enamines,75,N/A
+science_2022_luosz_Deracemization through photochemical EZ isomerization of enamines,76,N/A
+science_2022_luosz_Deracemization through photochemical EZ isomerization of enamines,77,N/A
+science_2022_luosz_Deracemization through photochemical EZ isomerization of enamines,78,N/A
+science_2022_luosz_Deracemization through photochemical EZ isomerization of enamines,79,N/A
+science_2022_luosz_Deracemization through photochemical EZ isomerization of enamines,80,N/A
+science_2022_luosz_Deracemization through photochemical EZ isomerization of enamines,81,N/A
+science_2022_luosz_Deracemization through photochemical EZ isomerization of enamines,82,N/A
+science_2022_luosz_Deracemization through photochemical EZ isomerization of enamines,83,N/A
+science_2022_luosz_Deracemization through photochemical EZ isomerization of enamines,84,"| code name | name of MS | method of MS | calculated mass | experimental mass |
+|-----------|------------|--------------|-----------------|-------------------|
+| N/A       | N/A        | N/A          | N/A             | N/A               |"
+science_2022_luosz_Deracemization through photochemical EZ isomerization of enamines,85,N/A
+science_2022_luosz_Deracemization through photochemical EZ isomerization of enamines,86,"| code name | name of MS | method of MS | calculated mass | experimental mass |
+|-----------|------------|--------------|-----------------|-------------------|
+| N/A       | N/A        | N/A          | N/A             | N/A               |"
+science_2022_luosz_Deracemization through photochemical EZ isomerization of enamines,87,N/A
+science_2022_luosz_Deracemization through photochemical EZ isomerization of enamines,88,N/A
+science_2022_luosz_Deracemization through photochemical EZ isomerization of enamines,89,N/A
+science_2022_luosz_Deracemization through photochemical EZ isomerization of enamines,90,N/A
+science_2022_luosz_Deracemization through photochemical EZ isomerization of enamines,91,N/A
+science_2022_luosz_Deracemization through photochemical EZ isomerization of enamines,92,"| code name | name of MS | method of MS | calculated mass | experimental mass |
+|-----------|------------|--------------|-----------------|-------------------|
+| N/A | N/A | N/A | N/A | N/A |"
+science_2022_luosz_Deracemization through photochemical EZ isomerization of enamines,93,N/A
+science_2022_luosz_Deracemization through photochemical EZ isomerization of enamines,94,N/A
+science_2022_luosz_Deracemization through photochemical EZ isomerization of enamines,95,N/A
+science_2022_luosz_Deracemization through photochemical EZ isomerization of enamines,96,N/A
+science_2022_luosz_Deracemization through photochemical EZ isomerization of enamines,97,N/A
+science_2022_luosz_Deracemization through photochemical EZ isomerization of enamines,98,"| code name | name of MS | method of MS | calculated mass | experimental mass |
+|-----------|------------|--------------|-----------------|-------------------|
+| N/A       | N/A        | N/A          | N/A             | N/A               |"
+science_2022_luosz_Deracemization through photochemical EZ isomerization of enamines,99,N/A
+science_2022_luosz_Deracemization through photochemical EZ isomerization of enamines,100,N/A
+science_2022_luosz_Deracemization through photochemical EZ isomerization of enamines,101,N/A
+science_2022_luosz_Deracemization through photochemical EZ isomerization of enamines,102,N/A
+science_2022_luosz_Deracemization through photochemical EZ isomerization of enamines,103,N/A
+science_2022_luosz_Deracemization through photochemical EZ isomerization of enamines,104,N/A
+science_2022_luosz_Deracemization through photochemical EZ isomerization of enamines,105,N/A
+science_2022_luosz_Deracemization through photochemical EZ isomerization of enamines,106,N/A
+science_2022_luosz_Deracemization through photochemical EZ isomerization of enamines,107,N/A
+science_2022_luosz_Deracemization through photochemical EZ isomerization of enamines,108,N/A
+science_2022_luosz_Deracemization through photochemical EZ isomerization of enamines,109,N/A
+science_2022_luosz_Deracemization through photochemical EZ isomerization of enamines,110,N/A
+science_2022_luosz_Deracemization through photochemical EZ isomerization of enamines,111,N/A
+science_2022_luosz_Deracemization through photochemical EZ isomerization of enamines,112,N/A
+science_2022_luosz_Deracemization through photochemical EZ isomerization of enamines,113,N/A
+science_2022_luosz_Deracemization through photochemical EZ isomerization of enamines,114,N/A
+science_2022_luosz_Deracemization through photochemical EZ isomerization of enamines,115,N/A
+science_2022_luosz_Deracemization through photochemical EZ isomerization of enamines,116,"| code name | name of MS | method of MS | calculated mass | experimental mass |
+|-----------|------------|--------------|-----------------|-------------------|
+| N/A       | N/A        | N/A          | N/A             | N/A               |"
+science_2022_luosz_Deracemization through photochemical EZ isomerization of enamines,117,N/A
+science_2022_luosz_Deracemization through photochemical EZ isomerization of enamines,118,N/A
+science_2022_luosz_Deracemization through photochemical EZ isomerization of enamines,119,N/A
+science_2022_luosz_Deracemization through photochemical EZ isomerization of enamines,120,N/A
+science_2022_luosz_Deracemization through photochemical EZ isomerization of enamines,121,N/A
+science_2022_luosz_Deracemization through photochemical EZ isomerization of enamines,122,N/A
+science_2022_luosz_Deracemization through photochemical EZ isomerization of enamines,123,N/A
+science_2022_luosz_Deracemization through photochemical EZ isomerization of enamines,124,N/A
+science_2022_luosz_Deracemization through photochemical EZ isomerization of enamines,125,N/A
+science_2022_luosz_Deracemization through photochemical EZ isomerization of enamines,126,N/A
+science_2022_luosz_Deracemization through photochemical EZ isomerization of enamines,127,N/A
+science_2022_luosz_Deracemization through photochemical EZ isomerization of enamines,128,N/A
+science_2022_luosz_Deracemization through photochemical EZ isomerization of enamines,129,N/A
+science_2022_luosz_Deracemization through photochemical EZ isomerization of enamines,130,N/A
+science_2022_luosz_Deracemization through photochemical EZ isomerization of enamines,131,N/A
+science_2022_luosz_Deracemization through photochemical EZ isomerization of enamines,132,N/A
+science_2022_luosz_Deracemization through photochemical EZ isomerization of enamines,133,N/A
+science_2022_luosz_Deracemization through photochemical EZ isomerization of enamines,134,N/A
+science_2022_luosz_Deracemization through photochemical EZ isomerization of enamines,135,N/A
+science_2022_luosz_Deracemization through photochemical EZ isomerization of enamines,136,N/A
+science_2022_luosz_Deracemization through photochemical EZ isomerization of enamines,137,N/A
+science_2022_luosz_Deracemization through photochemical EZ isomerization of enamines,138,N/A
+science_2022_luosz_Deracemization through photochemical EZ isomerization of enamines,139,N/A
+science_2022_luosz_Deracemization through photochemical EZ isomerization of enamines,140,"| code name | name of MS | method of MS | calculated mass | experimental mass |
+|-----------|------------|--------------|-----------------|-------------------|"
+science_2022_luosz_Deracemization through photochemical EZ isomerization of enamines,141,N/A
+science_2022_luosz_Deracemization through photochemical EZ isomerization of enamines,142,N/A
+science_2022_luosz_Deracemization through photochemical EZ isomerization of enamines,143,N/A
+science_2022_luosz_Deracemization through photochemical EZ isomerization of enamines,144,N/A
+science_2022_luosz_Deracemization through photochemical EZ isomerization of enamines,145,N/A
+science_2022_luosz_Deracemization through photochemical EZ isomerization of enamines,146,"| code name | name of MS | method of MS | calculated mass | experimental mass |
+|-----------|------------|--------------|-----------------|-------------------|
+| N/A | N/A | N/A | N/A | N/A |"
+science_2022_luosz_Deracemization through photochemical EZ isomerization of enamines,147,N/A
+science_2022_luosz_Deracemization through photochemical EZ isomerization of enamines,148,N/A
+science_2022_luosz_Deracemization through photochemical EZ isomerization of enamines,149,N/A
+science_2022_luosz_Deracemization through photochemical EZ isomerization of enamines,150,N/A
+science_2022_luosz_Deracemization through photochemical EZ isomerization of enamines,151,N/A
+science_2022_luosz_Deracemization through photochemical EZ isomerization of enamines,152,N/A
+science_2022_luosz_Deracemization through photochemical EZ isomerization of enamines,153,N/A
+science_2022_luosz_Deracemization through photochemical EZ isomerization of enamines,154,N/A
+science_2022_luosz_Deracemization through photochemical EZ isomerization of enamines,155,N/A
+science_2022_luosz_Deracemization through photochemical EZ isomerization of enamines,156,N/A
+science_2022_luosz_Deracemization through photochemical EZ isomerization of enamines,157,N/A
+science_2022_luosz_Deracemization through photochemical EZ isomerization of enamines,158,N/A
+science_2022_luosz_Deracemization through photochemical EZ isomerization of enamines,159,N/A
+science_2022_luosz_Deracemization through photochemical EZ isomerization of enamines,160,N/A
+science_2022_luosz_Deracemization through photochemical EZ isomerization of enamines,161,N/A
+science_2022_luosz_Deracemization through photochemical EZ isomerization of enamines,162,N/A
+science_2022_luosz_Deracemization through photochemical EZ isomerization of enamines,163,N/A
+science_2022_luosz_Deracemization through photochemical EZ isomerization of enamines,164,N/A
+science_2022_luosz_Deracemization through photochemical EZ isomerization of enamines,165,N/A
+science_2022_luosz_Deracemization through photochemical EZ isomerization of enamines,166,N/A
+science_2022_luosz_Deracemization through photochemical EZ isomerization of enamines,167,N/A
+science_2022_luosz_Deracemization through photochemical EZ isomerization of enamines,168,N/A
+science_2022_luosz_Deracemization through photochemical EZ isomerization of enamines,169,N/A
+science_2022_luosz_Deracemization through photochemical EZ isomerization of enamines,170,"| code name | name of MS | method of MS | calculated mass | experimental mass |
+|-----------|------------|--------------|-----------------|-------------------|"
+science_2022_luosz_Deracemization through photochemical EZ isomerization of enamines,171,N/A
+science_2022_luosz_Deracemization through photochemical EZ isomerization of enamines,172,N/A
+science_2022_luosz_Deracemization through photochemical EZ isomerization of enamines,173,N/A
+science_2022_luosz_Deracemization through photochemical EZ isomerization of enamines,174,N/A
+science_2022_luosz_Deracemization through photochemical EZ isomerization of enamines,175,N/A
+science_2022_luosz_Deracemization through photochemical EZ isomerization of enamines,176,N/A
+science_2022_luosz_Deracemization through photochemical EZ isomerization of enamines,177,N/A
+science_2022_luosz_Deracemization through photochemical EZ isomerization of enamines,178,"| code name | name of MS | method of MS | calculated mass | experimental mass |
+|-----------|------------|--------------|-----------------|-------------------|"
+science_2022_luosz_Deracemization through photochemical EZ isomerization of enamines,179,N/A
+science_2022_luosz_Deracemization through photochemical EZ isomerization of enamines,180,"| code name | name of MS | method of MS | calculated mass | experimental mass |
+|-----------|------------|--------------|-----------------|-------------------|"
+science_2022_luosz_Deracemization through photochemical EZ isomerization of enamines,181,N/A
+science_2022_luosz_Deracemization through photochemical EZ isomerization of enamines,182,N/A
+science_2022_luosz_Deracemization through photochemical EZ isomerization of enamines,183,N/A
+science_2022_luosz_Deracemization through photochemical EZ isomerization of enamines,184,N/A
+science_2022_luosz_Deracemization through photochemical EZ isomerization of enamines,185,N/A
+science_2022_luosz_Deracemization through photochemical EZ isomerization of enamines,186,N/A
+science_2022_luosz_Deracemization through photochemical EZ isomerization of enamines,187,"| code name | name of MS | method of MS | calculated mass | experimental mass |
+|-----------|------------|--------------|-----------------|-------------------|"

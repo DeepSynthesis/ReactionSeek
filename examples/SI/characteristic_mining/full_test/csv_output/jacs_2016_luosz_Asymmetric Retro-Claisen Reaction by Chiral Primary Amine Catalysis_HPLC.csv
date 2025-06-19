@@ -1,0 +1,481 @@
+path,item_num,summary
+jacs_2016_luosz_Asymmetric Retro-Claisen Reaction by Chiral Primary Amine Catalysis,0,"```markdown
+| code name | column type | solvent | flow rate | wavelength | minor retention time | major retention time |
+|-----------|-------------|---------|-----------|------------|----------------------|----------------------|
+```"
+jacs_2016_luosz_Asymmetric Retro-Claisen Reaction by Chiral Primary Amine Catalysis,1," code name | column type | solvent | flow rate | wavelength | minor retention time | major retention time |
+|-----------|-------------|---------|-----------|------------|----------------------|----------------------|
+| 4a | Daicel ChiralpakAS-H | 2% iso-propanol/hexane | 1.0 mL/min | 205 nm | 19.48 min | 14.26 min |"
+jacs_2016_luosz_Asymmetric Retro-Claisen Reaction by Chiral Primary Amine Catalysis,2,"| code name | column type | solvent | flow rate | wavelength | minor retention time | major retention time |
+|-----------|-------------|---------|-----------|------------|----------------------|----------------------|
+| 4a | Daicel Chiralpak AS-H | 2% iso-propanol/hexane | 1.0 mL/min | 205 nm | 19.48 min | 14.26 min |"
+jacs_2016_luosz_Asymmetric Retro-Claisen Reaction by Chiral Primary Amine Catalysis,2," code name | column type | solvent | flow rate | wavelength | minor retention time | major retention time |
+|-----------|-------------|---------|-----------|------------|----------------------|----------------------|
+| 4b | Daicel ChiralpakAS‐H | 5% iso‐propanol/hexane | 1.0 mL/min | 205 nm | 9.16 min | 7.58 min |
+| 4c | Daicel ChiralpakOJ‐H | 3% iso‐propanol/hexane | 1.0 mL/min | 205 nm | 9.89 min | 8.94 min |"
+jacs_2016_luosz_Asymmetric Retro-Claisen Reaction by Chiral Primary Amine Catalysis,3," code name | column type | solvent | flow rate | wavelength | minor retention time | major retention time |
+        |-----------|-------------|---------|-----------|------------|----------------------|----------------------|
+        | N/A | Daicel ChiralpakAS‐H | 5% iso‐propanol/hexane | 1.0 mL/min | 205 nm | 9.16 min | 7.58 min |"
+jacs_2016_luosz_Asymmetric Retro-Claisen Reaction by Chiral Primary Amine Catalysis,3,"| code name | column type | solvent | flow rate | wavelength | minor retention time | major retention time |
+|-----------|-------------|---------|-----------|------------|----------------------|----------------------|
+| 4c | Daicel Chiralpak OJ-H | 3% iso-propanol/hexane | 1.0 mL/min | 205 nm | 9.89 min | 8.94 min |
+| 4d | Daicel Chiralpak AS-H | 5% iso-propanol/hexane | 1.0 mL/min | 205 nm | 6.13 min | 5.57 min |
+| 4e | Daicel Chiralpak AS-H | 5% iso-propanol/hexane | 1.0 mL/min | 205 nm | 8.54 min | 7.56 min |"
+jacs_2016_luosz_Asymmetric Retro-Claisen Reaction by Chiral Primary Amine Catalysis,4,N/A
+jacs_2016_luosz_Asymmetric Retro-Claisen Reaction by Chiral Primary Amine Catalysis,4,"| code name | column type | solvent | flow rate | wavelength | minor retention time | major retention time |
+|-----------|-------------|---------|-----------|------------|----------------------|----------------------|
+| 4e | Daicel ChiralpakAS‐H | 5% iso‐propanol/hexane | 1.0 mL/min | 205 nm | 8.54 min | 7.56 min |
+| 4f | Daicel ChiralpakAS‐H | 5% iso‐propanol/hexane | 1.0 mL/min | 205 nm | 8.47 min | 7.75 min |
+| 4g | Daicel ChiralpakAS‐H | 5% iso‐propanol/hexane | 1.0 mL/min | 205 nm | 14.67 min | 12.75 min |"
+jacs_2016_luosz_Asymmetric Retro-Claisen Reaction by Chiral Primary Amine Catalysis,5,"| code name | column type | solvent | flow rate | wavelength | minor retention time | major retention time |
+|-----------|-------------|---------|-----------|------------|----------------------|----------------------|
+
+"
+jacs_2016_luosz_Asymmetric Retro-Claisen Reaction by Chiral Primary Amine Catalysis,5,"| code name | column type | solvent | flow rate | wavelength | minor retention time | major retention time |
+|-----------|-------------|---------|-----------|------------|----------------------|----------------------|
+| 4g | Daicel Chiralpak AS-H | 5% iso-propanol/hexane | 1.0 mL/min | 205 nm | 14.67 min | 12.75 min |
+| 4h | Daicel Chiralpak OJ-H | 20% iso-propanol/hexane | 1.0 mL/min | 205 nm | 13.05 min | 16.97 min |
+| 4i | Daicel Chiralpak OD-H | 5% iso-propanol/hexane | 1.0 mL/min | 205 nm | 14.04 min | 16.68 min |"
+jacs_2016_luosz_Asymmetric Retro-Claisen Reaction by Chiral Primary Amine Catalysis,6," code name | column type | solvent | flow rate | wavelength | minor retention time | major retention time |
+|-----------|-------------|---------|-----------|------------|----------------------|----------------------|
+| N/A | Daicel ChiralpakOJ‐H | 20% iso‐propanol/hexane | 1.0 mL/min | 205 nm | 13.05 min | 16.97 min |"
+jacs_2016_luosz_Asymmetric Retro-Claisen Reaction by Chiral Primary Amine Catalysis,6,"        | code name | column type | solvent | flow rate | wavelength | minor retention time | major retention time |
+        |-----------|-------------|---------|-----------|------------|----------------------|----------------------|
+        | 4i | Daicel ChiralpakOD-H | 5% iso-propanol/hexane | 1.0 mL/min | 205 nm | 14.04 min | 16.68 min |
+        | 4j | Daicel ChiralpakAS-H*2 | 3% iso-propanol/hexane | 0.6 mL/min | 207 nm | 35.04 min | 33.80 min |
+        | 4k | Daicel ChiralpakOJ-H | 20% iso-propanol/hexane | 1.0 mL/min | 206 nm | 14.71 min | 12.79 min |"
+jacs_2016_luosz_Asymmetric Retro-Claisen Reaction by Chiral Primary Amine Catalysis,7,"| code name | column type | solvent | flow rate | wavelength | minor retention time | major retention time |
+|-----------|-------------|---------|-----------|------------|----------------------|----------------------|
+| 3ab       | Daicel Chiralpak AS-H | hexane/iso-propanol = 95:5 | 0.7 mL/min | 251 nm | 10.76 min | 12.75 min |
+
+"
+jacs_2016_luosz_Asymmetric Retro-Claisen Reaction by Chiral Primary Amine Catalysis,7,"| code name | column type | solvent | flow rate | wavelength | minor retention time | major retention time |
+|-----------|-------------|---------|-----------|------------|----------------------|----------------------|
+| 4k | Daicel ChiralpakOJ‐H | 20% iso‐propanol/hexane | 1.0 mL/min | 206 nm | 14.71 min | 12.79 min |
+| 4l | Daicel ChiralpakAS‐H | 5% iso‐propanol/hexane | 1.0 mL/min | 205 nm | 9.27 min | 10.17 min |
+| 4m | Daicel ChiralpakAS‐H | 5% iso‐propanol/hexane | 1.0 mL/min | 205 nm | 6.34 min | 5.43 min |"
+jacs_2016_luosz_Asymmetric Retro-Claisen Reaction by Chiral Primary Amine Catalysis,8,"| code name | column type | solvent | flow rate | wavelength | minor retention time | major retention time |
+|-----------|-------------|---------|-----------|------------|----------------------|----------------------|
+| - | Daicel Chiralpak AS-H | iso-propanol/hexane = 5% | 1.0 mL/min | 205 nm | 9.27 min | 10.17 min |"
+jacs_2016_luosz_Asymmetric Retro-Claisen Reaction by Chiral Primary Amine Catalysis,8,"| code name | column type | solvent | flow rate | wavelength | minor retention time | major retention time |
+|-----------|-------------|---------|-----------|------------|----------------------|----------------------|
+| 4m | Daicel Chiralpak AS-H | 5% iso-propanol/hexane | 1.0 mL/min | 205 nm | 6.34 min | 5.43 min |
+| 4n | Daicel Chiralpak OD-H | 5% iso-propanol/hexane | 1.0 mL/min | 206 nm | 8.37 min | 9.11 min |
+| 4n’ | Daicel Chiralpak OJ-H | 5% iso-propanol/hexane | 1.0 mL/min | 205 nm | 10.18 min | 11.04 min |"
+jacs_2016_luosz_Asymmetric Retro-Claisen Reaction by Chiral Primary Amine Catalysis,9," ```
+| code name | column type | solvent | flow rate | wavelength | minor retention time | major retention time |
+|-----------|-------------|---------|-----------|------------|----------------------|----------------------|
+| 4n | Daicel Chiralpak OD-H | 5% iso-propanol/hexane | 1.0 mL/min | 206 nm | 8.37 min | 9.11 min |
+```"
+jacs_2016_luosz_Asymmetric Retro-Claisen Reaction by Chiral Primary Amine Catalysis,9,"| code name | column type | solvent | flow rate | wavelength | minor retention time | major retention time |
+|-----------|-------------|---------|-----------|------------|----------------------|----------------------|
+| 4n’ | Daicel ChiralpakOJ‐H | 5% iso‐propanol/hexane | 1.0 mL/min | 205 nm | 10.18 min | 11.04 min |
+| 4o | Daicel ChiralpakAS‐H | 20% iso‐propanol/hexane | 1.0 mL/min | 207 nm | 11.13 min | 9.47 min |
+| 4p | Daicel ChiralpakOD‐H | 5% iso‐propanol/hexane | 1.0 mL/min | 205 nm | 7.10 min | 7.12 min |"
+jacs_2016_luosz_Asymmetric Retro-Claisen Reaction by Chiral Primary Amine Catalysis,10,N/A
+jacs_2016_luosz_Asymmetric Retro-Claisen Reaction by Chiral Primary Amine Catalysis,10,"```markdown
+| code name | column type | solvent | flow rate | wavelength | minor retention time | major retention time |
+|-----------|-------------|---------|-----------|------------|----------------------|----------------------|
+| 4o | Daicel Chiralpak AS-H | 20% iso-propanol/hexane | 1.0 mL/min | 207 nm | 11.13 min | 9.47 min |
+| 4p | Daicel Chiralpak OD-H | 5% iso-propanol/hexane | 1.0 mL/min | 205 nm | 7.10 min | 7.12 min |
+| 4q | Daicel Chiralpak AS-H | 3% iso-propanol/hexane | 1.0 mL/min | 204 nm | 18.28 min | 12.20 min |
+| 4r | Daicel Chiralpak AS-H*2 | 3% iso-propanol/hexane | 1.0 mL/min | 203 nm | 39.20 min | 36.89 min |
+```"
+jacs_2016_luosz_Asymmetric Retro-Claisen Reaction by Chiral Primary Amine Catalysis,11,"| code name | column type | solvent | flow rate | wavelength | minor retention time | major retention time |
+|-----------|-------------|---------|-----------|------------|----------------------|----------------------|
+N/A"
+jacs_2016_luosz_Asymmetric Retro-Claisen Reaction by Chiral Primary Amine Catalysis,11," code name | column type | solvent | flow rate | wavelength | minor retention time | major retention time |
+|-----------|-------------|---------|-----------|------------|----------------------|----------------------|
+| 4q | Daicel Chiralpak AS‐H | 3% iso‐propanol/hexane | 1.0 mL/min | 204 nm | 18.28 min | 12.20 min |
+| 4r | Daicel Chiralpak AS‐H*2 | 3% iso‐propanol/hexane | 1.0 mL/min | 203 nm | 39.20 min | 36.89 min |
+| 4s | Daicel Chiralpak AD‐H | 2% iso‐propanol/hexane | 1.0 mL/min | 225 nm | 34.79 min | 32.15 min |
+| 4t | Daicel Chiralpak AD‐H | 10% iso‐propanol/hexane | 1.0 mL/min | 204 nm | 10.35 min | 11.03 min |"
+jacs_2016_luosz_Asymmetric Retro-Claisen Reaction by Chiral Primary Amine Catalysis,12,"| code name | column type | solvent | flow rate | wavelength | minor retention time | major retention time |
+|-----------|-------------|---------|-----------|------------|----------------------|----------------------|
+| 3aa | Daicel Chiralpak AS-H | hexane/iso-propanol = 95:5 | 0.7 mL/min | 251 nm | 9.60 min | 11.11 min |
+| 3ad | Daicel Chiralpak AS-H | hexane/iso-propanol = 95:5 | 0.7 mL/min | 251 nm | 10.29 min | 12.19 min |
+| 3ab | Daicel Chiralpak AS-H | hexane/iso-propanol = 95:5 | 0.7 mL/min | 251 nm | 10.76 min | 12.75 min |"
+jacs_2016_luosz_Asymmetric Retro-Claisen Reaction by Chiral Primary Amine Catalysis,12,"| code name | column type | solvent | flow rate | wavelength | minor retention time | major retention time |
+|-----------|-------------|---------|-----------|------------|----------------------|----------------------|
+| 4s | Daicel Chiralpak AD-H | 2% iso-propanol/hexane | 1.0 mL/min | 225 nm | 34.79 min | 32.15 min |
+| 4t | Daicel Chiralpak AD-H | 10% iso-propanol/hexane | 1.0 mL/min | 204 nm | 10.35 min | 11.03 min |
+| 4u | Daicel Chiralpak AD-H*2 | 3% iso-propanol/hexane | 1.0 mL/min | 203 nm | 38.91 min | 37.28 min |
+| 4u’ | Daicel Chiralpak OJ-H | 5% iso-propanol/hexane | 1.0 mL/min | 204 nm | 16.72 min | 24.84 min |"
+jacs_2016_luosz_Asymmetric Retro-Claisen Reaction by Chiral Primary Amine Catalysis,13,"| code name | column type | solvent | flow rate | wavelength | minor retention time | major retention time |
+|-----------|-------------|---------|-----------|------------|----------------------|----------------------|
+| N/A       | N/A         | N/A     | N/A       | N/A        | N/A                  | N/A                  |"
+jacs_2016_luosz_Asymmetric Retro-Claisen Reaction by Chiral Primary Amine Catalysis,13,"| code name | column type | solvent | flow rate | wavelength | minor retention time | major retention time |
+|-----------|-------------|---------|-----------|------------|----------------------|----------------------|
+| 4u | Daicel ChiralpakAD‐H | 3% iso‐propanol/hexane | 1.0 mL/min | 203 nm | 38.91 min | 37.28 min |
+| 4u' | Daicel ChiralpakOJ‐H | 5% iso‐propanol/hexane | 1.0 mL/min | 204 nm | 16.72 min | 24.84 min |
+| 4v | Daicel ChiralpakOJ‐H | 10% iso‐propanol/hexane | 1.0 mL/min | 225 nm | 13.35 min | 17.97 min |
+| 4w | Daicel ChiralpakAS‐H | 3% iso‐propanol/hexane | 1.0 mL/min | 203 nm | 9.00 min | 7.38 min |"
+jacs_2016_luosz_Asymmetric Retro-Claisen Reaction by Chiral Primary Amine Catalysis,14,"| code name | column type | solvent | flow rate | wavelength | minor retention time | major retention time |
+|-----------|-------------|---------|-----------|------------|----------------------|----------------------|
+| N/A       | N/A         | N/A     | N/A       | N/A        | N/A                  | N/A                  |"
+jacs_2016_luosz_Asymmetric Retro-Claisen Reaction by Chiral Primary Amine Catalysis,14,"```markdown
+| code name | column type | solvent | flow rate | wavelength | minor retention time | major retention time |
+|-----------|-------------|---------|-----------|------------|----------------------|----------------------|
+| 4v | Daicel Chiralpak OJ-H | 10% iso-propanol/hexane | 1.0 mL/min | 225 nm | 13.35 min | 17.97 min |
+| 4w | Daicel Chiralpak AS-H | 3% iso-propanol/hexane | 1.0 mL/min | 203 nm | 9.00 min | 7.38 min |
+| 4x | Daicel Chiralpak AS-H | 3% iso-propanol/hexane | 1.0 mL/min | 204 nm | 11.83 min | 8.51 min |
+| 4y | Daicel Chiralpak OJ-H | 3% iso-propanol/hexane | 1.0 mL/min | 203 nm | 16.87 min | 15.79 min |
+```"
+jacs_2016_luosz_Asymmetric Retro-Claisen Reaction by Chiral Primary Amine Catalysis,15,"| code name | column type | solvent | flow rate | wavelength | minor retention time | major retention time |
+|-----------|-------------|---------|-----------|------------|----------------------|----------------------|
+| N/A       | N/A         | N/A     | N/A       | N/A        | N/A                  | N/A                  |"
+jacs_2016_luosz_Asymmetric Retro-Claisen Reaction by Chiral Primary Amine Catalysis,15,"| code name | column type | solvent | flow rate | wavelength | minor retention time | major retention time |
+|-----------|-------------|---------|-----------|------------|----------------------|----------------------|
+| 4x | Daicel Chiralpak AS-H | 3% iso-propanol/hexane | 1.0 mL/min | 204 nm | 11.83 min | 8.51 min |
+| 4y | Daicel Chiralpak OJ-H | 3% iso-propanol/hexane | 1.0 mL/min | 203 nm | 16.87 min | 15.79 min |
+| 6 | Daicel Chiralpak OJ-H | 1% iso-propanol/hexane | 0.5 mL/min | 202 nm | 11.32 min | 12.32 min |"
+jacs_2016_luosz_Asymmetric Retro-Claisen Reaction by Chiral Primary Amine Catalysis,16," code name | column type | solvent | flow rate | wavelength | minor retention time | major retention time |
+|-----------|-------------|---------|-----------|------------|----------------------|----------------------|
+| N/A | N/A | N/A | N/A | N/A | N/A | N/A |"
+jacs_2016_luosz_Asymmetric Retro-Claisen Reaction by Chiral Primary Amine Catalysis,16,"| code name | column type | solvent | flow rate | wavelength | minor retention time | major retention time |
+|-----------|-------------|---------|-----------|------------|----------------------|----------------------|
+| 6 | Daicel Chiralpak OJ-H | 1% iso-propanol/hexane | 0.5 mL/min | 202 nm | 11.32 min | 12.32 min |"
+jacs_2016_luosz_Asymmetric Retro-Claisen Reaction by Chiral Primary Amine Catalysis,17," code name | column type | solvent | flow rate | wavelength | minor retention time | major retention time |
+        |-----------|-------------|---------|-----------|------------|----------------------|----------------------|
+        | N/A | N/A | N/A | N/A | N/A | N/A | N/A |"
+jacs_2016_luosz_Asymmetric Retro-Claisen Reaction by Chiral Primary Amine Catalysis,18, N/
+jacs_2016_luosz_Asymmetric Retro-Claisen Reaction by Chiral Primary Amine Catalysis,19,N/A
+jacs_2016_luosz_Asymmetric Retro-Claisen Reaction by Chiral Primary Amine Catalysis,20, N/
+jacs_2016_luosz_Asymmetric Retro-Claisen Reaction by Chiral Primary Amine Catalysis,21,N/A
+jacs_2016_luosz_Asymmetric Retro-Claisen Reaction by Chiral Primary Amine Catalysis,22,"| code name | column type | solvent | flow rate | wavelength | minor retention time | major retention time |
+|-----------|-------------|---------|-----------|------------|----------------------|----------------------|
+| N/A       | N/A         | N/A     | N/A       | N/A        | N/A                  | N/A                  |"
+jacs_2016_luosz_Asymmetric Retro-Claisen Reaction by Chiral Primary Amine Catalysis,23,"| code name | column type | solvent | flow rate | wavelength | minor retention time | major retention time |
+|-----------|-------------|---------|-----------|------------|----------------------|----------------------|
+| N/A       | N/A         | N/A     | N/A       | N/A        | N/A                  | N/A                  |"
+jacs_2016_luosz_Asymmetric Retro-Claisen Reaction by Chiral Primary Amine Catalysis,24,N/A
+jacs_2016_luosz_Asymmetric Retro-Claisen Reaction by Chiral Primary Amine Catalysis,24,N/A
+jacs_2016_luosz_Asymmetric Retro-Claisen Reaction by Chiral Primary Amine Catalysis,25,"| code name | column type | solvent | flow rate | wavelength | minor retention time | major retention time |
+|-----------|-------------|---------|-----------|------------|----------------------|----------------------|
+N/A"
+jacs_2016_luosz_Asymmetric Retro-Claisen Reaction by Chiral Primary Amine Catalysis,25,"| code name | column type | solvent | flow rate | wavelength | minor retention time | major retention time |
+|-----------|-------------|---------|-----------|------------|----------------------|----------------------|"
+jacs_2016_luosz_Asymmetric Retro-Claisen Reaction by Chiral Primary Amine Catalysis,26,N/A
+jacs_2016_luosz_Asymmetric Retro-Claisen Reaction by Chiral Primary Amine Catalysis,27,N/A
+jacs_2016_luosz_Asymmetric Retro-Claisen Reaction by Chiral Primary Amine Catalysis,28, N/
+jacs_2016_luosz_Asymmetric Retro-Claisen Reaction by Chiral Primary Amine Catalysis,29, N/
+jacs_2016_luosz_Asymmetric Retro-Claisen Reaction by Chiral Primary Amine Catalysis,30,"The provided text does not contain sufficient information regarding HPLC data such as code name, column type, solvent, flow rate, wavelength, or retention times. Thus, the output is:
+
+```
+| code name | column type | solvent | flow rate | wavelength | minor retention time | major retention time |
+|-----------|-------------|---------|-----------|------------|----------------------|----------------------|
+```"
+jacs_2016_luosz_Asymmetric Retro-Claisen Reaction by Chiral Primary Amine Catalysis,31,N/A
+jacs_2016_luosz_Asymmetric Retro-Claisen Reaction by Chiral Primary Amine Catalysis,32," code name | column type | solvent | flow rate | wavelength | minor retention time | major retention time |
+|-----------|-------------|---------|-----------|------------|----------------------|----------------------|"
+jacs_2016_luosz_Asymmetric Retro-Claisen Reaction by Chiral Primary Amine Catalysis,33,"```markdown
+| code name | column type | solvent | flow rate | wavelength | minor retention time | major retention time |
+|-----------|-------------|---------|-----------|------------|----------------------|----------------------|
+| 3aa       | Daicel Chiralpak AS-H | hexane/iso-propanol = 95:5 | 0.7 mL/min | 251 nm | 9.60 min | 11.11 min |
+| 3ad       | Daicel Chiralpak AS-H | hexane/iso-propanol = 95:5 | 0.7 mL/min | 251 nm | 10.29 min | 12.19 min |
+| 3ab       | Daicel Chiralpak AS-H | hexane/iso-propanol = 95:5 | 0.7 mL/min | 251 nm | 10.76 min | 12.75 min |
+```"
+jacs_2016_luosz_Asymmetric Retro-Claisen Reaction by Chiral Primary Amine Catalysis,34,N/A
+jacs_2016_luosz_Asymmetric Retro-Claisen Reaction by Chiral Primary Amine Catalysis,35,"| code name | column type | solvent | flow rate | wavelength | minor retention time | major retention time |
+|-----------|-------------|---------|-----------|------------|----------------------|----------------------|"
+jacs_2016_luosz_Asymmetric Retro-Claisen Reaction by Chiral Primary Amine Catalysis,36,N/A
+jacs_2016_luosz_Asymmetric Retro-Claisen Reaction by Chiral Primary Amine Catalysis,37,N/A
+jacs_2016_luosz_Asymmetric Retro-Claisen Reaction by Chiral Primary Amine Catalysis,38,"| code name | column type | solvent | flow rate | wavelength | minor retention time | major retention time |
+|-----------|-------------|---------|-----------|------------|----------------------|----------------------|"
+jacs_2016_luosz_Asymmetric Retro-Claisen Reaction by Chiral Primary Amine Catalysis,39," code name | column type | solvent | flow rate | wavelength | minor retention time | major retention time |
+|-----------|-------------|---------|-----------|------------|----------------------|----------------------|
+| N/A | N/A | N/A | N/A | N/A | N/A | N/A |"
+jacs_2016_luosz_Asymmetric Retro-Claisen Reaction by Chiral Primary Amine Catalysis,40,"| code name | column type | solvent | flow rate | wavelength | minor retention time | major retention time |
+|-----------|-------------|---------|-----------|------------|----------------------|----------------------|
+| 3ab | Daicel Chiralpak AS-H | hexane/iso-propanol = 95:5 | 0.7 mL/min | 251 nm | 10.76 min | 12.75 min |"
+jacs_2016_luosz_Asymmetric Retro-Claisen Reaction by Chiral Primary Amine Catalysis,41,"| code name | column type | solvent | flow rate | wavelength | minor retention time | major retention time |
+|-----------|-------------|---------|-----------|------------|----------------------|----------------------|
+| N/A       | N/A         | N/A     | N/A       | N/A        | N/A                  | N/A                  |"
+jacs_2016_luosz_Asymmetric Retro-Claisen Reaction by Chiral Primary Amine Catalysis,42,"| code name | column type | solvent | flow rate | wavelength | minor retention time | major retention time |
+|-----------|-------------|---------|-----------|------------|----------------------|----------------------|
+| 3aa | Daicel Chiralpak AS-H | hexane/iso-propanol = 95:5 | 0.7 mL/min | 251 nm | 9.60 min | 11.11 min |
+| 3ad | Daicel Chiralpak AS-H | hexane/iso-propanol = 95:5 | 0.7 mL/min | 251 nm | 10.29 min | 12.19 min |
+| 3ab | Daicel Chiralpak AS-H | hexane/iso-propanol = 95:5 | 0.7 mL/min | 251 nm | 10.76 min | 12.75 min |"
+jacs_2016_luosz_Asymmetric Retro-Claisen Reaction by Chiral Primary Amine Catalysis,43,N/A
+jacs_2016_luosz_Asymmetric Retro-Claisen Reaction by Chiral Primary Amine Catalysis,44,"| code name | column type | solvent | flow rate | wavelength | minor retention time | major retention time |
+|-----------|-------------|---------|-----------|------------|----------------------|----------------------|"
+jacs_2016_luosz_Asymmetric Retro-Claisen Reaction by Chiral Primary Amine Catalysis,45, N/
+jacs_2016_luosz_Asymmetric Retro-Claisen Reaction by Chiral Primary Amine Catalysis,46,"| code name | column type | solvent | flow rate | wavelength | minor retention time | major retention time |
+|-----------|-------------|---------|-----------|------------|----------------------|----------------------|
+| N/A       | N/A         | N/A     | N/A       | N/A        | N/A                  | N/A                  |"
+jacs_2016_luosz_Asymmetric Retro-Claisen Reaction by Chiral Primary Amine Catalysis,47,"| code name | column type | solvent | flow rate | wavelength | minor retention time | major retention time |
+|-----------|-------------|---------|-----------|------------|----------------------|----------------------|
+| 3ab | Daicel Chiralpak AS-H | hexane/iso-propanol = 95:5 | 0.7 mL/min | 251 nm | 10.76 min | 12.75 min |
+
+"
+jacs_2016_luosz_Asymmetric Retro-Claisen Reaction by Chiral Primary Amine Catalysis,48,N/A
+jacs_2016_luosz_Asymmetric Retro-Claisen Reaction by Chiral Primary Amine Catalysis,49,"| code name | column type | solvent | flow rate | wavelength | minor retention time | major retention time |
+|-----------|-------------|---------|-----------|------------|----------------------|----------------------|"
+jacs_2016_luosz_Asymmetric Retro-Claisen Reaction by Chiral Primary Amine Catalysis,50,N/A
+jacs_2016_luosz_Asymmetric Retro-Claisen Reaction by Chiral Primary Amine Catalysis,51,"| code name | column type | solvent | flow rate | wavelength | minor retention time | major retention time |
+|-----------|-------------|---------|-----------|------------|----------------------|----------------------|
+| N/A       | N/A         | N/A     | N/A       | N/A        | N/A                  | N/A                  |"
+jacs_2016_luosz_Asymmetric Retro-Claisen Reaction by Chiral Primary Amine Catalysis,52, N/
+jacs_2016_luosz_Asymmetric Retro-Claisen Reaction by Chiral Primary Amine Catalysis,53,N/A
+jacs_2016_luosz_Asymmetric Retro-Claisen Reaction by Chiral Primary Amine Catalysis,54,N/A
+jacs_2016_luosz_Asymmetric Retro-Claisen Reaction by Chiral Primary Amine Catalysis,55,N/A
+jacs_2016_luosz_Asymmetric Retro-Claisen Reaction by Chiral Primary Amine Catalysis,56,N/A
+jacs_2016_luosz_Asymmetric Retro-Claisen Reaction by Chiral Primary Amine Catalysis,57," code name | column type | solvent | flow rate | wavelength | minor retention time | major retention time |
+|-----------|-------------|---------|-----------|------------|----------------------|----------------------|"
+jacs_2016_luosz_Asymmetric Retro-Claisen Reaction by Chiral Primary Amine Catalysis,58," code name | column type | solvent | flow rate | wavelength | minor retention time | major retention time |
+|-----------|-------------|---------|-----------|------------|----------------------|----------------------|
+| N/A | N/A | N/A | N/A | N/A | N/A | N/A |"
+jacs_2016_luosz_Asymmetric Retro-Claisen Reaction by Chiral Primary Amine Catalysis,59,N/A
+jacs_2016_luosz_Asymmetric Retro-Claisen Reaction by Chiral Primary Amine Catalysis,60,"```markdown
+| code name | column type | solvent | flow rate | wavelength | minor retention time | major retention time |
+|-----------|-------------|---------|-----------|------------|----------------------|----------------------|
+| 3aa       | Daicel Chiralpak AS-H | hexane/iso-propanol = 95:5 | 0.7 mL/min | 251 nm | 9.60 min | 11.11 min |
+| 3ad       | Daicel Chiralpak AS-H | hexane/iso-propanol = 95:5 | 0.7 mL/min | 251 nm | 10.29 min | 12.19 min |
+| 3ab       | Daicel Chiralpak AS-H | hexane/iso-propanol = 95:5 | 0.7 mL/min | 251 nm | 10.76 min | 12.75 min |
+```"
+jacs_2016_luosz_Asymmetric Retro-Claisen Reaction by Chiral Primary Amine Catalysis,61,"| code name | column type | solvent | flow rate | wavelength | minor retention time | major retention time |
+|-----------|-------------|---------|-----------|------------|----------------------|----------------------|
+| 3ab | Daicel Chiralpak AS-H | hexane/iso-propanol = 95:5 | 0.7 mL/min | 251 nm | 10.76 min | 12.75 min |"
+jacs_2016_luosz_Asymmetric Retro-Claisen Reaction by Chiral Primary Amine Catalysis,62,N/A
+jacs_2016_luosz_Asymmetric Retro-Claisen Reaction by Chiral Primary Amine Catalysis,63, N/
+jacs_2016_luosz_Asymmetric Retro-Claisen Reaction by Chiral Primary Amine Catalysis,64,N/A
+jacs_2016_luosz_Asymmetric Retro-Claisen Reaction by Chiral Primary Amine Catalysis,65," code name | column type | solvent | flow rate | wavelength | minor retention time | major retention time |
+|-----------|-------------|---------|-----------|------------|----------------------|----------------------|"
+jacs_2016_luosz_Asymmetric Retro-Claisen Reaction by Chiral Primary Amine Catalysis,66,"Based on the provided input, there is no HPLC data or relevant information about code names, column types, solvents, flow rates, wavelengths, and retention times. Therefore, the table output is as follows:
+
+```
+| code name | column type | solvent | flow rate | wavelength | minor retention time | major retention time |
+|-----------|-------------|---------|-----------|------------|----------------------|----------------------|
+```
+No HPLC-related details are present in the text."
+jacs_2016_luosz_Asymmetric Retro-Claisen Reaction by Chiral Primary Amine Catalysis,67,N/A
+jacs_2016_luosz_Asymmetric Retro-Claisen Reaction by Chiral Primary Amine Catalysis,68, N/
+jacs_2016_luosz_Asymmetric Retro-Claisen Reaction by Chiral Primary Amine Catalysis,69,"| code name | column type | solvent | flow rate | wavelength | minor retention time | major retention time |
+|-----------|-------------|---------|-----------|------------|----------------------|----------------------|
+| N/A       | N/A         | N/A     | N/A       | N/A        | N/A                  | N/A                  |"
+jacs_2016_luosz_Asymmetric Retro-Claisen Reaction by Chiral Primary Amine Catalysis,70," code name | column type | solvent | flow rate | wavelength | minor retention time | major retention time |
+        |-----------|-------------|---------|-----------|------------|----------------------|----------------------|"
+jacs_2016_luosz_Asymmetric Retro-Claisen Reaction by Chiral Primary Amine Catalysis,71,N/A
+jacs_2016_luosz_Asymmetric Retro-Claisen Reaction by Chiral Primary Amine Catalysis,72,N/A
+jacs_2016_luosz_Asymmetric Retro-Claisen Reaction by Chiral Primary Amine Catalysis,73,"| code name | column type | solvent | flow rate | wavelength | minor retention time | major retention time |
+|-----------|-------------|---------|-----------|------------|----------------------|----------------------|
+| N/A       | N/A         | N/A     | N/A       | N/A        | N/A                  | N/A                  |"
+jacs_2016_luosz_Asymmetric Retro-Claisen Reaction by Chiral Primary Amine Catalysis,74,"| code name | column type | solvent | flow rate | wavelength | minor retention time | major retention time |
+|-----------|-------------|---------|-----------|------------|----------------------|----------------------|
+| N/A       | N/A         | N/A     | N/A       | N/A        | N/A                  | N/A                  |"
+jacs_2016_luosz_Asymmetric Retro-Claisen Reaction by Chiral Primary Amine Catalysis,75,N/A
+jacs_2016_luosz_Asymmetric Retro-Claisen Reaction by Chiral Primary Amine Catalysis,76,N/A
+jacs_2016_luosz_Asymmetric Retro-Claisen Reaction by Chiral Primary Amine Catalysis,77,"| code name | column type | solvent | flow rate | wavelength | minor retention time | major retention time |
+|-----------|-------------|---------|-----------|------------|----------------------|----------------------|
+| N/A       | N/A         | N/A     | N/A       | N/A        | N/A                  | N/A                  |"
+jacs_2016_luosz_Asymmetric Retro-Claisen Reaction by Chiral Primary Amine Catalysis,78,"```markdown
+| code name | column type | solvent | flow rate | wavelength | minor retention time | major retention time |
+|-----------|-------------|---------|-----------|------------|----------------------|----------------------|
+```
+
+In the last provided text, there is no HPLC data or information related to molecules or their analysis conditions, so the table remains empty."
+jacs_2016_luosz_Asymmetric Retro-Claisen Reaction by Chiral Primary Amine Catalysis,79,"| code name | column type | solvent | flow rate | wavelength | minor retention time | major retention time |
+|-----------|-------------|---------|-----------|------------|----------------------|----------------------|"
+jacs_2016_luosz_Asymmetric Retro-Claisen Reaction by Chiral Primary Amine Catalysis,80,N/A
+jacs_2016_luosz_Asymmetric Retro-Claisen Reaction by Chiral Primary Amine Catalysis,81,N/A
+jacs_2016_luosz_Asymmetric Retro-Claisen Reaction by Chiral Primary Amine Catalysis,82,N/A
+jacs_2016_luosz_Asymmetric Retro-Claisen Reaction by Chiral Primary Amine Catalysis,83,"| code name | column type | solvent | flow rate | wavelength | minor retention time | major retention time |
+|-----------|-------------|---------|-----------|------------|----------------------|----------------------|
+| N/A       | N/A         | N/A     | N/A       | N/A        | N/A                  | N/A                  |"
+jacs_2016_luosz_Asymmetric Retro-Claisen Reaction by Chiral Primary Amine Catalysis,84,"| code name | column type | solvent | flow rate | wavelength | minor retention time | major retention time |
+|-----------|-------------|---------|-----------|------------|----------------------|----------------------|
+| N/A       | N/A         | N/A     | N/A       | N/A        | N/A                  | N/A                  |"
+jacs_2016_luosz_Asymmetric Retro-Claisen Reaction by Chiral Primary Amine Catalysis,85,"| code name | column type | solvent | flow rate | wavelength | minor retention time | major retention time |
+|-----------|-------------|---------|-----------|------------|----------------------|----------------------|"
+jacs_2016_luosz_Asymmetric Retro-Claisen Reaction by Chiral Primary Amine Catalysis,86,"| code name | column type | solvent | flow rate | wavelength | minor retention time | major retention time |
+|-----------|-------------|---------|-----------|------------|----------------------|----------------------|"
+jacs_2016_luosz_Asymmetric Retro-Claisen Reaction by Chiral Primary Amine Catalysis,87,N/A
+jacs_2016_luosz_Asymmetric Retro-Claisen Reaction by Chiral Primary Amine Catalysis,88,N/A
+jacs_2016_luosz_Asymmetric Retro-Claisen Reaction by Chiral Primary Amine Catalysis,89, N/
+jacs_2016_luosz_Asymmetric Retro-Claisen Reaction by Chiral Primary Amine Catalysis,90,"| code name | column type | solvent | flow rate | wavelength | minor retention time | major retention time |
+|-----------|-------------|---------|-----------|------------|----------------------|----------------------|
+| N/A       | N/A         | N/A     | N/A       | N/A        | N/A                  | N/A                  |"
+jacs_2016_luosz_Asymmetric Retro-Claisen Reaction by Chiral Primary Amine Catalysis,91,N/A
+jacs_2016_luosz_Asymmetric Retro-Claisen Reaction by Chiral Primary Amine Catalysis,92,"| code name | column type | solvent | flow rate | wavelength | minor retention time | major retention time |
+|-----------|-------------|---------|-----------|------------|----------------------|----------------------|
+| N/A       | N/A         | N/A     | N/A       | N/A        | N/A                  | N/A                  |"
+jacs_2016_luosz_Asymmetric Retro-Claisen Reaction by Chiral Primary Amine Catalysis,93,"| code name | column type | solvent | flow rate | wavelength | minor retention time | major retention time |
+|-----------|-------------|---------|-----------|------------|----------------------|----------------------|"
+jacs_2016_luosz_Asymmetric Retro-Claisen Reaction by Chiral Primary Amine Catalysis,94,N/A
+jacs_2016_luosz_Asymmetric Retro-Claisen Reaction by Chiral Primary Amine Catalysis,95,"| code name | column type | solvent | flow rate | wavelength | minor retention time | major retention time |
+|-----------|-------------|---------|-----------|------------|----------------------|----------------------|
+| N/A       | N/A         | N/A     | N/A       | N/A        | N/A                  | N/A                  |"
+jacs_2016_luosz_Asymmetric Retro-Claisen Reaction by Chiral Primary Amine Catalysis,96,"| code name | column type | solvent | flow rate | wavelength | minor retention time | major retention time |
+|-----------|-------------|---------|-----------|------------|----------------------|----------------------|
+| 3aa | Daicel Chiralpak AS-H | hexane/iso-propanol = 95:5 | 0.7 mL/min | 251 nm | 9.60 min | 11.11 min |
+| 3ad | Daicel Chiralpak AS-H | hexane/iso-propanol = 95:5 | 0.7 mL/min | 251 nm | 10.29 min | 12.19 min |
+| 3ab | Daicel Chiralpak AS-H | hexane/iso-propanol = 95:5 | 0.7 mL/min | 251 nm | 10.76 min | 12.75 min |"
+jacs_2016_luosz_Asymmetric Retro-Claisen Reaction by Chiral Primary Amine Catalysis,97,N/A
+jacs_2016_luosz_Asymmetric Retro-Claisen Reaction by Chiral Primary Amine Catalysis,98,"| code name | column type | solvent | flow rate | wavelength | minor retention time | major retention time |
+|-----------|-------------|---------|-----------|------------|----------------------|----------------------|
+| N/A       | N/A         | N/A     | N/A       | N/A        | N/A                  | N/A                  |"
+jacs_2016_luosz_Asymmetric Retro-Claisen Reaction by Chiral Primary Amine Catalysis,99,"| code name | column type | solvent | flow rate | wavelength | minor retention time | major retention time |
+|-----------|-------------|---------|-----------|------------|----------------------|----------------------|"
+jacs_2016_luosz_Asymmetric Retro-Claisen Reaction by Chiral Primary Amine Catalysis,100,"| code name | column type | solvent | flow rate | wavelength | minor retention time | major retention time |
+|-----------|-------------|---------|-----------|------------|----------------------|----------------------|
+| N/A       | N/A         | N/A     | N/A       | N/A        | N/A                  | N/A                  |"
+jacs_2016_luosz_Asymmetric Retro-Claisen Reaction by Chiral Primary Amine Catalysis,101,N/A
+jacs_2016_luosz_Asymmetric Retro-Claisen Reaction by Chiral Primary Amine Catalysis,102, N/
+jacs_2016_luosz_Asymmetric Retro-Claisen Reaction by Chiral Primary Amine Catalysis,103,N/A
+jacs_2016_luosz_Asymmetric Retro-Claisen Reaction by Chiral Primary Amine Catalysis,104,"| code name | column type | solvent | flow rate | wavelength | minor retention time | major retention time |
+|-----------|-------------|---------|-----------|------------|----------------------|----------------------|
+| N/A       | N/A         | N/A     | N/A       | N/A        | N/A                  | N/A                  |"
+jacs_2016_luosz_Asymmetric Retro-Claisen Reaction by Chiral Primary Amine Catalysis,105, N/
+jacs_2016_luosz_Asymmetric Retro-Claisen Reaction by Chiral Primary Amine Catalysis,106,"```markdown
+| code name | column type | solvent | flow rate | wavelength | minor retention time | major retention time |
+|-----------|-------------|---------|-----------|------------|----------------------|----------------------|
+| 3aa | Daicel Chiralpak AS-H | hexane/iso-propanol = 95:5 | 0.7 mL/min | 251 nm | 9.60 min | 11.11 min |
+| 3ad | Daicel Chiralpak AS-H | hexane/iso-propanol = 95:5 | 0.7 mL/min | 251 nm | 10.29 min | 12.19 min |
+| 3ab | Daicel Chiralpak AS-H | hexane/iso-propanol = 95:5 | 0.7 mL/min | 251 nm | 10.76 min | 12.75 min |
+```"
+jacs_2016_luosz_Asymmetric Retro-Claisen Reaction by Chiral Primary Amine Catalysis,107,"| code name | column type | solvent | flow rate | wavelength | minor retention time | major retention time |
+|-----------|-------------|---------|-----------|------------|----------------------|----------------------|
+| N/A       | N/A         | N/A     | N/A       | N/A        | N/A                  | N/A                  |"
+jacs_2016_luosz_Asymmetric Retro-Claisen Reaction by Chiral Primary Amine Catalysis,108,N/A
+jacs_2016_luosz_Asymmetric Retro-Claisen Reaction by Chiral Primary Amine Catalysis,109," code name | column type | solvent | flow rate | wavelength | minor retention time | major retention time |
+        |-----------|-------------|---------|-----------|------------|----------------------|----------------------|"
+jacs_2016_luosz_Asymmetric Retro-Claisen Reaction by Chiral Primary Amine Catalysis,110,"| code name | column type | solvent | flow rate | wavelength | minor retention time | major retention time |
+|-----------|-------------|---------|-----------|------------|----------------------|----------------------|
+| 3aa | Daicel Chiralpak AS-H | hexane/iso-propanol = 95:5 | 0.7 mL/min | 251 nm | 9.60 min | 11.11 min |
+| 3ad | Daicel Chiralpak AS-H | hexane/iso-propanol = 95:5 | 0.7 mL/min | 251 nm | 10.29 min | 12.19 min |
+| 3ab | Daicel Chiralpak AS-H | hexane/iso-propanol = 95:5 | 0.7 mL/min | 251 nm | 10.76 min | 12.75 min |"
+jacs_2016_luosz_Asymmetric Retro-Claisen Reaction by Chiral Primary Amine Catalysis,111,"The provided text does not contain any HPLC data or sufficient information related to HPLC analysis for any molecules.
+
+| code name | column type | solvent | flow rate | wavelength | minor retention time | major retention time |
+|-----------|-------------|---------|-----------|------------|----------------------|----------------------|"
+jacs_2016_luosz_Asymmetric Retro-Claisen Reaction by Chiral Primary Amine Catalysis,112,"| code name | column type | solvent | flow rate | wavelength | minor retention time | major retention time |
+|-----------|-------------|---------|-----------|------------|----------------------|----------------------|
+| 3aa | Daicel Chiralpak AS-H | hexane/iso-propanol = 95:5 | 0.7 mL/min | 251 nm | 9.60 min | 11.11 min |
+| 3ad | Daicel Chiralpak AS-H | hexane/iso-propanol = 95:5 | 0.7 mL/min | 251 nm | 10.29 min | 12.19 min |
+| 3ab | Daicel Chiralpak AS-H | hexane/iso-propanol = 95:5 | 0.7 mL/min | 251 nm | 10.76 min | 12.75 min |"
+jacs_2016_luosz_Asymmetric Retro-Claisen Reaction by Chiral Primary Amine Catalysis,113,N/A
+jacs_2016_luosz_Asymmetric Retro-Claisen Reaction by Chiral Primary Amine Catalysis,114,"| code name | column type | solvent | flow rate | wavelength | minor retention time | major retention time |
+|-----------|-------------|---------|-----------|------------|----------------------|----------------------|
+| 3aa       | Daicel Chiralpak AS-H | hexane/iso-propanol = 95:5 | 0.7 mL/min | 251 nm | 9.60 min | 11.11 min |
+| 3ad       | Daicel Chiralpak AS-H | hexane/iso-propanol = 95:5 | 0.7 mL/min | 251 nm | 10.29 min | 12.19 min |
+| 3ab       | Daicel Chiralpak AS-H | hexane/iso-propanol = 95:5 | 0.7 mL/min | 251 nm | 10.76 min | 12.75 min |"
+jacs_2016_luosz_Asymmetric Retro-Claisen Reaction by Chiral Primary Amine Catalysis,115,"| code name | column type | solvent | flow rate | wavelength | minor retention time | major retention time |
+|-----------|-------------|---------|-----------|------------|----------------------|----------------------|
+| N/A       | N/A         | N/A     | N/A       | N/A        | N/A                  | N/A                  |"
+jacs_2016_luosz_Asymmetric Retro-Claisen Reaction by Chiral Primary Amine Catalysis,116,N/A
+jacs_2016_luosz_Asymmetric Retro-Claisen Reaction by Chiral Primary Amine Catalysis,117,N/A
+jacs_2016_luosz_Asymmetric Retro-Claisen Reaction by Chiral Primary Amine Catalysis,118,"| code name | column type | solvent | flow rate | wavelength | minor retention time | major retention time |
+|-----------|-------------|---------|-----------|------------|----------------------|----------------------|
+| N/A       | N/A         | N/A     | N/A       | N/A        | N/A                  | N/A                  |"
+jacs_2016_luosz_Asymmetric Retro-Claisen Reaction by Chiral Primary Amine Catalysis,119,N/A
+jacs_2016_luosz_Asymmetric Retro-Claisen Reaction by Chiral Primary Amine Catalysis,120,N/A
+jacs_2016_luosz_Asymmetric Retro-Claisen Reaction by Chiral Primary Amine Catalysis,121,N/A
+jacs_2016_luosz_Asymmetric Retro-Claisen Reaction by Chiral Primary Amine Catalysis,122,N/A
+jacs_2016_luosz_Asymmetric Retro-Claisen Reaction by Chiral Primary Amine Catalysis,123,N/A
+jacs_2016_luosz_Asymmetric Retro-Claisen Reaction by Chiral Primary Amine Catalysis,124,"| code name | column type | solvent | flow rate | wavelength | minor retention time | major retention time |
+|-----------|-------------|---------|-----------|------------|----------------------|----------------------|
+| N/A       | N/A         | N/A     | N/A       | N/A        | N/A                  | N/A                  |"
+jacs_2016_luosz_Asymmetric Retro-Claisen Reaction by Chiral Primary Amine Catalysis,125,N/A
+jacs_2016_luosz_Asymmetric Retro-Claisen Reaction by Chiral Primary Amine Catalysis,126,"| code name | column type | solvent | flow rate | wavelength | minor retention time | major retention time |
+|-----------|-------------|---------|-----------|------------|----------------------|----------------------|
+| N/A       | N/A         | N/A     | N/A       | N/A        | N/A                  | N/A                  |"
+jacs_2016_luosz_Asymmetric Retro-Claisen Reaction by Chiral Primary Amine Catalysis,127,N/A
+jacs_2016_luosz_Asymmetric Retro-Claisen Reaction by Chiral Primary Amine Catalysis,128,N/A
+jacs_2016_luosz_Asymmetric Retro-Claisen Reaction by Chiral Primary Amine Catalysis,129,"| code name | column type | solvent | flow rate | wavelength | minor retention time | major retention time |
+|-----------|-------------|---------|-----------|------------|----------------------|----------------------|
+| 3aa | Daicel Chiralpak AS-H | hexane/iso-propanol = 95:5 | 0.7 mL/min | 251 nm | 9.60 min | 11.11 min |
+| 3ad | Daicel Chiralpak AS-H | hexane/iso-propanol = 95:5 | 0.7 mL/min | 251 nm | 10.29 min | 12.19 min |
+| 3ab | Daicel Chiralpak AS-H | hexane/iso-propanol = 95:5 | 0.7 mL/min | 251 nm | 10.76 min | 12.75 min |
+"
+jacs_2016_luosz_Asymmetric Retro-Claisen Reaction by Chiral Primary Amine Catalysis,130,"        | code name | column type | solvent | flow rate | wavelength | minor retention time | major retention time |
+        |-----------|-------------|---------|-----------|------------|----------------------|----------------------|
+        |           |             |         |           |            |                      |                      |
+
+"
+jacs_2016_luosz_Asymmetric Retro-Claisen Reaction by Chiral Primary Amine Catalysis,131,"| code name | column type | solvent | flow rate | wavelength | minor retention time | major retention time |
+|-----------|-------------|---------|-----------|------------|----------------------|----------------------|
+"
+jacs_2016_luosz_Asymmetric Retro-Claisen Reaction by Chiral Primary Amine Catalysis,132, N/
+jacs_2016_luosz_Asymmetric Retro-Claisen Reaction by Chiral Primary Amine Catalysis,133,N/A
+jacs_2016_luosz_Asymmetric Retro-Claisen Reaction by Chiral Primary Amine Catalysis,134," code name | column type | solvent | flow rate | wavelength | minor retention time | major retention time |
+|-----------|-------------|---------|-----------|------------|----------------------|----------------------|
+| N/A | N/A | N/A | N/A | N/A | N/A | N/A |"
+jacs_2016_luosz_Asymmetric Retro-Claisen Reaction by Chiral Primary Amine Catalysis,135," code name | column type | solvent | flow rate | wavelength | minor retention time | major retention time |
+|-----------|-------------|---------|-----------|------------|----------------------|----------------------|"
+jacs_2016_luosz_Asymmetric Retro-Claisen Reaction by Chiral Primary Amine Catalysis,136,"| code name | column type | solvent | flow rate | wavelength | minor retention time | major retention time |
+|-----------|-------------|---------|-----------|------------|----------------------|----------------------|
+| 3aa | Daicel Chiralpak AS-H | hexane/iso-propanol = 95:5 | 0.7 mL/min | 251 nm | 9.60 min | 11.11 min |
+| 3ad | Daicel Chiralpak AS-H | hexane/iso-propanol = 95:5 | 0.7 mL/min | 251 nm | 10.29 min | 12.19 min |
+| 3ab | Daicel Chiralpak AS-H | hexane/iso-propanol = 95:5 | 0.7 mL/min | 251 nm | 10.76 min | 12.75 min |"
+jacs_2016_luosz_Asymmetric Retro-Claisen Reaction by Chiral Primary Amine Catalysis,137,"| code name | column type | solvent | flow rate | wavelength | minor retention time | major retention time |
+|-----------|-------------|---------|-----------|------------|----------------------|----------------------|
+| N/A       | N/A         | N/A     | N/A       | N/A        | N/A                  | N/A                  |"
+jacs_2016_luosz_Asymmetric Retro-Claisen Reaction by Chiral Primary Amine Catalysis,138," code name | column type | solvent | flow rate | wavelength | minor retention time | major retention time |
+|-----------|-------------|---------|-----------|------------|----------------------|----------------------|"
+jacs_2016_luosz_Asymmetric Retro-Claisen Reaction by Chiral Primary Amine Catalysis,139,N/A
+jacs_2016_luosz_Asymmetric Retro-Claisen Reaction by Chiral Primary Amine Catalysis,140,N/A
+jacs_2016_luosz_Asymmetric Retro-Claisen Reaction by Chiral Primary Amine Catalysis,141,"| code name | column type | solvent | flow rate | wavelength | minor retention time | major retention time |
+|-----------|-------------|---------|-----------|------------|----------------------|----------------------|
+| 3aa | Daicel Chiralpak AS-H | hexane/iso-propanol = 95:5 | 0.7 mL/min | 251 nm | 9.60 min | 11.11 min |
+| 3ad | Daicel Chiralpak AS-H | hexane/iso-propanol = 95:5 | 0.7 mL/min | 251 nm | 10.29 min | 12.19 min |
+| 3ab | Daicel Chiralpak AS-H | hexane/iso-propanol = 95:5 | 0.7 mL/min | 251 nm | 10.76 min | 12.75 min |"
+jacs_2016_luosz_Asymmetric Retro-Claisen Reaction by Chiral Primary Amine Catalysis,142,"| code name | column type | solvent | flow rate | wavelength | minor retention time | major retention time |
+|-----------|-------------|---------|-----------|------------|----------------------|----------------------|
+| N/A       | N/A         | N/A     | N/A       | N/A        | N/A                  | N/A                  |"
+jacs_2016_luosz_Asymmetric Retro-Claisen Reaction by Chiral Primary Amine Catalysis,143,"| code name | column type | solvent | flow rate | wavelength | minor retention time | major retention time |
+|-----------|-------------|---------|-----------|------------|----------------------|----------------------|"
+jacs_2016_luosz_Asymmetric Retro-Claisen Reaction by Chiral Primary Amine Catalysis,144,N/A
+jacs_2016_luosz_Asymmetric Retro-Claisen Reaction by Chiral Primary Amine Catalysis,145,"| code name | column type | solvent | flow rate | wavelength | minor retention time | major retention time |
+|-----------|-------------|---------|-----------|------------|----------------------|----------------------|
+| 3aa | Daicel Chiralpak AS-H | hexane/iso-propanol = 95:5 | 0.7 mL/min | 251 nm | 9.60 min | 11.11 min |
+| 3ad | Daicel Chiralpak AS-H | hexane/iso-propanol = 95:5 | 0.7 mL/min | 251 nm | 10.29 min | 12.19 min |
+| 3ab | Daicel Chiralpak AS-H | hexane/iso-propanol = 95:5 | 0.7 mL/min | 251 nm | 10.76 min | 12.75 min |"
+jacs_2016_luosz_Asymmetric Retro-Claisen Reaction by Chiral Primary Amine Catalysis,146, N/
+jacs_2016_luosz_Asymmetric Retro-Claisen Reaction by Chiral Primary Amine Catalysis,147,"| code name | column type | solvent | flow rate | wavelength | minor retention time | major retention time |
+|-----------|-------------|---------|-----------|------------|----------------------|----------------------|
+| 3aa | Daicel Chiralpak AS-H | hexane/iso-propanol = 95:5 | 0.7 mL/min | 251 nm | 9.60 min | 11.11 min |
+| 3ad | Daicel Chiralpak AS-H | hexane/iso-propanol = 95:5 | 0.7 mL/min | 251 nm | 10.29 min | 12.19 min |
+| 3ab | Daicel Chiralpak AS-H | hexane/iso-propanol = 95:5 | 0.7 mL/min | 251 nm | 10.76 min | 12.75 min |"
+jacs_2016_luosz_Asymmetric Retro-Claisen Reaction by Chiral Primary Amine Catalysis,148,"| code name | column type | solvent | flow rate | wavelength | minor retention time | major retention time |
+|-----------|-------------|---------|-----------|------------|----------------------|----------------------|
+| 3aa | Daicel Chiralpak AS-H | hexane/iso-propanol = 95:5 | 0.7 mL/min | 251 nm | 9.60 min | 11.11 min |
+| 3ad | Daicel Chiralpak AS-H | hexane/iso-propanol = 95:5 | 0.7 mL/min | 251 nm | 10.29 min | 12.19 min |
+| 3ab | Daicel Chiralpak AS-H | hexane/iso-propanol = 95:5 | 0.7 mL/min | 251 nm | 10.76 min | 12.75 min |"
+jacs_2016_luosz_Asymmetric Retro-Claisen Reaction by Chiral Primary Amine Catalysis,149,N/A
+jacs_2016_luosz_Asymmetric Retro-Claisen Reaction by Chiral Primary Amine Catalysis,150, N/
+jacs_2016_luosz_Asymmetric Retro-Claisen Reaction by Chiral Primary Amine Catalysis,151,N/A
+jacs_2016_luosz_Asymmetric Retro-Claisen Reaction by Chiral Primary Amine Catalysis,152,N/A
+jacs_2016_luosz_Asymmetric Retro-Claisen Reaction by Chiral Primary Amine Catalysis,153,N/A
+jacs_2016_luosz_Asymmetric Retro-Claisen Reaction by Chiral Primary Amine Catalysis,154," code name | column type | solvent | flow rate | wavelength | minor retention time | major retention time |
+|-----------|-------------|---------|-----------|------------|----------------------|----------------------|"
+jacs_2016_luosz_Asymmetric Retro-Claisen Reaction by Chiral Primary Amine Catalysis,155,N/A
+jacs_2016_luosz_Asymmetric Retro-Claisen Reaction by Chiral Primary Amine Catalysis,156,"| code name | column type | solvent | flow rate | wavelength | minor retention time | major retention time |
+|-----------|-------------|---------|-----------|------------|----------------------|----------------------|"
+jacs_2016_luosz_Asymmetric Retro-Claisen Reaction by Chiral Primary Amine Catalysis,157," code name | column type | solvent | flow rate | wavelength | minor retention time | major retention time |
+|-----------|-------------|---------|-----------|------------|----------------------|----------------------|"
+jacs_2016_luosz_Asymmetric Retro-Claisen Reaction by Chiral Primary Amine Catalysis,158,N/A
+jacs_2016_luosz_Asymmetric Retro-Claisen Reaction by Chiral Primary Amine Catalysis,159,"| code name | column type | solvent | flow rate | wavelength | minor retention time | major retention time |
+|-----------|-------------|---------|-----------|------------|----------------------|----------------------|
+| N/A       | N/A         | N/A     | N/A       | N/A        | N/A                  | N/A                  |"
+jacs_2016_luosz_Asymmetric Retro-Claisen Reaction by Chiral Primary Amine Catalysis,160,N/A
+jacs_2016_luosz_Asymmetric Retro-Claisen Reaction by Chiral Primary Amine Catalysis,161,N/A
+jacs_2016_luosz_Asymmetric Retro-Claisen Reaction by Chiral Primary Amine Catalysis,162," code name | column type | solvent | flow rate | wavelength | minor retention time | major retention time |
+|-----------|-------------|---------|-----------|------------|----------------------|----------------------|"
+jacs_2016_luosz_Asymmetric Retro-Claisen Reaction by Chiral Primary Amine Catalysis,163,N/A
+jacs_2016_luosz_Asymmetric Retro-Claisen Reaction by Chiral Primary Amine Catalysis,164,"The provided input text does not contain sufficient HPLC data or information about any molecules, column types, solvents, flow rates, wavelengths, retention times, or other relevant details necessary to fill out an HPLC data table. Therefore, the answer is:
+
+```
+| code name | column type | solvent | flow rate | wavelength | minor retention time | major retention time |
+|-----------|-------------|---------|-----------|------------|----------------------|----------------------|
+```"
+jacs_2016_luosz_Asymmetric Retro-Claisen Reaction by Chiral Primary Amine Catalysis,165,N/A
+jacs_2016_luosz_Asymmetric Retro-Claisen Reaction by Chiral Primary Amine Catalysis,166,"| code name | column type | solvent | flow rate | wavelength | minor retention time | major retention time |
+|-----------|-------------|---------|-----------|------------|----------------------|----------------------|
+| N/A       | N/A         | N/A     | N/A       | N/A        | N/A                  | N/A                  |"
+jacs_2016_luosz_Asymmetric Retro-Claisen Reaction by Chiral Primary Amine Catalysis,167,N/A
+jacs_2016_luosz_Asymmetric Retro-Claisen Reaction by Chiral Primary Amine Catalysis,168,"| code name | column type | solvent | flow rate | wavelength | minor retention time | major retention time |
+|-----------|-------------|---------|-----------|------------|----------------------|----------------------|"
+jacs_2016_luosz_Asymmetric Retro-Claisen Reaction by Chiral Primary Amine Catalysis,169,"| code name | column type | solvent | flow rate | wavelength | minor retention time | major retention time |
+|-----------|-------------|---------|-----------|------------|----------------------|----------------------|
+| N/A       | N/A         | N/A     | N/A       | N/A        | N/A                  | N/A                  |"
+jacs_2016_luosz_Asymmetric Retro-Claisen Reaction by Chiral Primary Amine Catalysis,170,N/A

@@ -1,0 +1,13 @@
+nohup: 忽略输入
+Attempting to generate plots from: final_classified_asymmetric_reactions.json
+Generating plots from 'final_classified_asymmetric_reactions.json'...
+Saved: 1_total_reactions_per_decade.png
+Saved: 2_major_catalyst_class_per_decade.png
+Saved: 3_metal_center_per_decade.png
+Saved: 4_organocatalyst_core_per_decade.png
+Skipping Plot 5: 'decade' or 'reaction_type' column not found.
+Saved: 6_substrate_type_per_decade.png
+
+Generated 5 plots: 1_total_reactions_per_decade.png, 2_major_catalyst_class_per_decade.png, 3_metal_center_per_decade.png, 4_organocatalyst_core_per_decade.png, 6_substrate_type_per_decade.png
+
+Plotting complete. Please find the PNG files in your working directory.

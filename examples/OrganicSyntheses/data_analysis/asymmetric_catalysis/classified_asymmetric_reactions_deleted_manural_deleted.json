@@ -1,0 +1,1538 @@
+[
+  {
+    "volume_source": "Volume61-70",
+    "article_id": "volume63article1",
+    "year": 1985,
+    "title": "YEAST REDUCTION OF ETHYL ACETOACETATE: (S)-( + )-ETHYL 3-HYDROXYBUTANOATE",
+    "doi": "DOI: 10.15227/orgsyn.063.0001",
+    "quantitative_stereochem_mentions": [
+      "enantiomeric excess of 85%"
+    ],
+    "title_has_asym_keywords": false,
+    "catalyst_system_type": "Enzyme/Biocatalyst",
+    "substrate_type": "Ketone/Aldehyde/α,β-Unsaturated Carbonyl",
+    "decade": 1980
+  },
+  {
+    "volume_source": "Volume61-70",
+    "article_id": "volume65article27",
+    "year": 1987,
+    "title": "(−)-α-PINENE BY ISOMERIZATION OF (−)-β-PINENE",
+    "doi": "DOI: 10.15227/orgsyn.065.0224",
+    "quantitative_stereochem_mentions": [
+      "92% ee"
+    ],
+    "title_has_asym_keywords": false,
+    "catalyst_system_type": "Catalyst System Unknown",
+    "substrate_type": "Alkene/Olefin/Allene/Diene",
+    "decade": 1980
+  },
+  {
+    "volume_source": "Volume61-70",
+    "article_id": "volume67article1",
+    "year": 1989,
+    "title": "ENANTIOMERIC (S)-(+)- AND (R)-(−)-1,1'-BINAPHTHYL-2,2'-DIYL HYDROGEN PHOSPHATE",
+    "doi": "DOI: 10.15227/orgsyn.067.0001",
+    "quantitative_stereochem_mentions": [
+      "99.4% ee",
+      "100.0% ee"
+    ],
+    "title_has_asym_keywords": false,
+    "catalyst_system_type": "Organocatalyst - Chiral Phosphoric Acid (CPA)/Brønsted Acid",
+    "substrate_type": "Halide/Pseudohalide (for coupling/substitution)",
+    "decade": 1980
+  },
+  {
+    "volume_source": "Volume61-70",
+    "article_id": "volume67article10",
+    "year": 1989,
+    "title": "CONDENSATION OF (−)-DIMENTHYL SUCCINATE DIANION WITH 1,ω-DIHALIDES: (+)-(1S,2S)-CYCLOPROPANE-1,2-DICARBOXYLIC ACID",
+    "doi": "DOI: 10.15227/orgsyn.067.0076",
+    "quantitative_stereochem_mentions": [
+      "diastereomeric ratio of 96 : 4"
+    ],
+    "title_has_asym_keywords": false,
+    "catalyst_system_type": "Stoichiometric Chiral Auxiliary/Reagent",
+    "substrate_type": "Ester/Lactone/Acid/Amide/Anhydride (as main reactant)",
+    "decade": 1980
+  },
+  {
+    "volume_source": "Volume61-70",
+    "article_id": "volume68article7",
+    "year": 1990,
+    "title": "ENANTIOSELECTIVE OXIDATION OF A SULFIDE: (S)-(−)-METHYL p-TOLYL SULFOXIDE",
+    "doi": "DOI: 10.15227/orgsyn.068.0049",
+    "quantitative_stereochem_mentions": [
+      "89% ee"
+    ],
+    "title_has_asym_keywords": true,
+    "catalyst_system_type": "Metal Catalyst - Titanium (Ti)",
+    "substrate_type": "Sulfide/Thioether",
+    "decade": 1990
+  },
+  {
+    "volume_source": "Volume61-70",
+    "article_id": "volume69article2",
+    "year": 1990,
+    "title": "ENANTIOMERICALLY PURE ETHYL (R)- AND (S)- 2-FLUOROHEXANOATE BY ENZYME-CATALYZED KINETIC RESOLUTION",
+    "doi": "DOI: 10.15227/orgsyn.069.0010",
+    "quantitative_stereochem_mentions": [
+      "86% ee",
+      "81% ee"
+    ],
+    "title_has_asym_keywords": false,
+    "catalyst_system_type": "Enzyme/Biocatalyst",
+    "substrate_type": "Halide/Pseudohalide (for coupling/substitution)",
+    "decade": 1990
+  },
+  {
+    "volume_source": "Volume61-70",
+    "article_id": "volume70article8",
+    "year": 1992,
+    "title": "(S)-(−)- AND (R)-(+)-1,1'-BI-2-NAPHTHOL",
+    "doi": "DOI: 10.15227/orgsyn.070.0060",
+    "quantitative_stereochem_mentions": [
+      "99% ee"
+    ],
+    "title_has_asym_keywords": false,
+    "catalyst_system_type": "Enzyme/Biocatalyst",
+    "substrate_type": "Halide/Pseudohalide (for coupling/substitution)",
+    "decade": 1990
+  },
+  {
+    "volume_source": "Volume71-80",
+    "article_id": "volume71article1",
+    "year": 1993,
+    "title": "ASYMMETRIC HYDROGENATION OF 3-OXO CARBOXYLATES USING BINAP-RUTHENIUM COMPLEXES: (R)-(−)-METHYL 3-HYDROXYBUTANOATE",
+    "doi": "DOI: 10.15227/orgsyn.071.0001",
+    "quantitative_stereochem_mentions": [
+      "98% ee"
+    ],
+    "title_has_asym_keywords": true,
+    "catalyst_system_type": "Metal Catalyst - Ruthenium (Ru)",
+    "substrate_type": "Ketone/Aldehyde/α,β-Unsaturated Carbonyl",
+    "decade": 1990
+  },
+  {
+    "volume_source": "Volume71-80",
+    "article_id": "volume71article2",
+    "year": 1993,
+    "title": "ASYMMETRIC CATALYTIC GLYOXYLATE-ENE REACTION: METHYL (2R)-2-HYDROXY-4-PHENYL-4-PENTENOATE",
+    "doi": "DOI: 10.15227/orgsyn.071.0014",
+    "quantitative_stereochem_mentions": [
+      "95% ee"
+    ],
+    "title_has_asym_keywords": true,
+    "catalyst_system_type": "Metal Catalyst - Titanium (Ti)",
+    "substrate_type": "Halide/Pseudohalide (for coupling/substitution)",
+    "decade": 1990
+  },
+  {
+    "volume_source": "Volume71-80",
+    "article_id": "volume72article8",
+    "year": 1995,
+    "title": "(1R,5R)-(+)-VERBENONE OF HIGH OPTICAL PURITY",
+    "doi": "DOI: 10.15227/orgsyn.072.0057",
+    "quantitative_stereochem_mentions": [
+      "98.6% ee"
+    ],
+    "title_has_asym_keywords": false,
+    "catalyst_system_type": "Catalyst System Unknown",
+    "substrate_type": "Alcohol/Phenol (for KR or derivatization)",
+    "decade": 1990
+  },
+  {
+    "volume_source": "Volume71-80",
+    "article_id": "volume72article10",
+    "year": 1995,
+    "title": "ASYMMETRIC HYDROGENATION OF ALLYLIC ALCOHOLS USING BINAP-RUTHENIUM COMPLEXES: (S)-(−)-CITRONELLOL",
+    "doi": "DOI: 10.15227/orgsyn.072.0074",
+    "quantitative_stereochem_mentions": [
+      "98% ee"
+    ],
+    "title_has_asym_keywords": true,
+    "catalyst_system_type": "Metal Catalyst - Ruthenium (Ru)",
+    "substrate_type": "Halide/Pseudohalide (for coupling/substitution)",
+    "decade": 1990
+  },
+  {
+    "volume_source": "Volume71-80",
+    "article_id": "volume73article2",
+    "year": 1996,
+    "title": "(1R,5S)-(−)-6,6-DIMETHYL-3-OXABICYCLO[3.1.0]HEXAN-2-ONE. HIGHLY ENANTIOSELECTIVE INTRAMOLECULAR CYCLOPROPANATION CATALYZED BY DIRHODIUM(II) TETRAKIS[METHYL 2-PYRROLIDONE-5(R)-CARBOXYLATE]",
+    "doi": "DOI: 10.15227/orgsyn.073.0013",
+    "quantitative_stereochem_mentions": [
+      "93% ee"
+    ],
+    "title_has_asym_keywords": true,
+    "catalyst_system_type": "Catalyst System Unknown",
+    "substrate_type": "Ester/Lactone/Acid/Amide/Anhydride (as main reactant)",
+    "decade": 1990
+  },
+  {
+    "volume_source": "Volume71-80",
+    "article_id": "volume74article3",
+    "year": 1997,
+    "title": "(R)-(+)-2-(DIPHENYLHYDROXYMETHYL)PYRROLIDINE",
+    "doi": "DOI: 10.15227/orgsyn.074.0023",
+    "quantitative_stereochem_mentions": [
+      "99.5% ee"
+    ],
+    "title_has_asym_keywords": false,
+    "catalyst_system_type": "Organocatalyst - Chiral Amine/Imidazolidinone",
+    "substrate_type": "Heterocycle (as core structure being modified)",
+    "decade": 1990
+  },
+  {
+    "volume_source": "Volume71-80",
+    "article_id": "volume74article4",
+    "year": 1997,
+    "title": "(R)-(−)-2,2-DIPHENYLCYCLOPENTANOL",
+    "doi": "DOI: 10.15227/orgsyn.074.0033",
+    "quantitative_stereochem_mentions": [
+      "92% ee",
+      "97% ee"
+    ],
+    "title_has_asym_keywords": false,
+    "catalyst_system_type": "Metal Catalyst - Boron (B)",
+    "substrate_type": "Ketone/Aldehyde/α,β-Unsaturated Carbonyl",
+    "decade": 1990
+  },
+  {
+    "volume_source": "Volume71-80",
+    "article_id": "volume74article5",
+    "year": 1997,
+    "title": "(S)-TETRAHYDRO-1-METHYL-3,3-DIPHENYL-1H,3H-PYRROLO-[1,2-c][1,3,2]OXAZABOROLE-BORANE COMPLEX",
+    "doi": "DOI: 10.15227/orgsyn.074.0050",
+    "quantitative_stereochem_mentions": [
+      "98% ee"
+    ],
+    "title_has_asym_keywords": false,
+    "catalyst_system_type": "Organocatalyst - Proline/Amino Acid",
+    "substrate_type": "Halide/Pseudohalide (for coupling/substitution)",
+    "decade": 1990
+  },
+  {
+    "volume_source": "Volume71-80",
+    "article_id": "volume75article1",
+    "year": 1998,
+    "title": "(R,R)-N,N'-BIS(3,5-DI-tert-BUTYLSALICYLIDENE)-1,2-CYCLOHEXANEDIAMINO MANGANESE(III) CHLORIDE, A HIGHLY ENANTIOSELECTIVE EPOXIDATION CATALYST",
+    "doi": "DOI: 10.15227/orgsyn.075.0001",
+    "quantitative_stereochem_mentions": [
+      "98.0% enantiomeric excess"
+    ],
+    "title_has_asym_keywords": true,
+    "catalyst_system_type": "Organocatalyst - Chiral Phosphoric Acid (CPA)/Brønsted Acid",
+    "substrate_type": "Racemic Mixture (for resolution)",
+    "decade": 1990
+  },
+  {
+    "volume_source": "Volume71-80",
+    "article_id": "volume75article2",
+    "year": 1998,
+    "title": "CATALYTIC ASYMMETRIC ALLYLATION REACTIONS: (S)-1-(PHENYLMETHOXY)-4-PENTEN-2-OL",
+    "doi": "DOI: 10.15227/orgsyn.075.0012",
+    "quantitative_stereochem_mentions": [
+      "96% ee"
+    ],
+    "title_has_asym_keywords": true,
+    "catalyst_system_type": "Metal Catalyst - Titanium (Ti)",
+    "substrate_type": "Halide/Pseudohalide (for coupling/substitution)",
+    "decade": 1990
+  },
+  {
+    "volume_source": "Volume71-80",
+    "article_id": "volume76article1",
+    "year": 1999,
+    "title": "RESOLUTION OF 1,1'-BI-2-NAPHTHOL",
+    "doi": "DOI: 10.15227/orgsyn.076.0001",
+    "quantitative_stereochem_mentions": [
+      "99.0% ee",
+      "80% ee",
+      "96% ee",
+      "99% ee",
+      "99.8% ee"
+    ],
+    "title_has_asym_keywords": false,
+    "catalyst_system_type": "Organocatalyst - Chiral Amine/Imidazolidinone",
+    "substrate_type": "Racemic Mixture (for resolution)",
+    "decade": 1990
+  },
+  {
+    "volume_source": "Volume71-80",
+    "article_id": "volume76article2",
+    "year": 1999,
+    "title": "(R)-(+)- AND (S)-(−)-2,2'-BIS(DIPHENYLPHOSPHINO)-1,1'-BINAPHTHYL (BINAP)",
+    "doi": "DOI: 10.15227/orgsyn.076.0006",
+    "quantitative_stereochem_mentions": [
+      "99% ee"
+    ],
+    "title_has_asym_keywords": true,
+    "catalyst_system_type": "Metal Catalyst (Ligand Family Mentioned)",
+    "substrate_type": "Ester/Lactone/Acid/Amide/Anhydride (as main reactant)",
+    "decade": 1990
+  },
+  {
+    "volume_source": "Volume71-80",
+    "article_id": "volume76article6",
+    "year": 1999,
+    "title": "(1S,2R)-1-AMINOINDAN-2-OL",
+    "doi": "DOI: 10.15227/orgsyn.076.0046",
+    "quantitative_stereochem_mentions": [
+      "86% ee",
+      "100% ee"
+    ],
+    "title_has_asym_keywords": false,
+    "catalyst_system_type": "Metal Catalyst - General",
+    "substrate_type": "Halide/Pseudohalide (for coupling/substitution)",
+    "decade": 1990
+  },
+  {
+    "volume_source": "Volume71-80",
+    "article_id": "volume76article7",
+    "year": 1999,
+    "title": "ASYMMETRIC SYNTHESIS OF α-AMINO ACIDS BY THE ALKYLATION OF PSEUDOEPHEDRINE GLYCINAMIDE: L-ALLYLGLYCINE AND N-BOC-L-ALLYLGLYCINE",
+    "doi": "DOI: 10.15227/orgsyn.076.0057",
+    "quantitative_stereochem_mentions": [
+      "99% ee"
+    ],
+    "title_has_asym_keywords": true,
+    "catalyst_system_type": "Stoichiometric Chiral Auxiliary/Reagent",
+    "substrate_type": "Ester/Lactone/Acid/Amide/Anhydride (as main reactant)",
+    "decade": 1990
+  },
+  {
+    "volume_source": "Volume71-80",
+    "article_id": "volume77article1",
+    "year": 2000,
+    "title": "PREPARATION OF (R,R)-1,2:4,5-DIEPOXYPENTANE",
+    "doi": "DOI: 10.15227/orgsyn.077.0001",
+    "quantitative_stereochem_mentions": [
+      "97% ee"
+    ],
+    "title_has_asym_keywords": false,
+    "catalyst_system_type": "Metal Catalyst - Copper (Cu)",
+    "substrate_type": "Halide/Pseudohalide (for coupling/substitution)",
+    "decade": 2000
+  },
+  {
+    "volume_source": "Volume71-80",
+    "article_id": "volume77article8",
+    "year": 2000,
+    "title": "DIASTEREOSELECTIVE SYNTHESIS OF PROTECTED VICINAL AMINO ALCOHOLS: (S)-2-[(4S)-N-tert-BUTOXYCARBONYL-2,2-DIMETHYL-1,3-OXAZOLIDINYL]-2-tert-BUTYLDIMETHYLSILOXYETHANAL FROM A SERINE-DERIVED ALDEHYDE",
+    "doi": "DOI: 10.15227/orgsyn.077.0078",
+    "quantitative_stereochem_mentions": [
+      "diastereomeric ratio of 1.2:1"
+    ],
+    "title_has_asym_keywords": false,
+    "catalyst_system_type": "Catalyst System Unknown",
+    "substrate_type": "Ketone/Aldehyde/α,β-Unsaturated Carbonyl",
+    "decade": 2000
+  },
+  {
+    "volume_source": "Volume71-80",
+    "article_id": "volume78article2",
+    "year": 2002,
+    "title": "CATALYTIC ASYMMETRIC SYNTHESIS OF NITROALDOLS USING A LANTHANUM-LITHIUM-BINOL COMPLEX:\n(2S,3S)-2-NITRO-5-PHENYL-1,3-PENTANEDIOL",
+    "doi": "DOI: 10.15227/orgsyn.078.0014",
+    "quantitative_stereochem_mentions": [
+      "98% ee"
+    ],
+    "title_has_asym_keywords": true,
+    "catalyst_system_type": "Organocatalyst - General/Other",
+    "substrate_type": "Ketone/Aldehyde/α,β-Unsaturated Carbonyl",
+    "decade": 2000
+  },
+  {
+    "volume_source": "Volume71-80",
+    "article_id": "volume79article9",
+    "year": 2002,
+    "title": "ASYMMETRIC SYNTHESIS OF (M)-2-HYDROXYMETHYL-1-(2-HYDROXY-4,6-DIMETHYLPHENYL)NAPHTHALENE VIA A CONFIGURATIONALLY UNSTABLE BIARYL LACTONE",
+    "doi": "DOI: 10.15227/orgsyn.079.0072",
+    "quantitative_stereochem_mentions": [
+      "92% ee",
+      "99% ee"
+    ],
+    "title_has_asym_keywords": true,
+    "catalyst_system_type": "Metal Catalyst - Boron (B)",
+    "substrate_type": "Ester/Lactone/Acid/Amide/Anhydride (as main reactant)",
+    "decade": 2000
+  },
+  {
+    "volume_source": "Volume71-80",
+    "article_id": "volume79article10",
+    "year": 2002,
+    "title": "(R)-3-PHENYLCYCLOHEXANONE",
+    "doi": "DOI: 10.15227/orgsyn.079.0084",
+    "quantitative_stereochem_mentions": [
+      "98.6% ee",
+      "98.3% ee"
+    ],
+    "title_has_asym_keywords": false,
+    "catalyst_system_type": "Metal Catalyst - Rhodium (Rh)",
+    "substrate_type": "Ketone/Aldehyde/α,β-Unsaturated Carbonyl",
+    "decade": 2000
+  },
+  {
+    "volume_source": "Volume71-80",
+    "article_id": "volume79article11",
+    "year": 2002,
+    "title": "SYNTHESIS OF (+)-(1S,2R)- AND (−)-(1R,2S)-trans-2-PHENYLCYCLOHEXANOL VIA SHARPLESS ASYMMETRIC DIHYDROXYLATION (AD)",
+    "doi": "DOI: 10.15227/orgsyn.079.0093",
+    "quantitative_stereochem_mentions": [
+      "94.0% ee",
+      "99.5% ee"
+    ],
+    "title_has_asym_keywords": true,
+    "catalyst_system_type": "Organocatalyst - Chiral Amine/Imidazolidinone",
+    "substrate_type": "Alcohol/Phenol (for KR or derivatization)",
+    "decade": 2000
+  },
+  {
+    "volume_source": "Volume71-80",
+    "article_id": "volume79article17",
+    "year": 2002,
+    "title": "CATALYTIC ENANTIOSELECTIVE ADDITION OF DIALKYLZINCS TO ALDEHYDES USING (2S)-(−)-3-exo-(DIMETHYLAMINO)ISOBORNEOL [(2S)-DAIB]: (S)-1-PHENYL-1-PROPANOL",
+    "doi": "DOI: 10.15227/orgsyn.079.0139",
+    "quantitative_stereochem_mentions": [
+      "95.4% ee"
+    ],
+    "title_has_asym_keywords": true,
+    "catalyst_system_type": "Metal Catalyst - Zinc (Zn)",
+    "substrate_type": "Ketone/Aldehyde/α,β-Unsaturated Carbonyl",
+    "decade": 2000
+  },
+  {
+    "volume_source": "Volume71-80",
+    "article_id": "volume80article5",
+    "year": 2003,
+    "title": "PREPARATION OF O-ALLYL-N-(9-ANTHRACENYLMETHYL)CINCHONIDINIUM BROMIDE AS A PHASE TRANSFER CATALYST FOR THE ENANTIOSELECTIVE ALKYLATION OF GLYCINE BENZOPHENONE IMINE tert-BUTYL ESTER: (4S)-2-(BENZHYDRYLIDENAMINO)PENTANEDIOIC ACID, 1-tert-BUTYL ESTER-5-METHYL ESTER",
+    "doi": "DOI: 10.15227/orgsyn.080.0038",
+    "quantitative_stereochem_mentions": [
+      "95.2% ee"
+    ],
+    "title_has_asym_keywords": true,
+    "catalyst_system_type": "Organocatalyst - Chiral Amine/Imidazolidinone",
+    "substrate_type": "Imine/Hydrazone/Nitrone",
+    "decade": 2000
+  },
+  {
+    "volume_source": "Volume81-90",
+    "article_id": "volume82article2",
+    "year": 2005,
+    "title": "PREPARATION OF OPTICALLY ACTIVE (R,R)-HYDROBENZOIN FROM BENZOIN OR BENZIL",
+    "doi": "DOI: 10.15227/orgsyn.082.0010",
+    "quantitative_stereochem_mentions": [
+      "99.9% ee",
+      "100% ee"
+    ],
+    "title_has_asym_keywords": false,
+    "catalyst_system_type": "Metal Catalyst - Ruthenium (Ru)",
+    "substrate_type": "Ketone/Aldehyde/α,β-Unsaturated Carbonyl",
+    "decade": 2000
+  },
+  {
+    "volume_source": "Volume81-90",
+    "article_id": "volume82article6",
+    "year": 2005,
+    "title": "AN EFFICIENT, HIGHLY DIASTEREO- AND ENANTIOSELECTIVE HETERO-DIELS-ALDER CATALYST. PREPARATION OF (2S,6R)-6-(tert-BUTYLDIMETHYL-SILYLOXYMETHYL)-2-METHOXY-2,5-DIHYDROPYRAN",
+    "doi": "DOI: 10.15227/orgsyn.082.0034",
+    "quantitative_stereochem_mentions": [
+      "99% ee"
+    ],
+    "title_has_asym_keywords": true,
+    "catalyst_system_type": "Metal Catalyst - General",
+    "substrate_type": "Alkene/Olefin/Allene/Diene",
+    "decade": 2000
+  },
+  {
+    "volume_source": "Volume81-90",
+    "article_id": "volume82article19",
+    "year": 2005,
+    "title": "ASYMMETRIC ALCOHOLYSIS OF MESO-ANHYDRIDES MEDIATED BY ALKALOIDS",
+    "doi": "DOI: 10.15227/orgsyn.082.0120",
+    "quantitative_stereochem_mentions": [
+      "98% ee"
+    ],
+    "title_has_asym_keywords": true,
+    "catalyst_system_type": "Organocatalyst - Chiral Amine/Imidazolidinone",
+    "substrate_type": "Ester/Lactone/Acid/Amide/Anhydride (as main reactant)",
+    "decade": 2000
+  },
+  {
+    "volume_source": "Volume81-90",
+    "article_id": "volume82article21",
+    "year": 2005,
+    "title": "ASYMMETRIC REARRANGEMENT OF ALLYLIC TRICHLOROACETIMIDATES: PREPARATION OF (S)-2,2,2-TRICHLORO-N-(1-PROPYLALLYL)ACETAMIDE",
+    "doi": "DOI: 10.15227/orgsyn.082.0134",
+    "quantitative_stereochem_mentions": [
+      "94% ee"
+    ],
+    "title_has_asym_keywords": true,
+    "catalyst_system_type": "Metal Catalyst - General",
+    "substrate_type": "Ester/Lactone/Acid/Amide/Anhydride (as main reactant)",
+    "decade": 2000
+  },
+  {
+    "volume_source": "Volume81-90",
+    "article_id": "volume83article1",
+    "year": 2006,
+    "title": "PREPARATION OF ENANTIOMERICALLY PURE (R,R)-BozPHOS",
+    "doi": "DOI: 10.15227/orgsyn.083.0001",
+    "quantitative_stereochem_mentions": [
+      "99% ee"
+    ],
+    "title_has_asym_keywords": false,
+    "catalyst_system_type": "Metal Catalyst - Boron (B)",
+    "substrate_type": "Phosphorus Compound (e.g. for making chiral P-ligands)",
+    "decade": 2000
+  },
+  {
+    "volume_source": "Volume81-90",
+    "article_id": "volume83article2",
+    "year": 2006,
+    "title": "PREPARATION OF ENANTIOMERICALLY ENRICHED (1S)-1-PHENYLPROPAN-1-AMINE HYDROCHLORIDE BY A CATALYTIC ADDITION OF DIORGANOZINC REAGENTS TO IMINES",
+    "doi": "DOI: 10.15227/orgsyn.083.0005",
+    "quantitative_stereochem_mentions": [
+      "97% ee"
+    ],
+    "title_has_asym_keywords": false,
+    "catalyst_system_type": "Metal Catalyst - General Ligands",
+    "substrate_type": "Ketone/Aldehyde/α,β-Unsaturated Carbonyl",
+    "decade": 2000
+  },
+  {
+    "volume_source": "Volume81-90",
+    "article_id": "volume83article19",
+    "year": 2006,
+    "title": "SYNTHESIS OF (+)-(1R,2S,9S)-11-METHYL-7,11-DIAZATRICYCLO[7.3.1.02,7]TRIDECANE, A (+)-SPARTEINE SURROGATE",
+    "doi": "DOI: 10.15227/orgsyn.083.0141",
+    "quantitative_stereochem_mentions": [
+      "99.5% ee",
+      "95% ee"
+    ],
+    "title_has_asym_keywords": false,
+    "catalyst_system_type": "Enzyme/Biocatalyst",
+    "substrate_type": "Substrate Type Unknown",
+    "decade": 2000
+  },
+  {
+    "volume_source": "Volume81-90",
+    "article_id": "volume83article21",
+    "year": 2006,
+    "title": "PREPARATION OF (S)-METHYL GLYCIDATE VIA HYDROLYTIC KINETIC RESOLUTION",
+    "doi": "DOI: 10.15227/orgsyn.083.0162",
+    "quantitative_stereochem_mentions": [
+      "99% enantiomeric excess"
+    ],
+    "title_has_asym_keywords": false,
+    "catalyst_system_type": "Metal Catalyst - General",
+    "substrate_type": "Racemic Mixture (for resolution)",
+    "decade": 2000
+  },
+  {
+    "volume_source": "Volume81-90",
+    "article_id": "volume84article1",
+    "year": 2007,
+    "title": "N,N-DIBENZYL-N-[1-CYCLOHEXYL-3-(TRIMETHYLSILYL)-2-PROPYNYL]-AMINE FROM CYCLOHEXANECARBALDEHYDE, TRIMETHYLSILYLACETYLENE AND DIBENZYLAMINE",
+    "doi": "DOI: 10.15227/orgsyn.084.0001",
+    "quantitative_stereochem_mentions": [
+      "95 % ee"
+    ],
+    "title_has_asym_keywords": false,
+    "catalyst_system_type": "Metal Catalyst - Copper (Cu)",
+    "substrate_type": "Halide/Pseudohalide (for coupling/substitution)",
+    "decade": 2000
+  },
+  {
+    "volume_source": "Volume81-90",
+    "article_id": "volume85article26",
+    "year": 2008,
+    "title": "(R)-3-METHYL-3-PHENYL-1-PENTENE VIA CATALYTIC ASYMMETRIC HYDROVINYLATION",
+    "doi": "DOI: 10.15227/orgsyn.085.0248",
+    "quantitative_stereochem_mentions": [
+      "er 98.8:1.2"
+    ],
+    "title_has_asym_keywords": true,
+    "catalyst_system_type": "Organocatalyst - Chiral Phosphoric Acid (CPA)/Brønsted Acid",
+    "substrate_type": "Alkene/Olefin/Allene/Diene",
+    "decade": 2000
+  },
+  {
+    "volume_source": "Volume81-90",
+    "article_id": "volume86article6",
+    "year": 2009,
+    "title": "(S)-(-)-2-ALLYLCYCLOHEXANONE",
+    "doi": "DOI: 10.15227/orgsyn.086.0047",
+    "quantitative_stereochem_mentions": [
+      "ee: 94 %"
+    ],
+    "title_has_asym_keywords": false,
+    "catalyst_system_type": "Organocatalyst - General/Other",
+    "substrate_type": "Ketone/Aldehyde/α,β-Unsaturated Carbonyl",
+    "decade": 2000
+  },
+  {
+    "volume_source": "Volume81-90",
+    "article_id": "volume86article13",
+    "year": 2009,
+    "title": "ENANTIOSELECTIVE OXIDATION OF AN ALKYL ARYL SULFIDE: SYNTHESIS OF (S)-(-)-METHYL P-BROMOPHENYL SULFOXIDE",
+    "doi": "DOI: 10.15227/orgsyn.086.0121",
+    "quantitative_stereochem_mentions": [
+      "99 % ee"
+    ],
+    "title_has_asym_keywords": true,
+    "catalyst_system_type": "Metal Catalyst - General Ligands",
+    "substrate_type": "Sulfide/Thioether",
+    "decade": 2000
+  },
+  {
+    "volume_source": "Volume81-90",
+    "article_id": "volume86article19",
+    "year": 2009,
+    "title": "PREPARATION OF (S)-tert-ButylPHOX",
+    "doi": "DOI: 10.15227/orgsyn.086.0181",
+    "quantitative_stereochem_mentions": [
+      "99% ee"
+    ],
+    "title_has_asym_keywords": false,
+    "catalyst_system_type": "Catalyst System Unknown",
+    "substrate_type": "Substrate Type Unknown",
+    "decade": 2000
+  },
+  {
+    "volume_source": "Volume81-90",
+    "article_id": "volume86article20",
+    "year": 2009,
+    "title": "PREPARATION OF (S)-2-ALLYL-2-METHYLCYCLOHEXANONE",
+    "doi": "DOI: 10.15227/orgsyn.086.0194",
+    "quantitative_stereochem_mentions": [
+      "87% enantiomeric excess",
+      "86% ee",
+      "91% ee",
+      "99% enantiomeric excess",
+      "98% ee"
+    ],
+    "title_has_asym_keywords": false,
+    "catalyst_system_type": "Organocatalyst - Chiral Amine/Imidazolidinone",
+    "substrate_type": "Ester/Lactone/Acid/Amide/Anhydride (as main reactant)",
+    "decade": 2000
+  },
+  {
+    "volume_source": "Volume81-90",
+    "article_id": "volume86article25",
+    "year": 2009,
+    "title": "(3R,7aS)-3-(TRICHLOROMETHYL)TETRAHYDROPYRROLO[1,2-C]OXAZOL-1(3H)-ONE: AN AIR AND MOISTURE STABLE REAGENT FOR THE SYNTHESIS OF OPTICALLY ACTIVE α-BRANCHED PROLINES",
+    "doi": "DOI: 10.15227/orgsyn.086.0262",
+    "quantitative_stereochem_mentions": [
+      "enantiomeric excess of >99%"
+    ],
+    "title_has_asym_keywords": false,
+    "catalyst_system_type": "Catalyst System Unknown",
+    "substrate_type": "Substrate Type Unknown",
+    "decade": 2000
+  },
+  {
+    "volume_source": "Volume81-90",
+    "article_id": "volume86article34",
+    "year": 2009,
+    "title": "RHODIUM-CATALYZED ENANTIOSELECTIVE ADDITION OF ARYLBORONIC ACIDS TO IN SITU GENERATED N-BOC ARYLIMINES. PREPARATION OF (S)-TERT-BUTYL (4-CHLOROPHENYL)(THIOPHEN-2-YL)METHYLCARBAMATE",
+    "doi": "DOI: 10.15227/orgsyn.086.0360",
+    "quantitative_stereochem_mentions": [
+      "93% ee"
+    ],
+    "title_has_asym_keywords": true,
+    "catalyst_system_type": "Metal Catalyst - Rhodium (Rh)",
+    "substrate_type": "Halide/Pseudohalide (for coupling/substitution)",
+    "decade": 2000
+  },
+  {
+    "volume_source": "Volume81-90",
+    "article_id": "volume87article5",
+    "year": 2010,
+    "title": "CATALYTIC ENANTIOSELECTIVE BORANE REDUCTION OF BENZYL OXIMES: PREPARATION OF (S)-1-PYRIDIN-3-YL-ETHYLAMINE BIS HYDROCHLORIDE",
+    "doi": "DOI: 10.15227/orgsyn.087.0036",
+    "quantitative_stereochem_mentions": [
+      "enantiomeric excess is 98%"
+    ],
+    "title_has_asym_keywords": true,
+    "catalyst_system_type": "Metal Catalyst - Boron (B)",
+    "substrate_type": "Imine/Hydrazone/Nitrone",
+    "decade": 2010
+  },
+  {
+    "volume_source": "Volume81-90",
+    "article_id": "volume87article7",
+    "year": 2010,
+    "title": "PREPARATION OF (S)-3,3'-BIS-MORPHOLINOMETHYL-5,5',6,6',7,7',8,8'-OCTAHYDRO-1,1'-BI-2-NAPHTHOL",
+    "doi": "DOI: 10.15227/orgsyn.087.0059",
+    "quantitative_stereochem_mentions": [
+      "99% ee"
+    ],
+    "title_has_asym_keywords": false,
+    "catalyst_system_type": "Catalyst System Unknown",
+    "substrate_type": "Substrate Type Unknown",
+    "decade": 2010
+  },
+  {
+    "volume_source": "Volume81-90",
+    "article_id": "volume87article8",
+    "year": 2010,
+    "title": "CATALYTIC ASYMMETRIC ADDITION OF AN IN-SITU PREPARED ARYLZINC TO CYCLOHEXANECARBOXALDEHYDE: (R)-(+)-α-CYCLOHEXYL-3-METHOXY-BENZENEMETHANOL",
+    "doi": "DOI: 10.15227/orgsyn.087.0068",
+    "quantitative_stereochem_mentions": [
+      "99% ee"
+    ],
+    "title_has_asym_keywords": true,
+    "catalyst_system_type": "Metal Catalyst - Zinc (Zn)",
+    "substrate_type": "Halide/Pseudohalide (for coupling/substitution)",
+    "decade": 2010
+  },
+  {
+    "volume_source": "Volume81-90",
+    "article_id": "volume87article29",
+    "year": 2010,
+    "title": "Pd(0)-CATALYZED ASYMMETRIC ALLYLIC AND HOMOALLYLIC DIAMINATION OF 4-PHENYL-1-BUTENE WITH DI-TERT-BUTYLDIAZIRIDINONE",
+    "doi": "DOI: 10.15227/orgsyn.087.0263",
+    "quantitative_stereochem_mentions": [
+      "90% ee"
+    ],
+    "title_has_asym_keywords": true,
+    "catalyst_system_type": "Metal Catalyst - Palladium (Pd)",
+    "substrate_type": "Alkene/Olefin/Allene/Diene",
+    "decade": 2010
+  },
+  {
+    "volume_source": "Volume81-90",
+    "article_id": "volume87article33",
+    "year": 2010,
+    "title": "SYNTHESIS OF CHIRAL PYRIDINE BIS(OXAZOLINE) LIGANDS FOR NICKEL-CATALYZED ASYMMETRIC NEGISHI CROSS-COUPLINGS OF SECONDARY ALLYLIC CHLORIDES WITH ALKYLZINCS: 2,6-BIS[(4R)-4,5-DIHYDRO-4- (2-PHENYLETHYL)-2-OXAZOLYL]- PYRIDINE",
+    "doi": "DOI: 10.15227/orgsyn.087.0310",
+    "quantitative_stereochem_mentions": [
+      "99% ee"
+    ],
+    "title_has_asym_keywords": true,
+    "catalyst_system_type": "Metal Catalyst - Nickel (Ni)",
+    "substrate_type": "Ester/Lactone/Acid/Amide/Anhydride (as main reactant)",
+    "decade": 2010
+  },
+  {
+    "volume_source": "Volume81-90",
+    "article_id": "volume87article34",
+    "year": 2010,
+    "title": "NICKEL-CATALYZED ASYMMETRIC NEGISHI CROSS-COUPLINGS OF RACEMIC SECONDARY ALLYLIC CHLORIDES WITH ALKYLZINCS: (S,E)-ETHYL 6-(1,3-DIOXOLAN-2-YL)-4-METHYLHEX-2-ENOATE",
+    "doi": "DOI: 10.15227/orgsyn.087.0317",
+    "quantitative_stereochem_mentions": [
+      "97% ee"
+    ],
+    "title_has_asym_keywords": true,
+    "catalyst_system_type": "Metal Catalyst - Nickel (Ni)",
+    "substrate_type": "Ketone/Aldehyde/α,β-Unsaturated Carbonyl",
+    "decade": 2010
+  },
+  {
+    "volume_source": "Volume81-90",
+    "article_id": "volume87article35",
+    "year": 2010,
+    "title": "NICKEL-CATALYZED ENANTIOSELECTIVE NEGISHI CROSS-COUPLINGS OF RACEMIC SECONDARY α-BROMO AMIDES WITH ALKYLZINC REAGENTS: (S)-N-BENZYL-7-CYANO-2-ETHYL-N-PHENYLHEPTANAMIDE",
+    "doi": "DOI: 10.15227/orgsyn.087.0330",
+    "quantitative_stereochem_mentions": [
+      "91% ee"
+    ],
+    "title_has_asym_keywords": true,
+    "catalyst_system_type": "Organocatalyst - Chiral Amine/Imidazolidinone",
+    "substrate_type": "Halide/Pseudohalide (for coupling/substitution)",
+    "decade": 2010
+  },
+  {
+    "volume_source": "Volume81-90",
+    "article_id": "volume88article12",
+    "year": 2011,
+    "title": "ORGANOCATALYTIC ENANTIOSELECTIVE SYNTHESIS OF BICYCLIC ß-LACTONES FROM ALDEHYDE ACIDS VIA NUCLEOPHILE-CATALYZED ALDOL-LACTONIZATION (NCAL)",
+    "doi": "DOI: 10.15227/orgsyn.088.0121",
+    "quantitative_stereochem_mentions": [
+      "90% ee"
+    ],
+    "title_has_asym_keywords": true,
+    "catalyst_system_type": "Organocatalyst - General/Other",
+    "substrate_type": "Ketone/Aldehyde/α,β-Unsaturated Carbonyl",
+    "decade": 2010
+  },
+  {
+    "volume_source": "Volume81-90",
+    "article_id": "volume88article22",
+    "year": 2011,
+    "title": "GRAM SCALE CATALYTIC ASYMMETRIC AZIRIDINATION: PREPARATION OF (2R,3R)-ETHYL 1-BENZHYDRYL-3-(4-BROMOPHENYL)AZIRIDINE 2-CARBOXYLATE",
+    "doi": "DOI: 10.15227/orgsyn.088.0224",
+    "quantitative_stereochem_mentions": [
+      "99% ee",
+      "83% ee"
+    ],
+    "title_has_asym_keywords": true,
+    "catalyst_system_type": "Metal Catalyst - Boron (B)",
+    "substrate_type": "Alkene/Olefin/Allene/Diene",
+    "decade": 2010
+  },
+  {
+    "volume_source": "Volume81-90",
+    "article_id": "volume88article24",
+    "year": 2011,
+    "title": "LITHIATED PRIMARY ALKYL CARBAMATES FOR THE HOMOLOGATION OF BORONIC ESTERS",
+    "doi": "DOI: 10.15227/orgsyn.088.0247",
+    "quantitative_stereochem_mentions": [
+      "e.r. = 99:1"
+    ],
+    "title_has_asym_keywords": false,
+    "catalyst_system_type": "Organocatalyst - Chiral Amine/Imidazolidinone",
+    "substrate_type": "Ester/Lactone/Acid/Amide/Anhydride (as main reactant)",
+    "decade": 2010
+  },
+  {
+    "volume_source": "Volume81-90",
+    "article_id": "volume88article38",
+    "year": 2011,
+    "title": "ENANTIOSELECTIVE THREE-COMPONENT REACTION FOR THE PREPARATION OF ß-AMINO-a-HYDROXY ESTERS",
+    "doi": "DOI: 10.15227/orgsyn.088.0418",
+    "quantitative_stereochem_mentions": [
+      "94% ee"
+    ],
+    "title_has_asym_keywords": true,
+    "catalyst_system_type": "Metal Catalyst - Rhodium (Rh)",
+    "substrate_type": "Imine/Hydrazone/Nitrone",
+    "decade": 2010
+  },
+  {
+    "volume_source": "Volume81-90",
+    "article_id": "volume89article1",
+    "year": 2012,
+    "title": "Fluoride Ring-Opening Kinetic Resolution of Terminal Epoxides: Preparation of (S)-2-Fluoro-1-Phenylethanol",
+    "doi": "DOI: 10.15227/orgsyn.089.0009",
+    "quantitative_stereochem_mentions": [
+      "98% enantiomeric excess"
+    ],
+    "title_has_asym_keywords": false,
+    "catalyst_system_type": "Metal Catalyst - General",
+    "substrate_type": "Alkene/Olefin/Allene/Diene",
+    "decade": 2010
+  },
+  {
+    "volume_source": "Volume81-90",
+    "article_id": "volume89article10",
+    "year": 2012,
+    "title": "Preparation of Enantioenriched Homoallylic Primary Amines",
+    "doi": "DOI: 10.15227/orgsyn.089.0088",
+    "quantitative_stereochem_mentions": [
+      "99:1 dr"
+    ],
+    "title_has_asym_keywords": false,
+    "catalyst_system_type": "Catalyst System Unknown",
+    "substrate_type": "Halide/Pseudohalide (for coupling/substitution)",
+    "decade": 2010
+  },
+  {
+    "volume_source": "Volume81-90",
+    "article_id": "volume89article25",
+    "year": 2012,
+    "title": "Synthesis of (R)-2-Methoxy-N-(1-Phenylethyl)Acetamide via Dynamic Kinetic Resolution",
+    "doi": "DOI: 10.15227/orgsyn.089.0255",
+    "quantitative_stereochem_mentions": [
+      "98% ee",
+      "99% ee"
+    ],
+    "title_has_asym_keywords": false,
+    "catalyst_system_type": "Metal Catalyst - Ruthenium (Ru)",
+    "substrate_type": "Imine/Hydrazone/Nitrone",
+    "decade": 2010
+  },
+  {
+    "volume_source": "Volume81-90",
+    "article_id": "volume89article26",
+    "year": 2012,
+    "title": "Discussion Addendum for: [3 + 4] Annulation Using a [ß-(Trimethylsilyl) acryloyl]silane and the Lithium Enolate of an a,ß-Unsaturated Methyl Ketone: (1R,6S,7S)-4-(tert-Butyldimethylsiloxy)-6-(trimethylsilyl)bicyclo [5.4.0]undec-4-en-2-one",
+    "doi": "DOI: 10.15227/orgsyn.089.0267",
+    "quantitative_stereochem_mentions": [
+      "62% ee"
+    ],
+    "title_has_asym_keywords": false,
+    "catalyst_system_type": "Catalyst System Unknown",
+    "substrate_type": "Ketone/Aldehyde/α,β-Unsaturated Carbonyl",
+    "decade": 2010
+  },
+  {
+    "volume_source": "Volume81-90",
+    "article_id": "volume89article40",
+    "year": 2012,
+    "title": "Preparation of (Ra)-Methyl 3-(dimethyl(phenyl)silyl)hexa-3,4-dienoate",
+    "doi": "DOI: 10.15227/orgsyn.089.0420",
+    "quantitative_stereochem_mentions": [
+      "93% ee"
+    ],
+    "title_has_asym_keywords": false,
+    "catalyst_system_type": "Enzyme/Biocatalyst",
+    "substrate_type": "Alcohol/Phenol (for KR or derivatization)",
+    "decade": 2010
+  },
+  {
+    "volume_source": "Volume81-90",
+    "article_id": "volume90article3",
+    "year": 2013,
+    "title": "Discussion Addendum for: Applications of (2S)-(-)-3-exo-Morpholinoisoborneol [(-)MIB] in Organic Synthesis",
+    "doi": "DOI: 10.15227/orgsyn.090.0025",
+    "quantitative_stereochem_mentions": [
+      "97% ee",
+      "94% ee",
+      "85% ee",
+      "98% ee",
+      "90% ee",
+      "99% ee",
+      "4.5 : 1 dr",
+      "10:1 dr",
+      "32:1 diastereoselectivity"
+    ],
+    "title_has_asym_keywords": false,
+    "catalyst_system_type": "Catalyst System Unknown",
+    "substrate_type": "Alkene/Olefin/Allene/Diene",
+    "decade": 2010
+  },
+  {
+    "volume_source": "Volume81-90",
+    "article_id": "volume90article5",
+    "year": 2013,
+    "title": "Enantioselective Nitroaldol (Henry) Reaction of p-Nitrobenzaldehyde and Nitromethane Using a Copper (II) Complex Derived from (R,R)-1,2-Diaminocyclohexane: (1S)-1-(4-Nitrophenyl)-2-nitroethane-1-ol",
+    "doi": "DOI: 10.15227/orgsyn.090.0052",
+    "quantitative_stereochem_mentions": [
+      "99% ee",
+      "92% ee",
+      "95% ee",
+      "94% ee"
+    ],
+    "title_has_asym_keywords": true,
+    "catalyst_system_type": "Metal Catalyst - Copper (Cu)",
+    "substrate_type": "Alcohol/Phenol (for KR or derivatization)",
+    "decade": 2010
+  },
+  {
+    "volume_source": "Volume81-90",
+    "article_id": "volume90article12",
+    "year": 2013,
+    "title": "Enantioselective Alkylation of 2-[(4-Chlorobenzyliden)Amino]Propanoic Acid tert-Butyl Ester: Synthesis of (R)-2-Amino-2-Methyl-3-Phenylpropanoic Acid tert-Butyl Ester",
+    "doi": "DOI: 10.15227/orgsyn.090.0121",
+    "quantitative_stereochem_mentions": [
+      "97% ee"
+    ],
+    "title_has_asym_keywords": true,
+    "catalyst_system_type": "Organocatalyst - Chiral Amine/Imidazolidinone",
+    "substrate_type": "Ester/Lactone/Acid/Amide/Anhydride (as main reactant)",
+    "decade": 2010
+  },
+  {
+    "volume_source": "Volume81-90",
+    "article_id": "volume90article18",
+    "year": 2013,
+    "title": "Discussion Addendum for: Stereoselective Synthesis of anti α-Methyl-β-Methoxy Carboxylic Compounds",
+    "doi": "DOI: 10.15227/orgsyn.090.0182",
+    "quantitative_stereochem_mentions": [
+      "80:20 diastereomeric ratio",
+      "86:14 diastereomeric ratio",
+      "dr > 98:2",
+      "dr 93:7",
+      "dr > 97:3"
+    ],
+    "title_has_asym_keywords": false,
+    "catalyst_system_type": "Metal Catalyst - Titanium (Ti)",
+    "substrate_type": "Sulfide/Thioether",
+    "decade": 2010
+  },
+  {
+    "volume_source": "Volume81-90",
+    "article_id": "volume90article32",
+    "year": 2013,
+    "title": "Synthesis of Highly Enantiomerically Enriched Amines by Asymmetric Transfer Hydrogenation of N-(tert-Butylsulfinyl)Imines",
+    "doi": "DOI: 10.15227/orgsyn.090.0338",
+    "quantitative_stereochem_mentions": [
+      "95% ee"
+    ],
+    "title_has_asym_keywords": true,
+    "catalyst_system_type": "Metal Catalyst - Ruthenium (Ru)",
+    "substrate_type": "Ketone/Aldehyde/α,β-Unsaturated Carbonyl",
+    "decade": 2010
+  },
+  {
+    "volume_source": "Volume91-100",
+    "article_id": "volume91article1",
+    "year": 2014,
+    "title": "Discussion Addendum for: Resolution of 1,1'-bi-2-naphthol; (R)-(+)- and (S)-(-)-2,2'-Bis(diphenylphosphino)-1,1'-binaphthyl (BINAP)",
+    "doi": "DOI: 10.15227/orgsyn.091.0001",
+    "quantitative_stereochem_mentions": [
+      "42% ee",
+      "99% ee",
+      "84% ee"
+    ],
+    "title_has_asym_keywords": true,
+    "catalyst_system_type": "Metal Catalyst (Ligand Family Mentioned)",
+    "substrate_type": "Phosphorus Compound (e.g. for making chiral P-ligands)",
+    "decade": 2010
+  },
+  {
+    "volume_source": "Volume91-100",
+    "article_id": "volume91article14",
+    "year": 2014,
+    "title": "Enantioselective Rhodium-Catalyzed [2+2+2] Cycloaddition of Pentenyl Isocyanate and 4-Ethynylanisole: Preparation and Use of Taddol-pyrrolidine Phosphoramidite",
+    "doi": "DOI: 10.15227/orgsyn.091.0150",
+    "quantitative_stereochem_mentions": [
+      "89% ee"
+    ],
+    "title_has_asym_keywords": true,
+    "catalyst_system_type": "Metal Catalyst - Rhodium (Rh)",
+    "substrate_type": "Heterocycle (as core structure being modified)",
+    "decade": 2010
+  },
+  {
+    "volume_source": "Volume91-100",
+    "article_id": "volume91article16",
+    "year": 2014,
+    "title": "Enantioselective Organocatalytic α-Arylation of Aldehydes",
+    "doi": "DOI: 10.15227/orgsyn.091.0175",
+    "quantitative_stereochem_mentions": [
+      "97% ee",
+      "20:1 dr"
+    ],
+    "title_has_asym_keywords": true,
+    "catalyst_system_type": "Organocatalyst - General/Other",
+    "substrate_type": "Heterocycle (as core structure being modified)",
+    "decade": 2010
+  },
+  {
+    "volume_source": "Volume91-100",
+    "article_id": "volume91article18",
+    "year": 2014,
+    "title": "Sodium Methoxide-Catalyzed Direct Amidation of Esters",
+    "doi": "DOI: 10.15227/orgsyn.091.0201",
+    "quantitative_stereochem_mentions": [
+      "98% ee"
+    ],
+    "title_has_asym_keywords": false,
+    "catalyst_system_type": "Catalyst System Unknown",
+    "substrate_type": "Substrate Type Unknown",
+    "decade": 2010
+  },
+  {
+    "volume_source": "Volume91-100",
+    "article_id": "volume91article21",
+    "year": 2014,
+    "title": "Preparation of (R)-4-Cyclohexyl-2,3-butadien-1-ol",
+    "doi": "DOI: 10.15227/orgsyn.091.0233",
+    "quantitative_stereochem_mentions": [
+      "99% ee"
+    ],
+    "title_has_asym_keywords": false,
+    "catalyst_system_type": "Organocatalyst - Proline/Amino Acid",
+    "substrate_type": "Halide/Pseudohalide (for coupling/substitution)",
+    "decade": 2010
+  },
+  {
+    "volume_source": "Volume91-100",
+    "article_id": "volume91article26",
+    "year": 2014,
+    "title": "Enantioselective Preparation of (S)-5-Oxo-5,6-dihydro-2H-pyran-2-yl Benzoate",
+    "doi": "DOI: 10.15227/orgsyn.091.0293",
+    "quantitative_stereochem_mentions": [
+      "99%ee"
+    ],
+    "title_has_asym_keywords": true,
+    "catalyst_system_type": "Enzyme/Biocatalyst",
+    "substrate_type": "Ketone/Aldehyde/α,β-Unsaturated Carbonyl",
+    "decade": 2010
+  },
+  {
+    "volume_source": "Volume91-100",
+    "article_id": "volume92article3",
+    "year": 2015,
+    "title": "Preparation of Crystalline (Diisopinocampheyl)borane",
+    "doi": "DOI: 10.15227/orgsyn.092.0026",
+    "quantitative_stereochem_mentions": [
+      "97% ee"
+    ],
+    "title_has_asym_keywords": false,
+    "catalyst_system_type": "Metal Catalyst - Boron (B)",
+    "substrate_type": "Sulfide/Thioether",
+    "decade": 2010
+  },
+  {
+    "volume_source": "Volume91-100",
+    "article_id": "volume92article4",
+    "year": 2015,
+    "title": "Enantioselective Reductive Syn-Aldol Reactions of 4-Acryloylmorpholine: Preparation of (2R, 3S)-3-Hydroxy-2-methyl-1-morpholino-5-phenylpentan-1-one",
+    "doi": "DOI: 10.15227/orgsyn.092.0038",
+    "quantitative_stereochem_mentions": [
+      "97% ee"
+    ],
+    "title_has_asym_keywords": true,
+    "catalyst_system_type": "Metal Catalyst - Boron (B)",
+    "substrate_type": "Ketone/Aldehyde/α,β-Unsaturated Carbonyl",
+    "decade": 2010
+  },
+  {
+    "volume_source": "Volume91-100",
+    "article_id": "volume92article14",
+    "year": 2015,
+    "title": "Asymmetric Synthesis of All-Carbon Benzylic Quaternary Stereocenters via Conjugate Addition to Alkylidene Meldrum's Acids",
+    "doi": "DOI: 10.15227/orgsyn.092.0182",
+    "quantitative_stereochem_mentions": [
+      "98:2 er"
+    ],
+    "title_has_asym_keywords": true,
+    "catalyst_system_type": "Metal Catalyst - Titanium (Ti)",
+    "substrate_type": "Halide/Pseudohalide (for coupling/substitution)",
+    "decade": 2010
+  },
+  {
+    "volume_source": "Volume91-100",
+    "article_id": "volume92article19",
+    "year": 2015,
+    "title": "Preparation of (S)-tert-ButylPyOx and Palladium-Catalyzed Asymmetric Conjugate Addition of Arylboronic Acids",
+    "doi": "DOI: 10.15227/orgsyn.092.0247",
+    "quantitative_stereochem_mentions": [
+      "93% ee"
+    ],
+    "title_has_asym_keywords": true,
+    "catalyst_system_type": "Metal Catalyst - Palladium (Pd)",
+    "substrate_type": "Ketone/Aldehyde/α,β-Unsaturated Carbonyl",
+    "decade": 2010
+  },
+  {
+    "volume_source": "Volume91-100",
+    "article_id": "volume93article7",
+    "year": 2016,
+    "title": "Enantioselective Synthesis of α,α-Disubstituted Lactones via a Chiral Brønsted Acid Catalyzed Intramolecular Cyclization",
+    "doi": "DOI: 10.15227/orgsyn.093.0075",
+    "quantitative_stereochem_mentions": [
+      "98% ee"
+    ],
+    "title_has_asym_keywords": true,
+    "catalyst_system_type": "Organocatalyst - Chiral Phosphoric Acid (CPA)/Brønsted Acid",
+    "substrate_type": "Alcohol/Phenol (for KR or derivatization)",
+    "decade": 2010
+  },
+  {
+    "volume_source": "Volume91-100",
+    "article_id": "volume93article23",
+    "year": 2016,
+    "title": "Preparation of (S)-Nonafluorobutanesulfinamide",
+    "doi": "DOI: 10.15227/orgsyn.093.0319",
+    "quantitative_stereochem_mentions": [
+      "99% ee"
+    ],
+    "title_has_asym_keywords": false,
+    "catalyst_system_type": "Catalyst System Unknown",
+    "substrate_type": "Halide/Pseudohalide (for coupling/substitution)",
+    "decade": 2010
+  },
+  {
+    "volume_source": "Volume91-100",
+    "article_id": "volume94article18",
+    "year": 2017,
+    "title": "Asymmetric Michael Reaction of Aldehydes and Nitroalkenes",
+    "doi": "DOI: 10.15227/orgsyn.094.0252",
+    "quantitative_stereochem_mentions": [
+      "98% ee",
+      "20:1 dr"
+    ],
+    "title_has_asym_keywords": true,
+    "catalyst_system_type": "Organocatalyst - Proline/Amino Acid",
+    "substrate_type": "Ketone/Aldehyde/α,β-Unsaturated Carbonyl",
+    "decade": 2010
+  },
+  {
+    "volume_source": "Volume91-100",
+    "article_id": "volume94article23",
+    "year": 2017,
+    "title": "Catalytic Enantioselective Addition of Diethyl Phosphite to N-Thiophosphinoyl Ketimines: Preparation of (R)-Diethyl (1-Amino-1-phenylethyl)phosphonate",
+    "doi": "DOI: 10.15227/orgsyn.094.0313",
+    "quantitative_stereochem_mentions": [
+      "95% ee"
+    ],
+    "title_has_asym_keywords": true,
+    "catalyst_system_type": "Metal Catalyst - Copper (Cu)",
+    "substrate_type": "Ester/Lactone/Acid/Amide/Anhydride (as main reactant)",
+    "decade": 2010
+  },
+  {
+    "volume_source": "Volume91-100",
+    "article_id": "volume94article28",
+    "year": 2017,
+    "title": "Preparation of Benzyl((R)-2-(4-(benzyloxy)phenyl)-2-((tert-butoxycarbonyl)amino)acetyl)-D-phenylalaninate using Umpolung Amide Synthesis",
+    "doi": "DOI: 10.15227/orgsyn.094.0388",
+    "quantitative_stereochem_mentions": [
+      "99% ee",
+      "1:1 dr"
+    ],
+    "title_has_asym_keywords": false,
+    "catalyst_system_type": "Catalyst System Unknown",
+    "substrate_type": "Ester/Lactone/Acid/Amide/Anhydride (as main reactant)",
+    "decade": 2010
+  },
+  {
+    "volume_source": "Volume91-100",
+    "article_id": "volume95article6",
+    "year": 2018,
+    "title": "Copper-Catalyzed Enantioselective Hydroamination of Alkenes",
+    "doi": "DOI: 10.15227/orgsyn.095.0080",
+    "quantitative_stereochem_mentions": [
+      "98% enantiomeric excess",
+      "90% enantiomeric excess"
+    ],
+    "title_has_asym_keywords": true,
+    "catalyst_system_type": "Metal Catalyst - Copper (Cu)",
+    "substrate_type": "Halide/Pseudohalide (for coupling/substitution)",
+    "decade": 2010
+  },
+  {
+    "volume_source": "Volume91-100",
+    "article_id": "volume95article10",
+    "year": 2018,
+    "title": "Enantioselective Synthesis of (S)-Ethyl 2-((tert-butoxycarbonyl)((tert-butyldimethylsilyl)oxy)amino)-4-oxobutanoate",
+    "doi": "DOI: 10.15227/orgsyn.095.0142",
+    "quantitative_stereochem_mentions": [
+      "94% ee"
+    ],
+    "title_has_asym_keywords": true,
+    "catalyst_system_type": "Organocatalyst - Proline/Amino Acid",
+    "substrate_type": "Ketone/Aldehyde/α,β-Unsaturated Carbonyl",
+    "decade": 2010
+  },
+  {
+    "volume_source": "Volume91-100",
+    "article_id": "volume95article11",
+    "year": 2018,
+    "title": "Preparation of (S)-N-Boc-5-oxaproline",
+    "doi": "DOI: 10.15227/orgsyn.095.0157",
+    "quantitative_stereochem_mentions": [
+      "94% ee",
+      "94.1% ee"
+    ],
+    "title_has_asym_keywords": false,
+    "catalyst_system_type": "Catalyst System Unknown",
+    "substrate_type": "Ketone/Aldehyde/α,β-Unsaturated Carbonyl",
+    "decade": 2010
+  },
+  {
+    "volume_source": "Volume91-100",
+    "article_id": "volume95article19",
+    "year": 2018,
+    "title": "Discussion Addendum for: Stereoselective Synthesis of 3-Arylacrylates by Copper-Catalyzed Syn Hydroarylation [(E)-Methyl 3-phenyloct-2-enoate]",
+    "doi": "DOI: 10.15227/orgsyn.095.0267",
+    "quantitative_stereochem_mentions": [
+      "96% ee"
+    ],
+    "title_has_asym_keywords": false,
+    "catalyst_system_type": "Metal Catalyst - Copper (Cu)",
+    "substrate_type": "Alkyne",
+    "decade": 2010
+  },
+  {
+    "volume_source": "Volume91-100",
+    "article_id": "volume95article22",
+    "year": 2018,
+    "title": "(R)-2,2,2-Trichloro-1-phenylethyl (methylsulfonyl)­oxycarbamate",
+    "doi": "DOI: 10.15227/orgsyn.095.0310",
+    "quantitative_stereochem_mentions": [
+      "94% ee"
+    ],
+    "title_has_asym_keywords": false,
+    "catalyst_system_type": "Metal Catalyst - Boron (B)",
+    "substrate_type": "Ketone/Aldehyde/α,β-Unsaturated Carbonyl",
+    "decade": 2010
+  },
+  {
+    "volume_source": "Volume91-100",
+    "article_id": "volume95article29",
+    "year": 2018,
+    "title": "Discussion Addendum for: Preparation of (S)-tert-ButylPHOX and (S)-2-Allyl-2-Methylcyclohexanone",
+    "doi": "DOI: 10.15227/orgsyn.095.0439",
+    "quantitative_stereochem_mentions": [
+      "80% ee"
+    ],
+    "title_has_asym_keywords": false,
+    "catalyst_system_type": "Metal Catalyst (Ligand Family Mentioned)",
+    "substrate_type": "Ketone/Aldehyde/α,β-Unsaturated Carbonyl",
+    "decade": 2010
+  },
+  {
+    "volume_source": "Volume91-100",
+    "article_id": "volume96article4",
+    "year": 2019,
+    "title": "Discussion Addendum for: Lithium Amides as Homochiral Ammonia Equivalents for Conjugate Additions to α,β-Unsaturated Esters: Asymmetric Synthesis of (S)-β:Leucine",
+    "doi": "DOI: 10.15227/orgsyn.096.0053",
+    "quantitative_stereochem_mentions": [
+      "99:1 dr",
+      "96:4 dr"
+    ],
+    "title_has_asym_keywords": true,
+    "catalyst_system_type": "Organocatalyst - Chiral Amine/Imidazolidinone",
+    "substrate_type": "Ester/Lactone/Acid/Amide/Anhydride (as main reactant)",
+    "decade": 2010
+  },
+  {
+    "volume_source": "Volume91-100",
+    "article_id": "volume96article8",
+    "year": 2019,
+    "title": "Discussion Addendum for: Phosphine-Catalyzed [4 + 2] Annulation: Synthesis of Ethyl 6-Phenyl-1-tosyl-1,2,5,6-tetrahydropyridine-3-carboxylate",
+    "doi": "DOI: 10.15227/orgsyn.096.0110",
+    "quantitative_stereochem_mentions": [
+      "3:1 dr"
+    ],
+    "title_has_asym_keywords": false,
+    "catalyst_system_type": "Metal Catalyst (Ligand Family Mentioned)",
+    "substrate_type": "Alkene/Olefin/Allene/Diene",
+    "decade": 2010
+  },
+  {
+    "volume_source": "Volume91-100",
+    "article_id": "volume96article14",
+    "year": 2018,
+    "title": "Discussion Addendum for: Phosphine-Catalyzed [3 + 2] Annulation: Synthesis of Ethyl 5-(tert-Butyl)-2-phenyl-1-tosyl-3-pyrroline-3-carboxylate",
+    "doi": "DOI: 10.15227/orgsyn.096.0214",
+    "quantitative_stereochem_mentions": [
+      "84% ee",
+      "99% ee",
+      "97% ee",
+      "94% ee"
+    ],
+    "title_has_asym_keywords": false,
+    "catalyst_system_type": "Metal Catalyst (Ligand Family Mentioned)",
+    "substrate_type": "Imine/Hydrazone/Nitrone",
+    "decade": 2010
+  },
+  {
+    "volume_source": "Volume91-100",
+    "article_id": "volume96article15",
+    "year": 2018,
+    "title": "Discussion Addendum for: Synthesis of Highly Enantiomerically Enriched Amines by Asymmetric Transfer Hydrogenation of N-(tert-Butylsulfinyl) Imines",
+    "doi": "DOI: 10.15227/orgsyn.096.0232",
+    "quantitative_stereochem_mentions": [
+      "99% ee"
+    ],
+    "title_has_asym_keywords": true,
+    "catalyst_system_type": "Metal Catalyst - Ruthenium (Ru)",
+    "substrate_type": "Imine/Hydrazone/Nitrone",
+    "decade": 2010
+  },
+  {
+    "volume_source": "Volume91-100",
+    "article_id": "volume96article16",
+    "year": 2019,
+    "title": "Synthesis of Chiral Diamine Ligands for Nickel-catalyzed Asymmetric Cross-couplings of Alkylchloroboronate Esters with Alkylzincs: (1R,2R)-N,N'-Dimethyl-1,2-bis(2-methylphenyl)-1,2-diaminoethane",
+    "doi": "DOI: 10.15227/orgsyn.096.0245",
+    "quantitative_stereochem_mentions": [
+      "99% ee"
+    ],
+    "title_has_asym_keywords": true,
+    "catalyst_system_type": "Metal Catalyst - Nickel (Ni)",
+    "substrate_type": "Substrate Type Unknown",
+    "decade": 2010
+  },
+  {
+    "volume_source": "Volume91-100",
+    "article_id": "volume96article21",
+    "year": 2019,
+    "title": "Catalytic Enantioselective Addition of an In-Situ Prepared Aryltitanium Reagent to p-Chloroacetophenone: (R)-(+)-1-(4-Chlorophenyl)-1-m-tolylethanol",
+    "doi": "DOI: 10.15227/orgsyn.096.0333",
+    "quantitative_stereochem_mentions": [
+      "90% ee"
+    ],
+    "title_has_asym_keywords": true,
+    "catalyst_system_type": "Metal Catalyst - Titanium (Ti)",
+    "substrate_type": "Ketone/Aldehyde/α,β-Unsaturated Carbonyl",
+    "decade": 2010
+  },
+  {
+    "volume_source": "Volume91-100",
+    "article_id": "volume96article22",
+    "year": 2019,
+    "title": "Stereoselective Synthesis of (R)-((R)-1-Phenyl-2,2,2-trichloroethyl)2-(2-bromophenyl)aziridine-1-carboxylate",
+    "doi": "DOI: 10.15227/orgsyn.096.0351",
+    "quantitative_stereochem_mentions": [
+      "99:1 dr"
+    ],
+    "title_has_asym_keywords": false,
+    "catalyst_system_type": "Metal Catalyst - Rhodium (Rh)",
+    "substrate_type": "Alkene/Olefin/Allene/Diene",
+    "decade": 2010
+  },
+  {
+    "volume_source": "Volume91-100",
+    "article_id": "volume96article23",
+    "year": 2019,
+    "title": "Discussion Addendum for: Preparation of (R,R)-1,2:4,5-Diepoxypentane",
+    "doi": "DOI: 10.15227/orgsyn.096.0361",
+    "quantitative_stereochem_mentions": [
+      "97% ee"
+    ],
+    "title_has_asym_keywords": false,
+    "catalyst_system_type": "Metal Catalyst - Copper (Cu)",
+    "substrate_type": "Alcohol/Phenol (for KR or derivatization)",
+    "decade": 2010
+  },
+  {
+    "volume_source": "Volume91-100",
+    "article_id": "volume96article29",
+    "year": 2019,
+    "title": "Discussion Addendum for: Fluorobis(phenylsulfonyl)methane (FBSM)",
+    "doi": "DOI: 10.15227/orgsyn.096.0474",
+    "quantitative_stereochem_mentions": [
+      "ee: 84%"
+    ],
+    "title_has_asym_keywords": false,
+    "catalyst_system_type": "Organocatalyst - Proline/Amino Acid",
+    "substrate_type": "Ketone/Aldehyde/α,β-Unsaturated Carbonyl",
+    "decade": 2010
+  },
+  {
+    "volume_source": "Volume91-100",
+    "article_id": "volume96article32",
+    "year": 2019,
+    "title": "Synthesis of Chiral Tetramic Acids: Preparation of (S)-5-Benzylpyrrolidine-2,4-dione from L-Phenylalanine Methyl Ester Hydrochlorides",
+    "doi": "DOI: 10.15227/orgsyn.096.0528",
+    "quantitative_stereochem_mentions": [
+      "99% ee"
+    ],
+    "title_has_asym_keywords": false,
+    "catalyst_system_type": "Catalyst System Unknown",
+    "substrate_type": "Ester/Lactone/Acid/Amide/Anhydride (as main reactant)",
+    "decade": 2010
+  },
+  {
+    "volume_source": "Volume91-100",
+    "article_id": "volume97article7",
+    "year": 2020,
+    "title": "Discussion Addendum for: (S)-(-)-2-Allylcyclohexanone (2-Allylcyclohexan-1-one]",
+    "doi": "DOI: 10.15227/orgsyn.097.0079",
+    "quantitative_stereochem_mentions": [
+      "91 % ee",
+      "88% ee",
+      "87% ee"
+    ],
+    "title_has_asym_keywords": false,
+    "catalyst_system_type": "Metal Catalyst - Palladium (Pd)",
+    "substrate_type": "Ketone/Aldehyde/α,β-Unsaturated Carbonyl",
+    "decade": 2020
+  },
+  {
+    "volume_source": "Volume91-100",
+    "article_id": "volume97article22",
+    "year": 2020,
+    "title": "Asymmetric Michael Addition of Dimethyl Malonate to 2-Cyclopenten-1-one Catalyzed by a Heterobimetallic Complex",
+    "doi": "DOI: 10.15227/orgsyn.097.0327",
+    "quantitative_stereochem_mentions": [
+      "99% ee"
+    ],
+    "title_has_asym_keywords": true,
+    "catalyst_system_type": "Metal Catalyst - General",
+    "substrate_type": "Halide/Pseudohalide (for coupling/substitution)",
+    "decade": 2020
+  },
+  {
+    "volume_source": "Volume91-100",
+    "article_id": "volume97article23",
+    "year": 2020,
+    "title": "Discussion Addendum for: Synthesis of Et2SBr•SbCl5Br and its Use in Biomimetic Brominative Polyene Cyclizations",
+    "doi": "DOI: 10.15227/orgsyn.097.0339",
+    "quantitative_stereochem_mentions": [
+      "d.r. of 7:1"
+    ],
+    "title_has_asym_keywords": false,
+    "catalyst_system_type": "Catalyst System Unknown",
+    "substrate_type": "Substrate Type Unknown",
+    "decade": 2020
+  },
+  {
+    "volume_source": "Volume91-100",
+    "article_id": "volume98article11",
+    "year": 2021,
+    "title": "Enantioselective Michael-Proton Transfer-Lactamization for Pyroglutamic Acid Derivatives: Synthesis of Dimethyl-(S,E)-5-oxo-3-styryl-1-tosylpyrrolidine-2,2-dicarboxylate",
+    "doi": "DOI: 10.15227/orgsyn.098.0194",
+    "quantitative_stereochem_mentions": [
+      "99:1 er"
+    ],
+    "title_has_asym_keywords": true,
+    "catalyst_system_type": "Organocatalyst - Chiral Amine/Imidazolidinone",
+    "substrate_type": "Ketone/Aldehyde/α,β-Unsaturated Carbonyl",
+    "decade": 2020
+  },
+  {
+    "volume_source": "Volume91-100",
+    "article_id": "volume98article23",
+    "year": 2021,
+    "title": "Synthesis of Chiral Aziridine Ligands for Asymmetric Alkylation with Alkylzincs: Diphenyl((S)-1-((S)-1-phenylethyl)aziridin-2-yl)methanol",
+    "doi": "DOI: 10.15227/orgsyn.098.0446",
+    "quantitative_stereochem_mentions": [
+      "99% ee"
+    ],
+    "title_has_asym_keywords": true,
+    "catalyst_system_type": "Catalyst System Unknown",
+    "substrate_type": "Substrate Type Unknown",
+    "decade": 2020
+  },
+  {
+    "volume_source": "Volume91-100",
+    "article_id": "volume99article14",
+    "year": 2022,
+    "title": "Synthesis of (((1R,3S,3'S)-3,3'-Diethyl-3H,3'H-1,1'-spirobi[isobenzofuran]-7,7'-diyl)bis(oxy))bis(diphenylphosphane)",
+    "doi": "DOI: 10.15227/orgsyn.099.0190",
+    "quantitative_stereochem_mentions": [
+      "99% ee"
+    ],
+    "title_has_asym_keywords": false,
+    "catalyst_system_type": "Organocatalyst - Chiral Amine/Imidazolidinone",
+    "substrate_type": "Ketone/Aldehyde/α,β-Unsaturated Carbonyl",
+    "decade": 2020
+  },
+  {
+    "volume_source": "Volume91-100",
+    "article_id": "volume99article18",
+    "year": 2022,
+    "title": "Discussion Addendum for: Synthesis of N-Boc-N-Hydroxymethyl-L-phenylalaninal and Methyl trans-Oxazolidine-5-carboxylate, Chiral Synthons for threo-β-Amino-α-hydroxy Acids",
+    "doi": "DOI: 10.15227/orgsyn.099.0274",
+    "quantitative_stereochem_mentions": [
+      "20:1 diastereoselectivity"
+    ],
+    "title_has_asym_keywords": false,
+    "catalyst_system_type": "Catalyst System Unknown",
+    "substrate_type": "Ketone/Aldehyde/α,β-Unsaturated Carbonyl",
+    "decade": 2020
+  },
+  {
+    "volume_source": "Volume91-100",
+    "article_id": "volume100article3",
+    "year": 2023,
+    "title": "Discussion Addendum for: Rh(I)-Catalyzed Allenic Pauson-Khand Reaction",
+    "doi": "DOI: 10.15227/orgsyn.100.0029",
+    "quantitative_stereochem_mentions": [
+      "98% ee",
+      "54% ee",
+      "94% ee",
+      "84% ee",
+      "22% ee",
+      "82:18 enantiomeric ratio"
+    ],
+    "title_has_asym_keywords": false,
+    "catalyst_system_type": "Metal Catalyst - Iron (Fe)",
+    "substrate_type": "Alkene/Olefin/Allene/Diene",
+    "decade": 2020
+  },
+  {
+    "volume_source": "Volume91-100",
+    "article_id": "volume100article11",
+    "year": 2023,
+    "title": "Synthesis of Enantioenriched NH-Sulfoximines by NH Transfer to Sulfoxides Using Ammonium Carbamate and (Diacetoxyiodo)benzene",
+    "doi": "DOI: 10.15227/orgsyn.100.0186",
+    "quantitative_stereochem_mentions": [
+      "99% ee"
+    ],
+    "title_has_asym_keywords": false,
+    "catalyst_system_type": "Catalyst System Unknown",
+    "substrate_type": "Substrate Type Unknown",
+    "decade": 2020
+  }
+]
