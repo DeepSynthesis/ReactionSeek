@@ -9,7 +9,7 @@ Clone the repository by using "git clone https://gitlab.deepsynthesis.top/zaxiao
 Then using:
 ```
 cd ReactionSeek
-conda create -n ReactionSeek
+conda create -n ReactionSeek python=3.12.0
 conda activate ReactionSeek
 pip install -r requirements.txt
 ```
