@@ -1,93 +1,130 @@
-# Reaction Seek
+# ReactionSeek
 
-
+ReactionSeek automates the multi-modal extraction of chemical data from scientific literature. It employs a hybrid architecture that combines the contextual understanding of LLMs with the chemical precision of established cheminformatics tools. ReactionSeek utilizes a domain-specific prompt engineering strategy, enabling robust and accurate data mining without the need for resource-intensive model fine-tuning.
 
 ## Getting started
 
-To make it easy for you to get started with GitLab, here's a list of recommended next steps.
+Clone the repository by using "git clone https://gitlab.deepsynthesis.top/zaxiaoli/reaction-seek.git"
 
-Already a pro? Just edit this README.md and make it your own. Want to make it easy? [Use the template at the bottom](#editing-this-readme)!
-
-## Add your files
-
-- [ ] [Create](https://docs.gitlab.com/ee/user/project/repository/web_editor.html#create-a-file) or [upload](https://docs.gitlab.com/ee/user/project/repository/web_editor.html#upload-a-file) files
-- [ ] [Add files using the command line](https://docs.gitlab.com/topics/git/add_files/#add-files-to-a-git-repository) or push an existing Git repository with the following command:
-
+Then using:
 ```
-cd existing_repo
-git remote add origin https://gitlab.deepsynthesis.top/zaxiaoli/reaction-seek.git
-git branch -M main
-git push -uf origin main
+cd ReactionSeek
+conda create -n ReactionSeek
+conda activate ReactionSeek
+pip install -r requirements.txt
+```
+to create a conda environment and install all the dependencies.
+## extract_gpt.py
+This script is used to extract reaction data using OpenAI API foramt. The script input should be a json file at least contains "Title" and "Procedure", for example:
+
+```json
+{
+    "volume96article1": {
+        "Title": "Title information of the reaction procedure.",
+        "Procedure": "The reaction of 1,2-dimethoxyethane with sodium ethoxide in dry ether is an elimination reaction to form ethene and methoxide ion."
+    },
+}
 ```
 
-## Integrate with your tools
+After prepared your input files, you should edit this part of script:
 
-- [ ] [Set up project integrations](https://gitlab.deepsynthesis.top/zaxiaoli/reaction-seek/-/settings/integrations)
+```python
+if __name__ == '__main__':
 
-## Collaborate with your team
+    openai.proxy = {
+                    'http': '',#your http proxy
+                    'https': ''#your https proxy
+    }
+    openai.api_key = ""#your api key
+    openai.base_url = "https://api.openai.com/v1"#your api base url
+    model = 'gpt-3.5-turbo-16k'#your model
+    volumes = ["Volume26-30"]#names of json files
+    start = time.perf_counter()
+    main(volumes, model)
+    end = time.perf_counter()
+    print('runningtime:' + str(end - start))
+```
 
-- [ ] [Invite team members and collaborators](https://docs.gitlab.com/ee/user/project/members/)
-- [ ] [Create a new merge request](https://docs.gitlab.com/ee/user/project/merge_requests/creating_merge_requests.html)
-- [ ] [Automatically close issues from merge requests](https://docs.gitlab.com/ee/user/project/issues/managing_issues.html#closing-issues-automatically)
-- [ ] [Enable merge request approvals](https://docs.gitlab.com/ee/user/project/merge_requests/approvals/)
-- [ ] [Set auto-merge](https://docs.gitlab.com/user/project/merge_requests/auto_merge/)
+Then run the script:
 
-## Test and Deploy
+```bash
+python extract_gpt.py
+```
 
-Use the built-in continuous integration in GitLab.
+## strcuturelize.py
+This script is used to structurelize the initial output csv file to a csv table containing Index, Reactants, Reactant amounts, Products, Product amounts, Solvents, Reaction temperature, Reaction time and Yield. The input file should be the output csv file of extract_gpt.py. 
 
-- [ ] [Get started with GitLab CI/CD](https://docs.gitlab.com/ee/ci/quick_start/)
-- [ ] [Analyze your code for known vulnerabilities with Static Application Security Testing (SAST)](https://docs.gitlab.com/ee/user/application_security/sast/)
-- [ ] [Deploy to Kubernetes, Amazon EC2, or Amazon ECS using Auto Deploy](https://docs.gitlab.com/ee/topics/autodevops/requirements.html)
-- [ ] [Use pull-based deployments for improved Kubernetes management](https://docs.gitlab.com/ee/user/clusters/agent/)
-- [ ] [Set up protected environments](https://docs.gitlab.com/ee/ci/environments/protected_environments.html)
+After prepared your input files, you should edit this part of script:
 
-***
+```python
+if __name__ == '__main__':
+    volumes = ["Volume96-100"]#your json name(same as the first step)
+    start = time.perf_counter()
+    main(volumes)
+    end = time.perf_counter()
+    print('runningtime:' + str(end - start))
+```
 
-# Editing this README
+Then run the script:
 
-When you're ready to make this README your own, just edit this file and use the handy template below (or feel free to structure it however you want - this is just a starting point!). Thanks to [makeareadme.com](https://www.makeareadme.com/) for this template.
+```bash
+python strcuturelize.py
+```
 
-## Suggestions for a good README
+The output file "xxx_table.csv" is the structured csv file.
 
-Every project is different, so consider which of these sections apply to yours. The sections used in the template are suggestions for most open source projects. Also keep in mind that while a README can be too long and detailed, too long is better than too short. If you think your README is too long, consider utilizing another form of documentation rather than cutting out information.
+## name_to_smiles.py
+This script is a part of standardization module, used to convert the names of reactants and products to smiles. The input file should be a csv file containing a `Name` column.
 
-## Name
-Choose a self-explaining name for your project.
+After prepared your input files, you should edit this part of script to change your file path:
 
-## Description
-Let people know what your project can do specifically. Provide context and add a link to any reference visitors might be unfamiliar with. A list of Features or a Background subsection can also be added here. If there are alternatives to your project, this is a good place to list differentiating factors.
+```python
+if __name__ == '__main__':
 
-## Badges
-On some READMEs, you may see small images that convey metadata, such as whether or not all the tests are passing for the project. You can use Shields to add some to your README. Many services also have instructions for adding a badge.
+    start = time.perf_counter()
+    input_filename = 'name.csv'# Your input file name.
+    output_filename = 'smiles.csv'# Output file name.
+    input_data = pd.read_csv(input_filename)
+    output_data = pd.DataFrame()
+    output_data['Name'] = input_data['Name']
+    output_data['SMILES'] = input_data['Name'].apply(get_smiles)
+    output_data.to_csv(output_filename, index=False)
+    end = time.perf_counter()
+    print('runningtime:' + str(end - start))
+```
 
-## Visuals
-Depending on what you are making, it can be a good idea to include screenshots or even a video (you'll frequently see GIFs rather than actual videos). Tools like ttygif can help, but check out Asciinema for a more sophisticated method.
+Then run the script:
 
-## Installation
-Within a particular ecosystem, there may be a common way of installing things, such as using Yarn, NuGet, or Homebrew. However, consider the possibility that whoever is reading your README is a novice and would like more guidance. Listing specific steps helps remove ambiguity and gets people to using your project as quickly as possible. If it only runs in a specific context like a particular programming language version or operating system or has dependencies that have to be installed manually, also add a Requirements subsection.
+```bash
+python name_to_smiles.py
+```
+The output file "smiles.csv" is the csv file containing the smiles of each name.
 
-## Usage
-Use examples liberally, and show the expected output if you can. It's helpful to have inline the smallest example of usage that you can demonstrate, while providing links to more sophisticated examples if they are too long to reasonably include in the README.
+## time_standardlize.py
+## time_standardlize.py
+This script is a part of standardization module, used to standardize the reaction time. The input file should be a csv file containing an `Index` and a `Reaction time` column.
 
-## Support
-Tell people where they can go to for help. It can be any combination of an issue tracker, a chat room, an email address, etc.
+After prepared your input files, you should edit this part of script to change your file path and your model API:
 
-## Roadmap
-If you have ideas for releases in the future, it is a good idea to list them in the README.
+```python
+if __name__ == '__main__':
+    openai.proxy = {
+                    'http': '',# Your http proxy
+                    'https': ''# Your https proxy
+    }
+    openai.api_key = ""# Your api key
+    volumes = ["Volume16-20"]# Your input file name
+    delay = 20# Your delay time. If you don't have rate limit, please change it.
+    model = "gpt-3.5-turbo"# Your model name
+    start = time.perf_counter()
+    main(volumes, delay, model)
+    end = time.perf_counter()
+    print('runningtime:' + str(end - start))
+```
+Then run the script:
 
-## Contributing
-State if you are open to contributions and what your requirements are for accepting them.
+```bash
+python time_standardlize.py
+```
 
-For people who want to make changes to your project, it's helpful to have some documentation on how to get started. Perhaps there is a script that they should run or some environment variables that they need to set. Make these steps explicit. These instructions could also be useful to your future self.
-
-You can also document commands to lint the code or run tests. These steps help to ensure high code quality and reduce the likelihood that the changes inadvertently break something. Having instructions for running tests is especially helpful if it requires external setup, such as starting a Selenium server for testing in a browser.
-
-## Authors and acknowledgment
-Show your appreciation to those who have contributed to the project.
-
-## License
-For open source projects, say how it is licensed.
-
-## Project status
-If you have run out of energy or time for your project, put a note at the top of the README saying that development has slowed down or stopped completely. Someone may choose to fork your project or volunteer to step in as a maintainer or owner, allowing your project to keep going. You can also make an explicit request for maintainers.
+The output file "xxx_timetable.csv" is the standardized csv file.
