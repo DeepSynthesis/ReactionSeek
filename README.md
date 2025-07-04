@@ -6,6 +6,8 @@ ReactionSeek automates the multi-modal extraction of chemical data from scientif
 ## Table of contents
 · [Getting started](##getting-started)
 
+· [SynChat](##SynChat)
+
 · [Contributing](##Contributing)
 
 · [License](##License)
@@ -29,6 +31,12 @@ pip install -r requirements.txt
 to create a conda environment and install all the dependencies.
 
 then see [reaction_data_collection_automatically](ReactionSeek/reaction_data_collection_automatically.md) to run the program.
+
+## SynChat
+
+You can access SynChat through [SynChat](http://101.6.241.50:8501/). SynChat will retrieve the synthesis processes of the molecular most similar to your product contained in the dataset for you and provide suggestions in natural language.
+
+
 ## Contributing
 We welcome contributions from the community. Please fork the repository and submit pull requests.
 
