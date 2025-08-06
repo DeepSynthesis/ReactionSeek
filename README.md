@@ -18,7 +18,7 @@ ReactionSeek automates the multi-modal extraction of chemical data from scientif
 
 Clone the repository by using
 ```
-https://github.com/DeepSynthesis/etherReactionOptimization.git
+https://github.com/DeepSynthesis/ReactionSeek.git
  ```
 
 Then using:
