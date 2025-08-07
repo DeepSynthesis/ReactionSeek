@@ -34,7 +34,7 @@ then see [reaction_data_collection_automatically](ReactionSeek/reaction_data_col
 
 ## SynChat
 
-You can access SynChat through [SynChat](http://101.6.241.50:8501/). SynChat will retrieve the synthesis processes of the molecular most similar to your product contained in the dataset for you and provide suggestions in natural language.
+You can access SynChat through [SynChat](http://101.6.240.206:18501/). SynChat will retrieve the synthesis processes of the molecular most similar to your product contained in the dataset for you and provide suggestions in natural language.
 
 
 ## Contributing
