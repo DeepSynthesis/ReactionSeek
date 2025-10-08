@@ -148,6 +148,10 @@ python time_standardlize.py
 ```
 
 The output file "xxx_timetable.csv" is the standardized csv file.
+
+## SynChat
+SynChat is an interactive tool powered by LLM agents. SynChat allows researchers to query the historical reaction data and associated metadata using natural language, providing a more intuitive and efficient means of accessing specific data compared to traditional search methodology.
+
 ## Contributing
 We welcome contributions from the community. Please fork the repository and submit pull requests.
 
