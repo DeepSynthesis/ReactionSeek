@@ -38,7 +38,7 @@ to create a conda environment and install all the dependencies.
 ## Automatically collecting reaction data
 
 ### extract_gpt.py
-This script is used to extract reaction data using OpenAI API foramt. The script input should be a json file at least contains "Title" and "Procedure", for example:
+This script is used to extract reaction data using OpenAI API foramt. The script input should be a json file at least contains `Title` and `Procedure`, for example:
 
 ```json
 {
