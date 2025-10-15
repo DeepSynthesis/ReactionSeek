@@ -1,0 +1,2 @@
+(c) 3-Fluoro-4-(6-fluoro-1H-indol-3-yl)-N-[(1R)-2-hydroxy-1-methyl-ethyl]benzamide
+Deprotection of 3-fluoro-4-[6-fluoro-1-(p-tolylsulfonyl)indol-3-yl]-N-[(1R)-2-hydroxy-1-methyl-ethyl]benzamide was performed according to the procedure described in Example 3. Purification was performed using preparative HPLC to afford the title compound (1.1 mg, 10%). Data: LCMS (B) Rt: 10.033 min; m/z 331.1 (M+H)+.

@@ -1,0 +1,20 @@
+T0	OTHER_COMPOUND 868 882	sodium sulfate
+T1	EXAMPLE_LABEL 5 6	4
+T2	REAGENT_CATALYST 478 495	lithium hydroxide
+T3	OTHER_COMPOUND 696 711	tetrehydrofuran
+T4	STARTING_MATERIAL 316 319	77c
+T5	REACTION_PRODUCT 1204 1206	77
+T6	TEMPERATURE 564 580	room temperature
+T7	REACTION_PRODUCT 1051 1203	(E)-3-(3,5-difluoro-4-((6S,8R/6R,8S)-7-(2-fluoro-2-methylpropyl)-8-methyl-2-oxo-6,7,8 ,9-tetrahydro-2H-pyrano[2,3-g]isoquinolin-6-yl)phenyl)acrylic acid
+T8	REACTION_PRODUCT 7 159	(E)-3-(3,5-difluoro-4-((6S,8R/6R,8S)-7-(2-fluoro-2-methylpropyl)-8-methyl-2-oxo-6,7,8 ,9-tetrahydro-2H-pyrano[2,3-g]isoquinolin-6-yl)phenyl)acrylic acid
+T9	OTHER_COMPOUND 719 722	HCl
+T10	SOLVENT 380 395	tetrahydrofuran
+T11	TEMPERATURE 455 458	0°C
+T12	YIELD_OTHER 1208 1213	30 mg
+T13	TIME 601 609	0.5 hour
+T14	STARTING_MATERIAL 160 315	(E)-methyl 3-(3,5-difluoro-4-((6S,8R/6R,8S)-7-(2-fluoro-2-methylpropyl)-8-methyl-2-oxo-6,7,8,9 -tetrahydro-2H-pyrano[2,3-g]isoquinolin-6-yl)phenyl)acrylate
+T15	SOLVENT 400 408	methanol
+T16	REACTION_PRODUCT 1036 1050	title compound
+T17	OTHER_COMPOUND 683 691	methanol
+T18	YIELD_PERCENT 1221 1226	51.5%
+T19	OTHER_COMPOUND 789 802	ethyl acetate

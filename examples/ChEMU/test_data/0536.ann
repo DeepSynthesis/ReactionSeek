@@ -1,0 +1,21 @@
+T0	REACTION_PRODUCT 907 921	title compound
+T1	YIELD_PERCENT 937 940	35%
+T2	TEMPERATURE 536 552	room temperature
+T3	REACTION_PRODUCT 132 214	4-chloro-N-(1-(5-(4-(trifluoromethoxy)phenyl)-1,3,4-oxadiazol-2-yl)vinyl)benzamide
+T4	REACTION_PRODUCT 106 109	115
+T5	REACTION_PRODUCT 225 228	115
+T6	REACTION_PRODUCT 13 95	4-chloro-N-(1-(5-(4-(trifluoromethoxy)phenyl)-1,3,4-oxadiazol-2-yl)vinyl)benzamide
+T7	REAGENT_CATALYST 258 284	p-toluenesulfonyl chloride
+T8	OTHER_COMPOUND 651 658	aqueous
+T9	OTHER_COMPOUND 880 893	ethyl acetate
+T10	EXAMPLE_LABEL 112 117	115-1
+T11	OTHER_COMPOUND 873 879	hexane
+T12	REAGENT_CATALYST 431 435	DMAP
+T13	STARTING_MATERIAL 322 417	(S)-4-chloro-N-(2-hydroxy-1-{5-[4-trifluoromethoxy]phenyl}-1,3,4-oxadiazol-2-yl)ethyl)benzamide
+T14	OTHER_COMPOUND 671 688	ammonium chloride
+T15	REAGENT_CATALYST 230 243	Triethylamine
+T16	YIELD_OTHER 923 929	200 mg
+T17	OTHER_COMPOUND 839 849	silica gel
+T18	OTHER_COMPOUND 726 740	sodium sulfate
+T19	SOLVENT 447 462	dichloromethane
+T20	TIME 557 565	18 hours

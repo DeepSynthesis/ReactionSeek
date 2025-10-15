@@ -1,0 +1,5 @@
+T0	REACTION_PRODUCT 226 231	F2543
+T1	REACTION_PRODUCT 94 224	trans-Trifluoromethyl 2-(2-chloro-5-(2,2-dichloro-3-(3,5-dichlorophenyl)cyclopropane-1-carboxamido)benzoyl)hydrazine-1-carboxylate
+T2	YIELD_OTHER 265 271	0.05 g
+T3	REACTION_PRODUCT 258 263	solid
+T4	YIELD_PERCENT 273 276	21%

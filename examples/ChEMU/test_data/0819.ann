@@ -1,0 +1,22 @@
+T0	STARTING_MATERIAL 132 210	7-amino-5-methyl-[1,2,5]oxadiazolo[3,4-b]pyridin-6-carboxylic acid ethyl ester
+T1	REAGENT_CATALYST 296 341	Sodium bis(2-methoxy ethoxy)aluminium hydride
+T2	OTHER_COMPOUND 755 768	ethyl acetate
+T3	TEMPERATURE 473 489	room temperature
+T4	EXAMPLE_LABEL 0 1	B
+T5	SOLVENT 242 249	toluene
+T6	YIELD_OTHER 925 931	530 mg
+T7	TEMPERATURE 288 294	−78° C
+T8	OTHER_COMPOUND 739 754	tetrahydrofuran
+T9	OTHER_COMPOUND 101 106	argon
+T10	YIELD_PERCENT 933 936	81%
+T11	SOLVENT 555 562	toluene
+T12	REAGENT_CATALYST 501 546	sodium bis(2-methoxy ethoxy)aluminium hydride
+T13	SOLVENT 350 357	toluene
+T14	OTHER_COMPOUND 895 915	trifluoroacetic acid
+T15	TEMPERATURE 426 442	room temperature
+T16	TIME 621 630	1.5 hours
+T17	OTHER_COMPOUND 696 703	aqueous
+T18	REACTION_PRODUCT 2 63	7-Amino-5-methyl-[1,2,5]oxadiazolo[3,4-b]pyridin-6-ylmethanol
+T19	STARTING_MATERIAL 211 212	A
+T20	SOLVENT 259 274	tetrahydrofuran
+T21	OTHER_COMPOUND 659 684	sodium-potassium-tartrate

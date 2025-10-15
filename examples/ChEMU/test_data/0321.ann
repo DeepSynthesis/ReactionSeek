@@ -1,0 +1,15 @@
+T0	REAGENT_CATALYST 346 363	hydrogen chloride
+T1	STARTING_MATERIAL 197 219	compound from Ex. 486A
+T2	SOLVENT 367 374	dioxane
+T3	YIELD_OTHER 883 889	222 mg
+T4	SOLVENT 502 509	dioxane
+T5	TEMPERATURE 389 391	RT
+T6	OTHER_COMPOUND 676 689	ethyl acetate
+T7	REACTION_PRODUCT 913 927	title compound
+T8	YIELD_PERCENT 891 894	79%
+T9	EXAMPLE_LABEL 8 11	440
+T10	SOLVENT 265 273	methanol
+T11	REAGENT_CATALYST 480 497	hydrogen chloride
+T12	REAGENT_CATALYST 278 300	trimethyl orthoformate
+T13	REACTION_PRODUCT 12 169	3-(2-Methoxypropyl)-5-methyl-6-[(5-oxo-4,5-dihydro-1H-1,2,4-triazol-1-yl)methyl]-1-(3,3,3-trifluoropropyl)thieno[2,3-d]pyrimidine-2,4(1H,3H)-dione (racemate)
+T14	OTHER_COMPOUND 651 656	water

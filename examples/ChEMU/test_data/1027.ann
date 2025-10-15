@@ -1,0 +1,12 @@
+T0	REACTION_PRODUCT 499 513	title compound
+T1	TEMPERATURE 302 318	room temperature
+T2	EXAMPLE_LABEL 6 7	2
+T3	TEMPERATURE 353 359	reflux
+T4	TEMPERATURE 393 409	room temperature
+T5	TIME 364 372	18 hours
+T6	STARTING_MATERIAL 101 174	Methyl 3-fluoro-4-((N-(3-fluorophenyl)-3-methylbutanamido)methyl)benzoate
+T7	REAGENT_CATALYST 225 246	hydrazine monohydrate
+T8	REACTION_PRODUCT 22 100	N-(2-fluoro-4-(hydrazinecarbonyl)benzyl)-N-(3-fluorophenyl)-3-methylbutanamide
+T9	SOLVENT 284 291	ethanol
+T10	YIELD_PERCENT 562 567	91.3%
+T11	YIELD_OTHER 553 560	0.105 g

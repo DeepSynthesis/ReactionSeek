@@ -1,0 +1,4 @@
+Example 36
+7-{[8-(4-Methylsulfonyl-2-methoxyphenyl)quinazolin-2-yl]amino1-2,3-dihy dro-1-benzofuran-4-carboxamide (Compound 36)
+Preparation of compound 36-d.
+Compound 15-d (1.07 g, 5 mmol), benzyl bromide (2.66 g, 15 mmol) and potassium carbonate (2.8 g, 15 mmol) were dissolved in acetonitrile (30 mL). The reaction mixture was replaced with nitrogen three times to remove the oxygen inside the system and then heated at 80°C for 16 hours. The reaction mixture was cooled to room temperature, diluted with ice water (50 mL) and extracted with dichloromethane (50 mL × 3). The combined organic phases were washed successively with water (50 mL × 3) and brine (50 mL),dried over anhydrous sodium sulfate, filtered, and the filtrate was concentrated under reduced pressure. The residue was purified by silica gel column chromatography (petroleum ether: ethyl acetate = 10: 1) to deliver a yellow solid 36-d (1.8 g, yield: 91%).

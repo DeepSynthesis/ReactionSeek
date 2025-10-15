@@ -1,0 +1,16 @@
+T0	SOLVENT 397 405	methanol
+T1	SOLVENT 370 385	tetrahydrofuran
+T2	EXAMPLE_LABEL 5 6	2
+T3	TEMPERATURE 432 436	r.t.
+T4	OTHER_COMPOUND 559 572	ethyl acetate
+T5	OTHER_COMPOUND 508 511	HCl
+T6	YIELD_OTHER 788 794	403 mg
+T7	REAGENT_CATALYST 169 174	water
+T8	OTHER_COMPOUND 647 661	sodium sulfate
+T9	YIELD_PERCENT 796 799	94%
+T10	OTHER_COMPOUND 607 612	brine
+T11	STARTING_MATERIAL 217 345	methyl 3,5-difluoro-4-(3-(1-methyl-1H-pyrazol-4-yl)-1-((2-(trimethylsilyl)ethoxy)methyl)-1H-pyrazolo[3,4-c]pyridin-5-yl)benzoate
+T12	REAGENT_CATALYST 149 165	sodium hydroxide
+T13	TIME 441 444	2 h
+T14	REACTION_PRODUCT 8 133	3,5-Difluoro-4-(3-(1-methyl-1H-pyrazol-4-yl)-1-((2-(trimethylsilyl)ethoxy)methyl)-1H-pyrazolo[3,4-c]pyridin-5-yl)benzoic acid
+T15	REACTION_PRODUCT 724 731	product

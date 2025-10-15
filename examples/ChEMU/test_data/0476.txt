@@ -1,0 +1,4 @@
+Synthesis Example 1
+Synthesis of Compound (1-1-11)
+First Step: Synthesis of Compound (T-2)
+Under a nitrogen atmosphere, compound (T-1) (50.0 g), potassium carbonate (66.1 g) and DMF (350 mL) were put in a reaction vessel, and the resulting mixture was stirred at 80° C. for 30 minutes. Thereto, iodoethane (29.2 mL) was added dropwise, and the resulting mixture was further stirred at 80° C. for 2 hours. The resulting reaction mixture was poured into ice water, and an aqueous layer was subjected to extraction with toluene. Combined organic layers were washed with water, and dried over anhydrous magnesium sulfate. The solution was concentrated under reduced pressure, and the residue was purified by silica gel chromatography (heptane) to obtain compound (T-2) (54.3 g, yield: 96%).

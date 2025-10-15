@@ -1,0 +1,3 @@
+Synthesis of 2,5-dichloro-N-(2-(isopropylsulfonyl)phenyl)pyrimidin-4-amine (C3, X=Cl), according to the following sequence
+1-(Isopropylsulfonyl)-2-nitrobenzene (J')
+Sodium propane-2-sulfinate (2.48 kg, 19.1 mol, 1.5 eq.) and 1-chloro-2-nitrobenzene (2.00 kg, 12.7 mol) were dissolved in DMSO (5.5 kg) and heated to 85° C. for 12 hours. After cooling to 20° C., ice water (15 kg) was added followed by seeding with 1-(isopropylsulfonyl)-2-nitrobenzene (1 g). The reaction mixture was stirred for 30 min at 0-10° C., filtered and dried under vacuum to yield 1-(isopropylsulfonyl)-2-nitrobenzene (2.8 kg, 96% yield) as a grey solid.

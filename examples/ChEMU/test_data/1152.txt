@@ -1,0 +1,2 @@
+m. PREPARATION OF (2S)-3-(3,5-DIFLUOROPHENYL)-N-((6S,9S,11AS,17S,18S)-6,9,10,18-TETRAMETHYL-5,8,11,16,20-PENTAOXOHEXADECAHYDRO-1H,5H,16H-DIPYRROLO[2,1-C:2',1'-L][1]OXA[4,7,10,13]TETRAAZACYCLOHEXADECIN-17-YL)-2-(3-(4-(TRIFLUOROMETHOXY)PHENYL)UREIDO)PROPANAMIDE (COMPOUND 27)
+Compound 27 was synthesized from macrocycle C (90 mg, 0.134 mmol), 1-isocyanato-4-(trifluoromethoxy)benzene (32.7 mg, 0.161 mmol) and triethylamine (88 μL, 0.644 mmol) as a white solid (18 mg, 16%) following the general synthesis pathway described herein above;

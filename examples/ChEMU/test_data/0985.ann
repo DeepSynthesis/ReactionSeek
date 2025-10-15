@@ -1,0 +1,10 @@
+T0	REACTION_PRODUCT 10 186	1,1-Dioxo-3,3-dibutyl-5-phenyl-7-methylthio-8-(N-{(R)-α-[N-(2-sulphoethyl)carbamoyl]-4-hydroxybenzyl}carbamoylmethoxy)-2,3,4,5-tetrahydro-1,2,5-benzothiadiazepine ammonium salt
+T1	STARTING_MATERIAL 269 374	1,1 -dioxo-3,3-dibutyl-5-phenyl-7-methylthio-8-carboxymethoxy-2,3,4,5-tetrahydro-1,2,5-benzothiadiazepine
+T2	YIELD_OTHER 627 631	38mg
+T3	EXAMPLE_LABEL 8 9	9
+T4	YIELD_PERCENT 633 636	57%
+T5	OTHER_COMPOUND 569 585	ammonium acetate
+T6	TIME 437 444	3 hours
+T7	REACTION_PRODUCT 651 665	title compound
+T8	REACTION_PRODUCT 191 205	title compound
+T9	OTHER_COMPOUND 559 563	MeCN

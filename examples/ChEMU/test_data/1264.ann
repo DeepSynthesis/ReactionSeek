@@ -1,0 +1,22 @@
+T0	OTHER_COMPOUND 842 855	ethyl acetate
+T1	REAGENT_CATALYST 275 305	diethylaminosulfur trifluoride
+T2	EXAMPLE_LABEL 5 6	1
+T3	STARTING_MATERIAL 93 164	tert-butyl ((3S,6R)-6-(hydroxymethyl)tetrahydro-2H-pyran-3-yl)carbamate
+T4	TEMPERATURE 571 575	0° C
+T5	TIME 530 534	14 h
+T6	TEMPERATURE 250 256	−78° C
+T7	REACTION_PRODUCT 893 906	trans product
+T8	REACTION_PRODUCT 8 78	tert-Butyl ((3S,6R)-6-(fluoromethyl)tetrahydro-2H-pyran-3-yl)carbamate
+T9	TEMPERATURE 352 368	room temperature
+T10	SOLVENT 222 237	dichloromethane
+T11	OTHER_COMPOUND 717 722	brine
+T12	YIELD_PERCENT 916 919	23%
+T13	OTHER_COMPOUND 859 866	hexanes
+T14	OTHER_COMPOUND 735 749	sodium sulfate
+T15	YIELD_OTHER 908 914	9.3 mg
+T16	OTHER_COMPOUND 602 620	sodium bicarbonate
+T17	TIME 373 376	5 h
+T18	REAGENT_CATALYST 440 470	diethylaminosulfur trifluoride
+T19	TEMPERATURE 418 425	−78° C.
+T20	OTHER_COMPOUND 649 662	ethyl acetate
+T21	TEMPERATURE 509 525	room temperature

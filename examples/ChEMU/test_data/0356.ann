@@ -1,0 +1,10 @@
+T0	STARTING_MATERIAL 307 368	3-(4-(diphenylamino)naphthalen-1-yl)-4-hydroxypent-3-en-2-one
+T1	YIELD_PERCENT 70 73	65%
+T2	YIELD_OTHER 45 51	1.96 g
+T3	STARTING_MATERIAL 186 220	4-(diphenylamino)-1-naphthaldehyde
+T4	OTHER_COMPOUND 263 288	4-phenyl-1-naphthaldehyde
+T5	YIELD_OTHER 53 62	2.30 mmol
+T6	EXAMPLE_LABEL 18 19	3
+T7	OTHER_COMPOUND 402 454	4-hydroxy-3-(4-phenylnaphthalen-1-yl)pent-3-en-2-one
+T8	REACTION_PRODUCT 87 89	34
+T9	REACTION_PRODUCT 42 44	34

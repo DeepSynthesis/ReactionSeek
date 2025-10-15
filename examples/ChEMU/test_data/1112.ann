@@ -1,0 +1,8 @@
+T0	STARTING_MATERIAL 130 144	Intermediate 5
+T1	STARTING_MATERIAL 149 201	(1R,5S)-3-oxabicyclo-[3.1.0]hexane-6-carboxylic acid
+T2	YIELD_OTHER 333 340	26.6 mg
+T3	EXAMPLE_LABEL 8 11	100
+T4	YIELD_PERCENT 342 347	71.8%
+T5	REACTION_PRODUCT 103 111	compound
+T6	REACTION_PRODUCT 317 331	title compound
+T7	REACTION_PRODUCT 12 97	(1R,5S)-N-[4-(6-fluoro-1H-indol-3-yl)phenvyl]-3-oxabicyclo[3.1.0]hexane-6-carboxamide

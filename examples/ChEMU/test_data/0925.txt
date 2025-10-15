@@ -1,0 +1,3 @@
+Example 11
+DY424.
+To a solution of DY419 (0.5 g, 2.14 mmol) in 10 mL of dry CH2Cl2 was added EDCI (0.62 g, 3.25 mmol), DMAP (0.41 g, 3.25 mmol), and topiramate (0.72 g, 2.14 mmol). The reaction mixture was stirred at room temperature for overnight. The reaction mixture was diluted in CH2Cl2, washed twice with 10% HCl and brine. The organic solvent was dried over Na2SO4 and evaporated under a vacuum. Solidified by hexanes to afford compound DY424 (FIG. 18) as a white solid (1.03 g, 88% yield), mp 74.1° C.

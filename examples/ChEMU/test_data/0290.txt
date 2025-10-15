@@ -1,0 +1,3 @@
+Intermediate 19
+2-tert-butyl-4-methoxy-pyrimidine-5-carbaldehyde
+Dess-Martin periodinane (CAS#87413-09-0, 603 mg, 1.46 mmol, 1.5 eq) was added to a solution of [2-(tert-butyl)-4-methoxypyrimidin-5-yl]methanol (191 mg, 0.976 mmol, 1.0 eq) in dichloromethane (7 mL) at 0° C. The reaction mixture was stirred for 1 hour at 0° C. and filtered over diatomaceous earth. The residue was washed with dichloromethane and the filtrate was concentrated in vacuo. The crude mixture was purified by flash chromatography on silica gel (heptane/ethyl acetate 90/10 to 85/15) to afford the title compound (117 mg, 62%). LC/MS (ESI+) m/z 213.1 (M+H2O+H)+.

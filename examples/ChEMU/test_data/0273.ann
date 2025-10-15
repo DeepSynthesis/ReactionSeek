@@ -1,0 +1,7 @@
+T0	STARTING_MATERIAL 348 372	methanesulfonyl chloride
+T1	STARTING_MATERIAL 249 304	(4-(3-hydroxyprop-1-ynyl)phenyl)pyridine-1-yl)methanone
+T2	EXAMPLE_LABEL 5 6	3
+T3	YIELD_OTHER 165 171	396 mg
+T4	YIELD_PERCENT 179 182	80%
+T5	REACTION_PRODUCT 23 86	3-(4-(piperidine-1-carbonyl)phenyl)prop-2-ynyl methanesulfonate
+T6	REACTION_PRODUCT 87 150	3-(4-(piperidine-1-carbonyl)phenyl)prop-2-ynyl methanesulfonate

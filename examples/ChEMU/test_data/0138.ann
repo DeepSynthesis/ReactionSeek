@@ -1,0 +1,20 @@
+T0	TEMPERATURE 510 529	ambient temperature
+T1	TEMPERATURE 559 575	room temperature
+T2	OTHER_COMPOUND 822 828	silica
+T3	REACTION_PRODUCT 945 1133	N-(4-((6S,8R)-7-(3-((tert-butyldiphenylsilyl)oxy)-2,2-difluoropropyl)-8-methyl-6,7,8,9-tetrahydro-3H-pyrazolo[4,3-f]isoquinolin-6-yl)-3,5-difluorophenyl)-1-(3-fluoropropyl)azetidin-3-amine
+T4	OTHER_COMPOUND 889 892	DCM
+T5	OTHER_COMPOUND 930 933	DCM
+T6	OTHER_COMPOUND 720 725	MgSO4
+T7	OTHER_COMPOUND 658 673	sodium chloride
+T8	TIME 580 587	3 hours
+T9	YIELD_PERCENT 1142 1145	56%
+T10	STARTING_MATERIAL 273 442	N-(4-((6S,8R)-7-(3-((tert-butyldiphenylsilyl)oxy)-2,2-difluoropropyl)-8-methyl-6,7,8,9-tetrahydro-3H-pyrazolo[4,3-f]isoquinolin-6-yl)-3,5-difluorophenyl)azetidin-3-amine
+T11	OTHER_COMPOUND 877 885	methanol
+T12	REACTION_PRODUCT 15 203	N-(4-((6S,8R)-7-(3-((tert-butyldiphenylsilyl)oxy)-2,2-difluoropropyl)-8-methyl-6,7,8,9-tetrahydro-3H-pyrazolo[4,3-f]isoquinolin-6-yl)-3,5-difluorophenyl)-1-(3-fluoropropyl)azetidin-3-amine
+T13	REAGENT_CATALYST 467 472	DIPEA
+T14	OTHER_COMPOUND 907 925	ammonium hydroxide
+T15	STARTING_MATERIAL 204 226	1-Fluoro-3-iodopropane
+T16	OTHER_COMPOUND 610 615	EtOAc
+T17	OTHER_COMPOUND 650 657	aqueous
+T18	SOLVENT 496 499	DMF
+T19	YIELD_OTHER 1135 1140	87 mg

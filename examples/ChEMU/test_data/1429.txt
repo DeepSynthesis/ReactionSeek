@@ -1,0 +1,2 @@
+Synthesis of Compound 14
+Succinic anhydride (265.2 mg, 2.65 mmol) was added to a solution of compound 13 (800.1 mg, 2.65 mmol) in CH2Cl2 (10 mL). The mixture was stirred at room temperature overnight and then concentrated to oil under reduced pressure. The crude product was purified by column chromatography (silica gel, MeOH:CH2Cl2=1:8, v/v) to give compound 14 (506.5 mg 47.6%) as a gray oil. LC-MS m/z (ES+), 404.24 (M+H)+.

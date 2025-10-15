@@ -1,0 +1,20 @@
+T0	OTHER_COMPOUND 698 713	sodium chloride
+T1	OTHER_COMPOUND 735 752	magnesium sulfate
+T2	OTHER_COMPOUND 631 644	ethyl acetate
+T3	SOLVENT 385 400	dichloromethane
+T4	REAGENT_CATALYST 318 343	N,N-diisopropylethylamine
+T5	STARTING_MATERIAL 145 253	N-(4-(5-(difluoromethyl)-1,3,4-oxadiazol-2-yl)-2-fluorobenzyl)-N-phenylazetidine-3-carboxamide hydrochloride
+T6	YIELD_PERCENT 993 998	27.6%
+T7	EXAMPLE_LABEL 8 10	56
+T8	OTHER_COMPOUND 875 879	SiO2
+T9	OTHER_COMPOUND 905 920	dichloromethane
+T10	TIME 552 560	18 hours
+T11	OTHER_COMPOUND 690 697	aqueous
+T12	STARTING_MATERIAL 434 449	acetyl chloride
+T13	REACTION_PRODUCT 41 144	1-acetyl-N-(4-(5-(difluoromethyl)-1,3,4-oxadiazol-2-yl)-2-fluorobenzyl)-N-phenylazetidine-3-carboxamide
+T14	REACTION_PRODUCT 34 39	11241
+T15	YIELD_OTHER 984 991	0.014 g
+T16	OTHER_COMPOUND 562 567	Water
+T17	TEMPERATURE 412 428	room temperature
+T18	OTHER_COMPOUND 896 904	methanol
+T19	REACTION_PRODUCT 968 982	title compound

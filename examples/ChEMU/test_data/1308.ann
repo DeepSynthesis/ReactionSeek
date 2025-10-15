@@ -1,0 +1,12 @@
+T0	REACTION_PRODUCT 8 138	(R)-tert-Butyl (2-((tert-butyldimethylsilyl)oxy)-2-(8-hydroxy-2-oxo-1,2-dihydroquinolin-5-yl)ethyl)(piperidin-4-ylmethyl)carbamate
+T1	EXAMPLE_LABEL 5 6	3
+T2	TEMPERATURE 466 472	reflux
+T3	STARTING_MATERIAL 381 408	1-methyl-1,4-cyclohexadiene
+T4	SOLVENT 329 336	ethanol
+T5	TEMPERATURE 523 529	reflux
+T6	YIELD_OTHER 651 657	2.26 g
+T7	REACTION_PRODUCT 635 649	title compound
+T8	TIME 534 540	1 hour
+T9	STARTING_MATERIAL 161 305	(R)-tert-butyl (2-(8-(benzyloxy)-2-oxo-1,2-dihydroquinolin-5-yl)-2-((tert-butyldimethylsilyl)oxy)ethyl)((1-benzylpiperidin-4-yl)methyl)carbamate
+T10	REAGENT_CATALYST 360 368	10% Pd/C
+T11	YIELD_PERCENT 659 662	98%

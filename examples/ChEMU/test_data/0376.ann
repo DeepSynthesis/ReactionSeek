@@ -1,0 +1,15 @@
+T0	EXAMPLE_LABEL 5 6	2
+T1	REAGENT_CATALYST 229 245	boron tribromide
+T2	YIELD_OTHER 695 700	84 mg
+T3	OTHER_COMPOUND 619 624	brine
+T4	SOLVENT 139 154	dichloromethane
+T5	SOLVENT 249 264	dichloromethane
+T6	YIELD_PERCENT 702 705	89%
+T7	REACTION_PRODUCT 679 693	title compound
+T8	STARTING_MATERIAL 46 91	2-Chloro-N-(2-methoxyphenyl)pyrimidin-4-amine
+T9	REACTION_PRODUCT 8 45	2-(2-chloropyrimidin-4-ylamino)phenol
+T10	OTHER_COMPOUND 465 482	ammonium chloride
+T11	OTHER_COMPOUND 183 188	water
+T12	TEMPERATURE 350 366	room temperature
+T13	TIME 399 406	2 hours
+T14	OTHER_COMPOUND 533 548	dichloromethane

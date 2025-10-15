@@ -1,0 +1,7 @@
+T0	YIELD_PERCENT 255 258	65%
+T1	REACTION_PRODUCT 277 291	title compound
+T2	REACTION_PRODUCT 13 116	3-(But-3-en-1-yl)-6-(hydroxymethyl)-1-(2-methoxyethyl)-5-methylthieno[2,3-d]pyrimidine-2,4(1H,3H)-dione
+T3	EXAMPLE_LABEL 8 12	386A
+T4	STARTING_MATERIAL 203 225	compound from Ex. 358A
+T5	TEMPERATURE 328 334	−40° C
+T6	YIELD_OTHER 247 253	178 mg

@@ -1,0 +1,2 @@
+n. PREPARATION OF (S)-3-(3,5-DIFLUOROPHENYL)-N-((2R,6S,8AS,14AS,20S,23AS)-2,6-DIMETHYL-5,8,14,19,23-PENTAOXOOCTADECAHYDRO-1H,5H,14H,19H-PYRIDO[2,1-I]DIPYRROLO[2,1-C:2',1'-L]OXA[4,7,10,13]TETRAAZACYCLOHEXADECIN-20-YL)-2-(3-(4-ETHYLPHENYL)UREIDO)PROPANAMIDE (COMPOUND 14).
+Compound 14 was synthesized from compound C (70 mg, 0.100 mmol), 1-ethyl-4-isocyanatobenzene (17.7 mg, 0.12 mmol) and triethylamine (66 μL, 0.482 mmol) following the general synthesis method as described herein above. Compound 14 was provided as a ligh yellow solid (35.7 mg, 44%);

@@ -1,0 +1,17 @@
+T0	EXAMPLE_LABEL 6 7	4
+T1	OTHER_COMPOUND 463 476	ethyl acetate
+T2	OTHER_COMPOUND 567 584	magnesium sulfate
+T3	STARTING_MATERIAL 91 154	Methyl 3-fluoro-4-((N-(3-fluorophenyl)acetamido)methyl)benzoate
+T4	OTHER_COMPOUND 530 545	sodium chloride
+T5	REACTION_PRODUCT 22 90	N-(2-fluoro-4-(hydrazinecarbonyl)benzyl)-N-(3-fluorophenyl)acetamide
+T6	TEMPERATURE 279 295	room temperature
+T7	YIELD_PERCENT 719 724	89.0%
+T8	TEMPERATURE 370 386	room temperature
+T9	REACTION_PRODUCT 656 670	title compound
+T10	SOLVENT 260 267	ethanol
+T11	OTHER_COMPOUND 394 399	water
+T12	OTHER_COMPOUND 522 529	aqueous
+T13	TIME 341 349	18 hours
+T14	REAGENT_CATALYST 205 222	hydrazine hydrate
+T15	YIELD_OTHER 710 717	0.187 g
+T16	TEMPERATURE 330 336	reflux

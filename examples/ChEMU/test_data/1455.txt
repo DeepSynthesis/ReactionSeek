@@ -1,0 +1,2 @@
+i. PREPARATION OF (S)-2-(3-(3-CHLOROPHENYL)UREIDO-N-((2R,6S,8AS,14AS,20S,23AS)-2,6-DIMETRYL-5,8,14,19,23-PENTAOXOOCTADECAHYDRO-1H,5H,14H,19H-PYRIDO[2,1-I]DIPYRROLO[2,1-C:2',1'-L][1]OXA[4,7,10,13]TETRAAZACYCLOHEXADECIN-20-YL)-3-PHENYLPROPANAMIDE (COMPOUND 9)
+Compound 9 was synthesized from compound C (80 mg, 0.121 mmol), 1-chloro-3-isocyanatobenzene (22.3 mg, 0.145 mmol) and triethylamine (79 μL, 0.581 mmol) following the general synthesis method as described herein above. Compound 9 was provided as an off-white solid (23.4 mg, 24.9%);

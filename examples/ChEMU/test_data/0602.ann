@@ -1,0 +1,11 @@
+T0	REAGENT_CATALYST 277 280	HCl
+T1	EXAMPLE_LABEL 5 6	3
+T2	TEMPERATURE 344 360	room temperature
+T3	YIELD_OTHER 457 462	5.9 g
+T4	REACTION_PRODUCT 8 92	(S)-Piperidin-4-ylmethyl 2-hydroxy-2-(3-hydroxyphenyl)-2-phenylacetate hydrochloride
+T5	TIME 365 375	90 minutes
+T6	SOLVENT 284 291	dioxane
+T7	REACTION_PRODUCT 441 455	title compound
+T8	STARTING_MATERIAL 107 203	(S)-tert-butyl 4-((2-hydroxy-2-(3-hydroxyphenyl)-2-phenylacetoxy)methyl)piperidine-1-carboxylate
+T9	YIELD_PERCENT 464 467	97%
+T10	SOLVENT 228 239	1,4-dioxane

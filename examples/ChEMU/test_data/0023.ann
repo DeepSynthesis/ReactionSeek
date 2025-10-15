@@ -1,0 +1,18 @@
+T0	OTHER_COMPOUND 563 578	dichloromethane
+T1	EXAMPLE_LABEL 5 6	3
+T2	OTHER_COMPOUND 505 510	water
+T3	TIME 440 443	1 h
+T4	REAGENT_CATALYST 245 261	sodium hydroxide
+T5	YIELD_PERCENT 743 746	48%
+T6	YIELD_OTHER 736 741	1.1 g
+T7	SOLVENT 211 226	dichloromethane
+T8	REAGENT_CATALYST 299 303	TBAC
+T9	REACTION_PRODUCT 751 830	6-[(3-chloro-4-fluorophenyl)carbonyl]-1-oxa-6-azaspiro[2.5]octane-2-carbonitril
+T10	STARTING_MATERIAL 340 360	2-chloroacetonitrile
+T11	TEMPERATURE 396 400	0° C
+T12	TEMPERATURE 447 463	room temperature
+T13	REACTION_PRODUCT 8 87	6-[(3-chloro-4-fluorophenyl)carbonyl]-1-oxa-6-azaspiro[2.5]octane-2-carbonitril
+T14	OTHER_COMPOUND 681 695	sodium sulfate
+T15	OTHER_COMPOUND 627 632	brine
+T16	STARTING_MATERIAL 105 159	1-[(3-chloro-4-fluorophenyl) carbonyl] piperidin-4-one
+T17	SOLVENT 272 275	H2O

@@ -1,0 +1,4 @@
+Example 9
+Preparation of (3R)-3-((3R,5S,6R,7R,10S,13R)-6-ethyl-3,7-dihydroxy-10,13-dimethylhexadecahydr o-1H-cyclopenta[a]phenanthrene-17-yl)butane-1-sulfonic acid
+Step 1:
+Compound 9-i (1.5 g, 3.58 mmol) was dissolved in 20 mL of pyridine, and added with 15 mL of acetic anhydride. The reaction solution was stirred at room temperature overnight. After TLC (PE: EA = 1: 1) showed completion of the reaction, the solvent was removed by evaporation, and the residues was purified by column chromatography to obtain compound 9-ii (700 mg, 42%).

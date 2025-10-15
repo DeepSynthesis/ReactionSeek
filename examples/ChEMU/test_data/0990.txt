@@ -1,0 +1,4 @@
+Synthesis Example 2: Synthesis of Compound 41
+Compound 41 was synthesized in the same manner as in Synthesis Example 1, except that tert-butylmagnesium bromide was used instead of methylmagnesium bromide in Synthesis of Intermediate Compound (ii).
+Yield: 0.93 g (0.84 mmol, 68%).
+HR-EIMS (m/z) [M+] calcd for C82H64N2O2 1108.4968; found, 1108.4976.

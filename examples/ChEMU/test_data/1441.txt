@@ -1,0 +1,2 @@
+Synthesis of Compound 24
+To a solution of compound 23 (444.1 mg, 1.5 mmol) and Et3N (0.23 mL, 1.66 mmol) in CH2Cl2 (30 mL), mercapto acetic acid (0.23 mL, 3.32 mmol) in CH2Cl2 (5 mL) was added dropwise under an ice bath. Following complete addition, the solution was allowed to warm to room temperature and left to stir overnight. The solvent was removed in vacuo and the residue was purified by column chromatography (MeOH:CH2Cl2=60:1-30:1) to give the compound 24 as a yellow oil (1.72 g, 36.87%). LC-MS m/z (ES−), 385.10 (M−H)−.

@@ -1,0 +1,21 @@
+T0	EXAMPLE_LABEL 8 9	6
+T1	SOLVENT 468 471	NMP
+T2	EXAMPLE_LABEL 223 224	1
+T3	OTHER_COMPOUND 667 672	water
+T4	OTHER_COMPOUND 869 872	DCM
+T5	TEMPERATURE 574 579	80° C
+T6	OTHER_COMPOUND 880 884	MeOH
+T7	OTHER_COMPOUND 737 754	magnesium sulfate
+T8	OTHER_COMPOUND 624 637	ethyl acetate
+T9	YIELD_PERCENT 924 927	88%
+T10	OTHER_COMPOUND 857 860	DCM
+T11	STARTING_MATERIAL 359 444	(R)-8-(benzyloxy)-5-(2-bromo-1-((tert-butyldimethylsilyl)oxy)ethyl)quinolin-2(1H)-one
+T12	OTHER_COMPOUND 876 879	NH3
+T13	REACTION_PRODUCT 900 914	title compound
+T14	OTHER_COMPOUND 682 687	brine
+T15	OTHER_COMPOUND 215 216	6
+T16	OTHER_COMPOUND 10 204	(1-Benzylpiperidin-4-yl)methyl (S)-2-hydroxy-2-(3-(4-(4-((((R)-2-hydroxy-2-(8-hydroxy-2-oxo-1,2-dihydroquinolin-5-yl)ethyl)amino)methyl)piperidine-1-carbonyl)pyridin-2-yl)phenyl)-2-phenylacetate
+T17	TIME 585 593	18 hours
+T18	REACTION_PRODUCT 226 345	(R)-8-(Benzyloxy)-5-(2-(((1-benzylpiperidin-4-yl)methyl)amino)-1-((tert-butyldimethylsilyl)oxy)ethyl)quinolin-2(1H)-one
+T19	YIELD_OTHER 916 922	2.65 g
+T20	STARTING_MATERIAL 494 529	(1-benzylpiperidin-4-yl)methanamine

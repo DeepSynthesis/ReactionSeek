@@ -1,0 +1,2 @@
+Step 3: Synthesis of tert-butyl 4-ethynyl-3,6-dihydropyridine-1(2H)-carboxylate
+To a solution of tert-butyl 4-((trimethylsilyl)ethynyl)-3,6-dihydropyridine-1(2H)-carboxylate (3.3 g, 1 eq) in MeOH (100 ml) was added with K2CO3 (2.45 g, 1.5 eq). The mixture was stirred for 4 hr at room temperature, and extracted with ethyl acetate and water. The organic layer was dried over anhydrous MgSO4 and concentrated in vacuo. The residue was purified with column chromatography to prepare the title compound (2.38 g, 97%).

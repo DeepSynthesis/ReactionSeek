@@ -1,0 +1,26 @@
+T0	OTHER_COMPOUND 983 991	methanol
+T1	EXAMPLE_LABEL 8 9	2
+T2	OTHER_COMPOUND 704 709	water
+T3	STARTING_MATERIAL 489 551	rac-2-amino-2-[2-(difluoromethyl)-2H-tetrazol-5-yl]propan-1-ol
+T4	OTHER_COMPOUND 1025 1032	aqueous
+T5	OTHER_COMPOUND 1033 1051	sodium bicarbonate
+T6	TEMPERATURE 439 455	room temperature
+T7	REACTION_PRODUCT 1245 1260	target compound
+T8	OTHER_COMPOUND 954 969	dichloromethane
+T9	TIME 460 466	10 min
+T10	TEMPERATURE 637 642	60° C
+T11	OTHER_COMPOUND 802 814	acetonitrile
+T12	SOLVENT 403 406	DMF
+T13	REACTION_PRODUCT 10 156	rac-7-[(2,6-Difluorobenzyl)oxy]-N-{2-[2-(difluoromethyl)-2H-tetrazol-5-yl]-1-hydroxypropan-2-yl}-2,5-dimethylpyrazolo[1,5-a]pyridine-3-carboxamide
+T14	YIELD_OTHER 1232 1237	40 mg
+T15	STARTING_MATERIAL 178 259	7-[(2,6-difluorobenzyl)oxy]-2,5-dimethylpyrazolo[1,5-a]pyridine-3-carboxylic acid
+T16	OTHER_COMPOUND 711 714	TFA
+T17	TIME 648 651	6 h
+T18	OTHER_COMPOUND 1166 1180	sodium sulfate
+T19	OTHER_COMPOUND 815 820	water
+T20	YIELD_PERCENT 1262 1265	74%
+T21	OTHER_COMPOUND 1105 1120	dichloromethane
+T22	REAGENT_CATALYST 334 338	HATU
+T23	REAGENT_CATALYST 364 389	N,N-diisopropylethylamine
+T24	OTHER_COMPOUND 852 855	TFA
+T25	OTHER_COMPOUND 687 699	acetonitrile

@@ -1,0 +1,17 @@
+T0	REACTION_PRODUCT 1142 1156	title compound
+T1	OTHER_COMPOUND 1071 1081	chloroform
+T2	REAGENT_CATALYST 521 525	HATU
+T3	REACTION_PRODUCT 24 210	4-((1S,3aR,5aS,6R,11bR,11cS)-14-(cyclopropylmethyl)-10-hydroxy-2,3,3a,4,5,6,7,11c-octahydro-1H-6,11b-(epiminoethano)-1,5a-methanonaphth[1,2-e]indole-3-carbonyl)-1-methylpyridin-2(1H)-one
+T4	OTHER_COMPOUND 715 722	aqueous
+T5	STARTING_MATERIAL 252 391	(1S,3aR,5aS,6R,11bR,11cS)-14-(cyclopropylmethyl)-2,3,3a,4,5,6,7,11c-octahydro-1H-6,11b-(epiminoethano)-1,5a-methanonaphth[1,2-e]indol-10-ol
+T6	EXAMPLE_LABEL 8 10	15
+T7	OTHER_COMPOUND 723 748	sodium hydrogen carbonate
+T8	STARTING_MATERIAL 410 462	1-methyl-2-oxo-1,2-dihydropyridine-4-carboxylic acid
+T9	OTHER_COMPOUND 800 810	chloroform
+T10	REAGENT_CATALYST 483 496	triethylamine
+T11	OTHER_COMPOUND 866 880	sodium sulfate
+T12	YIELD_PERCENT 1165 1168	94%
+T13	OTHER_COMPOUND 615 623	methanol
+T14	OTHER_COMPOUND 604 611	ammonia
+T15	OTHER_COMPOUND 1058 1066	methanol
+T16	YIELD_OTHER 1158 1163	41 mg

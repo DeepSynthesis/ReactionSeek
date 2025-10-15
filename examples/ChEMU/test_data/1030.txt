@@ -1,0 +1,3 @@
+Intermediate 10D
+(5-(tert-butyl)-2-methoxypyridin-3-yl)methanol
+5-(tert-Butyl)-3-(((tert-butyldimethylsilyl)oxy)methyl)-2-methoxypyridine (1.124 g, 3.63 mmol) was dissolved in tetrahydrofuran (22 mL) and treated with tetrabutylammonium fluoride trihydrate (2.19 g, 6.94 mmol), and the reaction mixture was stirred at room temperature for 1 hour. The reaction mixture was poured into saturated aqueous NH4Cl, and the mixture was extracted three times with ethyl acetate. The combined extracts were dried over Na2SO4, filtered, and concentrated. The crude material was purified using a 40 g silica gel cartridge with a gradient of 5-100% ethyl acetate/heptanes over 40 minutes to provide (5-(tert-butyl)-2-methoxypyridin-3-yl)methanol (0.6128 g, 3.14 mmol, 86% yield).

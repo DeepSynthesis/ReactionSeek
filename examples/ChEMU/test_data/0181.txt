@@ -1,0 +1,2 @@
+Example 8: Preparation of 2-(2-(4-(2-tetrahydrofuroyl)piperazinyl)ethyl)-2,4-dihydro-7-methoxy-4,4-dimethylchromeno[4,3-c]pyrazole.
+The desired compound was prepared according to the procedure described for Example 1 using 2-(2-bromoethyl)-7-methoxy-4,4-dimethyl-1,4-dihydrochromeno[4,3-c]pyrazole (30 mg, 0.09 mmol) and tetrahydrofuroylpiperazine (16 mg, 0.09 mmol). Yellow solid (14 mg, 36%); mp: 158-160 °C;

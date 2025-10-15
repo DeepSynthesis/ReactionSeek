@@ -1,0 +1,18 @@
+T0	OTHER_COMPOUND 603 607	NaOH
+T1	OTHER_COMPOUND 841 848	heptane
+T2	REAGENT_CATALYST 139 166	Hydroxylamine hydrochloride
+T3	OTHER_COMPOUND 700 705	MgSO4
+T4	REACTION_PRODUCT 15 138	(1S,3R)-1-(5-bromo-3-fluoropyridin-2-yl)-2-((1-fluorocyclopropyl)methyl)-3,5-dimethyl-1,2,3,4-tetrahydroisoquinolin-6-amine
+T5	REACTION_PRODUCT 916 1039	(1S,3R)-1-(5-bromo-3-fluoropyridin-2-yl)-2-((1-fluorocyclopropyl)methyl)-3,5-dimethyl-1,2,3,4-tetrahydroisoquinolin-6-amine
+T6	OTHER_COMPOUND 634 641	aqueous
+T7	REAGENT_CATALYST 394 411	potassium acetate
+T8	YIELD_PERCENT 1050 1053	63%
+T9	YIELD_OTHER 1041 1048	0.672 g
+T10	OTHER_COMPOUND 783 789	silica
+T11	OTHER_COMPOUND 562 565	DCM
+T12	OTHER_COMPOUND 642 657	sodium chloride
+T13	OTHER_COMPOUND 832 837	EtOAc
+T14	TEMPERATURE 487 492	20° C
+T15	STARTING_MATERIAL 201 369	1-(5-bromo-3-fluoropyridin-2-yl)-N-((1S,3R)-1-(5-bromo-3-fluoropyridin-2-yl)-2-((1-fluorocyclopropyl)methyl)-3,5-dimethyl-1,2,3,4-tetrahydroisoquinolin-6-yl)methanimine
+T16	SOLVENT 435 439	MeOH
+T17	TIME 498 505	5 hours

@@ -1,0 +1,21 @@
+T0	OTHER_COMPOUND 720 723	DCM
+T1	REACTION_PRODUCT 15 153	(1S,3R)-1-(5-bromopyridin-2-yl)-2-(3-((tert-butyldiphenylsilyl)oxy)-2,2-difluoropropyl)-3,5-dimethyl-1,2,3,4-tetrahydroisoquinolin-6-amine
+T2	REAGENT_CATALYST 539 566	hydroxylamine hydrochloride
+T3	TIME 657 667	30 minutes
+T4	STARTING_MATERIAL 271 293	5-bromopicolinaldehyde
+T5	YIELD_PERCENT 1084 1087	68%
+T6	REAGENT_CATALYST 330 341	acetic acid
+T7	YIELD_OTHER 1075 1082	1.090 g
+T8	REAGENT_CATALYST 496 513	Potassium acetate
+T9	OTHER_COMPOUND 746 753	aqueous
+T10	TEMPERATURE 636 652	room temperature
+T11	SOLVENT 354 359	water
+T12	OTHER_COMPOUND 917 924	heptane
+T13	STARTING_MATERIAL 154 246	(R)-3-(2-((3-((Tert-butyldiphenylsilyl)oxy)-2,2-difluoropropyl)amino)propyl)-2-methylaniline
+T14	OTHER_COMPOUND 859 865	silica
+T15	TIME 396 406	30 minutes
+T16	TEMPERATURE 385 390	70° C
+T17	OTHER_COMPOUND 754 772	sodium bicarbonate
+T18	REACTION_PRODUCT 935 1073	(1S,3R)-1-(5-bromopyridin-2-yl)-2-(3-((tert-butyldiphenylsilyl)oxy)-2,2-difluoropropyl)-3,5-dimethyl-1,2,3,4-tetrahydroisoquinolin-6-amine
+T19	OTHER_COMPOUND 908 913	EtOAc
+T20	SOLVENT 479 486	ethanol

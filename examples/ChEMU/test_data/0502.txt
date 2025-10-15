@@ -1,0 +1,5 @@
+Example 51
+(2S,3S,4S,5S)-4-({[5-(bicyclo[1.1.1]pentan-1-yl)-2-methoxyphenyl]methyl}amino)-3-tert-butyl-5-[2-(dimethylamino)pyridin-3-yl]-1-[(2S)-oxane-2-carbonyl]pyrrolidine-2-carboxylic acid
+Example 51A
+5-(bicyclo[1.1.1]pentan-1-yl)-2-hydroxybenzaldehyde
+4-(Bicyclo[1.1.1]pentan-1-yl)phenol (266.4 mg, 1.663 mmol), magnesium chloride (252.6 mg, 2.65 mmol) and paraformaldehyde (435.5 mg, 14.50 mmol) were suspended in acetonitrile (8 mL) and triethylamine (1.4 mL, 10.04 mmol) was added. The resulting suspension was stirred vigorously and heated to 80° C. for 18 hours, at which point LC/MS showed complete conversion to the desired product. Aqueous HCl (1 M, 50 mL) was added and the reaction was extracted with dichloromethane (2×50 mL). The combined organic layers were dried over MgSO4, filtered, and concentrated to provide the title compound (313.1 mg, 100%).

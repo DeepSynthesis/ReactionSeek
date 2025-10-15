@@ -1,0 +1,21 @@
+T0	EXAMPLE_LABEL 5 6	3
+T1	OTHER_COMPOUND 760 773	ethyl acetate
+T2	OTHER_COMPOUND 726 732	hexane
+T3	STARTING_MATERIAL 357 364	DMF-DMA
+T4	YIELD_OTHER 935 945	5.827 mmol
+T5	REACTION_PRODUCT 817 914	3-(dimethylamino)-2-fluoro-1-(4-methoxy-6-((4-methoxybenzyl)amino)pyrimidine-5-yl)prop-2-en-1-one
+T6	TEMPERATURE 401 406	90° C
+T7	TIME 412 418	1 hour
+T8	OTHER_COMPOUND 733 746	ethyl acetate
+T9	STARTING_MATERIAL 143 218	1-(4-chloro-6-((4-methoxybenzyl)amino)pyrimidine-5-yl)-2-fluoroethane-1-one
+T10	STARTING_MATERIAL 318 355	N,N-dimethylformamide dimethyl acetal
+T11	OTHER_COMPOUND 478 491	Ethyl acetate
+T12	REACTION_PRODUCT 801 816	target compound
+T13	OTHER_COMPOUND 496 501	water
+T14	SOLVENT 274 281	toluene
+T15	TEMPERATURE 460 476	room temperature
+T16	OTHER_COMPOUND 600 606	Na2SO4
+T17	YIELD_PERCENT 954 957	72%
+T18	OTHER_COMPOUND 712 716	SiO2
+T19	YIELD_OTHER 788 793	2.1 g
+T20	REACTION_PRODUCT 23 120	3-(dimethylamino)-2-fluoro-1-(4-methoxy-6-((4-methoxybenzyl)amino)pyrimidine-5-yl)prop-2-en-1-one

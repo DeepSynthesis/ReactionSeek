@@ -1,0 +1,16 @@
+T0	REACTION_PRODUCT 539 637	4,4'-(((2,2'-dimethyl-[1,1'-biphenyl]-3,3'-diyl)bis(methylene))bis(oxy))bis(3-hydroxybenzaldehyde)
+T1	EXAMPLE_LABEL 5 6	2
+T2	OTHER_COMPOUND 463 468	water
+T3	STARTING_MATERIAL 135 178	3,3'-bis(bromomethyl)-2,2'-dimethylbiphenyl
+T4	TEMPERATURE 218 234	room temperature
+T5	TIME 357 360	4 h
+T6	REACTION_PRODUCT 106 108	27
+T7	SOLVENT 203 206	ACN
+T8	YIELD_OTHER 642 647	1.1 g
+T9	TEMPERATURE 346 351	90° C
+T10	REACTION_PRODUCT 7 104	4,4'-(((2,2'-Dimethyl-[1,1'-biphenyl]-3,3'-diyl)bis(methylene))bis(oxy))bis(3-hydroxybenzaldehyde
+T11	STARTING_MATERIAL 277 309	5-formyl-2-hydroxyphenyl acetate
+T12	REACTION_PRODUCT 638 640	27
+T13	YIELD_PERCENT 656 659	83%
+T14	STARTING_MATERIAL 179 181	21
+T15	REAGENT_CATALYST 246 251	K2CO3

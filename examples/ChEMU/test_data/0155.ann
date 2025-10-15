@@ -1,0 +1,14 @@
+T0	REAGENT_CATALYST 289 315	propylphosphonic anhydride
+T1	REAGENT_CATALYST 213 221	pyridine
+T2	TEMPERATURE 404 409	50° C
+T3	OTHER_COMPOUND 536 548	acetonitrile
+T4	YIELD_OTHER 666 673	0.143 g
+T5	YIELD_PERCENT 675 678	89%
+T6	STARTING_MATERIAL 30 106	6-(2-amino-5-chlorothiazol-4-yl)-3,4-dihydroquinolin-2(1H)-one hydrochloride
+T7	OTHER_COMPOUND 549 554	water
+T8	STARTING_MATERIAL 133 185	2-cyclopropyl-4-methyl-1,3-oxazole-5-carboxylic acid
+T9	TIME 415 421	5 days
+T10	SOLVENT 247 259	acetonitrile
+T11	EXAMPLE_LABEL 8 10	53
+T12	REACTION_PRODUCT 563 664	2-cyclopropyl-4-methyl-N-(4-(2-oxo-1,2,3,4-tetrahydroquinolin-6-yl)thiazol-2-yl)oxazole-5-carboxamide
+T13	SOLVENT 337 350	ethyl acetate

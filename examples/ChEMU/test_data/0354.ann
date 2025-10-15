@@ -1,0 +1,15 @@
+T0	STARTING_MATERIAL 152 218	N-(1-(benzofuran-3-yl)propan-2-yl)-2-fluoro-2-methylpropan-1-amine
+T1	TEMPERATURE 547 552	130°C
+T2	EXAMPLE_LABEL 5 6	3
+T3	SOLVENT 461 482	N,N-dimethylformamide
+T4	REACTION_PRODUCT 786 930	(E)-methyl 3-(3,5-difluoro-4-((1R,3R/1S,3S)-2-(2-fluoro-2-methylpropyl)-3-methyl-1,2,3,4-tetrahy drobenzofuro[2,3-c]pyridin-1-yl)phenyl)acrylate
+T5	TIME 573 580	3 hours
+T6	REACTION_PRODUCT 7 151	(E)-methyl 3-(3,5-difluoro-4-((1R,3R/1S,3S)-2-(2-fluoro-2-methylpropyl)-3-methyl-1,2,3,4-tetrahy drobenzofuro[2,3-c]pyridin-1-yl)phenyl)acrylate
+T7	REACTION_PRODUCT 931 933	4d
+T8	STARTING_MATERIAL 241 292	(E)-methyl 3-(3,5-difluoro-4-formylphenyl) acrylate
+T9	STARTING_MATERIAL 219 221	4c
+T10	STARTING_MATERIAL 293 295	1e
+T11	REAGENT_CATALYST 391 417	triisopropylsilyl chloride
+T12	YIELD_OTHER 935 940	15 mg
+T13	YIELD_PERCENT 948 951	16%
+T14	REACTION_PRODUCT 771 785	title compound

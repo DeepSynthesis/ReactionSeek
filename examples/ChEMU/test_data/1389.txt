@@ -1,0 +1,4 @@
+[EXAMPLE 21]
+Synthesis of compound I-052
+Step 1 Synthesis of compound 52b
+To a solution of glycerin (921 mg, 10 mmol) in tetrahydrofuran (9 mL), imidazole (1.70 g, 25 mmol) was added, and then, a solution of tert-butyldimethylsilyl chloride (3.17 g, 21 mmol) in tetrahydrofuran (18 mL) was added dropwise under ice cooling. The mixture was stirred overnight at room temperature. Then, water was added to the mixture, followed by extraction with ethyl acetate. The organic layer was washed by water and brine in this order and dried over anhydrous magnesium sulfate. After filtration, the filtrate was concentrated under reduced pressure. The obtained crude product was purified by silica gel column chromatography (hexane-ethyl acetate) to afford the compound 52b (3.13 g, yield 98%) as a colorless oil.

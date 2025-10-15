@@ -1,0 +1,19 @@
+T0	REACTION_PRODUCT 8 116	3-(8-Amino-6-bromoimidazo[1,2-a]pyrazin-3-yl)-N-((3, 3-difluorocyclobutyl)methyl)-4-methylbenzenesulfonamide
+T1	REAGENT_CATALYST 428 444	sodium carbonate
+T2	EXAMPLE_LABEL 5 6	2
+T3	YIELD_OTHER 798 804	170 mg
+T4	OTHER_COMPOUND 753 758	EtOAc
+T5	TIME 571 577	20 min
+T6	OTHER_COMPOUND 653 660	Celite®
+T7	SOLVENT 448 453	water
+T8	REACTION_PRODUCT 782 796	title compound
+T9	STARTING_MATERIAL 204 313	N-((3,3-difluorocyclobutyl)methyl)-4-methyl-3-(4,4,5,5-tetramethyl-1,3,2-dioxaborolan-2-yl)benzenesulfonamide
+T10	OTHER_COMPOUND 617 621	MeOH
+T11	OTHER_COMPOUND 759 766	hexanes
+T12	TEMPERATURE 559 565	130° C
+T13	SOLVENT 407 414	ethanol
+T14	STARTING_MATERIAL 130 173	6-bromo-3-iodoimidazo[1,2-a]pyrazin-8-amine
+T15	REAGENT_CATALYST 340 380	tetrakis(triphenylphosphine)palladium(0)
+T16	OTHER_COMPOUND 492 494	N2
+T17	TIME 481 486	5 min
+T18	YIELD_PERCENT 806 809	99%

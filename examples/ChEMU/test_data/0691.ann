@@ -1,0 +1,24 @@
+T0	TEMPERATURE 571 575	60°C
+T1	REACTION_PRODUCT 1084 1098	title compound
+T2	TEMPERATURE 671 687	room temperature
+T3	STARTING_MATERIAL 312 322	Example 25
+T4	REAGENT_CATALYST 463 496	Tetrabutylammoniumhydrogensulfate
+T5	OTHER_COMPOUND 997 1013	ammonium acetate
+T6	REACTION_PRODUCT 11 177	1,1-Dioxo-3,3-dibutyl-5-phenyl-7-methylthio-8-(N-{(R)-α-[N-(sulphomethyl)carbamoyl] benzyl}carbamoylmethoxy)-2,3,4,5-tetrahydro-1,2,5-benzothiadiazepine ammonium salt
+T7	OTHER_COMPOUND 984 996	acetonitrile
+T8	SOLVENT 452 455	DMF
+T9	EXAMPLE_LABEL 8 10	24
+T10	REACTION_PRODUCT 1104 1117	ammonium salt
+T11	REAGENT_CATALYST 759 763	TBTU
+T12	TIME 781 788	6 hours
+T13	REAGENT_CATALYST 394 412	N-methylmorpholine
+T14	STARTING_MATERIAL 178 310	1,1-Dioxo-3,3-dibutyl-5-phenyl-7-methylthio-8-[N-((R)-α-carboxybenzyl) carbamoylmethoxy]-2,3,4,5-tetrahydro-1,2,5-benzothiadiazepine
+T15	TEMPERATURE 704 708	60°C
+T16	YIELD_OTHER 1065 1070	10 mg
+T17	REAGENT_CATALYST 600 604	TBTU
+T18	STARTING_MATERIAL 344 369	aminomethanesulfonic acid
+T19	TIME 713 721	one hour
+T20	YIELD_PERCENT 1072 1075	17%
+T21	TIME 688 698	40 minutes
+T22	REAGENT_CATALYST 795 799	TBTU
+T23	TIME 557 567	15 minutes

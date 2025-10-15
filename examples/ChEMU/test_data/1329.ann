@@ -1,0 +1,10 @@
+T0	YIELD_OTHER 592 598	140 mg
+T1	STARTING_MATERIAL 390 497	5-bromo-1-{2-oxo-2-[4-(2-oxo-1,4-dihydro-2H-quinazolin-3-yl)-piperidin-1-yl]-ethyl}-1H-pyrimidine-2,4-dione
+T2	YIELD_PERCENT 600 603	51%
+T3	OTHER_COMPOUND 186 188	11
+T4	REACTION_PRODUCT 196 328	5-bromo-1-{2-oxo-2-[4-(2-oxo-1,4-dihydro-2H-quinazolin-3-yl)-piperidin-1-yl]-ethyl}-3-(2,2,2-trifluoroethyl)-1H-pyrimidine-2,4-dione
+T5	EXAMPLE_LABEL 8 10	11
+T6	STARTING_MATERIAL 562 590	1,1,1-trifluoro-2-iodoethane
+T7	EXAMPLE_LABEL 190 194	11.1
+T8	REACTION_PRODUCT 608 740	5-bromo-1-{2-oxo-2-[4-(2-oxo-1,4-dihydro-2H-quinazolin-3-yl)-piperidin-1-yl]-ethyl}-3-(2,2,2-trifluoroethyl)-1H-pyrimidine-2,4-dione
+T9	OTHER_COMPOUND 11 156	5-(2,3-fluorophenyl)-1-{2-oxo-2-[4-(2-oxo-1,4-dihydro-2H-quinazolin-3-yl)-piperidin-1-yl]-ethyl}-3-(2,2,2-trifluoroethyl)-1H-pyrimidine-2,4-dione

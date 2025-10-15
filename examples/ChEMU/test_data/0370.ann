@@ -1,0 +1,20 @@
+T0	STARTING_MATERIAL 197 270	(S)-2-{[1-phenyl-meth-(E)-ylidene]-amino}-propionic acid tert-butyl ester
+T1	EXAMPLE_LABEL 5 8	55B
+T2	REAGENT_CATALYST 113 127	Silver acetate
+T3	OTHER_COMPOUND 724 738	sodium sulfate
+T4	TIME 497 505	18 hours
+T5	STARTING_MATERIAL 301 334	(E)-3,3-dimethyl-1-nitrobut-1-ene
+T6	OTHER_COMPOUND 854 867	ethyl acetate
+T7	OTHER_COMPOUND 588 603	dichloromethane
+T8	OTHER_COMPOUND 384 392	nitrogen
+T9	TEMPERATURE 509 525	room temperature
+T10	OTHER_COMPOUND 669 674	water
+T11	YIELD_PERCENT 923 926	14%
+T12	OTHER_COMPOUND 834 844	silica gel
+T13	REACTION_PRODUCT 899 913	title compound
+T14	REACTION_PRODUCT 9 112	rac-(2S,3S,4S,5S)-3-tert-butyl-2-methyl-4-nitro-5-phenyl-pyrrolidine-2-carboxylic acid tert-butyl ester
+T15	SOLVENT 365 377	acetonitrile
+T16	REAGENT_CATALYST 405 418	Triethylamine
+T17	REAGENT_CATALYST 129 141	CAS#563-63-3
+T18	YIELD_OTHER 915 921	350 mg
+T19	OTHER_COMPOUND 846 853	heptane

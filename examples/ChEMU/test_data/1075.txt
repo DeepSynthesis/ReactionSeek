@@ -1,0 +1,3 @@
+Example 254
+3-Isopropyl-1-(2-methoxyethyl)-5-methyl-6-[(5-oxo-4,5-dihydro-1H-1,2,4-triazol-1-yl)methyl]thieno[2,3-d]pyrimidine-2,4(1H,3H)-dione
+Analogously to the method described in Ex. 253, 85 mg (0.222 mmol) of the compound from Ex. 354A and 48 μl (0.222 mmol) of diphenylphosphoryl azide were used to obtain 3 mg (3% of theory) of the title compound After the preparative HPLC, the product was repurified here once again by means of preparative TLC (eluent: dichloromethane/methanol 10:1).

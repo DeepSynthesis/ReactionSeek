@@ -1,0 +1,7 @@
+T0	YIELD_OTHER 427 437	0.039 mmol
+T1	EXAMPLE_LABEL 5 6	2
+T2	YIELD_PERCENT 446 449	81%
+T3	YIELD_OTHER 113 118	16 mg
+T4	REACTION_PRODUCT 122 211	(S)-7-amino-5-((1-(2-phenylquinoline-3-yl)ethyl)amino)pyrimido[4,5-d]pyrimidine-4(1H)-one
+T5	REACTION_PRODUCT 23 112	(S)-7-amino-5-((1-(2-phenylquinoline-3-yl)ethyl)amino)pyrimido[4,5-d]pyrimidine-4(1H)-one
+T6	STARTING_MATERIAL 320 416	(S)-7-(methylthio)-5-((1-(2-phenylquinoline-3-yl)ethyl)amino)pyrimido[4,5-d]pyrimidine-4(1H)-one

@@ -1,0 +1,2 @@
+Step 5: N4-(3-chloro-4-fluorophenyl)-N4-(3,4-dimethoxybenzyl)-7-methoxyquinazoline-4,6-diamine
+N-(3-chloro-4-fluorophenyl)-N-(3,4-dimethoxybenzyl)-7-methoxy-6-nitroquinazoline-4-amine (2.35 g, 4.7 mmol) and Raney nickel (about 0.5 g) were added to tetrahydrofuran (100 mL). The atmosphere was replaced with hydrogen gas, and the reaction mixture was stirred overnight at room temperature under a hydrogen atmosphere (1 atm). The mixture was filtered, and the filtrate was concentrated in vacuo to afford the title compound (2 g, 90%).

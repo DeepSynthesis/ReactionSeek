@@ -1,0 +1,2 @@
+Step 3: Preparation of 3,3-difluorocyclobutane carboxylic acid
+To solution of benzyl 3,3-difluorocyclobutane carboxylate(450 mg, 2.0 mmol) dissolved in ethanol (10 mL), was added Pd/C(10%, 40 mg). The reaction mixture was stirred at room temperature for 10 hours under the atmosphere of hydrogen(15 psi). After TLC showed that the reaction was completed, the solid was filtered out, the filtrate was concentrated under vacuum to give 3,3-difluorocyclobutane carboxylic acid(250 mg, 83.1% yield) as a white solid.

@@ -1,0 +1,3 @@
+Intermediate Synthesis 20: Synthesis of Intermediate 20
+Under an argon atmosphere, into a mixture of 5.60 g (19.8 mmol) of the intermediate 19 in 99 mL of acetonitrile, 3.52 g (19.8 mmol) of N-bromosuccinimide was added under ice-cooling. The resultant mixture was stirred for one hour.
+After the reaction, the mixture was heated to room temperature and the generated solid was collected by filtration. The filtrate was extracted with ethyl acetate, washed with water, dried over anhydrous magnesium sulfate, filtered, and then concentrated. The concentrate residue and the solid collected by filtration was combined and purified by silica gel column chromatography to obtain 6.93 g (yield: 97%) of solid, which was identified as the following intermediate 20 by FD-MS analysis.

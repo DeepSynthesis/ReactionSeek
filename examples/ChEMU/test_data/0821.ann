@@ -1,0 +1,14 @@
+T0	STARTING_MATERIAL 178 212	5-(4-bromobutyl)-3-methylisoxazole
+T1	STARTING_MATERIAL 99 155	7-(Cyclohexylmethyl)-3-methyl-1H-purine-2,6(3H,7H)-dione
+T2	EXAMPLE_LABEL 5 6	2
+T3	REACTION_PRODUCT 614 705	7-(cyclohexylmethyl)-3-methyl-1-(4-(3-methylisoxazol-5-yl)butyl)-1H-purine-2,6(3H,7H)-dione
+T4	YIELD_OTHER 707 714	75.0 mg
+T5	REAGENT_CATALYST 325 344	potassium carbonate
+T6	TEMPERATURE 379 383	25°C
+T7	TIME 433 440	3 hours
+T8	YIELD_PERCENT 732 735	49%
+T9	REACTION_PRODUCT 7 98	7-(Cyclohexylmethyl)-3-methyl-1-(4-(3-methylisoxazol-5-yl)butyl)-1H-purine-2,6(3H,7H)-dione
+T10	REAGENT_CATALYST 239 255	potassium iodide
+T11	SOLVENT 295 316	N,N-dimethylformamide
+T12	TEMPERATURE 478 482	25°C
+T13	TEMPERATURE 422 428	130 °C

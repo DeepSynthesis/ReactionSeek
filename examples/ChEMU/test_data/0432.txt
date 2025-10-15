@@ -1,0 +1,5 @@
+Example 28
+N-(2-(dimethylamino)ethyl)-N-(5-fiuoro-4-(6,7-dihydro-3-isopropyl-2-methyl-2H-pyrazolo [4,3-c]pyridin-5(4H)-yl)pyrimidin-2-yl)-N-methylpyridine-2,5-diamine
+Step 1:
+N-(2-(dimethylamino)ethyl)-N-methyl-6-nitropyridine-3-amine
+To a solution of 5-bromo-2-nitro-pyridine (2.00 g, 9.85 mmol, 1.00 equivalent) and N,N,N-trimethylethane-1,2-diamine (1.51 g, 14.78 mmol, 1.50 equivalents) in dimethylformamide (20.00 mL) was added potassium carbonate (2.72 g, 19.70 mmol, 2.00 equivalents) in one portion. The reaction mixture was heated to 90°C and stirred for 16 hours. LC/MS showed completion of the reaction. After the reaction solution was cooled to 25°C, water (50 mL) was added to thereto. The reaction mixture was subjected to extraction using ethyl acetate (100 mL×3). The organic phases were combined and washed with saturated brine (100 mL×3), then dried over anhydrous sodium sulfate, filtered and concentrated to give a crude product. The crude product was purified by column chromatography (petroleum ether: ethyl acetate = 30: 1 to 1: 3) to give the title compound (1.50 g, 6.69 mmol, 67.91% yield) as a white solid.

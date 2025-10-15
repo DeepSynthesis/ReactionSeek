@@ -1,0 +1,11 @@
+T0	TEMPERATURE 294 296	RT
+T1	REACTION_PRODUCT 538 552	title compound
+T2	REAGENT_CATALYST 137 157	trifluoroacetic acid
+T3	SOLVENT 246 261	dichloromethane
+T4	TIME 301 304	2 h
+T5	EXAMPLE_LABEL 8 11	15A
+T6	YIELD_PERCENT 516 519	92%
+T7	STARTING_MATERIAL 211 232	compound from Ex. 10A
+T8	REACTION_PRODUCT 12 127	1-(2-Methoxyethyl)-5-methyl-2,4-dioxo-3-(2-phenylethyl)-1,2,3,4-tetrahydrothieno[2,3-d]pyrimidine-6-carboxylic acid
+T9	OTHER_COMPOUND 421 434	diethyl ether
+T10	YIELD_OTHER 509 514	4.1 g

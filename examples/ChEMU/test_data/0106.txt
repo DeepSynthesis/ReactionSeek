@@ -1,0 +1,3 @@
+Example 28
+N-(1-methyl-3-(pyridin-2-yl)-1H-pyrazol-4-yl)-5'-(methylamino)-[2,3'-bipyridine]-6-carboxamide (I-26)
+An NMP (1 mL) solution of 5'-fluoro-N-(1-methyl-3-(pyridin-2-yl)-1H-pyrazol-4-yl)-[2,3'-bipyridine]-6-carboxamide (22.5 mg, 0.06 mmol), methylamine hydrochloride (5 eq.) and NaHCO3 (2 eq) was heated at 150-180° C. for 20 days until 50% of desired product was formed, as monitored by LC-MS. Solvent was removed in vacuo, after silica gel chromatography, title compound was obtained as a beige color solid: 14 mg (61% yield);

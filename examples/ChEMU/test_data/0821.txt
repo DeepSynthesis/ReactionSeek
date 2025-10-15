@@ -1,0 +1,3 @@
+Step 2
+7-(Cyclohexylmethyl)-3-methyl-1-(4-(3-methylisoxazol-5-yl)butyl)-1H-purine-2,6(3H,7H)-dione
+7-(Cyclohexylmethyl)-3-methyl-1H-purine-2,6(3H,7H)-dione (100 mg, 0.381 mmol), 5-(4-bromobutyl)-3-methylisoxazole (83.0 mg, 0.381 mmol) and potassium iodide (6.3 mg, 0.038 mmol) were dissolved in N,N-dimethylformamide (5 mL), potassium carbonate (105 mg, 0.763 mmol) was added at 25°C. The reaction was heated to reflux at 130 °C for 3 hours. The reaction solution was cooled to 25°C, filtered and the filtrate was concentrated under reduced pressure. The resulting product was purified by preparative HPLC to give 7-(cyclohexylmethyl)-3-methyl-1-(4-(3-methylisoxazol-5-yl)butyl)-1H-purine-2,6(3H,7H)-dione (75.0 mg) with a yield of 49%.

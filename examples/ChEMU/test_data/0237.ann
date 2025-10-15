@@ -1,0 +1,18 @@
+T0	EXAMPLE_LABEL 5 6	6
+T1	REAGENT_CATALYST 491 507	cesium carbonate
+T2	REACTION_PRODUCT 7 154	(E)-methyl3-(4-((1S,3R/1R,3S)-6-((diphenylmethylene)amino)-2-isobutyl-3,5-dimethyl-1,2,3,4-tetrahydroisoquinolin-1-yl)-3,5 -difluorophenyl)acrylate
+T3	SOLVENT 554 565	1,4-dioxane
+T4	REAGENT_CATALYST 375 392	palladium acetate
+T5	REACTION_PRODUCT 1010 1013	92f
+T6	TEMPERATURE 653 669	room temperature
+T7	OTHER_COMPOUND 777 787	silica gel
+T8	REAGENT_CATALYST 414 465	(R)-(+)-2,2'-bis(diphenylphosphino)-1,1'-binaphthyl
+T9	REACTION_PRODUCT 846 860	title compound
+T10	STARTING_MATERIAL 334 352	benzophenone imine
+T11	TEMPERATURE 606 611	100°C
+T12	STARTING_MATERIAL 155 308	(E)-methyl 3-(3,5-difluoro-4-((1S,3R/1R,3S)-2-isobutyl-3,5-dimethyl-6-(((trifluoromethyl)sulfonyl)oxy)-1,2,3,4-tetrahydroisoquinolin-1-yl)phenyl)acrylate
+T13	STARTING_MATERIAL 309 312	92e
+T14	YIELD_OTHER 1015 1020	1.8 g
+T15	YIELD_PERCENT 1028 1031	69%
+T16	REACTION_PRODUCT 861 1009	(E)-methyl 3-(4-((1S,3R/1R,3S)-6-((diphenylmethylene)amino)-2-isobutyl-3,5-dimethyl-1,2,3,4-tetr ahydroisoquinolin-1-yl)-3,5-difluorophenyl)acrylate
+T17	TIME 628 636	12 hours

@@ -1,0 +1,16 @@
+T0	SOLVENT 219 222	DCM
+T1	TEMPERATURE 246 262	room temperature
+T2	TEMPERATURE 463 479	room temperature
+T3	REACTION_PRODUCT 624 728	6-amino-2-{[1-(but-3-yn-1-ylsulfonyl)piperidin-4-yl]amino}-8-cyclopentylpyrido[2,3-d]pyrimidin-7(8H)-one
+T4	REAGENT_CATALYST 176 196	methanesulfonic acid
+T5	OTHER_COMPOUND 379 385	NaHCO3
+T6	TIME 484 490	1 hour
+T7	REACTION_PRODUCT 730 741	Example 137
+T8	STARTING_MATERIAL 14 145	tert-butyl (2-((1-(but-3-yn-1-ylsulfonyl)piperidin-4-yl)amino)-8-cyclopentyl-7-oxo-7,8-dihydropyrido[2,3-d]pyrimidin-6-yl)carbamate
+T9	YIELD_PERCENT 751 754	91%
+T10	OTHER_COMPOUND 565 570	water
+T11	YIELD_OTHER 743 749	119 mg
+T12	STARTING_MATERIAL 147 151	137B
+T13	TEMPERATURE 599 604	45° C
+T14	TIME 267 273	1 hour
+T15	OTHER_COMPOUND 371 378	aqueous

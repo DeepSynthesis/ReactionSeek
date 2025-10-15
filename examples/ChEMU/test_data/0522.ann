@@ -1,0 +1,12 @@
+T0	STARTING_MATERIAL 192 231	3,7-Dimethyl-1H-purine-2,6(3H,7H)-dione
+T1	TIME 407 415	16 hours
+T2	EXAMPLE_LABEL 5 6	3
+T3	REAGENT_CATALYST 299 315	potassium iodide
+T4	TEMPERATURE 385 390	120°C
+T5	STARTING_MATERIAL 85 123	5-(4-Chlorobutyl)-3-methyl-1H-pyrazole
+T6	REAGENT_CATALYST 254 273	potassium carbonate
+T7	REACTION_PRODUCT 7 84	3,7-Dimethyl-1-(4-(3-methyl-1H-pyrazol-5-yl)butyl)-1H-purine-2,6(3H,7H)-dione
+T8	YIELD_OTHER 583 590	25.0 mg
+T9	REACTION_PRODUCT 504 581	3,7-dimethyl-1-(4-(3-methyl-1H-pyrazol-5-yl)butyl)-1H-purine-2,6(3H,7H)-dione
+T10	SOLVENT 162 183	N,N-dimethylformamide
+T11	YIELD_PERCENT 608 611	14%

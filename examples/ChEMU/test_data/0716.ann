@@ -1,0 +1,13 @@
+T0	STARTING_MATERIAL 116 159	6-oxo-1,6-dihydropyridine-2-carboxylic acid
+T1	TEMPERATURE 283 288	100°C
+T2	YIELD_PERCENT 633 636	58%
+T3	OTHER_COMPOUND 33 84	1-ethyl-6-oxo-1,6-dihydropyridine-2-carboxylic acid
+T4	REACTION_PRODUCT 570 623	ethyl 1-ethyl-6-oxo-1,6-dihydropyridine-2-carboxylate
+T5	OTHER_COMPOUND 478 486	methanol
+T6	YIELD_OTHER 625 631	104 mg
+T7	TIME 293 300	2 hours
+T8	EXAMPLE_LABEL 18 19	5
+T9	OTHER_COMPOUND 454 464	silica gel
+T10	OTHER_COMPOUND 491 501	chloroform
+T11	STARTING_MATERIAL 183 220	1,1-diethoxy-N,N-dimethylmethaneamine
+T12	TEMPERATURE 338 354	room temperature

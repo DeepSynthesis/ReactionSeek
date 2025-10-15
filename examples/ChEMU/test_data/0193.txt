@@ -1,0 +1,4 @@
+EXAMPLE 49
+5-(4,5-dimethyl-pyridin-3-yl)-3-methyl-1-{2-oxo-2-[4-(2-oxo-1,2,4,5-tetrahydro-benzo[d][1,3]diazepin-3-yl)-piperidin-1-yl]-ethyl}-1H-pyrimidine-2,4-dione (reaction scheme No. 3, compound 49)
+49.1: 1-benzhydryl-5-(4,5-dimethyl-pyridin-3-yl)-3-methyl-1H-pyrimidine-2,4-dione
+Similarly to example 44.1, starting from 244 mg (1.6 mmol) of 4,5-dimethyl-pyridine boronic acid and 400 mg (1.1 mmol) of 1-benzhydryl-5-bromo-3-methyl-1H-pyrimidine-2,4-dione (prepared as described in example 2.2), 290 mg (68%) of 1-benzhydryl-5-(4,5-dimethyl-pyridin-3-yl)-3-methyl-1H-pyrimidine-2,4-dione is obtained in the form of a clear yellow oil.

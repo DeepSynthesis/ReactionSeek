@@ -1,0 +1,4 @@
+Example 21
+N-[2,2-dimethyl-4-(piperidin-4-yl)-2,3-dihydro-1-benzofuran-7-yl]-6-fluoro-8-(2-methoxyphenyl)quinazolin-2-amine (Compound 21)
+Preparation of compound 21-k.
+2-Nitro-5-bromophenol (1.0 g, 4.61 mmol) was dissolved in water (10 mL) and then sodium hydroxide (185 mg, 4.61 mmol) and 3-bromo-2-methylpropene (803 mg, 5.99 mmol) were added to the above solution, respectively. The mixture was heated at 60 °C for 5 hours and the reaction mixture was cooled to room temperature and then diluted with ethyl acetate (50 mL). The separated organic phase was washed successively with water (20 mL × 3) and brine (20 mL), dried over anhydrous sodium sulfate, filtered, and the filtrate was concentrated under reduced pressure. The residue was purified by silica gel column chromatography (petroleum ether: ethyl acetate = 10: 1) to deliver a yellow solid 21-k (1.1 g, yield: 88%).

@@ -1,0 +1,11 @@
+T0	TEMPERATURE 353 358	60° C
+T1	EXAMPLE_LABEL 5 6	3
+T2	REACTION_PRODUCT 21 118	3-(2-fluoro-4-(1,2,3,6-tetrahydropyridin-4-yl)phenyl)-N,N-dimethylprop-2-yn-1-amine hydrochloride
+T3	STARTING_MATERIAL 136 239	tert-butyl 4-(4-(3-(dimethylamino)prop-1-yn-1-yl)-3-fluorophenyl)-3,6-dihydropyridine-1(2H)-carboxylate
+T4	REACTION_PRODUCT 454 468	title compound
+T5	SOLVENT 255 259	MeOH
+T6	YIELD_OTHER 470 475	1.6 g
+T7	YIELD_PERCENT 477 480	97%
+T8	REAGENT_CATALYST 283 298	acetyl chloride
+T9	TIME 345 349	3 hr
+T10	TEMPERATURE 379 395	room temperature

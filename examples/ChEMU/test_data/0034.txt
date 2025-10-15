@@ -1,0 +1,5 @@
+Example 77
+1-(Cyclopropylmethyl)-6-(2-(2,4-dimethylthiazol-5-yl)ethyl)-4-methyl-pyrazolo [4,3 - d]pyrimidine-5,7-dione
+Step 1
+1-(Cyclopropylmethyl)-6-(2-(2,4-dimethylthiazol-5-yl)ethyl)-4-methyl-pyrazolo [4,3 - d]pyrimidine-5,7-dione
+2-(2,4-Dimethylthiazol-5-yl)ethyl methanesulfonate (80.1 mg, 0.340 mmol), 1-(cyclopropylmethyl)-4-methyl-pyrazolo[4,3-d]pyrimidine-5,7-dione (50.0 mg, 0.227 mmol), potassium iodide (3.8 mg, 0.0227 mmol) and potassium carbonate (94.1 mg, 0.681 mmol) were dissolved in N,N-dimethylformamide (5 mL). The reaction solution was heated to 120°C and stirred for 3 hours. The mixture was cooled to room temperature, filtered and the filtrate was concentrated under reduced pressure. The residue was purified by preparative HPLC to give 1-(cyclopropylmethyl)-6-(2-(2,4-dimethylthiazol-5-yl)ethyl)-4-methyl-pyrazolo[4,3-d]pyrimidine-5,7-dione (20.0 mg) with a yield of 25%.

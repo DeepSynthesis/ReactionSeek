@@ -1,0 +1,2 @@
+Intermediate 1: 5-Bromo-7-chloroindolin-2-one
+To a cooled (0° C.) solution of 7-chloroindolin-2-one (1.0 g, 6.0 mmol) in TFA (11 mL) was added N-bromosuccinimide (1.0 g, 6.0 mmol) in portions. The reaction mixture was stirred at 0° C. for 6 h. The solvent was removed in vacuo and the residue was diluted with DCM (25 mL) and concentrated, followed by a similar sequence with EtOAc. The crude product was triturated with ethanol to provide the title compound as a white solid (861 mg, 58% yield).

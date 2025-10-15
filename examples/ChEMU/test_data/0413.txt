@@ -1,0 +1,2 @@
+Analogous to the process for preparing Compound (1) in Step 7 in Example 1, Compound o' was condensed with Compound n to produce Compound (17): 4-(3-(4-(2-oxo-2,3-dihydro-1H-imidazo[4,5-b]pyridin-5-yl)piperazine-1-carbonyl)-4-trifluoromethylbenzyl)phthalazin-1(2H)-one (67mg, yield 53%). MS(ESI) m/z:550[M+1]+.
+δ12.57(s,1H),10.95(s,1H),10.37(s,1H),8.23(d,1H,J=7.2Hz),7.94-7.80(m,3H),7.73(d,1H,J=8. 0Hz),7.54(d,1H,J=8.0Hz),7.47(s,1H),7.09(d,1H,J=8.0Hz),6.33(d,1H,J=8.0Hz),4.42(s,2H),3. 70-3.64(m,1H),3.64-3.59(m,1H),3.42-3.25(m,2H),3.14-3.08(m,4H).

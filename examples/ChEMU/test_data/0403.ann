@@ -1,0 +1,19 @@
+T0	OTHER_COMPOUND 558 568	silica gel
+T1	OTHER_COMPOUND 482 486	MeOH
+T2	REACTION_PRODUCT 154 156	4c
+T3	OTHER_COMPOUND 582 587	EtOAc
+T4	STARTING_MATERIAL 286 288	4b
+T5	STARTING_MATERIAL 372 392	O-allylhydroxylamine
+T6	SOLVENT 324 328	MeOH
+T7	STARTING_MATERIAL 175 284	tert-butyl (1S,3S,6R)-3-[[tert-butyl(dimethyl)silyl]oxymethyl]-7-oxa-4-azabicyclo[4.1.0]heptane-4-carboxylate
+T8	YIELD_PERCENT 762 765	65%
+T9	EXAMPLE_LABEL 5 6	3
+T10	YIELD_OTHER 743 749	3.47 g
+T11	TIME 466 472	3 days
+T12	REACTION_PRODUCT 37 152	tert butyl (2S,4S,5S)-5-(allyloxyamino)-2-[[tert-butyl(dimethyl)silylloxymethyll-4-hydroxy-piperidine-1-carboxylate
+T13	TEMPERATURE 476 480	80°C
+T14	REACTION_PRODUCT 621 736	tert-butyl (2S,4S,5S)-5-(allyloxyamino)-2-[[tert-butyl(dimethyl)silyl]oxymethyl]-4-hydroxy-piperidine-1-carboxylate
+T15	OTHER_COMPOUND 570 581	Cyclohexane
+T16	YIELD_OTHER 751 760	8.32 mmol
+T17	REACTION_PRODUCT 738 740	4c
+T18	STARTING_MATERIAL 809 811	4b

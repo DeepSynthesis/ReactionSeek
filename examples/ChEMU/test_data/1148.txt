@@ -1,0 +1,3 @@
+Example 16
+4-(6-fluoro-1H-indol-3-yl)-N-[(1R)-2-hydroxy-1-phenyl-ethyl]benzamide
+This compound was prepared from Intermediate 3-a and (2R)-2-amino-2-phenyl-ethanol according to the procedure described in Example 3. Purification was performed using preparative HPLC to afford the title compound (10 mg, 31%). Data: LCMS (B) Rt : 11.516 min; m/z 375.1 (M+H)+.

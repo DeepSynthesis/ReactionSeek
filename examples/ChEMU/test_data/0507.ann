@@ -1,0 +1,19 @@
+T0	OTHER_COMPOUND 612 619	aqueous
+T1	SOLVENT 458 466	methanol
+T2	REACTION_PRODUCT 915 1078	N-(3,5-difluoro-4-((6S,8R)-7-((1-fluorocyclopropyl)methyl)-8-methyl-6,7,8,9-tetrahydr-3H-pyrazolo[4,3-f]isoquinolin-6-yl)phenyl)-1-(3-fluoropropyl)azetidin-3-amine
+T3	REACTION_PRODUCT 11 175	N-(3,5-difluoro-4-((6S,8R)-7-((1-fluorocyclopropyl)methyl)-8-methyl-6,7,8,9-tetrahydro-3H-pyrazolo[4,3-f]isoquinolin-6-yl)phenyl)-1-(3-fluoropropyl)azetidin-3-amine
+T4	EXAMPLE_LABEL 8 10	11
+T5	OTHER_COMPOUND 697 702	MgSO4
+T6	OTHER_COMPOUND 654 657	DCM
+T7	REAGENT_CATALYST 179 182	HCl
+T8	OTHER_COMPOUND 844 847	DCM
+T9	OTHER_COMPOUND 836 840	MeOH
+T10	OTHER_COMPOUND 832 835	NH3
+T11	SOLVENT 186 193	dioxane
+T12	YIELD_OTHER 1080 1087	45.4 mg
+T13	OTHER_COMPOUND 620 626	NaHCO3
+T14	YIELD_PERCENT 1089 1092	91%
+T15	OTHER_COMPOUND 763 773	silica gel
+T16	TIME 530 537	2 hours
+T17	STARTING_MATERIAL 242 435	N-(3,5-difluoro-4-((6S,8R)-7-((1-fluorocyclopropyl)methyl)-8-methyl-3-(tetrahydro-2H-pyran-2-yl)-6,7,8,9-tetrahydro-3H-pyrazolo[4,3-f]isoquinolin-6-yl)phenyl)-1-(3-fluoropropyl)azetidin-3-amine
+T18	TEMPERATURE 509 525	room temperature

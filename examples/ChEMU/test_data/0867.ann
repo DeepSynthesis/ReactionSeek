@@ -1,0 +1,13 @@
+T0	YIELD_PERCENT 867 872	53.6%
+T1	SOLVENT 273 279	CH2Cl2
+T2	OTHER_COMPOUND 608 612	MeOH
+T3	STARTING_MATERIAL 301 324	ethanesulfonyl chloride
+T4	REACTION_PRODUCT 12 98	(R)-N-(1-(ethylsulfonyl)pyrrolidine-3-yl)-N-methyl-7H-pyrrolo[2,3-d]pyrimidine-4-amine
+T5	SOLVENT 256 271	dichloromethane
+T6	REAGENT_CATALYST 395 420	N,N-diisopropylethylamine
+T7	TEMPERATURE 452 468	room temperature
+T8	REACTION_PRODUCT 745 831	(R)-N-(1-(ethylsulfonyl)pyrrolidine-3-yl)-N-methyl-7H-pyrrolo[2,3-d]pyrimidine-4-amine
+T9	STARTING_MATERIAL 110 179	(R)-N-methyl-N-(pyrrolidine-3-yl)-7H-pyrrolo[2,3-d]pyrimidine-4-amine
+T10	EXAMPLE_LABEL 8 10	10
+T11	YIELD_OTHER 734 741	53.4 mg
+T12	OTHER_COMPOUND 613 619	CH2Cl2

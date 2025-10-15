@@ -1,0 +1,17 @@
+T0	STARTING_MATERIAL 353 472	rac-(2S,3R,4S,5S)-tert-Butyl 3-(tert-butyl)-5-(1-methyl-2-oxo-1,2-dihydropyridin-3-yl)-4-nitropyrrolidine-2-carboxylate
+T1	STARTING_MATERIAL 474 481	Core 35
+T2	OTHER_COMPOUND 841 864	methyl tert-butyl ether
+T3	OTHER_COMPOUND 809 815	silica
+T4	YIELD_OTHER 893 898	45 mg
+T5	OTHER_COMPOUND 16 190	rac-(2S,3S,4S,5S)-3-tert-butyl-4-{[(5-tert-butyl-2-methoxyphenyl)methyl]amino}-1-(cyclohexanecarbonyl)-5-(1-methyl-2-oxo-1,2-dihydropyridin-3-yl)pyrrolidine-2-carboxylic acid
+T6	STARTING_MATERIAL 666 694	cyclohexanecarbonyl chloride
+T7	REAGENT_CATALYST 545 558	triethylamine
+T8	REACTION_PRODUCT 878 892	title compound
+T9	EXAMPLE_LABEL 8 15	III-228
+T10	TEMPERATURE 762 778	room temperature
+T11	EXAMPLE_LABEL 199 208	III-228-A
+T12	YIELD_PERCENT 900 903	83%
+T13	REAGENT_CATALYST 510 521	pyrrolidine
+T14	TIME 750 758	one hour
+T15	REACTION_PRODUCT 209 352	rac-(2S,3R,4S,5S)-tert-butyl 3-(tert-butyl)-1-(cyclohexanecarbonyl)-5-(1-methyl-2-oxo-1,2-dihydropyridin-3-yl)-4-nitropyrrolidine-2-carboxylate
+T16	SOLVENT 608 623	dichloromethane

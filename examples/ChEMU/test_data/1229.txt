@@ -1,0 +1,4 @@
+Synthesis Example 8
+3-Iodopropylbenzene
+A reaction vessel was charged with 3-(4-methylphenylsulfonyloxy)propylbenzene (200 mg, 0.688 mmol), sodium iodide (310 mg, 2.07 mmol), and acetone (3.4 mL), and reaction was effected at room temperature for 6 hours. After the reaction, water was added to the reaction system, and the product was extracted three times with ethyl acetate into the organic layer. The resulting organic layer was washed with saturated saline and dried with MgSO4. After concentration under reduced pressure, the concentrate was purified by Hi-flash silica column chromatography (developing solvent, ethyl acetate:hexane=0:100→11:89) to yield a product (140 mg (0.569 mmol), 83% yield, orange liquid).
+As a reference specimen for use in the identification of labeled compounds, an unlabeled compound was synthesized according to the procedure described below.

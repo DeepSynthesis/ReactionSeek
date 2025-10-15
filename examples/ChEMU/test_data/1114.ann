@@ -1,0 +1,16 @@
+T0	YIELD_PERCENT 709 714	74.3%
+T1	TEMPERATURE 420 436	room temperature
+T2	EXAMPLE_LABEL 5 8	1-2
+T3	REACTION_PRODUCT 683 699	desired compound
+T4	REAGENT_CATALYST 258 277	potassium carbonate
+T5	TEMPERATURE 340 345	50° C
+T6	REAGENT_CATALYST 221 234	sodium iodide
+T7	SOLVENT 199 206	acetone
+T8	OTHER_COMPOUND 583 600	magnesium sulfate
+T9	REACTION_PRODUCT 10 73	N-((2,4-dichloropyrimidin-5-yl) methyl)-2-methyl-5-nitroaniline
+T10	STARTING_MATERIAL 137 160	2-methyl-5-nitroaniline
+T11	OTHER_COMPOUND 502 517	dichloromethane
+T12	STARTING_MATERIAL 74 113	2,4-Dichloro-5-(chloromethyl)pyrimidine
+T13	OTHER_COMPOUND 522 527	water
+T14	YIELD_OTHER 701 707	2.83 g
+T15	TIME 351 359	24 hours

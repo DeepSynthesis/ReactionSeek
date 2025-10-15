@@ -1,0 +1,16 @@
+T0	STARTING_MATERIAL 146 238	5,6-difluoro-4-(4-(2-octyldodecyl)thiophen-2-yl)-7-(thiophen-2-yl)benzo[c][1,2,5]thiadiazole
+T1	REACTION_PRODUCT 13 120	4-(5-bromo-4-(2-octyldodecyl)thiophen-2-yl)-7-(5-bromothiophen-2-yl)-5,6-difluorobenzo[c][1,2,5]thiadiazole
+T2	REACTION_PRODUCT 798 803	solid
+T3	YIELD_OTHER 805 811	1.36 g
+T4	YIELD_PERCENT 813 818	66.9%
+T5	OTHER_COMPOUND 662 667	MgSO4
+T6	TEMPERATURE 377 383	−78° C
+T7	SOLVENT 327 342	tetrahydrofuran
+T8	SOLVENT 344 347	THF
+T9	TEMPERATURE 912 928	room temperature
+T10	OTHER_COMPOUND 545 564	potassium carbonate
+T11	OTHER_COMPOUND 763 769	hexane
+T12	REACTION_PRODUCT 836 843	product
+T13	REAGENT_CATALYST 392 410	N-bromosuccinimide
+T14	OTHER_COMPOUND 602 608	hexane
+T15	OTHER_COMPOUND 871 883	iso-propanol

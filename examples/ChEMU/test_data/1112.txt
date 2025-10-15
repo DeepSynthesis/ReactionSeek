@@ -1,0 +1,3 @@
+Example 100
+(1R,5S)-N-[4-(6-fluoro-1H-indol-3-yl)phenvyl]-3-oxabicyclo[3.1.0]hexane-6-carboxamide
+This compound was prepared from Intermediate 5 and (1R,5S)-3-oxabicyclo-[3.1.0]hexane-6-carboxylic acid according to the procedure described in Example 1. Purification was performed using preparative HPLC to afford the title compound (26.6 mg, 71.8%). Data: LCMS (B) Rt: 11.456 min; m/z 337.1 (M+H)+.

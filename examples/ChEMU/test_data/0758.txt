@@ -1,0 +1,2 @@
+s. PREPARATION OF (S)-3-(3,5-DIFLUOROPHENYL)-2-(3-(P-TOLYL)UREIDO)-N-((6AS,12S,13S,15AS,17S,21S,23AS)-13,17,21-TRIMETHYL-6,11,15,20,23-PENTAOXOOCTADECAHYDRO-6H,11H,15H-[1,4]OXAZINO[3,4-I]DIPYRROLO[2,1-C:2',1'-L[1]OXA[4,7,10,13]TETRAAZACYCLOHEXADECIN-12-YL)PROPANAMIDE (COMPOUND 33)
+Compound 33 was synthesized from macrocycle C (80 mg, 0.112 mmol), p-tolyl isocyanate (17.92 mg, 0.135 mmol) and triethylamine (73.6 μL, 0.538 mmol) as a white solid (43.4 mg, 47.8%) following the general synthesis pathway described herein above;

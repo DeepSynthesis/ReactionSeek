@@ -1,0 +1,14 @@
+T0	REAGENT_CATALYST 402 418	potassium iodide
+T1	REACTION_PRODUCT 96 173	1-Methyl-3-(3-(3-methylisoxazol-5-yl)propyl)pyrido[4,3-d]pyrimidine-2,4-dione
+T2	YIELD_OTHER 741 748	38.0 mg
+T3	SOLVENT 372 393	N,N-dimethylformamide
+T4	EXAMPLE_LABEL 94 95	1
+T5	YIELD_PERCENT 766 769	69%
+T6	TIME 492 499	3 hours
+T7	REAGENT_CATALYST 312 331	potassium carbonate
+T8	REACTION_PRODUCT 11 88	1-Methyl-3-(3-(3-methylisoxazol-5-yl)propyl)pyrido[4,3-d]pyrimidine-2,4-dione
+T9	REACTION_PRODUCT 662 739	1-methyl-3-(3-(3-methylisoxazol-5-yl)propyl)pyrido[4,3-d]pyrimidine-2,4-dione
+T10	STARTING_MATERIAL 174 222	3-(3-Methylisoxazol-5-yl)propyl methanesulfonate
+T11	EXAMPLE_LABEL 8 10	99
+T12	STARTING_MATERIAL 246 287	1-methylpyrido[4,3-d]pyrimidine-2,4-dione
+T13	TEMPERATURE 482 487	120°C

@@ -1,0 +1,12 @@
+T0	OTHER_COMPOUND 523 526	ACN
+T1	OTHER_COMPOUND 536 541	NH4OH
+T2	EXAMPLE_LABEL 5 6	C
+T3	SOLVENT 297 300	DCM
+T4	REACTION_PRODUCT 8 113	7-(3-Fluoroazetidin-1-yl)-8-(7-methyl-1H-indazol-5-yl)-2-(trifluoromethyl)-[1,2,4]triazolo[1,5-a]pyridine
+T5	REAGENT_CATALYST 318 321	TFA
+T6	YIELD_OTHER 591 595	8 mg
+T7	YIELD_PERCENT 597 600	16%
+T8	TIME 390 396	1 hour
+T9	REACTION_PRODUCT 558 572	title compound
+T10	STARTING_MATERIAL 131 273	7-(3-fluoroazetidin-1-yl)-8-(7-methyl-1-((2-(trimethylsilyl)ethoxy)methyl)-1H-indazol-5-yl)-2-(trifluoromethyl)-[1,2,4]triazolo[1,5-a]pyridine
+T11	TEMPERATURE 369 385	room temperature

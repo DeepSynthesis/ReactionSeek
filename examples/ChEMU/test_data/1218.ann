@@ -1,0 +1,16 @@
+T0	REACTION_PRODUCT 8 105	tert-butyl 2-(3-chloropropylsulfonyl)-3-iodo-4,6-dihydropyrrolo[3,4-c]pyrazole-5(2H) -carboxylate
+T1	YIELD_OTHER 773 779	2.70 g
+T2	REAGENT_CATALYST 200 213	triethylamine
+T3	EXAMPLE_LABEL 5 6	2
+T4	YIELD_PERCENT 789 792	68%
+T5	REACTION_PRODUCT 674 771	tert-butyl 2-(3-chloropropylsulfonyl)-3-iodo-4,6-dihydropyrrolo [3,4-c]pyrazole-5(2H)-carboxylate
+T6	OTHER_COMPOUND 633 643	silica gel
+T7	OTHER_COMPOUND 408 413	Water
+T8	SOLVENT 258 273	tetrahydrofuran
+T9	STARTING_MATERIAL 106 175	Tert-butyl 3-iodo-4,6-dihydropyrrolo[3,4-c]pyrazole-5(2H)-carboxylate
+T10	OTHER_COMPOUND 517 528	citric acid
+T11	OTHER_COMPOUND 539 544	water
+T12	STARTING_MATERIAL 315 346	3-chloropropylsulfonyl chloride
+T13	TEMPERATURE 289 295	-10 °C
+T14	OTHER_COMPOUND 453 468	dichloromethane
+T15	OTHER_COMPOUND 550 555	brine

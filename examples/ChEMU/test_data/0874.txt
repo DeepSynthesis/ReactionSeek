@@ -1,0 +1,3 @@
+Preparation Example 4 Preparation of Compound 4
+12.51 g of Compound 4 was prepared in the same manner as in Preparation Example 1, except that Compound A (10 g, 31.53 mmol) and 4-bromo-1,1'-biphenyl (4.01 g, 34.69 mmol) were used. (84%)
+MS[M+H]+=470

@@ -1,0 +1,18 @@
+T0	TIME 463 466	16h
+T1	REAGENT_CATALYST 442 450	hydrogen
+T2	STARTING_MATERIAL 136 242	(2R,5R)-2-((2-azaspiro[3,3]heptan-6-yl)carbamoyl)-7-oxo-1,6-diazabicyclo[3,2,1]octan-6-yl hydrogen sulfate
+T3	TEMPERATURE 454 458	25°C
+T4	REACTION_PRODUCT 19 135	(2R,5R)-2-((2-methyl-2-azaspiro[3,3]heptan-6-yl)carbamoyl)-7-oxo-1,6-diazabicyclo[3,2,1]octan-6 -yl hydrogen sulfate
+T5	REACTION_PRODUCT 621 635	title compound
+T6	EXAMPLE_LABEL 1 2	2
+T7	YIELD_PERCENT 649 654	17.3%
+T8	STARTING_MATERIAL 388 400	formaldehyde
+T9	OTHER_COMPOUND 542 552	silica gel
+T10	YIELD_OTHER 637 641	9 mg
+T11	OTHER_COMPOUND 488 496	methanol
+T12	SOLVENT 368 375	aqueous
+T13	SOLVENT 301 306	water
+T14	SOLVENT 319 327	methanol
+T15	REAGENT_CATALYST 416 420	Pd/C
+T16	OTHER_COMPOUND 576 588	acetonitrile
+T17	OTHER_COMPOUND 591 596	water

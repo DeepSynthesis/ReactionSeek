@@ -1,0 +1,20 @@
+T0	REACTION_PRODUCT 10 174	3-((6S,8R)-6-(2,6-difluoro-4-((1-(3-fluoropropyl)azetidin-3-yl)amino)phenyl)-8-methyl-3,6,8,9-tetrahydro-7H-pyrazolo[4,3-f]isoquinolin-7-yl)-2,2-difluoropropan-1-ol
+T1	EXAMPLE_LABEL 8 9	5
+T2	REAGENT_CATALYST 175 179	TBAF
+T3	STARTING_MATERIAL 239 427	N-(4-((6S,8R)-7-(3-((tert-butyldiphenylsilyl)oxy)-2,2-difluoropropyl)-8-methyl-6,7,8,9-tetrahydro-3H-pyrazolo[4,3-f]isoquinolin-6-yl)-3,5-difluorophenyl)-1-(3-fluoropropyl)azetidin-3-amine
+T4	REACTION_PRODUCT 1165 1330	3-((6S,8R)-6-(2,6-difluoro-4-((1-(3-fluoropropyl)azetidin-3-yl)amino)phenyl)-8-methyl-3,6, 8,9-tetrahydro-7H-pyrazolo[4,3-f]isoquinolin-7-yl)-2,2-difluoropropan-1-ol
+T5	SOLVENT 183 186	THF
+T6	SOLVENT 450 453	THF
+T7	OTHER_COMPOUND 993 999	silica
+T8	OTHER_COMPOUND 1069 1074	water
+T9	TEMPERATURE 466 482	room temperature
+T10	OTHER_COMPOUND 656 660	MeOH
+T11	YIELD_OTHER 1332 1337	17 mg
+T12	OTHER_COMPOUND 601 607	silica
+T13	YIELD_PERCENT 1339 1342	31%
+T14	TIME 490 497	4 hours
+T15	OTHER_COMPOUND 664 667	DCM
+T16	OTHER_COMPOUND 1116 1120	MeCN
+T17	OTHER_COMPOUND 692 695	DCM
+T18	OTHER_COMPOUND 1092 1110	ammonium hydroxide
+T19	OTHER_COMPOUND 682 687	NH4OH

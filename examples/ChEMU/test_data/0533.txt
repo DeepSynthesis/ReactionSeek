@@ -1,0 +1,4 @@
+Example Compound 29
+2-((3,5-dimethyl-1-phenyl-1H-pyrazol-4-yl)amino)-2-oxoethyl 2-(5-fluoro-1H-indol-1-yl)acetate
+Step 1: ethyl 2-(5-fluoro-1 H-indol-1-yl)acetate
+Sodium hydride (75.0 mg, 1.9 mmol, 60% dispersion in mineral oil) was suspended in a mixture of dry THF (2 mL) and dry DMF (5 mL) under Argon and cooled to 0 °C before adding 5-fluoroindole (225.6 mg, 1.7 mmol). The stirring mixture was allowed to warm to room temperature and after 45 minutes it was cooled again to 0 °C before adding ethyl 2-bromoacetate (220.0 µL, 2.0 mmol) and letting it stir for 2 h. Then the mixture was quenched with NH4Cl (saturated solution), diluted with water and extracted with toluene 3 times. The organic layer was washed again with water, dried over MgSO4, filtered and concentrated to give 334 mg of pure title compound (91%) after column chromatography purification (20% EtOAc in PE).

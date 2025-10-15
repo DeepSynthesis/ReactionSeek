@@ -1,0 +1,22 @@
+T0	STARTING_MATERIAL 215 341	2-[3-fluoro-4-(4,4,5,5-tetramethyl-[1,3,2]dioxaborolan-2-yl)-2-pyridinyl]-imidodicarbonic acid-1,3-bis(1,1-dimethylethyl)ester
+T1	STARTING_MATERIAL 122 185	4-(6-Bromo-3-methoxypyridin-2-yl)-6-morpholinopyrimidin-2-amine
+T2	OTHER_COMPOUND 1057 1063	hexane
+T3	YIELD_PERCENT 1105 1109	27 %
+T4	REAGENT_CATALYST 478 497	potassium phosphate
+T5	TIME 685 691	24 hrs
+T6	REAGENT_CATALYST 568 608	tetrakis(triphenylphosphine)palladium(0)
+T7	OTHER_COMPOUND 868 885	magnesium sulfate
+T8	EXAMPLE_LABEL 8 12	51-4
+T9	REACTION_PRODUCT 1082 1096	title compound
+T10	YIELD_OTHER 1098 1103	47 mg
+T11	REAGENT_CATALYST 610 619	Pd(PPh3)4
+T12	REAGENT_CATALYST 499 504	K3PO4
+T13	OTHER_COMPOUND 816 821	water
+T14	REACTION_PRODUCT 30 114	6-(2-amino-6-morpholinopyrimidin-4-yl)-3'-fluoro-5-methoxy-[2,4'-bipyridin]-2'-amine
+T15	OTHER_COMPOUND 1044 1056	ethylacetate
+T16	SOLVENT 416 423	dioxane
+T17	OTHER_COMPOUND 887 892	MgSO4
+T18	REAGENT_CATALYST 551 556	water
+T19	OTHER_COMPOUND 1010 1020	silica gel
+T20	REACTION_PRODUCT 116 120	LXXV
+T21	OTHER_COMPOUND 784 799	dichloromethane

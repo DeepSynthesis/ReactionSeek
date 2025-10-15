@@ -1,0 +1,10 @@
+T0	TIME 347 350	1 h
+T1	TEMPERATURE 354 370	room temperature
+T2	REAGENT_CATALYST 302 305	TFA
+T3	REACTION_PRODUCT 25 126	3-[4-(4-amino-piperidin-1-yl)-7-chloro-3-(3-fluoro-5-methyl-phenyl)-cinnolin-6-yl]-5-fluoro-benzamide
+T4	YIELD_OTHER 511 518	15.5 mg
+T5	YIELD_PERCENT 520 523	62%
+T6	EXAMPLE_LABEL 5 8	1-6
+T7	SOLVENT 318 321	DCM
+T8	REACTION_PRODUCT 495 509	title compound
+T9	STARTING_MATERIAL 142 277	{1-[6-(3-carbamoyl-5-fluoro-phenyl)-7-chloro-3-(3-fluoro-5-methyl-phenyl)-cinnolin-4-yl]-piperidin-4-yl}-carbamic acid tert-butyl ester

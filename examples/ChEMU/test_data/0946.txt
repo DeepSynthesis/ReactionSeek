@@ -1,0 +1,5 @@
+Example 89
+1-Methyl-3-[4-(3-methylisoxazol-5-yl)butyl]pyrido[2,3-d]pyrimidine-2,4-dione
+Step 1
+1-Methyl-3-[4-(3-methylisoxazol-5-yl)butyl]pyrido[2,3-d]pyrimidine-2,4-dione
+1-Methylpyrido[2,3-d]pyrimidine-2,4(1H,3H)-dione (20.0 mg, 0.112 mmol), 5-(4-bromobutyl)-3-methyl-isoxazole (30.5 mg, 0.139 mmol), potassium iodide (2.1 mg, 0.124 mmol) and potassium carbonate (31.5 mg, 0.228 mmol) were dissolved in N,N-dimethylformamide (10 mL). The reaction solution was warmed to 120°C and stirred for 3 hours. The reaction solution was cooled to room temperature, filtered and the filtrate was concentrated under reduced pressure. The residue was purified by preparative HPLC to give 1-methyl-3-[4-(3-methylisoxazol-5-yl)butyl]pyrido[2,3-d]pyrimidine-2,4-dione (10.0 mg) with a yield of 28%.

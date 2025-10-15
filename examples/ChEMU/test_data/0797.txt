@@ -1,0 +1,3 @@
+Step 4
+4-Hydroxy-3-(methylthio)benzaldehyde (40)
+To a stirred solution of 2-(4-(methoxymethoxy)-3-(methylthio)phenyl)-5,5-dimethyl-1,3-dioxane (1.5 g, 5.03 mmol) in acetone (15 mL) at room temperature was added IM HCl (10 mL). The reaction mixture was maintained at 60° C. for 2 h. The reaction mixture was concentrated under reduced pressure. The crude compound was dissolved in EtOAc (30 mL), the organic layer was washed with water (2×15 mL) and dried over anhydrous Na2SO4, and concentrated under reduced pressure to get 4-hydroxy-3-(methylthio)benzaldehyde (1.14 g, yield: 100%, LC-MS: 81.15%) as an off white solid. [C8H8O2S];

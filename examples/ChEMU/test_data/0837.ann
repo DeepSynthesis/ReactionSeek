@@ -1,0 +1,13 @@
+T0	TEMPERATURE 399 401	rt
+T1	YIELD_OTHER 652 657	85 mg
+T2	OTHER_COMPOUND 563 567	MTBE
+T3	EXAMPLE_LABEL 5 6	B
+T4	REACTION_PRODUCT 671 685	title compound
+T5	YIELD_PERCENT 659 662	69%
+T6	STARTING_MATERIAL 138 270	tert-Butyl (S)-3-(1H-imidazol-4-yl)-1-oxo-1-((S)-2-((S)-1-phenyl-2-(pyridin-2-yl)ethylcarbamoyl)pyrrolidin-1-yl)propan-2-ylcarbamate
+T7	OTHER_COMPOUND 619 624	water
+T8	REACTION_PRODUCT 7 137	2-((S)-2-((S)-1-((S)-2-Ammonio-3-(1H-imidazol-1-ium-4-yl)propanoyl)pyrrolidine-2-carboxamido)-2-phenylethyl)pyridinium trichloride
+T9	SOLVENT 330 341	1,4-dioxane
+T10	OTHER_COMPOUND 486 490	MTBE
+T11	REAGENT_CATALYST 314 317	HCl
+T12	TIME 406 410	18 h

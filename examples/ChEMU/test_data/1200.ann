@@ -1,0 +1,16 @@
+T0	STARTING_MATERIAL 240 274	5-(4-Bromobutyl)-3-methylisoxazole
+T1	REAGENT_CATALYST 340 356	potassium iodide
+T2	SOLVENT 210 231	N,N-dimethylformamide
+T3	STARTING_MATERIAL 145 172	1-Methylpteridine-2,4-dione
+T4	REACTION_PRODUCT 630 692	1-methyl-3-(4-(3-methylisoxazol-5-yl)butyl)pteridine-2,4-dione
+T5	REACTION_PRODUCT 12 74	1-Methyl-3-(4-(3-methylisoxazol-5-yl)butyl)pteridine-2,4-dione
+T6	YIELD_PERCENT 719 721	3%
+T7	TEMPERATURE 501 517	room temperature
+T8	REAGENT_CATALYST 296 315	potassium carbonate
+T9	EXAMPLE_LABEL 80 81	1
+T10	REACTION_PRODUCT 82 144	1-Methyl-3-(4-(3-methylisoxazol-5-yl)butyl)pteridine-2,4-dione
+T11	EXAMPLE_LABEL 8 11	109
+T12	TIME 455 463	17 hours
+T13	TEMPERATURE 391 395	25°C
+T14	TEMPERATURE 433 438	120°C
+T15	YIELD_OTHER 694 701	13.0 mg

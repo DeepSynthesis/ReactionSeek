@@ -1,0 +1,3 @@
+65.1 6-[5-Bromo-6-(2,4-dimethoxy-benzylamino)-pyridin-2-ylmethyl]-5-methyl-[1,2,5]oxadiazolo[3,4-b]pyridin-7-ylamine
+Obtained by starting from 6-(5-Bromo-6-fluoro-pyridin-2-ylmethyl)-5-methyl-[1,2,5]oxadiazolo[3,4-b]pyridin-7-ylamine (example 22) and 2,4-dimethoxy-benzylamine using diisopropylethylamine instead of potassium fluoride. Stirred for 18 hours at 120° C. and purified by RP-HPLC (modifier: trifluoroacetic acid).
+Yield: 0.15 g (58% of theory)

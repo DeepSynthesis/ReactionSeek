@@ -1,0 +1,3 @@
+Step 1:
+5-bromo-2(H)-indazole
+5-bromo-2-fluorobenzaldehyde (18.00 g, 88.67 mmol, 1.00 equivalent) was slowly added to a 85% aqueous solution of hydrazine hydrate (103.00 g, 2.06 mol, 23.20 equivalents), and a white solid slowly precipitated during the addition. The mixture was stirred at 110°C for 16 hours. LC/MS showed that the majority was the target compound. The mixture was cooled to 16°C and filtered. The filter cake was washed with water (100 mL) to give a crude product. The crude product was purified by column chromatography (petroleum ether: ethyl acetate = 3: 2) to give the title compound (6.50 g, 32.99 mmol, 37.21% yield) as a white solid. LC/

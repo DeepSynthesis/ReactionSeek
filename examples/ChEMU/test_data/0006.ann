@@ -1,0 +1,15 @@
+T0	YIELD_OTHER 701 708	0.115 g
+T1	TEMPERATURE 313 329	room temperature
+T2	STARTING_MATERIAL 110 180	Methyl 6-((1-methyl-N-phenylpiperidine-4-carboxamido)methyl)nicotinate
+T3	SOLVENT 294 301	ethanol
+T4	EXAMPLE_LABEL 6 7	4
+T5	TEMPERATURE 405 421	room temperature
+T6	OTHER_COMPOUND 613 621	methanol
+T7	YIELD_PERCENT 710 715	95.8%
+T8	REACTION_PRODUCT 22 109	N-((5-(hydrazinecarbonyl)pyridin-2-yl)methyl)-1-methyl-N-phenylpiperidine-4-carboxamide
+T9	REACTION_PRODUCT 685 699	title compound
+T10	OTHER_COMPOUND 622 637	dichloromethane
+T11	TIME 376 384	12 hours
+T12	TEMPERATURE 365 371	reflux
+T13	REAGENT_CATALYST 231 252	hydrazine monohydrate
+T14	OTHER_COMPOUND 592 596	SiO2

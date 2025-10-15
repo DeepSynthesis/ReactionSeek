@@ -1,0 +1,21 @@
+T0	OTHER_COMPOUND 959 965	hexane
+T1	OTHER_COMPOUND 738 745	aqueous
+T2	EXAMPLE_LABEL 6 7	4
+T3	TEMPERATURE 566 582	room temperature
+T4	OTHER_COMPOUND 679 692	ethyl acetate
+T5	TIME 535 545	30 minutes
+T6	STARTING_MATERIAL 147 275	Tert-butyl 3-((4-(2-(2,2-difluoroacetyl)hydrazine-1-carbonyl)-2-fluorobenzyl) (3-fluorophenyl) carbamoyl)azetidine-1-carboxylate
+T7	YIELD_OTHER 1029 1036	0.500 g
+T8	TEMPERATURE 456 472	room temperature
+T9	OTHER_COMPOUND 783 800	magnesium sulfate
+T10	TEMPERATURE 525 530	150°C
+T11	OTHER_COMPOUND 923 927	SiO2
+T12	REAGENT_CATALYST 377 392	Burgess reagent
+T13	OTHER_COMPOUND 945 958	ethyl acetate
+T14	REACTION_PRODUCT 22 146	tert-butyl 3-((4-(5-(difluoromethyl)-1,3,4-oxadiazol-2-yl)-2-fluorobenzyl) (3-fluorophenyl)carbamoyl)azetidine-1-carboxylate
+T15	YIELD_PERCENT 1038 1043	86.2%
+T16	REACTION_PRODUCT 1013 1027	title compound
+T17	OTHER_COMPOUND 746 761	sodium chloride
+T18	SOLVENT 429 444	tetrahydrofuran
+T19	OTHER_COMPOUND 610 615	Water
+T20	REAGENT_CATALYST 326 375	1-methoxy-N-triethylammoniosulfonyl-methanimidate

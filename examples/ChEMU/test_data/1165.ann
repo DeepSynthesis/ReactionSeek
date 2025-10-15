@@ -1,0 +1,16 @@
+T0	REACTION_PRODUCT 8 118	5-(2-Fluoro-6-methoxyphenyl)-1-((2-(trimethylsilyl)ethoxy)methyl)-1H-pyrazolo[3,4-c]pyridine-3-carboxylic acid
+T1	REAGENT_CATALYST 154 159	water
+T2	SOLVENT 336 351	tetrahydrofuran
+T3	YIELD_OTHER 771 777	396 mg
+T4	EXAMPLE_LABEL 5 6	2
+T5	OTHER_COMPOUND 512 525	ethyl acetate
+T6	TIME 407 410	2 h
+T7	YIELD_PERCENT 779 782	95%
+T8	REACTION_PRODUCT 707 714	product
+T9	TEMPERATURE 398 402	r.t.
+T10	REAGENT_CATALYST 134 150	sodium hydroxide
+T11	STARTING_MATERIAL 202 315	methyl 5-(2-fluoro-6-methoxyphenyl)-1-((2-(trimethylsilyl)ethoxy)methyl)-1H-pyrazolo[3,4-c]pyridine-3-carboxylate
+T12	OTHER_COMPOUND 471 474	HCl
+T13	OTHER_COMPOUND 575 580	brine
+T14	OTHER_COMPOUND 615 629	sodium sulfate
+T15	SOLVENT 363 371	methanol

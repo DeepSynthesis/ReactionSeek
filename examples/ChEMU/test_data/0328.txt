@@ -1,0 +1,2 @@
+4-Bromo-3-fluoro-1H-indazole
+Selectfluor (49.40 g, 139.6 mmol) was added to a solution of 4-bromo-1H-indazole (25.0 g, 127 mmol) in DMF (254 mL) and the reaction was heated to 70° C. overnight. After cooling, the reaction mixture was poured onto water. The precipitated solid was filtered and dried, then the crude product was purified by flash silica chromatography, elution gradient 0 to 30% EtOAc in heptane. Product containing fractions were evaporated to dryness to afford 4-bromo-3-fluoro-1H-indazole (4.20 g, 15%) as a pale yellow solid.

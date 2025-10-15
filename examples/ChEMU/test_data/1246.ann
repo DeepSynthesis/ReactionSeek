@@ -1,0 +1,13 @@
+T0	OTHER_COMPOUND 612 616	MeOH
+T1	YIELD_OTHER 738 744	101 mg
+T2	OTHER_COMPOUND 617 623	CH2Cl2
+T3	SOLVENT 275 281	CH2Cl2
+T4	STARTING_MATERIAL 303 329	3-toluenesulfonyl chloride
+T5	REAGENT_CATALYST 400 425	N,N-diisopropylethylamine
+T6	REACTION_PRODUCT 748 836	(R)-N-methyl-N-(1-(m-tolylsulfonyl)pyrrolidine-3-yl)-7H-pyrrolo[2,3-d]pyrimidine-4-amine
+T7	SOLVENT 258 273	dichloromethane
+T8	YIELD_PERCENT 872 877	84.9%
+T9	EXAMPLE_LABEL 8 10	24
+T10	REACTION_PRODUCT 12 100	(R)-N-methyl-N-(1-(m-tolylsulfonyl)pyrrolidine-3-yl)-7H-pyrrolo[2,3-d]pyrimidine-4-amine
+T11	STARTING_MATERIAL 112 181	(R)-N-methyl-N-(pyrrolidine-3-yl)-7H-pyrrolo[2,3-d]pyrimidine-4-amine
+T12	TEMPERATURE 456 472	room temperature

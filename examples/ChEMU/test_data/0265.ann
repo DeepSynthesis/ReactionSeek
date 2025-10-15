@@ -1,0 +1,22 @@
+T0	OTHER_COMPOUND 750 767	magnesium sulfate
+T1	STARTING_MATERIAL 175 276	N-phenyl-N-(4-(5-(trifluoromethyl)-1,3,4-oxadiazol-2-yl)benzyl)piperidine-4-carboxamide hydrochloride
+T2	OTHER_COMPOUND 911 924	ethyl acetate
+T3	REAGENT_CATALYST 331 356	N,N-diisopropylethylamine
+T4	REACTION_PRODUCT 41 137	1-benzyl-N-phenyl-N-(4-(5-(trifluoromethyl)-1,3,4-oxadiazol-2-yl)benzyl)piperidine-4-carboxamide
+T5	OTHER_COMPOUND 705 712	aqueous
+T6	OTHER_COMPOUND 925 931	hexane
+T7	EXAMPLE_LABEL 8 10	27
+T8	OTHER_COMPOUND 646 659	ethyl acetate
+T9	OTHER_COMPOUND 577 582	Water
+T10	EXAMPLE_LABEL 144 145	1
+T11	STARTING_MATERIAL 447 467	(bromomethyl)benzene
+T12	TEMPERATURE 425 441	room temperature
+T13	OTHER_COMPOUND 890 894	SiO2
+T14	YIELD_OTHER 995 1002	0.060 g
+T15	REACTION_PRODUCT 169 174	11166
+T16	TIME 567 575	18 hours
+T17	SOLVENT 398 413	dichloromethane
+T18	OTHER_COMPOUND 713 728	sodium chloride
+T19	REACTION_PRODUCT 34 39	11166
+T20	YIELD_PERCENT 1004 1009	67.3%
+T21	REACTION_PRODUCT 979 993	title compound

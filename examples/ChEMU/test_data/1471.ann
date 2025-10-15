@@ -1,0 +1,13 @@
+T0	YIELD_OTHER 542 548	200 mg
+T1	YIELD_PERCENT 585 588	54%
+T2	STARTING_MATERIAL 218 254	2,4-dinitro-benzenesulfonyl chloride
+T3	EXAMPLE_LABEL 5 6	4
+T4	TEMPERATURE 289 305	room temperature
+T5	REACTION_PRODUCT 472 540	4-(2,4-dinitro-benzenesulfonylamino)-1-methyl-pyrazole-3-carboxamide
+T6	REACTION_PRODUCT 7 76	4-(2,4-Dinitro-benzenesulfonylamino)-1-methyl-pyrazole-3 -carboxamide
+T7	TEMPERATURE 335 351	room temperature
+T8	REAGENT_CATALYST 180 193	Triethylamine
+T9	SOLVENT 155 170	tetrahydrofuran
+T10	OTHER_COMPOUND 438 443	water
+T11	STARTING_MATERIAL 77 116	4-Amino-1-methyl-pyrazole-3-carboxamide
+T12	TIME 356 365	1.5 hours

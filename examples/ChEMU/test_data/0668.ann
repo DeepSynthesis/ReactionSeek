@@ -1,0 +1,17 @@
+T0	REAGENT_CATALYST 313 317	HATU
+T1	EXAMPLE_LABEL 5 6	5
+T2	OTHER_COMPOUND 526 539	ethyl acetate
+T3	OTHER_COMPOUND 585 590	brine
+T4	YIELD_OTHER 729 734	50 mg
+T5	STARTING_MATERIAL 383 438	O-(tetrahydro-2H-pyran-2-yl)hydroxylamine hydrochloride
+T6	REAGENT_CATALYST 335 339	HOBT
+T7	REACTION_PRODUCT 713 727	title compound
+T8	REAGENT_CATALYST 357 361	Et3N
+T9	OTHER_COMPOUND 544 549	water
+T10	STARTING_MATERIAL 168 269	methyl 3-(4-([1,1'-biphenyl]-4-yl)-3,6-dihydropyridin-1(2H)-yl)-2-methyl-2-(methylsulfonyl)propanoate
+T11	SOLVENT 287 290	DMF
+T12	TIME 482 486	1 hr
+T13	REACTION_PRODUCT 21 150	3-(4-([1,1'-biphenyl]-4-yl)-3,6-dihydropyridin-1(2H)-yl)-2-methyl-2-(methylsulfonyl)-N-((tetrahydro-2H-pyran-2-yl)oxy)propanamide
+T14	TEMPERATURE 490 506	room temperature
+T15	YIELD_PERCENT 736 739	80%
+T16	OTHER_COMPOUND 613 618	MgSO4

@@ -1,0 +1,18 @@
+T0	OTHER_COMPOUND 754 761	aqueous
+T1	OTHER_COMPOUND 1097 1105	methanol
+T2	REAGENT_CATALYST 510 514	HATU
+T3	YIELD_OTHER 1209 1214	27 mg
+T4	OTHER_COMPOUND 593 600	ammonia
+T5	OTHER_COMPOUND 872 889	magnesium sulfate
+T6	OTHER_COMPOUND 1068 1083	aminosilica gel
+T7	OTHER_COMPOUND 762 769	ammonia
+T8	EXAMPLE_LABEL 8 10	16
+T9	STARTING_MATERIAL 246 385	(1S,3aR,5aS,6R,11bR,11cS)-14-(cyclopropylmethyl)-2,3,3a,4,5,6,7,11c-octahydro-1H-6,11b-(epiminoethano)-1,5a-methanonaphth[1,2-e]indol-10-ol
+T10	REACTION_PRODUCT 24 204	6-((1S,3aR,5aS,6R,11bR,11cS)-14-(cyclopropylmethyl)-10-hydroxy-2,3,3a,4,5,6,7,11c-octahydro-1H-6,11b-(epiminoethano)-1,5a-methanonaphth [1,2-e]indole-3-carbonyl)pyridazin-3(2H)-one
+T11	YIELD_PERCENT 1216 1219	66%
+T12	REAGENT_CATALYST 472 485	triethylamine
+T13	OTHER_COMPOUND 604 612	methanol
+T14	OTHER_COMPOUND 1110 1120	chloroform
+T15	REACTION_PRODUCT 1193 1207	title compound
+T16	OTHER_COMPOUND 810 823	ethyl acetate
+T17	STARTING_MATERIAL 406 451	6-oxo-1,6-dihydropyridazine-3-carboxylic acid

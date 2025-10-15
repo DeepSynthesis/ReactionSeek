@@ -1,0 +1,2 @@
+Step 3. 4-Aminobicyclo[2.1.1]hexane-1-carbonitrile, hydrochloric acid salt
+tert-Butyl (4-cyanobicyclo[2.1.1]hexan-1-yl)carbamate (0.99 g, 4.45 mmol, prepared as in Step 2) was dissolved in DCM (50 mL) and 4 N HCl in dioxane (11.1 mL, 44 mmol) was added. The mixture was stirred overnight and volatiles were removed in vacuo to afford product as a white solid (0.7 g, 100%). LCMS for C7H11N2 (M+H)+: calculated m/z=123.1, found 123.2.

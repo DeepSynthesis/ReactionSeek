@@ -1,0 +1,12 @@
+T0	EXAMPLE_LABEL 121 122	1
+T1	TEMPERATURE 375 383	refluxed
+T2	YIELD_PERCENT 595 598	31%
+T3	REACTION_PRODUCT 508 577	tert-butyl 3-iodo-4,6-dihydropyrrolo[3,4-c]pyrazole-5(2H)-carboxylate
+T4	REACTION_PRODUCT 124 193	tert-butyl 3-iodo-4,6-dihydropyrrolo[3,4-c]pyrazole-5(2H)-carboxylate
+T5	REAGENT_CATALYST 331 348	N-iodosuccinimide
+T6	EXAMPLE_LABEL 13 14	2
+T7	OTHER_COMPOUND 467 477	silica gel
+T8	STARTING_MATERIAL 211 273	tert-butyl 4,6-dihydropyrrolo[3,4-c]pyrazole-5(2H)-carboxylate
+T9	SOLVENT 302 320	1,2-dichloroethane
+T10	YIELD_OTHER 579 585	4.66 g
+T11	OTHER_COMPOUND 16 115	2,3,4,5,6,7-hexahydropyrrolo[3',4':3,4]pyrazolo[1 ,5-b][1,2]thiazine-1,1-dioxide p-toluenesulfonate

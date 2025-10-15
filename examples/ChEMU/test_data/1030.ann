@@ -1,0 +1,18 @@
+T0	OTHER_COMPOUND 636 649	ethyl acetate
+T1	YIELD_OTHER 744 753	3.14 mmol
+T2	TIME 338 344	1 hour
+T3	REAGENT_CATALYST 217 255	tetrabutylammonium fluoride trihydrate
+T4	OTHER_COMPOUND 401 406	NH4Cl
+T5	OTHER_COMPOUND 650 658	heptanes
+T6	REACTION_PRODUCT 17 63	(5-(tert-butyl)-2-methoxypyridin-3-yl)methanol
+T7	STARTING_MATERIAL 64 137	5-(tert-Butyl)-3-(((tert-butyldimethylsilyl)oxy)methyl)-2-methoxypyridine
+T8	OTHER_COMPOUND 508 514	Na2SO4
+T9	YIELD_PERCENT 755 758	86%
+T10	SOLVENT 176 191	tetrahydrofuran
+T11	REACTION_PRODUCT 686 732	(5-(tert-butyl)-2-methoxypyridin-3-yl)methanol
+T12	OTHER_COMPOUND 589 599	silica gel
+T13	YIELD_OTHER 734 742	0.6128 g
+T14	EXAMPLE_LABEL 13 16	10D
+T15	OTHER_COMPOUND 455 468	ethyl acetate
+T16	OTHER_COMPOUND 393 400	aqueous
+T17	TEMPERATURE 317 333	room temperature

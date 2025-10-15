@@ -1,0 +1,3 @@
+Intermediate 2: 2,3,4,5,6,7-hexahydropyrrolo[3',4':3,4]pyrazolo[1 ,5-b][1,2]thiazine-1,1-dioxide p-toluenesulfonate
+Step 1: tert-butyl 3-iodo-4,6-dihydropyrrolo[3,4-c]pyrazole-5(2H)-carboxylate
+To a solution of tert-butyl 4,6-dihydropyrrolo[3,4-c]pyrazole-5(2H)-carboxylate (9.41 g, 45 mmol) in 200 mL 1,2-dichloroethane was added N-iodosuccinimide (13.16 g, 58.5 mmol), and refluxed overnight. The solvent was removed by evaporation, and the residue was purified by silica gel column chromatography to give tert-butyl 3-iodo-4,6-dihydropyrrolo[3,4-c]pyrazole-5(2H)-carboxylate (4.66 g). Yield: 31%.

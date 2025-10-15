@@ -1,0 +1,16 @@
+T0	OTHER_COMPOUND 491 505	sodium sulfate
+T1	OTHER_COMPOUND 571 575	SiO2
+T2	OTHER_COMPOUND 603 618	petroleum ether
+T3	EXAMPLE_LABEL 5 6	3
+T4	TIME 316 319	2 h
+T5	OTHER_COMPOUND 366 369	H2O
+T6	REACTION_PRODUCT 8 74	4-benzyl-7-bromo-2,3,4,5-tetrahydro(2,2-d2)-1,4-benzoxazepin-5-one
+T7	OTHER_COMPOUND 619 632	ethyl acetate
+T8	REAGENT_CATALYST 231 245	sodium hydride
+T9	REACTION_PRODUCT 662 728	4-benzyl-7-bromo-2,3,4,5-tetrahydro(2,2-d2)-1,4-benzoxazepin-5-one
+T10	TEMPERATURE 295 311	room temperature
+T11	SOLVENT 209 212	DMF
+T12	STARTING_MATERIAL 92 153	N-benzyl-5-bromo-2-fluoro-N-[2-hydroxy(2,2-d2)ethyl]benzamide
+T13	YIELD_OTHER 649 652	4 g
+T14	YIELD_PERCENT 654 657	54%
+T15	OTHER_COMPOUND 421 434	ethyl acetate

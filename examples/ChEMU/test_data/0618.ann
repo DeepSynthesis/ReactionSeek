@@ -1,0 +1,20 @@
+T0	TEMPERATURE 823 842	ambient temperature
+T1	REAGENT_CATALYST 266 281	Oxalyl chloride
+T2	SOLVENT 540 555	dichloromethane
+T3	REACTION_PRODUCT 12 163	ethyl (2S,3S,4S,5S)-1-(bicyclo[3.1.0]hexane-6-carbonyl)-3-(tert-butyl)-4-((2-methoxy-4-(trifluoromethyl)benzyl)amino)-5-phenylpyrrolidine-2-carboxylate
+T4	TIME 847 855	17 hours
+T5	OTHER_COMPOUND 464 479	dichloromethane
+T6	STARTING_MATERIAL 695 706	Example 65B
+T7	REAGENT_CATALYST 324 345	N,N-dimethylformamide
+T8	STARTING_MATERIAL 578 693	(2S,3S,4S,5S)-ethyl 3-(tert-butyl)-4-((2-methoxy-4-(trifluoromethyl)benzyl)amino)-5-phenylpyrrolidine-2-carboxylate
+T9	REAGENT_CATALYST 734 747	triethylamine
+T10	EXAMPLE_LABEL 8 11	65C
+T11	TIME 404 411	3 hours
+T12	YIELD_OTHER 1004 1011	64.9 mg
+T13	SOLVENT 771 786	dichloromethane
+T14	TEMPERATURE 383 399	room temperature
+T15	OTHER_COMPOUND 949 965	ammonium acetate
+T16	YIELD_PERCENT 1013 1016	97%
+T17	SOLVENT 242 257	dichloromethane
+T18	STARTING_MATERIAL 164 202	Bicyclo[3.1.0]hexane-6-carboxylic acid
+T19	REACTION_PRODUCT 988 1002	title compound

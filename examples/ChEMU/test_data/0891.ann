@@ -1,0 +1,7 @@
+T0	STARTING_MATERIAL 117 131	Intermediate 3
+T1	EXAMPLE_LABEL 8 11	135
+T2	YIELD_PERCENT 313 316	35%
+T3	REACTION_PRODUCT 12 84	4-(6-Fluoro-1H-indol-3-yl)-N-[3-(4-methylpiperazin-1-yl)propyl]benzamide
+T4	REACTION_PRODUCT 288 302	title compound
+T5	STARTING_MATERIAL 136 172	1-(3-aminopropyl)-4-methylpiperazine
+T6	YIELD_OTHER 304 311	16.8 mg

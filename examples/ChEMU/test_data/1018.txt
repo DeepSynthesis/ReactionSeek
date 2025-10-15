@@ -1,0 +1,4 @@
+PREPARATIVE EXAMPLE 7
+Preparation of (S)-2-(1-aminoethyl)-5-chloro-3-(3-fluorophenyl)quinazoline-4(3H)-one
+Step 1: Preparation of tert-butyl (S)-(1-(5-chloro-3-(3-fluorophenyl)-4-oxo-3,4-dihydroquinazoline-2-yl)ethyl)carbamate
+4.88 g of tert-butyl (S)-(1-(5-chloro-3-(3-fluorophenyl)-4-oxo-3,4-dihydroquinazoline-2-yl)ethyl)carbamate was prepared as a yellow solid by using 1.94 g (17.43 mmol) of 3-fluoroaniline according to the same manner as described in step 2 of Preparative Example 1 (11.68 mmol, yield: 67%).

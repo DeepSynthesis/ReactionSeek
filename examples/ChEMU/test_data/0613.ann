@@ -1,0 +1,22 @@
+T0	OTHER_COMPOUND 463 470	aqueous
+T1	YIELD_OTHER 980 990	0.277 mmol
+T2	OTHER_COMPOUND 483 500	ammonium chloride
+T3	OTHER_COMPOUND 861 869	methanol
+T4	OTHER_COMPOUND 649 664	sodium chloride
+T5	TIME 441 449	16 hours
+T6	OTHER_COMPOUND 629 636	aqueous
+T7	OTHER_COMPOUND 695 709	sodium sulfate
+T8	OTHER_COMPOUND 577 587	chloroform
+T9	REACTION_PRODUCT 881 969	3-(4-(dimethylamino)piperidin-1-yl)-1-(1-methyl-1H-imidazol-2-yl)-3 -oxopropylpentanoate
+T10	STARTING_MATERIAL 219 306	1-(4-(dimethylamino)piperidin-1-yl)-3-hydroxy-3-(1-methyl-1H-imidazol-2-yl)propan-1-one
+T11	OTHER_COMPOUND 838 848	silica gel
+T12	SOLVENT 332 347	dichloromethane
+T13	YIELD_OTHER 971 978	0.101 g
+T14	REAGENT_CATALYST 115 123	Pyridine
+T15	REACTION_PRODUCT 26 113	3-(4-(dimethylamino)piperidin-1-yl)-1-(1-methyl-1H-imidazol-2-yl)-3-oxopropylpentanoate
+T16	REACTION_PRODUCT 1029 1051	compound of Example 13
+T17	STARTING_MATERIAL 150 168	pentanoyl chloride
+T18	EXAMPLE_LABEL 9 11	13
+T19	OTHER_COMPOUND 850 860	chloroform
+T20	TEMPERATURE 360 376	room temperature
+T21	YIELD_PERCENT 992 995	39%

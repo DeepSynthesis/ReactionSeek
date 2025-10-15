@@ -1,0 +1,2 @@
+Step 3. 6-Chloro-5-methoxy-4-methylpyridin-3-amine
+To a solution of tert-butyl (6-chloro-5-methoxy-4-methylpyridin-3-yl)carbamate (2.055 g, 7.53 mmol) in CH2Cl2 (20.0 ml) was added TFA (20.0 ml). The mixture was stirred at room temperature for 50 min, and then concentrated. The residue was dissolved in CH2Cl2, washed with sat. NaHCO3 (aq). The organic layer was dried over anhydrous Na2SO4, filtered and concentrated. The residue was purified on silica gel (40 g, 0-100% EtOAc in hexanes) to give the desired product as a white solid (1.110 g, 85%).

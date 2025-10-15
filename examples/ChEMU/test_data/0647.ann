@@ -1,0 +1,19 @@
+T0	OTHER_COMPOUND 720 726	hexane
+T1	YIELD_OTHER 878 888	8.072 mmol
+T2	REACTION_PRODUCT 767 782	target compound
+T3	EXAMPLE_LABEL 5 6	2
+T4	OTHER_COMPOUND 727 739	ethylacetate
+T5	REACTION_PRODUCT 783 858	1-(4-chloro-6-((4-methoxybenzyl)amino)pyrimidine-5-yl)-2-fluoroethane-1-one
+T6	STARTING_MATERIAL 121 209	5-(1-((tert-butyldimethylsylyl)oxy)vinyl)-6-chloro-N-(4-methoxybenzyl)pyrimidine-4-amine
+T7	OTHER_COMPOUND 490 495	water
+T8	OTHER_COMPOUND 594 600	Na2SO4
+T9	SOLVENT 265 277	acetonitrile
+T10	REAGENT_CATALYST 312 391	1-chloromethyl-4-fluoro-1, 4-diazoniabicyclo[2.2.2]octanebis(tetrafluoroborate)
+T11	YIELD_PERCENT 897 900	86%
+T12	OTHER_COMPOUND 472 485	Ethyl acetate
+T13	REAGENT_CATALYST 393 404	selectfluor
+T14	TEMPERATURE 441 457	room temperature
+T15	TIME 462 470	15 hours
+T16	YIELD_OTHER 754 759	2.5 g
+T17	OTHER_COMPOUND 706 710	SiO2
+T18	REACTION_PRODUCT 23 98	1-(4-chloro-6-((4-methoxybenzyl)amino)pyrimidine-5-yl)-2-fluoroethane-1-one

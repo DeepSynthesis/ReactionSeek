@@ -1,0 +1,3 @@
+(Example 30)
+Step 1 Synthesis of Compound 134
+Under ice-cooling, to Compound 131 (50 mg, 0.184 mmol) in methylene chloride (2.5 mL) solution were added 20% aqueous solution of potassium hydroxide (181 mg, 0.65 mmol) and (bromodifluoromethyl)trimethylsilane (43.7 mg, 0.21 mmol), and the mixture was stirred at 0°C for 1 hour. Water was added thereto, and the aqueous layer was extracted with ethyl acetate. The organic layer was washed with water and saturated brine, and dried over anhydrous magnesium sulfate. After concentration under reduced pressure, the residue was purified by liquid chromatography to obtain Compound 134 (21 mg, 38% yield) as a yellow oily material.

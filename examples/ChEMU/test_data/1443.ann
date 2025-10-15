@@ -1,0 +1,16 @@
+T0	OTHER_COMPOUND 596 602	Na2SO4
+T1	REACTION_PRODUCT 638 742	2-(aminomethyl)-4-methyl-N-(4-(2-oxo-1,2,3,4-tetrahydroquinolin-6-yl)thiazol-2-yl)thiazole-5-carboxamide
+T2	STARTING_MATERIAL 11 130	tert-Butyl ((4-methyl-5-((4-(2-oxo-1,2,3,4-tetrahydroquinolin-6-yl)thiazol-2-yl)carbamoyl)thiazol-2-yl)methyl)carbamate
+T3	YIELD_PERCENT 753 756	75%
+T4	EXAMPLE_LABEL 8 10	57
+T5	TEMPERATURE 272 288	room temperature
+T6	OTHER_COMPOUND 342 350	HCl salt
+T7	OTHER_COMPOUND 567 573	NaHCO3
+T8	SOLVENT 208 215	dioxane
+T9	REAGENT_CATALYST 178 195	hydrogen chloride
+T10	OTHER_COMPOUND 489 500	isopropanol
+T11	SOLVENT 386 394	methanol
+T12	REAGENT_CATALYST 418 436	sodium bicarbonate
+T13	YIELD_OTHER 744 751	0.060 g
+T14	OTHER_COMPOUND 473 488	dichloromethane
+T15	TIME 261 268	6 hours

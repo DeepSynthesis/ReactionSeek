@@ -1,0 +1,3 @@
+(Example 11)
+The first step
+To a solution of Compound 35 (100mg, 0.241mmol) in N,N-dimethylacetamide (2 mL) were added cesium carbonate (236mL, 0.723mmol) and 2-chloropyrimidine (55.2 mg, 0.482 mmol), and the mixture was stirred for 1 hour at 200 °C under microwave irradiation. The reaction mixture was extracted with ethyl acetate after addition of saturated aqueous sodium hydrogencarbonate solution. The organic layer was washed with water and saturated brine, dried over anhydrous magnesium sulfate, and concentrated under reduced pressure. The resulting residue was purified by silica gel chromatography (hexane-ethyl acetate) to yield Compound 57 (11.3mg, yield 10%).

@@ -1,0 +1,13 @@
+T0	YIELD_PERCENT 848 853	31.4%
+T1	YIELD_OTHER 719 726	27.7 mg
+T2	REAGENT_CATALYST 381 406	N,N-diisopropylethylamine
+T3	REACTION_PRODUCT 12 94	3-((4-((7H-pyrrolo[2,3-d]pyrimidine-4-yl)oxy)piperidine-1-yl)sulfonyl)benzonitrile
+T4	TEMPERATURE 437 453	room temperature
+T5	OTHER_COMPOUND 599 605	Hexane
+T6	SOLVENT 251 257	CH2Cl2
+T7	OTHER_COMPOUND 593 598	EtOAc
+T8	STARTING_MATERIAL 277 308	3-cyanobenzenesulfonyl chloride
+T9	STARTING_MATERIAL 106 156	4-(piperidine-4-yloxy)-7H-pyrrolo[2,3-d]pyrimidine
+T10	SOLVENT 234 249	dichloromethane
+T11	EXAMPLE_LABEL 8 10	46
+T12	REACTION_PRODUCT 730 812	3-((4-((7H-pyrrolo[2,3-d]pyrimidine-4-yl)oxy)piperidine-1-yl)sulfonyl)benzonitrile

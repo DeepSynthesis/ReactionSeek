@@ -1,0 +1,14 @@
+T0	TIME 334 340	30 min
+T1	TEMPERATURE 378 394	room temperature
+T2	YIELD_PERCENT 545 549	62 %
+T3	REACTION_PRODUCT 111 116	LXXVI
+T4	REAGENT_CATALYST 253 265	Pyridine HCl
+T5	TEMPERATURE 323 329	170 °C
+T6	YIELD_OTHER 538 543	72 mg
+T7	REACTION_PRODUCT 30 109	2'-amino-6-(2-amino-6-morpholinopyrimidin-4-yl)-3'-fluoro-[2,4'-bipyridin]-5-ol
+T8	OTHER_COMPOUND 417 421	NaOH
+T9	EXAMPLE_LABEL 8 12	51-5
+T10	REAGENT_CATALYST 229 251	pyridine hydrochloride
+T11	STARTING_MATERIAL 118 202	6-(2-Amino-6-morpholinopyrimidin-4-yl)-3'-fluoro-5-methoxy-[2,4'-bipyridin]-2'-amine
+T12	REACTION_PRODUCT 522 536	title compound
+T13	OTHER_COMPOUND 487 499	diethylether

@@ -1,0 +1,2 @@
+Synthesis Example 5: Synthesis of Compound 14
+Compound 14 (10.3 g, a yield of 89%) was obtained according to the same method as Synthesis Example 1 except for using N-phenyl3-bromocarbazole instead of the bromometabiphenyl in Step 2 of Synthesis Example 1. calcd. C54H33N3: C, 89.60; H, 4.60; N, 5.81; found: C, 89.60; H, 4.60; N, 5.81.

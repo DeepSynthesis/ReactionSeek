@@ -1,0 +1,21 @@
+T0	OTHER_COMPOUND 640 647	ammonia
+T1	OTHER_COMPOUND 1178 1193	aminosilica gel
+T2	REAGENT_CATALYST 552 556	HATU
+T3	OTHER_COMPOUND 1220 1233	ethyl acetate
+T4	OTHER_COMPOUND 991 1008	magnesium sulfate
+T5	OTHER_COMPOUND 651 659	methanol
+T6	YIELD_OTHER 1512 1517	39 mg
+T7	STARTING_MATERIAL 266 405	(1S,3aR,5aS,6R,11bR,11cS)-14-(cyclopropylmethyl)-2,3,3a,4,5,6,7,11c-octahydro-1H-6,11b-(epiminoethano)-1,5a-methanonaphth[1,2-e]indol-10-ol
+T8	OTHER_COMPOUND 946 951	brine
+T9	EXAMPLE_LABEL 8 10	38
+T10	OTHER_COMPOUND 809 816	ammonia
+T11	OTHER_COMPOUND 1366 1374	methanol
+T12	REACTION_PRODUCT 1496 1510	title compound
+T13	OTHER_COMPOUND 1409 1429	t-butyl methyl ether
+T14	REACTION_PRODUCT 24 224	5-((1S,3aR,5aS,6R,11bR,11cS)-14-(cyclopropylmethyl)-10-hydroxy-2,3,3a,4,5,6,7,11c-octahydro-1H-6,11b-(epiminoethano)-1,5a-methanonaphth[1,2-e]indole-3-carbonyl)-1,3-dimethylpyrimidine-2,4(1H,3H)-dione
+T15	OTHER_COMPOUND 1207 1215	methanol
+T16	REAGENT_CATALYST 514 527	triethylamine
+T17	STARTING_MATERIAL 424 493	1,3-dimethyl-2,4-dioxo-1,2,3,4-tetrahydropyrimidine-5-carboxylic acid
+T18	OTHER_COMPOUND 864 877	ethyl acetate
+T19	OTHER_COMPOUND 801 808	aqueous
+T20	YIELD_PERCENT 1519 1522	76%

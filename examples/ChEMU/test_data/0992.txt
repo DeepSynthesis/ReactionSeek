@@ -1,0 +1,2 @@
+Synthesis Example 8: Synthesis of Compound 33
+Compound 33 (8.7 g, a yield of 89%) was obtained according to the same method as Synthesis Example 1 except for using 3-(4-bromophenyl)dibenzofuran instead of the bromometabiphenyl in Step 2 of Synthesis Example 1. calcd. C54H32N2O: C, 89.48; H, 4.45; N, 3.86; O, 2.21; found: C, 89.48; H, 4.45; N, 3.86; O, 2.21.

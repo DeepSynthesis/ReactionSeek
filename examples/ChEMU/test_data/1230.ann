@@ -1,0 +1,19 @@
+T0	OTHER_COMPOUND 712 720	methanol
+T1	OTHER_COMPOUND 452 457	water
+T2	OTHER_COMPOUND 674 684	silica gel
+T3	YIELD_PERCENT 851 854	51%
+T4	REAGENT_CATALYST 199 207	pyridine
+T5	EXAMPLE_LABEL 8 10	47
+T6	TEMPERATURE 395 400	50° C
+T7	OTHER_COMPOUND 477 490	ethyl acetate
+T8	OTHER_COMPOUND 696 711	dichloromethane
+T9	REAGENT_CATALYST 280 306	propylphosphonic anhydride
+T10	SOLVENT 233 245	acetonitrile
+T11	REACTION_PRODUCT 729 840	4-methyl-N-(4-(2-oxo-1,2,3,4-tetrahydroquinolin-6-yl)thiazol-2-yl)-2-(pyridin-2-ylmethyl)thiazole-5-carboxamide
+T12	SOLVENT 328 341	ethyl acetate
+T13	OTHER_COMPOUND 586 592	Na2SO4
+T14	TIME 406 412	5 days
+T15	OTHER_COMPOUND 557 563	NaHCO3
+T16	YIELD_OTHER 842 849	0.096 g
+T17	STARTING_MATERIAL 30 83	6-(2-aminothiazol-4-yl)-3,4-dihydroquinolin-2(1H)-one
+T18	STARTING_MATERIAL 110 171	4-methyl-2-(pyridin-2-ylmethy)-1,3-thiazole-5-carboxylic acid

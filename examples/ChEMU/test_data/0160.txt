@@ -1,0 +1,4 @@
+PREPARATIVE EXAMPLE 2
+Preparation of (S)-5-chloro-3-phenyl-2-(pyrrolidine-2-yl)quinazoline-4(3H)-one
+Step 1: Preparation of tert-butyl (S)-2-(5-chloro-4-oxo-3-phenyl-3,4-dihydroquinazoline-2-yl)pyrrolidine-1-carboxylate
+5.51 g of tert-butyl (S)-2-(5-chloro-4-oxo-3-phenyl-3,4-dihydroquinazoline-2-yl)pyrrolidine-1-carboxylate was prepared as a beige solid by using 3.76 g (17.47 mmol) of (tert-butoxycarbonyl)-L-proline according to the same manner as described in step 2 of Preparative Example 1 (12.94 mmol, yield: 74%).

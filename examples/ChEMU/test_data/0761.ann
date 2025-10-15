@@ -1,0 +1,10 @@
+T0	REACTION_PRODUCT 24 224	3-((1S,3aR,5aS,6R,11bR,11cS)-14-(cyclopropylmethyl)-10-hydroxy-2,3,3a,4,5,6,7,11c-octahydro-1H-6,11b-(epiminoethano)-1,5a-methanonaphth[1,2-e]indole-3-carbonyl)-1-methylpyridin-2(1H)-one hydrochloride
+T1	REACTION_PRODUCT 722 736	title compound
+T2	STARTING_MATERIAL 247 434	3-((1S,3aR,5aS,6R,11bR,11cS)-14-(cyclopropylmethyl)-10-hydroxy-2,3,3a,4, 5,6,7,11c-octahydro-1H-6,11b-(epiminoethano)-1,5a-methanonaphth[1,2-e]indole-3-carbonyl)-1-methylpyridin-2(1H)-one
+T3	REAGENT_CATALYST 553 570	hydrochloric acid
+T4	TEMPERATURE 669 673	60°C
+T5	EXAMPLE_LABEL 8 10	31
+T6	TIME 678 684	1 hour
+T7	SOLVENT 482 495	ethyl acetate
+T8	YIELD_PERCENT 745 748	83%
+T9	YIELD_OTHER 738 743	23 mg

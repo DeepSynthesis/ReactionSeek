@@ -1,0 +1,6 @@
+Example 8: Synthesis of (R)-3-aminoquinuclidine.monosulfate
+Toluene solution (22.84 g) containing (R)-3-aminoquinuclidine (3.50 g:27.7 mmol) was charged into a 50 mL-flask equipped with a mechanical stirrer, a thermometer, and a cooling line, and 95% sulfuric acid (2.87 g: 27.8 mmol) was added thereto while stirring on ice. Precipitated crystals were filtered, and then dried under reduced pressure at 60° C., to obtain (R)-3-aminoquinuclidine.monosulfate (4.85 g: 21.6 mmol, yield=78%) as a white crystal.
+Endothermic peak top temperature in DSC: 108° C., 175° C., 286° C.
+Elemental analysis: C7H14N2.H2SO4
+Theoretical value: C, 37.49%, H, 7.19%, N, 12.49%, S 14.29%
+Actual measured value: C, 36.5%, H, 7.1%, N, 12.3%, S 14.4%

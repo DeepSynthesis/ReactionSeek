@@ -1,0 +1,12 @@
+T0	EXAMPLE_LABEL 5 6	4
+T1	YIELD_OTHER 541 546	3.7 g
+T2	OTHER_COMPOUND 486 500	sodium sulfate
+T3	REAGENT_CATALYST 247 266	potassium carbonate
+T4	SOLVENT 167 170	DMA
+T5	REACTION_PRODUCT 8 55	methyl 5-bromo-2-(cyanomethoxy)(3,4-d2)benzoate
+T6	REACTION_PRODUCT 556 603	methyl 5-bromo-2-(cyanomethoxy)(3,4-d2)benzoate
+T7	STARTING_MATERIAL 73 113	methyl 5-bromo-2-hydroxy(3,4-d2)benzoate
+T8	YIELD_PERCENT 548 551	79%
+T9	STARTING_MATERIAL 189 209	2-chloroacetonitrile
+T10	TEMPERATURE 341 357	room temperature
+T11	OTHER_COMPOUND 416 429	ethyl acetate

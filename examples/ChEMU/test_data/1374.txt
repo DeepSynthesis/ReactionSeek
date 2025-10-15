@@ -1,0 +1,4 @@
+EXAMPLES
+Example 1. Synthesis of N-(1-Benzyl-3,5-dimethyl-1H-pyrazol-4-yl)-4-(phenoxymethyl)benzamide (A1)
+Step 1. Synthesis of 1-Benzyl-3,5-dimethyl-1H-pyrazol-4-amine (IA3a)
+To a solution of 3,5-dimethyl-4-nitropyrazole (IA1, 1.41 g, 10 mmol) in DMF (30 mL) were added benzyl bromide (IA2a, 2.05 g, 12 mmol) and Cs2CO3 (6.52 g, 20 mmol) and the mixture was allowed to stir at rt for 24 h. The reaction was quenched with water (50 mL) and the mixture was extracted with EtOAc. The organic phase was washed with water and brine, dried over anhydrous Na2SO4, and concentrated in vacuo. After purification by flash column chromatography (0-50% EtOAc/hexanes), 1-benzyl-3,5-dimethyl-4-nitro-1H-pyrazole was obtained as a white solid (1.39 g, 60%).

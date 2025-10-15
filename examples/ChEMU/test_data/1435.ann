@@ -1,0 +1,12 @@
+T0	REACTION_PRODUCT 496 510	title compound
+T1	OTHER_COMPOUND 426 439	diethyl ether
+T2	YIELD_PERCENT 520 523	94%
+T3	EXAMPLE_LABEL 5 6	2
+T4	STARTING_MATERIAL 243 263	trifluoroacetic acid
+T5	YIELD_OTHER 512 518	1.08 g
+T6	TEMPERATURE 314 330	room temperature
+T7	STARTING_MATERIAL 113 186	tert-butyl 4-([1,1'-biphenyl]-4-yl)-3,6-dihydropyridine-1(2H)-carboxylate
+T8	OTHER_COMPOUND 387 402	dichloromethane
+T9	SOLVENT 204 219	dichloromethane
+T10	TIME 306 310	1 hr
+T11	REACTION_PRODUCT 21 95	4-([1,1'-biphenyl]-4-yl)-1,2,3,6-tetrahydropyridine 2,2,2-trifluoroacetate

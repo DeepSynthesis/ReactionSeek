@@ -1,0 +1,14 @@
+T0	REACTION_PRODUCT 645 652	Product
+T1	YIELD_OTHER 685 691	170 mg
+T2	OTHER_COMPOUND 407 414	toluene
+T3	STARTING_MATERIAL 130 250	tert-butyl (6-(4-((8-benzyl-3-oxo-6-phenyl-3,7-dihydroimidazo[1,2-a]pyrazin-2-yl)methyl)-2-fluorophenoxy)octyl)carbamate
+T4	TIME 372 375	1 h
+T5	YIELD_PERCENT 693 696	71%
+T6	SOLVENT 284 299	dichloromethane
+T7	OTHER_COMPOUND 620 623	ACN
+T8	OTHER_COMPOUND 444 451	toluene
+T9	OTHER_COMPOUND 545 557	acetonitrile
+T10	REAGENT_CATALYST 309 329	trifluoroacetic acid
+T11	EXAMPLE_LABEL 8 10	4D
+T12	REACTION_PRODUCT 12 101	2-(4-((8-aminooctyl)oxy)-3-fluorobenzyl)-8-benzyl-6-phenylimidazo[1,2-a]pyrazin-3(7H)-one
+T13	REACTION_PRODUCT 103 111	TAK-0057

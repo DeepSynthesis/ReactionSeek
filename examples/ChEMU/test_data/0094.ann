@@ -1,0 +1,23 @@
+T0	TEMPERATURE 525 541	room temperature
+T1	SOLVENT 262 265	THF
+T2	EXAMPLE_LABEL 5 6	5
+T3	YIELD_PERCENT 1076 1079	73%
+T4	SOLVENT 245 260	tetrahydrofuran
+T5	STARTING_MATERIAL 325 407	tert-butyl 4-(4-(3-(methylsulfonyloxy)prop-1-ynyl)benzoyl)piperazine-1-carboxylate
+T6	OTHER_COMPOUND 669 684	dichloromethane
+T7	OTHER_COMPOUND 933 936	Hex
+T8	OTHER_COMPOUND 937 939	EA
+T9	REAGENT_CATALYST 177 191	sodium hydride
+T10	OTHER_COMPOUND 784 801	magnesium sulfate
+T11	OTHER_COMPOUND 803 808	MgSO4
+T12	OTHER_COMPOUND 701 706	water
+T13	OTHER_COMPOUND 711 716	brine
+T14	STARTING_MATERIAL 113 133	N-phenylpentaneamide
+T15	OTHER_COMPOUND 899 909	silica gel
+T16	TIME 309 319	30 minutes
+T17	YIELD_OTHER 1068 1074	382 mg
+T18	REAGENT_CATALYST 193 196	NaH
+T19	REACTION_PRODUCT 981 1066	tert-butyl 4-(4-(3-(N-phenylpentaneamido)prop-1-ynyl)benzoyl)piperazine-1-carboxylate
+T20	REACTION_PRODUCT 23 108	tert-butyl 4-(4-(3-(N-phenylpentaneamido)prop-1-ynyl)benzoyl)piperazine-1-carboxylate
+T21	REACTION_PRODUCT 966 979	final product
+T22	TIME 546 554	17 hours

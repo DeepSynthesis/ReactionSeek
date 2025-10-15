@@ -1,0 +1,23 @@
+T0	YIELD_OTHER 1009 1015	530 mg
+T1	OTHER_COMPOUND 878 888	silica gel
+T2	OTHER_COMPOUND 90 97	LMT-891
+T3	REACTION_PRODUCT 122 186	ethyl (2-(4-(3-(N-phenylpentaneamido)prop-1-ynyl)phenoxy)acetate
+T4	REAGENT_CATALYST 294 313	potassium carbonate
+T5	STARTING_MATERIAL 191 246	N-(3-(4-hydroxyphenyl)prop-2-ynyl)-N-phenylpentaneamide
+T6	EXAMPLE_LABEL 104 105	1
+T7	TIME 390 400	30 minutes
+T8	EXAMPLE_LABEL 8 10	29
+T9	OTHER_COMPOUND 912 915	Hex
+T10	STARTING_MATERIAL 402 420	Ethyl bromoacetate
+T11	OTHER_COMPOUND 763 780	magnesium sulfate
+T12	REACTION_PRODUCT 944 1007	ethyl 2-(4-(3-(N-phenylpentaneamido)prop-1-ynyl)phenoxy)acetate
+T13	SOLVENT 352 364	acetonitrile
+T14	OTHER_COMPOUND 27 88	2-(4-(3-(N-phenylpentaneamido)prop-1-ynyl)phenoxy)acetic acid
+T15	TEMPERATURE 483 499	room temperature
+T16	OTHER_COMPOUND 650 663	ethyl acetate
+T17	OTHER_COMPOUND 690 695	brine
+T18	OTHER_COMPOUND 916 918	EA
+T19	OTHER_COMPOUND 680 685	water
+T20	TIME 504 512	17 hours
+T21	YIELD_PERCENT 1017 1020	70%
+T22	OTHER_COMPOUND 782 787	MgSO4

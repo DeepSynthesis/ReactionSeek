@@ -1,0 +1,10 @@
+T0	REACTION_PRODUCT 208 283	1-benzhydryl-5-(4,5-dimethyl-pyridin-3-yl)-3-methyl-1H-pyrimidine-2,4-dione
+T1	OTHER_COMPOUND 11 164	5-(4,5-dimethyl-pyridin-3-yl)-3-methyl-1-{2-oxo-2-[4-(2-oxo-1,2,4,5-tetrahydro-benzo[d][1,3]diazepin-3-yl)-piperidin-1-yl]-ethyl}-1H-pyrimidine-2,4-dione
+T2	EXAMPLE_LABEL 8 10	49
+T3	STARTING_MATERIAL 406 459	1-benzhydryl-5-bromo-3-methyl-1H-pyrimidine-2,4-dione
+T4	REACTION_PRODUCT 516 591	1-benzhydryl-5-(4,5-dimethyl-pyridin-3-yl)-3-methyl-1H-pyrimidine-2,4-dione
+T5	YIELD_OTHER 500 506	290 mg
+T6	EXAMPLE_LABEL 202 206	49.1
+T7	STARTING_MATERIAL 346 380	4,5-dimethyl-pyridine boronic acid
+T8	YIELD_PERCENT 508 511	68%
+T9	OTHER_COMPOUND 198 200	49

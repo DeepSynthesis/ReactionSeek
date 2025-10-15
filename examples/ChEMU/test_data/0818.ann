@@ -1,0 +1,7 @@
+T0	STARTING_MATERIAL 115 129	Intermediate 6
+T1	STARTING_MATERIAL 134 159	2-(1-piperidyl)ethanamine
+T2	EXAMPLE_LABEL 8 10	70
+T3	REACTION_PRODUCT 11 82	2-Chloro-4-(6-fluoro-1H-indol-3-yl)-N-(2-pyrrolidin-1-ylethyl)benzamide
+T4	YIELD_OTHER 291 298	22.3 mg
+T5	YIELD_PERCENT 300 303	65%
+T6	REACTION_PRODUCT 275 289	title compound

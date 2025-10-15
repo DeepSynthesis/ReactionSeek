@@ -1,0 +1,15 @@
+T0	STARTING_MATERIAL 234 284	2-(2,4-Dimethylthiazol-5-yl)ethyl methanesulfonate
+T1	REACTION_PRODUCT 11 118	1-(Cyclopropylmethyl)-6-(2-(2,4-dimethylthiazol-5-yl)ethyl)-4-methyl-pyrazolo [4,3 - d]pyrimidine-5,7-dione
+T2	EXAMPLE_LABEL 124 125	1
+T3	TEMPERATURE 624 640	room temperature
+T4	REACTION_PRODUCT 126 233	1-(Cyclopropylmethyl)-6-(2-(2,4-dimethylthiazol-5-yl)ethyl)-4-methyl-pyrazolo [4,3 - d]pyrimidine-5,7-dione
+T5	REAGENT_CATALYST 398 414	potassium iodide
+T6	TEMPERATURE 567 572	120°C
+T7	STARTING_MATERIAL 308 374	1-(cyclopropylmethyl)-4-methyl-pyrazolo[4,3-d]pyrimidine-5,7-dione
+T8	EXAMPLE_LABEL 8 10	77
+T9	YIELD_PERCENT 893 896	25%
+T10	TIME 589 596	3 hours
+T11	REAGENT_CATALYST 441 460	potassium carbonate
+T12	YIELD_OTHER 868 875	20.0 mg
+T13	REACTION_PRODUCT 762 866	1-(cyclopropylmethyl)-6-(2-(2,4-dimethylthiazol-5-yl)ethyl)-4-methyl-pyrazolo[4,3-d]pyrimidine-5,7-dione
+T14	SOLVENT 501 522	N,N-dimethylformamide

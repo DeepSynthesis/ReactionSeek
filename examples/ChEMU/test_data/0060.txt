@@ -1,0 +1,2 @@
+j. PREPARATION OF (S)-3-(3,5-DIFLUOROPHENYL)-N-((2R,6S,8AS,14AS,20S,23AS)-2,6-DIMETHYL-5,8,14,19,23-PENTAOXOOCTADECAHYDRO-1H,5H,14H,19H-PYRIDO[2,1-I]DIPRYOLO[2,1-C:2',1'-L]OXA[4,7,10,13]TETRAAZACYCLOHEXADECIN-20-YL)-2-(3-(P-TOLYL)UREIDO)PROPANAMIDE (COMPOUND 24)
+Compound 24 was synthesized from macrocycle C (100 mg, 0.143 mmol), 1-isocyanato-4-methylbenzene (22.9 mg, 0.172 mmol) and triethylamine (94 μL, 0.688 mmol) as a white-off solid (34.8 mg, 31%) following the general synthesis pathway described herein above;

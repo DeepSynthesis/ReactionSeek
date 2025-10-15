@@ -1,0 +1,21 @@
+T0	OTHER_COMPOUND 762 775	ethyl acetate
+T1	OTHER_COMPOUND 798 811	ethyl acetate
+T2	REACTION_PRODUCT 23 152	(S)-4-((1-(8-chloro-1-oxo-2-phenyl-1,2-dihydroisoquinoline-3-yl)ethyl)amino)-8-(4-methoxybenzyl)pyrido[2,3-d]pyrimidine-5(8H)-one
+T3	SOLVENT 364 367	DMF
+T4	REACTION_PRODUCT 855 984	(S)-4-((1-(8-chloro-1-oxo-2-phenyl-1,2-dihydroisoquinoline-3-yl)ethyl)amino)-8-(4-methoxybenzyl)pyrido[2,3-d]pyrimidine-5(8H)-one
+T5	OTHER_COMPOUND 620 626	Na2SO4
+T6	EXAMPLE_LABEL 5 6	2
+T7	OTHER_COMPOUND 516 521	water
+T8	YIELD_OTHER 826 831	90 mg
+T9	YIELD_OTHER 1003 1013	0.160 mmol
+T10	OTHER_COMPOUND 732 736	SiO2
+T11	OTHER_COMPOUND 782 797	dichloromethane
+T12	REACTION_PRODUCT 839 854	target compound
+T13	YIELD_PERCENT 1022 1025	44%
+T14	SOLVENT 345 362	dimethylformamide
+T15	STARTING_MATERIAL 403 440	N,N-dimethylformamide dimethyl acetal
+T16	TIME 488 496	15 hours
+T17	TEMPERATURE 476 482	130° C
+T18	STARTING_MATERIAL 176 290	(S)-3-(1-((5-acetyl-6-((4-methoxybenzyl)amino)pyrimidine-4-yl)amino)ethyl)-8-chloro-2-phenylisoquinoline-1(2H)-one
+T19	OTHER_COMPOUND 498 511	Ethyl acetate
+T20	OTHER_COMPOUND 746 761	dichloromethane

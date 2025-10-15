@@ -1,0 +1,20 @@
+T0	OTHER_COMPOUND 689 694	brine
+T1	EXAMPLE_LABEL 5 6	4
+T2	YIELD_PERCENT 1034 1037	90%
+T3	OTHER_COMPOUND 679 684	water
+T4	TIME 522 532	30 minutes
+T5	REAGENT_CATALYST 280 293	Triethylamine
+T6	TIME 357 366	5 minutes
+T7	OTHER_COMPOUND 915 917	EA
+T8	TEMPERATURE 501 517	room temperature
+T9	OTHER_COMPOUND 877 887	silica gel
+T10	STARTING_MATERIAL 110 180	tert-butyl 4-(4-(3-hydroxyprop-1-ynyl)benzoyl)piperazine-1-carboxylate
+T11	SOLVENT 237 252	dichloromethane
+T12	STARTING_MATERIAL 368 392	Methanesulfonyl chloride
+T13	OTHER_COMPOUND 911 914	Hex
+T14	OTHER_COMPOUND 781 786	MgSO4
+T15	OTHER_COMPOUND 647 662	dichloromethane
+T16	YIELD_OTHER 1026 1032	662 mg
+T17	OTHER_COMPOUND 762 779	magnesium sulfate
+T18	REACTION_PRODUCT 942 1024	tert-butyl 4-(4-(3-(methylsulfonyloxy)prop-1-ynyl)benzoyl)piperazine-1-carboxylate
+T19	REACTION_PRODUCT 23 105	tert-butyl 4-(4-(3-(methylsulfonyloxy)prop-1-ynyl)benzoyl)piperazine-1-carboxylate

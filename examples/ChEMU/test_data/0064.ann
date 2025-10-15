@@ -1,0 +1,24 @@
+T0	REAGENT_CATALYST 307 337	1-hydroxybenzotriazole hydrate
+T1	OTHER_COMPOUND 620 633	ethyl acetate
+T2	OTHER_COMPOUND 752 757	MgSO4
+T3	TEMPERATURE 550 566	room temperature
+T4	OTHER_COMPOUND 650 655	water
+T5	REACTION_PRODUCT 88 96	LMT-1017
+T6	REAGENT_CATALYST 422 481	1-ethyl-3-(3-dimethylaminopropyl)carbodiimide hydrochloride
+T7	YIELD_OTHER 974 981	56.8 mg
+T8	REACTION_PRODUCT 913 972	N-ethyl-4-(3-(N-phenylpentaneamido)prop-1-yn-1-yl)benzamide
+T9	SOLVENT 219 240	N,N-dimethylformamide
+T10	OTHER_COMPOUND 660 665	brine
+T11	STARTING_MATERIAL 102 156	4-(3-(N-phenylpentaneamido)prop-1-yn-1-yl)benzoic acid
+T12	EXAMPLE_LABEL 8 10	39
+T13	SOLVENT 242 245	DMF
+T14	YIELD_PERCENT 983 986	66%
+T15	OTHER_COMPOUND 882 885	Hex
+T16	OTHER_COMPOUND 886 888	EA
+T17	REACTION_PRODUCT 27 86	N-ethyl-4-(3-(N-phenylpentaneamido)prop-1-yn-1-yl)benzamide
+T18	TIME 410 416	1 hour
+T19	OTHER_COMPOUND 848 858	silica gel
+T20	TIME 571 579	16 hours
+T21	REAGENT_CATALYST 382 395	triethylamine
+T22	OTHER_COMPOUND 733 750	magnesium sulfate
+T23	STARTING_MATERIAL 257 280	ethylaminehydrochloride

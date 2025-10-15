@@ -1,0 +1,16 @@
+T0	EXAMPLE_LABEL 8 9	2
+T1	OTHER_COMPOUND 793 801	methanol
+T2	OTHER_COMPOUND 633 646	ethyl acetate
+T3	OTHER_COMPOUND 596 606	silica gel
+T4	OTHER_COMPOUND 620 628	methanol
+T5	REACTION_PRODUCT 930 944	title compound
+T6	OTHER_COMPOUND 842 865	tert-butyl methyl ether
+T7	REAGENT_CATALYST 448 461	triethylamine
+T8	STARTING_MATERIAL 403 428	4-carboxypyridine 1-oxide
+T9	YIELD_OTHER 946 951	30 mg
+T10	REAGENT_CATALYST 486 490	HATU
+T11	OTHER_COMPOUND 661 674	triethylamine
+T12	YIELD_PERCENT 953 956	62%
+T13	REACTION_PRODUCT 23 200	4-((1S,3aR,5aS,6R,11bR,11cS)-14-(cyclopropylmethyl)-10-hydroxy-2,3,3a,4,5,6,7,11c-octahydro-1H-6, 11b-(epiminoethano)-1,5a-methanonaphth[1,2-e]indole-3-carbonyl)pyridine 1-oxide
+T14	STARTING_MATERIAL 242 382	(1S,3aR,5aS,6R,11bR,11cS)-14-(cyclopropylmethyl)-2,3,3a,4,5,6,7,11c-octahydro-1H-6, 11b-(epiminoethano)-1,5a-methanonaphth[1,2-e]indol-10-ol
+T15	OTHER_COMPOUND 827 837	chloroform

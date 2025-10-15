@@ -1,0 +1,8 @@
+T0	REACTION_PRODUCT 291 305	title compound
+T1	STARTING_MATERIAL 123 126	3-a
+T2	STARTING_MATERIAL 131 175	methyl (2R)-2-aminopropa-noate hydrochloride
+T3	YIELD_OTHER 307 313	0.7 mg
+T4	REACTION_PRODUCT 11 77	Methyl (2R)-2-[[4-(6-fluoro-1H-indol-3-yl)benzoyl]amino]propanoate
+T5	EXAMPLE_LABEL 8 10	18
+T6	YIELD_PERCENT 315 317	2%
+T7	REACTION_PRODUCT 83 91	compound

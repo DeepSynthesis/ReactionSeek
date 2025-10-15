@@ -1,0 +1,10 @@
+T0	SOLVENT 190 205	dichloromethane
+T1	EXAMPLE_LABEL 5 6	4
+T2	REACTION_PRODUCT 8 60	ethyl 4-fluoropiperidine-4-carboxylate hydrochloride
+T3	STARTING_MATERIAL 78 135	1-tert-butyl 4-ethyl 4-fluoropiperidine-1,4-dicarboxylate
+T4	SOLVENT 250 257	dioxane
+T5	REACTION_PRODUCT 400 452	ethyl 4-fluoropiperidine-4-carboxylate hydrochloride
+T6	REAGENT_CATALYST 225 242	hydrogen chloride
+T7	YIELD_PERCENT 392 395	95%
+T8	TEMPERATURE 317 322	25° C
+T9	YIELD_OTHER 386 390	11 g

@@ -1,0 +1,9 @@
+T0	STARTING_MATERIAL 236 237	f
+T1	OTHER_COMPOUND 170 171	1
+T2	STARTING_MATERIAL 206 207	v
+T3	REACTION_PRODUCT 263 360	4-(3-(4-(3H-imidazo[4,5-b]pyridin-6-yl)piperazine-1-carbonyl)-4-fluorobenzyl)phthalazin-1(2H)-one
+T4	EXAMPLE_LABEL 5 6	5
+T5	YIELD_PERCENT 375 378	22%
+T6	YIELD_OTHER 362 367	16 mg
+T7	REACTION_PRODUCT 259 260	7
+T8	REACTION_PRODUCT 23 120	4-(3-(4-(3H-imidazo[4,5-b]pyridin-6-yl)piperazine-1-carbonyl)-4-fluorobenzyl)phthalazin-1(2H)-one

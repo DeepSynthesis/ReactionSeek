@@ -1,0 +1,13 @@
+T0	REACTION_PRODUCT 21 107	di-μ-chloro-tetrakis[3-(2-methylpyridin-5-yl)-2-(2-pyridinyl-κN)phenyl-κC]iridium(III)
+T1	EXAMPLE_LABEL 5 6	2
+T2	YIELD_PERCENT 686 689	53%
+T3	SOLVENT 349 364	2-ethoxyethanol
+T4	TIME 534 540	3 hour
+T5	STARTING_MATERIAL 310 338	iridium chloride monohydrate
+T6	SOLVENT 379 384	water
+T7	STARTING_MATERIAL 202 242	2-[2-(2-methyl-5-pyridyl)phenyl]pyridine
+T8	STARTING_MATERIAL 258 265	Hmpyppy
+T9	REACTION_PRODUCT 666 671	solid
+T10	OTHER_COMPOUND 436 441	argon
+T11	REACTION_PRODUCT 123 139	[Ir(mpyppy)2Cl]2
+T12	YIELD_OTHER 648 653	1.7 g

@@ -1,0 +1,18 @@
+T0	EXAMPLE_LABEL 5 6	4
+T1	REACTION_PRODUCT 857 1003	(E)-3-(3,5-difluoro-4-((5S,7R/5R,7S)-6-(2-fluoro-2-methylpropyl)-2,7-dimethyl-5,6,7,8-tetrahydrooxazolo[5,4-g]isoquinolin-5-yl)phenyl)acrylic acid
+T2	REAGENT_CATALYST 368 384	sodium hydroxide
+T3	REACTION_PRODUCT 7 153	(E)-3-(3,5-difluoro-4-((5S,7R/5R,7S)-6-(2-fluoro-2-methylpropyl)-2,7-dimethyl-5,6,7,8-tetrahydrooxazolo[5,4-g]isoquinolin-5-yl)phenyl)acrylic acid
+T4	REACTION_PRODUCT 842 856	title compound
+T5	OTHER_COMPOUND 648 662	sodium sulfate
+T6	YIELD_OTHER 1008 1012	4 mg
+T7	OTHER_COMPOUND 773 783	silica gel
+T8	STARTING_MATERIAL 304 307	80c
+T9	REAGENT_CATALYST 353 361	methanol
+T10	STARTING_MATERIAL 154 303	(E)-methyl 3-(3,5-difluoro-4-((5S,7R/5R,7S)-6-(2-fluoro-2-methylpropyl)-2,7-dimethyl-5,6,7,8-tetrahydrooxazolo[5,4-g]isoquinolin-5-yl)phenyl)acrylate
+T11	TEMPERATURE 455 459	30°C
+T12	OTHER_COMPOUND 586 599	ethyl acetate
+T13	YIELD_PERCENT 1020 1023	20%
+T14	OTHER_COMPOUND 508 511	HCl
+T15	TIME 476 482	1 hour
+T16	TEMPERATURE 495 499	30°C
+T17	REACTION_PRODUCT 1004 1006	80

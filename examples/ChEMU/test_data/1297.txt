@@ -1,0 +1,3 @@
+Step 2
+Ethyl 3-(2,4-dimethylthiazol-5-yl)propionate
+A mixture of 4-bromo-5-oxohexanoic acid (2.50 g, 11.9 mmol) and thioacetamide (1.00 g, 13.3 mmol) was dissolved in ethanol (30 mL) and heated under reflux for 3 hours under nitrogen atmosphere. Water (10 mL) was added to quench the reaction. The reaction solution was extracted with ethyl acetate (10 mL x 3), dried over anhydrous sodium sulfate, filtered, and the filtrate was concentrated under reduced pressure and purified by silica gel column chromatography (1:1 petroleum ether / ethyl acetate, Rf = 0.6) to give ethyl 3-(2,4-dimethylthiazol-5-yl)propionate (120 mg, as a yellow oil) with a yield of 6%. MS-ESI calcd. [M + H]+ 214, found 214.

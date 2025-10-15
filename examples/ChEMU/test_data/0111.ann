@@ -1,0 +1,24 @@
+T0	YIELD_OTHER 1164 1170	1.33 g
+T1	TIME 851 861	30 minutes
+T2	STARTING_MATERIAL 563 601	di-tert-butyl (chloromethyl) phosphate
+T3	TEMPERATURE 830 846	room temperature
+T4	STARTING_MATERIAL 227 333	N-(1-(trans-4-ethoxycyclohexyl)-3-(pyrazin-2-yl)-1H-pyrazol-4-yl)-2-(1H-pyrazol-4-yl)oxazole-4-carboxamide
+T5	REACTION_PRODUCT 26 167	Di-tert-butyl ((4-(4-((1-(trans-4-ethoxycyclohexyl)-3-(pyrazin-2-yl)-1H-pyrazol-4-yl)carbamoyl)oxazol-2-yl)-1H-pyrazol-1-yl)methyl) phosphate
+T6	REACTION_PRODUCT 168 173	11-16
+T7	REACTION_PRODUCT 973 1114	di-tert-butyl ((4-(4-((1-(trans-4-ethoxycyclohexyl)-3-(pyrazin-2-yl)-1H-pyrazol-4-yl)carbamoyl)oxazol-2-yl)-1H-pyrazol-1-yl)methyl) phosphate
+T8	TIME 419 429	30 minutes
+T9	REACTION_PRODUCT 1115 1120	II-16
+T10	EXAMPLE_LABEL 8 10	18
+T11	REAGENT_CATALYST 624 630	Cs2CO3
+T12	REAGENT_CATALYST 356 362	Cs2CO3
+T13	TIME 678 686	24 hours
+T14	OTHER_COMPOUND 784 789	water
+T15	SOLVENT 204 207	DMF
+T16	STARTING_MATERIAL 697 700	I-1
+T17	YIELD_PERCENT 1172 1175	99%
+T18	TIME 503 511	23 hours
+T19	STARTING_MATERIAL 334 337	I-1
+T20	STARTING_MATERIAL 443 481	di-tert-butyl (chloromethyl) phosphate
+T21	TEMPERATURE 395 411	room temperature
+T22	OTHER_COMPOUND 916 921	water
+T23	STARTING_MATERIAL 529 532	I-1

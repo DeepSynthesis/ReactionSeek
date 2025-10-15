@@ -1,0 +1,9 @@
+T0	OTHER_COMPOUND 462 477	dichloromethane
+T1	EXAMPLE_LABEL 8 11	254
+T2	YIELD_PERCENT 318 320	3%
+T3	STARTING_MATERIAL 218 240	compound from Ex. 354A
+T4	REACTION_PRODUCT 12 143	3-Isopropyl-1-(2-methoxyethyl)-5-methyl-6-[(5-oxo-4,5-dihydro-1H-1,2,4-triazol-1-yl)methyl]thieno[2,3-d]pyrimidine-2,4(1H,3H)-dione
+T5	OTHER_COMPOUND 478 486	methanol
+T6	YIELD_OTHER 312 316	3 mg
+T7	REAGENT_CATALYST 267 291	diphenylphosphoryl azide
+T8	REACTION_PRODUCT 339 353	title compound

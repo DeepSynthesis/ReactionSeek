@@ -1,0 +1,16 @@
+T0	STARTING_MATERIAL 152 308	Tert-butyl4-(8-((5-chloro-4-((2-(isopropylsulfonyl)phenyl)amino)pyrimid in-2-yl)amino)-6-methyl-2,3-dihydrobenzo[b][1,4]dioxin-5-yl)piperidin-1-car boxylate
+T1	YIELD_OTHER 881 886	50 mg
+T2	YIELD_PERCENT 895 900	65.5%
+T3	OTHER_COMPOUND 830 845	dichloromethane
+T4	OTHER_COMPOUND 786 796	silica gel
+T5	TEMPERATURE 431 447	room temperature
+T6	OTHER_COMPOUND 688 703	sodium sulphate
+T7	TIME 452 456	12 h
+T8	OTHER_COMPOUND 602 617	dichloromethane
+T9	REACTION_PRODUCT 19 151	5-chloro-N4-(2-(isopropylsulfonyl)phenyl)-N2-(7-methyl-8-(piperidin-4-yl)-2,3-dihydrobenzo[b][1,4]dioxin-5-yl)pyrimidine-2,4-diamine
+T10	REACTION_PRODUCT 866 879	final product
+T11	EXAMPLE_LABEL 1 3	11
+T12	OTHER_COMPOUND 820 828	methanol
+T13	SOLVENT 345 360	dichloromethane
+T14	OTHER_COMPOUND 515 520	Water
+T15	REAGENT_CATALYST 374 394	trifluoroacetic acid

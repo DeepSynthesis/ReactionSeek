@@ -1,0 +1,13 @@
+T0	EXAMPLE_LABEL 19 20	4
+T1	TIME 404 410	1 hour
+T2	SOLVENT 307 322	tetrahydrofuran
+T3	YIELD_OTHER 539 546	11.9 mg
+T4	STARTING_MATERIAL 121 155	4-Fluoro-3-(4-methylphenyl)furoxan
+T5	REACTION_PRODUCT 562 605	4-trifluoromethyl-3-(4-methylphenyl)furoxan
+T6	STARTING_MATERIAL 75 99	4-Fluorofuroxan Compound
+T7	REACTION_PRODUCT 35 68	4-Trifluoromethylfuroxan Compound
+T8	SOLVENT 231 246	tetrahydrofuran
+T9	YIELD_PERCENT 548 551	16%
+T10	REAGENT_CATALYST 276 303	tetrabutylammonium fluoride
+T11	STARTING_MATERIAL 170 201	trimethylsilyl trifluoromethane
+T12	OTHER_COMPOUND 503 513	silica gel

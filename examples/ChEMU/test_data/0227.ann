@@ -1,0 +1,14 @@
+T0	EXAMPLE_LABEL 5 8	1-7
+T1	SOLVENT 316 319	THF
+T2	OTHER_COMPOUND 610 627	magnesium sulfate
+T3	TEMPERATURE 420 436	room temperature
+T4	REACTION_PRODUCT 163 164	1
+T5	TIME 444 450	1 hour
+T6	STARTING_MATERIAL 166 279	3-(5-Amino-2-methylphenyl)-1-methyl-7-((6-methylpyridin-3-yl)amino)-3,4-dihydropyrimido[4,5-d]pyrimidin-2(1H)-one
+T7	YIELD_OTHER 728 735	25.3 mg
+T8	REACTION_PRODUCT 710 726	desired compound
+T9	OTHER_COMPOUND 545 550	water
+T10	STARTING_MATERIAL 330 356	2-methoxyphenyl isocyanate
+T11	YIELD_PERCENT 737 742	43.8%
+T12	REACTION_PRODUCT 10 148	1-(2-Methoxyphenyl)-3-(4-methyl-3-(1-methyl-7-((6-methylpyridin-3-yl)amino)-2-oxo-1,4-dihydropyrimido[4,5-d]pyrimidin-3(2H)-yl)phenyl)urea
+T13	OTHER_COMPOUND 525 540	dichloromethane

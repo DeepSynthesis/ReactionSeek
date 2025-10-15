@@ -1,0 +1,7 @@
+T0	STARTING_MATERIAL 213 234	compound from Ex. 18A
+T1	YIELD_PERCENT 308 311	54%
+T2	YIELD_OTHER 300 306	432 mg
+T3	EXAMPLE_LABEL 8 11	23A
+T4	REACTION_PRODUCT 330 344	title compound
+T5	REACTION_PRODUCT 12 137	2-Phenylethyl 1-(2-methoxyethyl)-5-methyl-2,4-dioxo-3-(2-phenylethyl)-1,2,3,4-tetrahydrothieno[2,3-d]pyrimidine-6-carboxylate
+T6	STARTING_MATERIAL 262 279	phenethyl bromide

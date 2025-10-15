@@ -1,0 +1,25 @@
+T0	EXAMPLE_LABEL 5 6	D
+T1	TIME 688 691	2 h
+T2	OTHER_COMPOUND 942 947	water
+T3	YIELD_PERCENT 1211 1214	75%
+T4	OTHER_COMPOUND 1148 1153	water
+T5	YIELD_OTHER 1192 1198	1.80 g
+T6	TEMPERATURE 837 842	60° C
+T7	OTHER_COMPOUND 988 998	chloroform
+T8	REAGENT_CATALYST 306 335	lithium hydroxide monohydrate
+T9	TIME 407 410	4 h
+T10	REACTION_PRODUCT 8 105	7-Chloro-6-(difluoromethyl)-4-methyl-2-(trifluoromethyl)pyrazolo[1,5-c]pyridine-3-carboxylic acid
+T11	TIME 547 551	18 h
+T12	REACTION_PRODUCT 1176 1190	title compound
+T13	STARTING_MATERIAL 124 223	ethyl 7-chloro-6-(difluoromethyl)-4-methyl-2-(trifluoromethyl)pyrazolo[1,5-a]pyridine-3-carboxylate
+T14	TEMPERATURE 536 541	60° C
+T15	REAGENT_CATALYST 587 616	lithium hydroxide monohydrate
+T16	OTHER_COMPOUND 1069 1086	hydrochloric acid
+T17	REAGENT_CATALYST 747 776	lithium hydroxide monohydrate
+T18	SOLVENT 259 270	1,4-dioxane
+T19	REAGENT_CATALYST 446 475	lithium hydroxide monohydrate
+T20	TIME 848 851	2 h
+T21	TEMPERATURE 396 401	60° C
+T22	SOLVENT 283 288	water
+T23	YIELD_OTHER 1200 1209	5.48 mmol
+T24	TEMPERATURE 677 682	60° C

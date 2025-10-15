@@ -1,0 +1,13 @@
+T0	REACTION_PRODUCT 21 135	N-hydroxy-2-methyl-2-(methylsulfonyl)-4-(4-(4-(thiophen-2-ylethynyl)phenyl)-3,6-dihydropyridin-1(2H)-yl)butanamide
+T1	YIELD_PERCENT 689 692	15%
+T2	TEMPERATURE 421 437	room temperature
+T3	SOLVENT 309 313	MeOH
+T4	EXAMPLE_LABEL 5 6	2
+T5	STARTING_MATERIAL 153 291	2-methyl-2-(methylsulfonyl)-N-((tetrahydro-2H-pyran-2-yl)oxy)-4-(4-(4-(thiophen-2-ylethynyl)phenyl)-3,6-dihydropyridin-1(2H)-yl)butanamide
+T6	OTHER_COMPOUND 561 566	water
+T7	TIME 413 417	2 hr
+T8	SOLVENT 352 356	MeOH
+T9	YIELD_OTHER 681 687	7.7 mg
+T10	REACTION_PRODUCT 665 679	title compound
+T11	REAGENT_CATALYST 336 339	HCl
+T12	OTHER_COMPOUND 516 521	water

@@ -1,0 +1,18 @@
+T0	STARTING_MATERIAL 91 173	5-(2,3-difluorophenyl)-1-(4-methoxybenzyl)-3-methyl-3,4-dihydro-1H-pyrimidin-2-one
+T1	OTHER_COMPOUND 712 727	dichloromethane
+T2	OTHER_COMPOUND 477 492	dichloromethane
+T3	REACTION_PRODUCT 7 69	5-(2,3-difluorophenyl)-3-methyl-3,4-dihydro-1H-pyrimidin-2-one
+T4	TIME 276 282	30 min
+T5	REAGENT_CATALYST 198 218	trifluoroacetic acid
+T6	EXAMPLE_LABEL 0 5	190.5
+T7	OTHER_COMPOUND 728 741	ethyl acetate
+T8	OTHER_COMPOUND 420 445	sodium hydrogen carbonate
+T9	YIELD_OTHER 757 762	85 mg
+T10	REACTION_PRODUCT 772 834	5-(2,3-difluorophenyl)-3-methyl-3,4-dihydro-1H-pyrimidin-2-one
+T11	OTHER_COMPOUND 400 407	aqueous
+T12	YIELD_PERCENT 764 767	20%
+T13	OTHER_COMPOUND 672 682	silica gel
+T14	OTHER_COMPOUND 544 549	water
+T15	TEMPERATURE 255 271	room temperature
+T16	OTHER_COMPOUND 570 588	magnesium sulphate
+T17	OTHER_COMPOUND 343 358	dichloromethane

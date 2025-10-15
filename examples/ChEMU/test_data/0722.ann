@@ -1,0 +1,7 @@
+T0	REACTION_PRODUCT 28 121	2-(2-(4-pivaloyl-piperazinyl)ethyl)-2,4-dihydro-7-methoxy-4,4-dimethylchromeno[4,3-c]pyrazole
+T1	YIELD_PERCENT 382 385	32%
+T2	EXAMPLE_LABEL 8 10	10
+T3	STARTING_MATERIAL 214 288	2-(2-bromoethyl)-7-methoxy-4,4-dimethyl-1,4-dihydrochromeno[4,3-c]pyrazole
+T4	YIELD_OTHER 376 380	8 mg
+T5	REACTION_PRODUCT 127 143	desired compound
+T6	STARTING_MATERIAL 312 331	pivaloyl piperazine

@@ -1,0 +1,19 @@
+T0	REACTION_PRODUCT 127 129	39
+T1	TEMPERATURE 442 458	room temperature
+T2	TIME 463 470	3 hours
+T3	SOLVENT 299 314	tetrahydrofuran
+T4	SOLVENT 385 400	tetrahydrofuran
+T5	OTHER_COMPOUND 573 586	ethyl acetate
+T6	EXAMPLE_LABEL 1 5	39-5
+T7	YIELD_PERCENT 882 885	38%
+T8	OTHER_COMPOUND 747 757	silica gel
+T9	OTHER_COMPOUND 635 640	brine
+T10	YIELD_OTHER 869 874	32 mg
+T11	OTHER_COMPOUND 663 680	magnesium sulfate
+T12	OTHER_COMPOUND 800 813	ethyl acetate
+T13	STARTING_MATERIAL 156 276	N-[(1S)-2-[(tert-butyldimethylsilyl)oxy]-1-{3-[4-(trifluoromethoxy)phenyl]-1,2,4-oxadiazol-5-yl}ethyl]-4-chlorobenzamide
+T14	REACTION_PRODUCT 20 116	(S)-4-Chloro-N-(2-hydroxy-1-{3-[4-(trifluoromethoxy)phenyl]-1,2,4-oxadiazol-5-yl}ethyl)benzamide
+T15	REAGENT_CATALYST 354 381	tetrabutylammonium fluoride
+T16	OTHER_COMPOUND 522 527	water
+T17	REACTION_PRODUCT 853 867	title compound
+T18	OTHER_COMPOUND 793 799	hexane

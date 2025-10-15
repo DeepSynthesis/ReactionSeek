@@ -1,0 +1,14 @@
+T0	SOLVENT 339 342	DMF
+T1	EXAMPLE_LABEL 8 9	6
+T2	OTHER_COMPOUND 449 454	Water
+T3	REACTION_PRODUCT 720 725	solid
+T4	TEMPERATURE 360 365	100°C
+T5	OTHER_COMPOUND 536 549	ethyl acetate
+T6	STARTING_MATERIAL 100 165	3-(1-Aminoethyl)-8-chloro-2-phenyl-4H-chromen-4-one hydrochloride
+T7	YIELD_PERCENT 742 746	9.0%
+T8	REACTION_PRODUCT 11 99	2,4-Diamino-5-cyano-6-(1-(8-chloro-4-oxo-2-phenyl-4H-chromen-3-yl) ethylamino)pyrimidine
+T9	YIELD_OTHER 704 708	23mg
+T10	TIME 379 382	24h
+T11	STARTING_MATERIAL 217 255	2,4-diamino-5-cyano-6-chloropyrimidine
+T12	REAGENT_CATALYST 278 297	potassium carbonate
+T13	OTHER_COMPOUND 572 586	sodium sulfate

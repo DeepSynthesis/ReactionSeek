@@ -1,0 +1,3 @@
+Method 4
+(R)-N-Benzyloxycarbonyl-α-[N-(t-butoxycarbonylmethyl)carbamoyl]benzylamine
+(2R)-{[(Benzyloxy)carbonyl]amino}(phenyl)acetic acid (10 g, 35.0 mmol) and t-butylglycine hydrochloride (6.3 g, 37.4 mmol) was dissolved in DCM (200 ml) with 2,6-lutidine (8.2 ml, 70.4 mmol). After stirring 5 min at 0°C TBTU (12.4 g, 38.6 mmol) was added and stirring was continued for 1.5 hours at 0°C and 3.75 hours at room temperature. The reaction mixture was washed with water (2 x 100 ml), dried (MgSO4) and purified with flash chromatography (DCM:EtOAc 7:1→5:1) to give the title compound (13 g, 94 %). NMR (500 MHz, CDCl3): 1.45 (s, 9H), 3.84 (d, 1H), 4.00 (dd, 1H), 5.10 (m, 2H), 5.28 (brs, 1H), 6.13 (brs, 1H), 6.23 (brs, 1H), 7.30-7.44 (m, 10H).

@@ -1,0 +1,14 @@
+T0	TEMPERATURE 272 275	0°C
+T1	SOLVENT 181 196	dichloromethane
+T2	YIELD_PERCENT 715 718	75%
+T3	EXAMPLE_LABEL 5 6	3
+T4	OTHER_COMPOUND 516 530	sodium sulfate
+T5	OTHER_COMPOUND 434 447	ethyl acetate
+T6	TEMPERATURE 320 336	room temperature
+T7	YIELD_OTHER 670 677	70.0 mg
+T8	REAGENT_CATALYST 120 141	diisopropylethylamine
+T9	REACTION_PRODUCT 618 668	2-(2,4-dimethylthiazol-5-yl)ethyl methanesulfonate
+T10	REACTION_PRODUCT 7 57	2-(2,4-Dimethylthiazol-5-yl)ethyl methanesulfonate
+T11	STARTING_MATERIAL 58 93	2-(2,4-Dimethylthiazol-5-yl)ethanol
+T12	OTHER_COMPOUND 401 406	water
+T13	STARTING_MATERIAL 207 231	methanesulfonyl chloride

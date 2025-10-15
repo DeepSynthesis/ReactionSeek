@@ -1,0 +1,11 @@
+T0	EXAMPLE_LABEL 5 6	3
+T1	SOLVENT 152 159	ethanol
+T2	YIELD_OTHER 474 480	250 mg
+T3	TIME 254 262	10 hours
+T4	STARTING_MATERIAL 78 120	benzyl 3,3-difluorocyclobutane carboxylate
+T5	TEMPERATURE 233 249	room temperature
+T6	YIELD_PERCENT 482 487	83.1%
+T7	REACTION_PRODUCT 434 473	3,3-difluorocyclobutane carboxylic acid
+T8	REACTION_PRODUCT 23 62	3,3-difluorocyclobutane carboxylic acid
+T9	REAGENT_CATALYST 179 183	Pd/C
+T10	REAGENT_CATALYST 287 295	hydrogen

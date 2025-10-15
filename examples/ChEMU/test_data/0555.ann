@@ -1,0 +1,8 @@
+T0	YIELD_PERCENT 461 464	44%
+T1	REACTION_PRODUCT 167 169	54
+T2	REACTION_PRODUCT 6 156	5-(2-chloro-3-fluorophenyl)-3-ethyl-1-{2-oxo-2-[4-(2-oxo-1,2,4,5-tetrahydro-benzo[d][1,3]diazepin-3-yl)-piperidin-1-yl]-ethyl}-1H-pyrimidine-2,4-dione
+T3	STARTING_MATERIAL 348 411	3-piperidin-4-yl-1,3,4,5-tetrahydro-benzo[d][1,3]diazepin-2-one
+T4	STARTING_MATERIAL 233 322	[5-(2-chloro-3-fluorophenyl)-3-ethyl-2,4-dioxo-3,4-dihydro-2H-pyrimidin-1-yl]-acetic acid
+T5	REACTION_PRODUCT 469 619	5-(2-chloro-3-fluorophenyl)-3-ethyl-1-{2-oxo-2-[4-(2-oxo-1,2,4,5-tetrahydro-benzo[d][1,3]diazepin-3-yl)-piperidin-1-yl]-ethyl}-1H-pyrimidine-2,4-dione
+T6	YIELD_OTHER 453 459	190 mg
+T7	EXAMPLE_LABEL 0 4	54.2

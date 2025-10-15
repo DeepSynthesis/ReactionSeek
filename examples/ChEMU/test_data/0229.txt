@@ -1,0 +1,2 @@
+Synthesis of Compound 15
+Compound 14 (503.5 mg 1.25 mmol) was dissolved in CH2Cl2 (10 mL) along with trifluoroacetic acid (2 mL). The solution was allowed to react for 3 hours at room temperature. The solvent was removed under reduced pressure to yield compound 15 as a gray oil (190.2 mg, 75.1%) without further purification. LC-MS m/z (ES+), 204.13 (M+H)+.

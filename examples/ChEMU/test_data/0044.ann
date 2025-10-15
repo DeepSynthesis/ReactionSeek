@@ -1,0 +1,22 @@
+T0	OTHER_COMPOUND 911 926	dichloromethane
+T1	OTHER_COMPOUND 696 703	aqueous
+T2	OTHER_COMPOUND 881 885	SiO2
+T3	YIELD_PERCENT 999 1004	42.8%
+T4	REACTION_PRODUCT 167 172	11139
+T5	REACTION_PRODUCT 41 135	1-ethyl-N-phenyl-N-(4-(5-(trifluoromethyl)-1,3,4-oxadiazol-2-yl)benzyl)azetidine-3-carboxamide
+T6	REACTION_PRODUCT 974 988	title compound
+T7	EXAMPLE_LABEL 8 10	13
+T8	OTHER_COMPOUND 637 650	ethyl acetate
+T9	YIELD_OTHER 990 997	0.042 g
+T10	TEMPERATURE 409 425	room temperature
+T11	STARTING_MATERIAL 328 340	acetaldehyde
+T12	OTHER_COMPOUND 568 573	Water
+T13	STARTING_MATERIAL 173 273	N-phenyl-N-(4-(5-(trifluoromethyl)-1,3,4-oxadiazol-2-yl)benzyl)azetidine-3-carboxamide hydrochloride
+T14	OTHER_COMPOUND 704 719	sodium chloride
+T15	TIME 558 566	18 hours
+T16	OTHER_COMPOUND 902 910	methanol
+T17	SOLVENT 382 397	dichloromethane
+T18	REACTION_PRODUCT 34 39	11139
+T19	REAGENT_CATALYST 431 459	sodium triacetoxyborohydride
+T20	OTHER_COMPOUND 741 758	magnesium sulfate
+T21	EXAMPLE_LABEL 142 143	1

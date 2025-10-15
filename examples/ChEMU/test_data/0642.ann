@@ -1,0 +1,21 @@
+T0	OTHER_COMPOUND 803 808	water
+T1	TEMPERATURE 626 642	room temperature
+T2	EXAMPLE_LABEL 121 122	1
+T3	OTHER_COMPOUND 821 834	ethyl acetate
+T4	EXAMPLE_LABEL 8 10	19
+T5	REAGENT_CATALYST 416 432	sodium hydroxide
+T6	OTHER_COMPOUND 989 994	water
+T7	SOLVENT 560 575	tetrahydrofuran
+T8	TIME 647 650	1 h
+T9	YIELD_OTHER 1131 1136	1.65g
+T10	TEMPERATURE 487 490	0°C
+T11	YIELD_PERCENT 1170 1175	82.8%
+T12	REACTION_PRODUCT 139 219	tert-butyl (1-(8-Chloro-4-oxo-2-phenyl-1,4-dihydroquinolin-3-yl)ethyl) carbamate
+T13	OTHER_COMPOUND 746 761	tetrahydrofuran
+T14	OTHER_COMPOUND 1017 1031	sodium sulfate
+T15	STARTING_MATERIAL 506 531	di-tert-butyl dicarbonate
+T16	SOLVENT 334 337	THF
+T17	STARTING_MATERIAL 220 272	3-(1-Aminoethyl)-8-chloro-2-phenylquinolin-4(1H)-one
+T18	REACTION_PRODUCT 1148 1153	solid
+T19	OTHER_COMPOUND 12 115	4-Amino-5-cyano-6-((1-(8-chloro-1-methyl-4-oxo-2-phenyl-1,4-dihydroquinolin-3-yl)ethyl)amino)pyrimidine
+T20	OTHER_COMPOUND 913 926	ethyl acetate

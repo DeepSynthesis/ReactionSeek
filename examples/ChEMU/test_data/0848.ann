@@ -1,0 +1,16 @@
+T0	YIELD_OTHER 645 651	180 mg
+T1	STARTING_MATERIAL 139 192	5-(benzyloxy)-3-hydroxy-N-methoxy-N-methylpentanamide
+T2	EXAMPLE_LABEL 5 6	4
+T3	TIME 332 339	3 hours
+T4	OTHER_COMPOUND 426 439	ethyl acetate
+T5	OTHER_COMPOUND 372 389	ammonium chloride
+T6	TEMPERATURE 312 315	0°C
+T7	YIELD_PERCENT 689 692	74%
+T8	OTHER_COMPOUND 498 503	brine
+T9	SOLVENT 79 84	ether
+T10	REACTION_PRODUCT 7 42	7-(Benzyloxy)-5-hydroxyheptan-3-one
+T11	SOLVENT 216 231	tetrahydrofuran
+T12	OTHER_COMPOUND 248 256	nitrogen
+T13	REACTION_PRODUCT 608 643	7-(benzyloxy)-5-hydroxyheptan-3-one
+T14	STARTING_MATERIAL 43 65	Ethylmagnesium bromide
+T15	OTHER_COMPOUND 535 549	sodium sulfate

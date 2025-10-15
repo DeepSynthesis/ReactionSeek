@@ -1,0 +1,5 @@
+Intermediate 7
+6-(tert-butyl)-3-methoxypicolinaldehyde
+Intermediate 7A
+(6-bromo-3-methoxypyridin-2-yl)methanol
+6-Bromo-3-methoxypicolinaldehyde (0.880 g, 4.07 mmol) was suspended in CH3OH (20 mL) and the mixture was cooled to 0° C. Sodium borohydride (0.154 g, 4.07 mmol) was added, causing bubbling. The reaction mixture was stirred at 0° C. for 15 minutes, then the flask was removed from the ice bath and allowed to stir at room temperature for 2 hours. The reaction mixture was then concentrated in vacuo, and the crude material was taken up in methyl tert-butyl ether and saturated aqueous NaHCO3 solution. The phases were separated, and the organic layer was dried over Na2SO4, filtered, and concentrated in vacuo to provide the title compound (0.718 g, 81% yield).

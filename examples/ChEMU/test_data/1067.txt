@@ -1,0 +1,3 @@
+Core 53D
+benzyl 2-cyclopropylideneacetate
+To a solution of benzyl 2-(triphenylphosphoranylidene)acetate (5 g, 11.57 mmol) and benzoic acid (0.601 g, 4.92 mmol) in toluene (50 mL) at 80° C. was added 1-ethoxycyclopropanol (1.391 g, 11.57 mmol). The mixture was stirred at 80° C. for 5 hours and was concentrated. The residue was purified by column chromatography (on silica gel, eluted with 5% ethyl acetate/hexane) to provide the title compound benzyl 2-cyclopropylideneacetate (1.3 g, 5.66 mmol, 48.9% yield). LC/MS (ESI+) m/z 189.2 (M+H)+.

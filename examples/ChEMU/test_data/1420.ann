@@ -1,0 +1,8 @@
+T0	YIELD_OTHER 301 306	35 mg
+T1	STARTING_MATERIAL 123 169	1-aminocyclopropane-carbonitrile hydrochloride
+T2	REACTION_PRODUCT 11 69	N-(1-cyanocyclopropyl)-4-(6-fluoro-1H-indol-3-yl)benzamide
+T3	STARTING_MATERIAL 115 118	3-a
+T4	YIELD_PERCENT 308 311	58%
+T5	REACTION_PRODUCT 75 83	compound
+T6	EXAMPLE_LABEL 8 10	12
+T7	REACTION_PRODUCT 285 299	title compound

@@ -1,0 +1,11 @@
+T0	REACTION_PRODUCT 417 468	3-(2-(benzyloxy)ethyl)-5-ethyl-1-methyl-1H-pyrazole
+T1	EXAMPLE_LABEL 5 6	6
+T2	REACTION_PRODUCT 361 412	5-(2-(benzyloxy)ethyl)-3-ethyl-1-methyl-1H-pyrazole
+T3	YIELD_OTHER 470 476	100 mg
+T4	TIME 290 299	1.5 hours
+T5	SOLVENT 234 241	ethanol
+T6	STARTING_MATERIAL 167 196	methylhydrazine hydrochloride
+T7	STARTING_MATERIAL 111 141	1-(Benzyloxy)heptane-3,5-dione
+T8	REACTION_PRODUCT 59 110	3-(2-(Benzyloxy)ethyl)-5-ethyl-1-methyl-1H-pyrazole
+T9	REACTION_PRODUCT 7 58	5-(2-(Benzyloxy)ethyl)-3-ethyl-1-methyl-1H-pyrazole
+T10	YIELD_PERCENT 511 514	80%

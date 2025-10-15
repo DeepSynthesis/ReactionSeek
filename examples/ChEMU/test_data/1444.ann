@@ -1,0 +1,18 @@
+T0	SOLVENT 154 159	water
+T1	SOLVENT 130 141	1,4-dioxane
+T2	EXAMPLE_LABEL 5 6	1
+T3	STARTING_MATERIAL 179 206	2-fluorophenyl)boronic acid
+T4	OTHER_COMPOUND 646 653	hexanes
+T5	REACTION_PRODUCT 8 53	5-(2-Fluorophenyl)-1H-pyrazolo[4,3-b]pyridine
+T6	TEMPERATURE 464 469	90° C
+T7	REAGENT_CATALYST 228 247	potassium phosphate
+T8	TEMPERATURE 518 522	r.t.
+T9	REAGENT_CATALYST 270 377	(2'-aminobiphenyl-2-yl)(chloro)(dicyclohexyl(2',4',6'-triisopropylbiphenyl-2-yl)phosphoranylidene)palladium
+T10	TIME 475 483	15 hours
+T11	YIELD_PERCENT 706 709	98%
+T12	OTHER_COMPOUND 629 642	ethyl acetate
+T13	STARTING_MATERIAL 71 106	5-chloro-1H-pyrazolo[4,3-b]pyridine
+T14	OTHER_COMPOUND 590 600	silica gel
+T15	REACTION_PRODUCT 672 679	product
+T16	OTHER_COMPOUND 446 448	N2
+T17	YIELD_OTHER 698 704	620 mg

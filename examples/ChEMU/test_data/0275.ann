@@ -1,0 +1,7 @@
+T0	YIELD_OTHER 389 394	22 mg
+T1	EXAMPLE_LABEL 8 9	6
+T2	STARTING_MATERIAL 215 289	2-(2-bromoethyl)-7-methoxy-4,4-dimethyl-1,4-dihydrochromeno[4,3-c]pyrazole
+T3	STARTING_MATERIAL 313 354	1-(2-thienoyl)piperazine trifluoroacetate
+T4	YIELD_PERCENT 396 399	55%
+T5	REACTION_PRODUCT 128 144	desired compound
+T6	REACTION_PRODUCT 26 122	2-(2-(4-(2-thienoyl)piperazinyl)ethyl)-2,4-dihydro-7-methoxy-4,4-dimethylchromeno[4,3-c]pyrazole

@@ -1,0 +1,21 @@
+T0	OTHER_COMPOUND 691 706	dichloromethane
+T1	OTHER_COMPOUND 8 116	(2S,3R,4S,5S)-tert-butyl 3-(2-methoxypropan-2-yl)-5-(2-methoxypyridin-3-yl)-4-nitropyrrolidine-2-carboxylate
+T2	OTHER_COMPOUND 837 852	dichloromethane
+T3	OTHER_COMPOUND 748 753	water
+T4	YIELD_OTHER 1035 1044	6.07 mmol
+T5	STARTING_MATERIAL 436 460	2-methoxynicotinaldehyde
+T6	EXAMPLE_LABEL 122 125	39A
+T7	TIME 404 414	30 minutes
+T8	EXAMPLE_LABEL 5 7	39
+T9	REAGENT_CATALYST 355 368	triethylamine
+T10	OTHER_COMPOUND 906 920	sodium sulfate
+T11	SOLVENT 312 327	dichloromethane
+T12	TEMPERATURE 551 567	room temperature
+T13	REACTION_PRODUCT 960 1025	(E)-tert-butyl 2-(((2-methoxypyridin-3-yl)methylene)amino)acetate
+T14	SOLVENT 506 521	dichloromethane
+T15	OTHER_COMPOUND 612 627	dichloromethane
+T16	REAGENT_CATALYST 269 286	magnesium sulfate
+T17	REACTION_PRODUCT 126 191	(E)-tert-butyl 2-(((2-methoxypyridin-3-yl)methylene)amino)acetate
+T18	YIELD_OTHER 1027 1033	1.52 g
+T19	YIELD_PERCENT 1046 1049	91%
+T20	STARTING_MATERIAL 205 243	glycine tert-butyl ester hydrochloride

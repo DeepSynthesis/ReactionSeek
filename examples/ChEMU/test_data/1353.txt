@@ -1,0 +1,3 @@
+Step 2
+5-(Chloromethyl)-2,4-dimethylthiazole
+(2,4-Dimethylthiazol-5-yl)methanol (300 mg, 2.09 mmol) and triethylamine (635 mg, 6.29 mmol) were dissolved in anhydrous dichloromethane (10 mL). Methanesulfonyl chloride (468 mg, 4.18 mmol) was added at 0°C. The reaction solution was slowly warmed to 25°C and stirred for 2 hours. The reaction was quenched by the addition of saturated aqueous sodium bicarbonate solution (10 mL) and extracted with dichloromethane (15 mL x 3). The combined organic phases were combined, washed with saturated sodium chloride (30 mL), dried over anhydrous sodium sulfate and concentrated under reduced pressure to give 5-(chloromethyl)-2,4-dimethylthiazole (182 mg, as a yellow solid) with a yield of 54%.

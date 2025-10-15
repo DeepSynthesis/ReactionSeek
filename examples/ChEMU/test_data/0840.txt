@@ -1,0 +1,5 @@
+Core 10
+(2S,3R,4S,5S)-ethyl 5-(2-bromophenyl)-3-(tert-butyl)-4-nitropyrrolidine-2-carboxylate
+Core 10A
+(E)-ethyl 2-((2-bromobenzylidene)amino)acetate
+Ethyl 2-aminoacetate hydrochloride (2.63 g, 18.85 mmol) and magnesium sulfate (2.269 g, 18.85 mmol) were stirred in dichloromethane (28.6 mL) at ambient temperature, and triethylamine (2.63 mL, 18.85 mmol) was added. The mixture was stirred for 5 minutes, 2-bromobenzaldehyde (2.0 mL, 17.13 mmol) was added dropwise, and the mixture was stirred at ambient temperature for 16 hours. The solid material was filtered through a disposable plastic frit and washed with dichloromethane. The organic layer was washed with 30 mL of water then dried over sodium sulfate, filtered, and concentrated to provide (E)-ethyl 2-((2-bromobenzylidene)amino)acetate (4.6 g, 17.03 mmol, 99% yield).

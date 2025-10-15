@@ -1,0 +1,3 @@
+Example 135
+4-(6-Fluoro-1H-indol-3-yl)-N-[3-(4-methylpiperazin-1-yl)propyl]benzamide
+This compound was prepared from Intermediate 3 and 1-(3-aminopropyl)-4-methylpiperazine according to the procedure described in Example 1. Purification was performed using preparative HPLC to afford the title compound (16.8 mg, 35%). Data: LCMS (B) Rt: 6.323 min; m/z 395.2 (M+H)+.

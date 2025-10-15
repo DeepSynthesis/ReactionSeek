@@ -1,0 +1,20 @@
+T0	REACTION_PRODUCT 954 968	title compound
+T1	OTHER_COMPOUND 688 703	sodium chloride
+T2	OTHER_COMPOUND 552 557	Water
+T3	OTHER_COMPOUND 725 742	magnesium sulfate
+T4	OTHER_COMPOUND 621 634	ethyl acetate
+T5	TEMPERATURE 396 412	room temperature
+T6	OTHER_COMPOUND 865 869	SiO2
+T7	STARTING_MATERIAL 418 442	methanesulfonyl chloride
+T8	EXAMPLE_LABEL 8 10	21
+T9	SOLVENT 369 384	dichloromethane
+T10	YIELD_PERCENT 979 984	20.6%
+T11	REAGENT_CATALYST 302 327	N,N-diisopropylethylamine
+T12	OTHER_COMPOUND 900 906	hexane
+T13	OTHER_COMPOUND 680 687	aqueous
+T14	REACTION_PRODUCT 41 146	1-(methylsulfonyl)-N-phenyl-N-(4-(5-(trifluoromethyl)-1,3,4-oxadiazol-2-yl)benzyl)azetidine-3-carboxamide
+T15	STARTING_MATERIAL 147 247	N-phenyl-N-(4-(5-(trifluoromethyl)-1,3,4-oxadiazol-2-yl)benzyl)azetidine-3-carboxamide hydrochloride
+T16	REACTION_PRODUCT 34 39	11160
+T17	TIME 542 550	18 hours
+T18	OTHER_COMPOUND 886 899	ethyl acetate
+T19	YIELD_OTHER 970 977	0.018 g

@@ -1,0 +1,4 @@
+[EXAMPLE 12]
+Synthesis of compound I-044
+Step 1 Synthesis of compound 44a
+(R)-Isopropylidene glycerol (3.71 mL, 30.0 mmol) was dissolved in tetrahydrofuran (50.0 mL). The solution was cooled to 0°C. Triphenylphosphine (8.66 g, 33.0 mmol), N-hydroxyphthalimide (5.38 g, 33.0 mmol), and a 2.7 mol/L solution of dimethyl azodicarboxylate in toluene (12.22 mL, 33.0 mmol) were added to the solution. The mixture was stirred at room temperature for 30 minutes. The reaction mixture was concentrated under reduced pressure. Methanol was added to the residue. The mixture was stirred. The obtained solid was collected by filtration, washed by methanol, and dried to afford the compound 44a (1.78 g, yield 21%).

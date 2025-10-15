@@ -1,0 +1,5 @@
+Example 3
+3,7-Dimethyl-1-(3-(2-oxopyrrolidin-1-yl)propyl)-1H-purine-2,6(3H,7H)-dione
+Step 1
+3-(2-Oxopyrrolidinyl-1-yl)propyl methanesulfonic acid
+1-(3-Hydroxypropyl)-2-pyrrolidone (200 mg, 1.40 mmol) was dissolved in anhydrous dichloromethane (5 mL). Triethylamine (282 mg, 2.80 mmol) and methanesulfonyl chloride (192 mg, 1.68 mmol) were added at 0°C under nitrogen atmosphere. The reaction solution was slowly warmed to room temperature, and stirred for 2 hours. Water (40 mL) was added to quench the reaction. The reaction solution was extracted with ethyl acetate (30 mL x 2) and the organic phases were combined and washed with saturated sodium chloride solution (30 mL x 2), dried over anhydrous sodium sulfate and filtered, and the filtrate was concentrated under reduced pressure to give 3-(2-oxypyrrolidinyl-1-yl) propyl methanesulfonic acid (164 mg, as a yellow oil), with a yield of 53%. MS-ESI calcd. [M + H] + 222, found 222.

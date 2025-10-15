@@ -1,0 +1,17 @@
+T0	STARTING_MATERIAL 388 443	O-(tetrahydro-2H-pyran-2-yl)hydroxylamine hydrochloride
+T1	REAGENT_CATALYST 340 344	HOBT
+T2	OTHER_COMPOUND 620 625	MgSO4
+T3	REACTION_PRODUCT 720 734	title compound
+T4	EXAMPLE_LABEL 5 6	3
+T5	TEMPERATURE 496 512	room temperature
+T6	STARTING_MATERIAL 172 271	2-methyl-2-(methylsulfonyl)-4-(4-(4-(pyridin-4-yl)phenyl)-3,6-dihydropyridin-1(2H)-yl)butanoic acid
+T7	YIELD_PERCENT 744 747	68%
+T8	SOLVENT 290 293	DMF
+T9	YIELD_OTHER 736 742	400 mg
+T10	TIME 488 492	1 hr
+T11	REAGENT_CATALYST 363 367	Et3N
+T12	OTHER_COMPOUND 533 546	ethyl acetate
+T13	OTHER_COMPOUND 551 556	water
+T14	REAGENT_CATALYST 317 321	HATU
+T15	OTHER_COMPOUND 592 597	brine
+T16	REACTION_PRODUCT 21 151	2-methyl-2-(methylsulfonyl)-4-(4-(4-(pyridin-4-yl)phenyl)-3,6-dihydropyridin-1(2H)-yl)-N-((tetrahydro-2H-pyran-2-yl)oxy)butanamide

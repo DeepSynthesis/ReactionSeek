@@ -1,0 +1,7 @@
+Example 36
+3,7-Dimethyl-1-(3-(1-methyl-2H-1,2,3-triazol-4-yl)propyl)-1H-purine-2,6(3H,7H)-dione
+3,7-Dimethyl-1-(3-(1-methyl-1H-1,2,3-triazol-4-yl)propyl)-1H-purine-2,6(3H,7H)-dione
+3,7,9-Trimethyl-1-(3-(2-methyl-1H-1,2,3-tnazol-4-yl)propyl)-2,6-dioxo-2,3,6,7-tetrahydro-1H-purine-2,6(3H,7H)-dione
+Step 1
+3,7-dimethyl-1-(pent-4-yn-1-yl)-1H-purine-2,6(3H, 7H)-dione
+3,7-Dimethyl-1H-purine-2,6(3H,7H)-dione (965 mg, 5.37 mmol) was dissolved in N,N-dimethylformamide (20 mL). 5-Chloropent-1-yne (500 mg, 4.88 mmol), potassium carbonate (1.35 g, 9.76 mmol) and potassium iodide (162 mg, 0.976 mmol) were added at room temperature. The reaction was heated to 100°C and stirred for 2 hours. The reaction solution was cooled to room temperature and diluted with ethyl acetate (30 mL). The organic phase was washed with saturated sodium bicarbonate solution (20 mL x 2). The organic phases were combined, dried over anhydrous sodium sulfate, concentrated and evaporated to dryness to give the product 3,7-dimethyl-1-(pent-4-yn-1-yl)-1H-purine-2,6(3H,7H)-dione (1.02g, as a yellow oil) with a yield of 94%. MS-ESI [M + H]+ calcd. 247, found 247.

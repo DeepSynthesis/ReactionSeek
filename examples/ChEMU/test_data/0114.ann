@@ -1,0 +1,24 @@
+T0	OTHER_COMPOUND 510 518	nitrogen
+T1	REACTION_PRODUCT 1032 1046	title compound
+T2	OTHER_COMPOUND 980 995	petroleum ether
+T3	REAGENT_CATALYST 621 678	1-ethyl-(3-dimethylaminopropyl)carbodiimide hydrochloride
+T4	EXAMPLE_LABEL 8 10	11
+T5	REAGENT_CATALYST 585 598	triethylamine
+T6	TEMPERATURE 537 540	0°C
+T7	REACTION_PRODUCT 170 288	tert-butyl (6-((2S,5R)-6-(benzyloxy)-7-oxo-1,6-diazabicyclo[3.2.1]octane-2-carboxamido)spiro[3.3]heptan-2-yl)carbamate
+T8	YIELD_PERCENT 1061 1066	45.9%
+T9	STARTING_MATERIAL 289 364	(2S,5R)-6-(benzyloxy)-7-oxo-1,6-diazabicyclo[3.2.1]octane-2-carboxylic acid
+T10	OTHER_COMPOUND 27 136	(2S,5R)-2-((6-aminospiro[3.3]heptan-2-yl) carbamoyl)-7-oxo-1,6-diazabicyclo[3.2.1]octan-6-yl hydrogen sulfate
+T11	SOLVENT 472 487	dichloromethane
+T12	OTHER_COMPOUND 779 784	water
+T13	REACTION_PRODUCT 922 929	product
+T14	OTHER_COMPOUND 797 812	dichloromethane
+T15	OTHER_COMPOUND 147 149	11
+T16	OTHER_COMPOUND 946 956	silica gel
+T17	EXAMPLE_LABEL 152 153	1
+T18	STARTING_MATERIAL 387 435	tert-butyl (6-azaspiro[3.3]heptan-2-yl)carbamate
+T19	OTHER_COMPOUND 998 1011	ethyl acetate
+T20	TEMPERATURE 719 723	25°C
+T21	TIME 740 743	16h
+T22	REAGENT_CATALYST 542 565	1-hydroxylbenzotriazole
+T23	YIELD_OTHER 1048 1053	0.4 g

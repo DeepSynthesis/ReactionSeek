@@ -1,0 +1,21 @@
+T0	REAGENT_CATALYST 493 497	Et3N
+T1	REACTION_PRODUCT 934 948	title compound
+T2	SOLVENT 454 469	dichloromethane
+T3	OTHER_COMPOUND 806 811	brine
+T4	OTHER_COMPOUND 834 839	MgSO4
+T5	TEMPERATURE 679 684	60° C
+T6	TIME 671 674	3 h
+T7	TEMPERATURE 709 725	room temperature
+T8	STARTING_MATERIAL 618 628	Morpholine
+T9	STARTING_MATERIAL 301 414	methyl 4-(4-(4-(3-hydroxyprop-1-yn-1-yl)phenyl)-3,6-dihydropyridin-1(2H)-yl)-2-methyl-2-(methylsulfonyl)butanoate
+T10	OTHER_COMPOUND 765 770	water
+T11	EXAMPLE_LABEL 8 10	25
+T12	OTHER_COMPOUND 745 760	dichloromethane
+T13	TIME 592 596	2 hr
+T14	EXAMPLE_LABEL 151 152	1
+T15	OTHER_COMPOUND 25 145	N-hydroxy-2-methyl-2-(methylsulfonyl)-4-(4-(4-(3-morpholinoprop-1-yn-1-yl)phenyl)-3,6-dihydropyridin-1(2H)-yl)butanamide
+T16	REACTION_PRODUCT 167 283	methyl 2-methyl-2-(methylsulfonyl)-4-(4-(4-(3-morpholinoprop-1-yn-1-yl)phenyl)-3,6-dihydropyridin-1(2H)-yl)butanoate
+T17	TEMPERATURE 600 616	room temperature
+T18	REAGENT_CATALYST 518 542	methanesulfonyl chloride
+T19	YIELD_PERCENT 958 961	77%
+T20	YIELD_OTHER 950 956	450 mg

@@ -1,0 +1,2 @@
+m. PREPARATION OF (S)-3-(3,5-DIFLUOROPHENYL)-N-((2R,6S,8AS,14AS,20S,23AS)-2,6-DIMETRYL-5,8,14,19,23-PENTAOXOOCTADECAHYDRO-1H,5H,14H,19H-PYRIDO[2,1-I]DIPYRROLO[2,1-C:2',1'-L][1]OXA[4,7,10,13]TETRAAZACYCLOHEXADECIN-20-YL)-2-(3-(4-(TRIFLUOROMETHOXY)PHENYL)UREIDO)PROPANAMIDE (COMPOUND 13).
+Compound 13 was synthesized from compound C (70 mg, 0.100 mmol), 1-isocyanato-4-(trifluoromethoxy)benzene (24.5 mg, 0.12 mmol) and triethylamine (66 μL, 0.482 mmol) following the general synthesis method as described herein above. Compound 13 was provided as a greyish solid (19.8 mg, 22.8%);

@@ -1,0 +1,15 @@
+T0	TIME 494 501	3 hours
+T1	YIELD_OTHER 755 762	10.0 mg
+T2	EXAMPLE_LABEL 93 94	1
+T3	REAGENT_CATALYST 345 364	potassium carbonate
+T4	TEMPERATURE 539 555	room temperature
+T5	REAGENT_CATALYST 303 319	potassium iodide
+T6	YIELD_PERCENT 780 783	28%
+T7	TEMPERATURE 472 477	120°C
+T8	REACTION_PRODUCT 11 87	1-Methyl-3-[4-(3-methylisoxazol-5-yl)butyl]pyrido[2,3-d]pyrimidine-2,4-dione
+T9	STARTING_MATERIAL 172 220	1-Methylpyrido[2,3-d]pyrimidine-2,4(1H,3H)-dione
+T10	EXAMPLE_LABEL 8 10	89
+T11	STARTING_MATERIAL 244 279	5-(4-bromobutyl)-3-methyl-isoxazole
+T12	SOLVENT 405 426	N,N-dimethylformamide
+T13	REACTION_PRODUCT 677 753	1-methyl-3-[4-(3-methylisoxazol-5-yl)butyl]pyrido[2,3-d]pyrimidine-2,4-dione
+T14	REACTION_PRODUCT 95 171	1-Methyl-3-[4-(3-methylisoxazol-5-yl)butyl]pyrido[2,3-d]pyrimidine-2,4-dione

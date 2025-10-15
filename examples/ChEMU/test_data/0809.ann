@@ -1,0 +1,13 @@
+T0	TEMPERATURE 453 469	room temperature
+T1	SOLVENT 264 270	CH2Cl2
+T2	YIELD_OTHER 735 742	50.0 mg
+T3	OTHER_COMPOUND 614 620	CH2Cl2
+T4	REACTION_PRODUCT 746 828	N-methyl-N-(1-(phenylsulfonyl)piperidine-4-yl)-7H-pyrrolo[2,3-d]pyrimidine-4-amine
+T5	REACTION_PRODUCT 12 94	N-methyl-N-(1-(phenylsulfonyl)piperidine-4-yl)-7H-pyrrolo[2,3-d]pyrimidine-4-amine
+T6	SOLVENT 247 262	dichloromethane
+T7	STARTING_MATERIAL 292 316	benzenesulfonyl chloride
+T8	EXAMPLE_LABEL 8 10	38
+T9	REAGENT_CATALYST 397 422	N,N-diisopropylethylamine
+T10	STARTING_MATERIAL 106 170	N-methyl-N-(piperidine-4-yl)-7H-pyrrolo[2,3-d]pyrimidine-4-amine
+T11	OTHER_COMPOUND 609 613	MeOH
+T12	YIELD_PERCENT 864 869	45.5%

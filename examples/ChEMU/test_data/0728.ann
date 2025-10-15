@@ -1,0 +1,16 @@
+T0	REAGENT_CATALYST 237 256	N-bromo succinimide
+T1	OTHER_COMPOUND 602 607	brine
+T2	STARTING_MATERIAL 99 136	1-methyl-4-(triphenylmethoxy) benzene
+T3	EXAMPLE_LABEL 5 6	4
+T4	OTHER_COMPOUND 527 540	ethyl acetate
+T5	REACTION_PRODUCT 737 780	1-(bromomethyl)-4-(triphenylmethoxy)benzene
+T6	REAGENT_CATALYST 169 198	2,2'-azo-bis-isobutyronitrile
+T7	OTHER_COMPOUND 479 484	water
+T8	YIELD_PERCENT 729 732	94%
+T9	TEMPERATURE 338 354	room temperature
+T10	OTHER_COMPOUND 633 647	sodium sulfate
+T11	TEMPERATURE 406 411	80° C
+T12	TIME 395 402	2 hours
+T13	REACTION_PRODUCT 23 66	1-(bromomethyl)-4-(triphenylmethoxy)benzene
+T14	YIELD_OTHER 722 727	2.3 g
+T15	SOLVENT 306 326	carbon tetrachloride

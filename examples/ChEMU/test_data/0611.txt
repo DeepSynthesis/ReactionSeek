@@ -1,0 +1,4 @@
+Example Compound 14
+2-((3,5-dimethyl-1-phenyl-1H-pyrazol-4-yl)amino)-2-oxoethyl 2-(3-methyl-1H-indol-1-yl)acetate
+Step 1: methyl 2-(3-methyl-1 H-indol-1-yl)acetate
+To a solution of 3-methylindole (260 mg, 1.98 mmol) in anhydrous DMF (3.5 mL) was added NaH (95 mg, 2.38 mmol) at 0 °C under argon. The mixture was allowed to warm to room temperature, and after 30 min, was cooled back to 0 °C. To the resulting solution was added methyl bromoacetate (0.24 mL, 2.4 mmol) and the mixture was warmed to room temperature. After 4 h, the reaction was quenched with aqueous NH4Cl (30 mL) and diluted with EtOAc (100 mL). The two layers were separated and the organic layer was washed with H2O (30 mL), aqueous NaHCO3 (70 mL), and brine (30 mL). The organic layer was dried (MgSO4), filtered, and concentrated in vacuo. Purification by column chromatography (20% EtOAc in petroleum ether) gave 208 mg (52%) of the title compound

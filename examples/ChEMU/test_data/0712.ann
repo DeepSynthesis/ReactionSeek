@@ -1,0 +1,20 @@
+T0	EXAMPLE_LABEL 8 9	5
+T1	OTHER_COMPOUND 819 826	ammonia
+T2	OTHER_COMPOUND 775 785	silica gel
+T3	REACTION_PRODUCT 1333 1347	title compound
+T4	OTHER_COMPOUND 1071 1078	ammonia
+T5	OTHER_COMPOUND 1008 1018	chloroform
+T6	REAGENT_CATALYST 464 477	triethylamine
+T7	STARTING_MATERIAL 242 381	(1S,3aR,5aS,6R,11bR,11cS)-14-(cyclopropylmethyl)-2,3,3a,4,5,6,7,11c-octahydro-1H-6,11b-(epiminoethano)-1,5a-methanonaphth[1,2-e]indol-10-ol
+T8	OTHER_COMPOUND 1063 1070	aqueous
+T9	OTHER_COMPOUND 843 853	chloroform
+T10	OTHER_COMPOUND 596 604	methanol
+T11	REAGENT_CATALYST 502 506	HATU
+T12	OTHER_COMPOUND 1117 1127	chloroform
+T13	OTHER_COMPOUND 585 592	ammonia
+T14	OTHER_COMPOUND 830 838	methanol
+T15	YIELD_OTHER 1349 1354	14 mg
+T16	STARTING_MATERIAL 400 443	6-oxo-1,6-dihydropyridine-3-carboxylic acid
+T17	OTHER_COMPOUND 1188 1202	sodium sulfate
+T18	YIELD_PERCENT 1356 1359	30%
+T19	REACTION_PRODUCT 23 200	5-((1S,3aR,5aS,6R,11bR,11cS)-14-(cyclopropylmethyl)-10-hydroxy-2,3,3a,4,5,6,7,11c-octahydro-1H-6,11b-(epiminoethano)-1,5a-methanonaphth[1,2-e]indole-3-carbonyl)pyridin-2(1H)-one

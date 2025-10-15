@@ -1,0 +1,13 @@
+T0	YIELD_OTHER 518 523	14 mg
+T1	SOLVENT 116 119	NMP
+T2	REACTION_PRODUCT 107 111	I-26
+T3	TIME 331 338	20 days
+T4	OTHER_COMPOUND 439 449	silica gel
+T5	REACTION_PRODUCT 11 105	N-(1-methyl-3-(pyridin-2-yl)-1H-pyrazol-4-yl)-5'-(methylamino)-[2,3'-bipyridine]-6-carboxamide
+T6	STARTING_MATERIAL 249 274	methylamine hydrochloride
+T7	YIELD_PERCENT 525 528	61%
+T8	EXAMPLE_LABEL 8 10	28
+T9	STARTING_MATERIAL 139 226	5'-fluoro-N-(1-methyl-3-(pyridin-2-yl)-1H-pyrazol-4-yl)-[2,3'-bipyridine]-6-carboxamide
+T10	REAGENT_CATALYST 287 293	NaHCO3
+T11	TEMPERATURE 315 325	150-180° C
+T12	REACTION_PRODUCT 466 480	title compound

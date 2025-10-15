@@ -1,0 +1,5 @@
+Example 41
+1-(3-(1H-indole-3)propyl-3,7-dimethyl-1H-purine-2,6(3H,7H)-dione
+Step 1
+Methyl 3-(1H-indole-3)propionate
+3-(1H-indol-3-yl)propionic acid (200 mg, 1.06 mmol) was dissolved in anhydrous methanol (3 mL), and thionyl chloride (249 mg, 2.12 mmol) was added at 0°C to react for 0.5 h. Water (10 mL) was added to quench the reaction. The reaction solution was extracted with ethyl acetate (10 mL x 3). The organic phases were combined, dried over anhydrous sodium sulfate, concentrated under reduced pressure and purified by preparative TLC plate (3:1 petroleum ether / ethyl acetate, Rf = 0.5) to give methyl 3-(1H-indole-3)propionate (180 mg, as a green solid) with a yield of 85%. MS-ESI [M + H]+ calcd. 204, found 204.

@@ -1,0 +1,6 @@
+Example 17: Synthesis of (S)-3-aminoquinuclidine.monoterephthalate
+Methanol suspension (21.91 g) containing terephthalic acid (3.90 g: 23.5 mmol) was charged into a 50 mL-flask equipped with a mechanical stirrer, a thermometer, and a cooling line, and methanol solution (9.02 g) containing (S)-3-aminoquinuclidine (3.00 g: 23.8 mmol) was added thereto while stirring at room temperature. Precipitated crystals were filtered, and then dried under reduced pressure at 60° C., to obtain (S)-3-aminoquinuclidine.monoterephthalate (5.96 g: 20.3 mmol, yield=86%) as a white crystal.
+Endothermic peak top temperature in DSC: 251° C.
+Elemental analysis: C7H14N2.C8H6O4
+Theoretical value: C, 61.63%, H, 6.90%, N, 9.58%
+Actual measured value: C, 61.4%, H, 6.7%, N, 9.0%

@@ -1,0 +1,14 @@
+T0	STARTING_MATERIAL 202 334	1,1-Dioxo-3,3-dibutyl-5-phenyl-7-methylthio-8-[N-((R)-α-carboxybenzyl) carbamoylmethoxy]-2,3,4,5-tetrahydro-1,2,5-benzothiadiazepine
+T1	REAGENT_CATALYST 483 501	N-methylmorpholine
+T2	YIELD_PERCENT 811 814	53%
+T3	YIELD_OTHER 804 809	33 mg
+T4	OTHER_COMPOUND 740 745	EtOAc
+T5	REACTION_PRODUCT 788 802	title compound
+T6	OTHER_COMPOUND 673 679	silica
+T7	SOLVENT 455 458	DCM
+T8	STARTING_MATERIAL 371 416	tert-butyl (2R,3R)-3-amino-2-hydroxybutanoate
+T9	SOLVENT 469 472	DMF
+T10	OTHER_COMPOUND 736 739	DCM
+T11	REACTION_PRODUCT 10 201	1,1-Dioxo-3,3-dibutyl-5-phenyl-7-methylthio-8-[N-((R)-α-{N-[1-(R)-2-(R)-1-(t-butoxycarbonyl)-1-hydroxy-prop-2-yl]carbamoyl}benzyl)carbamoylmethoxy]-2,3,4,5-tetrahydro-1,2,5-benzothiadiazepine
+T12	REAGENT_CATALYST 527 531	TBTU
+T13	TIME 600 607	4 hours

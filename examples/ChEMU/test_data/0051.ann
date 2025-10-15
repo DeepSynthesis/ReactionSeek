@@ -1,0 +1,21 @@
+T0	STARTING_MATERIAL 423 466	4-((tert-butoxycarbonyl)amino)butanoic acid
+T1	EXAMPLE_LABEL 8 9	4
+T2	REACTION_PRODUCT 25 183	tert-butyl (4-((3-(2-chloro-5-((1R,3R)-2,2-dichloro-3-(3,4-dichlorophenyl)cyclopropane-1-carboxamido)benzamido)-2,6-difluorophenyl)amino)-4-oxobutyl)carbamate
+T3	REAGENT_CATALYST 591 594	T3P
+T4	SOLVENT 644 657	ethyl acetate
+T5	REAGENT_CATALYST 526 589	2,4,6-Tripropyl-1,3,5,2,4,6-trioxatriphosphinane 2,4,6-trioxide
+T6	TIME 705 713	18 hours
+T7	TEMPERATURE 729 745	room temperature
+T8	STARTING_MATERIAL 333 336	DP2
+T9	SOLVENT 363 376	ethyl acetate
+T10	REACTION_PRODUCT 886 900	title compound
+T11	OTHER_COMPOUND 841 854	ethyl acetate
+T12	OTHER_COMPOUND 781 789	nitrogen
+T13	TEMPERATURE 694 699	50° C
+T14	STARTING_MATERIAL 209 331	N-(3-amino-2,4-difluorophenyl)-2-chloro-5-((1R,3R)-2,2-dichloro-3-(3,4-dichlorophenyl)cyclopropane-1-carboxamido)benzamide
+T15	YIELD_OTHER 919 926	0.111 g
+T16	OTHER_COMPOUND 855 862	hexanes
+T17	REACTION_PRODUCT 185 190	F1199
+T18	REAGENT_CATALYST 493 501	pyridine
+T19	YIELD_PERCENT 928 931	84%
+T20	TEMPERATURE 395 411	room temperature

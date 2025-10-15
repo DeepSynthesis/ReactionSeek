@@ -1,0 +1,16 @@
+T0	STARTING_MATERIAL 133 208	3-(1-aminoethyl)-8-fluoro-1-methyl-2-phenylquinolin-4(1H)-one hydrochloride
+T1	EXAMPLE_LABEL 5 6	3
+T2	TIME 503 505	5h
+T3	OTHER_COMPOUND 790 800	silica gel
+T4	OTHER_COMPOUND 598 599	9
+T5	TEMPERATURE 492 498	reflux
+T6	REAGENT_CATALYST 368 387	potassium carbonate
+T7	OTHER_COMPOUND 777 785	methanol
+T8	REACTION_PRODUCT 23 126	4-Amino-5-cyano-6-((1-(8-fluoro-1-methyl-4-oxo-2-phenyl-1,4-dihydroquinolin-3-yl)ethyl)amino)pyrimidine
+T9	TEMPERATURE 452 456	80°C
+T10	OTHER_COMPOUND 714 727	ethyl acetate
+T11	STARTING_MATERIAL 311 345	4-Amino-5-cyano-6-chloropyrimidine
+T12	SOLVENT 229 240	isopropanol
+T13	REACTION_PRODUCT 928 933	solid
+T14	YIELD_OTHER 911 916	0.93g
+T15	YIELD_PERCENT 963 969	72.1 %

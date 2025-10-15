@@ -1,0 +1,13 @@
+T0	OTHER_COMPOUND 410 414	Et2O
+T1	TIME 370 378	18 hours
+T2	REACTION_PRODUCT 596 610	title compound
+T3	EXAMPLE_LABEL 5 6	B
+T4	SOLVENT 299 303	Et2O
+T5	STARTING_MATERIAL 119 239	tert-Butyl (S)-1-oxo-3-phenyl-1-((S)-2-((S)-1-phenyl-2-(pyridin-2-yl)ethylcarbamoyl)pyrrolidin-1-yl)propan-2-ylcarbamate
+T6	YIELD_PERCENT 584 587	93%
+T7	REACTION_PRODUCT 7 118	2-((S)-2-((S)-1-((S)-2-Ammonio-3-phenylpropanoyl)pyrrolidine-2-carboxamido)-2-phenylethyl)pyridinium dichloride
+T8	TEMPERATURE 363 365	rt
+T9	OTHER_COMPOUND 487 491	Et2O
+T10	OTHER_COMPOUND 543 548	water
+T11	REAGENT_CATALYST 283 286	HCl
+T12	YIELD_OTHER 576 582	150 mg

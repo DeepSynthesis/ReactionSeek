@@ -1,0 +1,14 @@
+T0	STARTING_MATERIAL 309 340	4-nitrobenzenesulfonyl chloride
+T1	REACTION_PRODUCT 778 874	(R)-N-methyl-N-(1-((4-nitrophenyl)sulfonyl)pyrrolidine-3-yl)-7H-pyrrolo[2,3-d]pyrimidine-4-amine
+T2	SOLVENT 266 281	dichloromethane
+T3	TEMPERATURE 457 473	room temperature
+T4	REAGENT_CATALYST 411 436	N,N-diisopropylethylamine
+T5	REACTION_PRODUCT 12 108	(R)-N-methyl-N-(1-((4-nitrophenyl)sulfonyl)pyrrolidine-3-yl)-7H-pyrrolo[2,3-d]pyrimidine-4-amine
+T6	YIELD_PERCENT 910 915	74.0%
+T7	STARTING_MATERIAL 120 189	(R)-N-methyl-N-(pyrrolidine-3-yl)-7H-pyrrolo[2,3-d]pyrimidine-4-amine
+T8	EXAMPLE_LABEL 8 10	23
+T9	OTHER_COMPOUND 630 634	MeOH
+T10	SOLVENT 283 289	CH2Cl2
+T11	TIME 484 490	1 hour
+T12	OTHER_COMPOUND 635 641	CH2Cl2
+T13	YIELD_OTHER 767 774	95.3 mg

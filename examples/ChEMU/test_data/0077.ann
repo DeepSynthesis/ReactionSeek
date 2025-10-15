@@ -1,0 +1,21 @@
+T0	OTHER_COMPOUND 1177 1187	chloroform
+T1	STARTING_MATERIAL 232 366	(1S,3aR,5aS,6R,11bR,11cS)-14-(cyclopropylmethyl)-2,3,3a,4,5,6,7,11c-octahydro-1H-6,11b-(epiminoethano)-1,5a-methanonaphth[1,2-e]indole
+T2	OTHER_COMPOUND 1164 1172	methanol
+T3	OTHER_COMPOUND 822 829	aqueous
+T4	OTHER_COMPOUND 1136 1151	aminosilica gel
+T5	YIELD_OTHER 1389 1394	24 mg
+T6	OTHER_COMPOUND 1286 1294	methanol
+T7	EXAMPLE_LABEL 8 10	23
+T8	REACTION_PRODUCT 24 190	6-((1S,3aR,5aS,6R,11bR,11cS)-14-(cyclopropylmethyl)-2,3,3a,4,5,6,7,11c-octahydro-1H-6,11b-(epiminoethano)-1,5a-methanonaphth[1,2-e]indole-3-carbonyl)pyridin-2(1H)-one
+T9	OTHER_COMPOUND 458 461	297
+T10	YIELD_PERCENT 1396 1399	67%
+T11	OTHER_COMPOUND 661 668	ammonia
+T12	STARTING_MATERIAL 477 520	6-oxo-1,6-dihydropyridine-2-carboxylic acid
+T13	OTHER_COMPOUND 830 837	ammonia
+T14	REACTION_PRODUCT 1373 1387	title compound
+T15	REAGENT_CATALYST 541 554	triethylamine
+T16	OTHER_COMPOUND 672 680	methanol
+T17	OTHER_COMPOUND 1319 1342	tert-butyl methyl ether
+T18	OTHER_COMPOUND 878 891	ethyl acetate
+T19	OTHER_COMPOUND 940 957	magnesium sulfate
+T20	REAGENT_CATALYST 579 583	HATU

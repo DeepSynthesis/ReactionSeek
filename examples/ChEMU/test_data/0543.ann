@@ -1,0 +1,15 @@
+T0	REACTION_PRODUCT 116 213	6-(3-(1H-indol-3-yl)propyl)-1-(cyclopropylmethyl)-4-methyl-pyrazolo [4,3 - d]pyrimidine-5,7-dione
+T1	REACTION_PRODUCT 11 108	6-(3-(1H-indol-3-yl)propyl)-1-(cyclopropylmethyl)-4-methyl-pyrazolo [4,3 - d]pyrimidine-5,7-dione
+T2	REAGENT_CATALYST 368 384	potassium iodide
+T3	YIELD_OTHER 828 835	20.0 mg
+T4	TEMPERATURE 594 610	room temperature
+T5	REAGENT_CATALYST 411 430	potassium carbonate
+T6	TEMPERATURE 537 542	120°C
+T7	EXAMPLE_LABEL 8 10	78
+T8	STARTING_MATERIAL 214 254	3-(1H-indol-3-yl)propyl methanesulfonate
+T9	REACTION_PRODUCT 732 826	6-(3-(1H-indol-3-yl)propyl)-1-(cyclopropylmethyl)-4-methyl-pyrazolo[4,3-d]pyrimidine-5,7-dione
+T10	YIELD_PERCENT 853 856	25%
+T11	SOLVENT 471 492	N,N-dimethylformamide
+T12	EXAMPLE_LABEL 114 115	1
+T13	STARTING_MATERIAL 278 344	1-(cyclopropylmethyl)-4-methyl-pyrazolo[4,3-d]pyrimidine-5,7-dione
+T14	TIME 559 566	3 hours

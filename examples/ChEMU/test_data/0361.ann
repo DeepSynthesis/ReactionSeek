@@ -1,0 +1,20 @@
+T0	OTHER_COMPOUND 647 660	ethyl acetate
+T1	STARTING_MATERIAL 286 291	F1304
+T2	REACTION_PRODUCT 885 899	title compound
+T3	REACTION_PRODUCT 26 142	trans-2-chloro-5-(2,2-dichloro-3-(3,5-dichlorophenyl)cyclopropane-1-carboxamido)-N-(4-fluoro-3-vinylphenyl)benzamide
+T4	YIELD_PERCENT 931 934	40%
+T5	TIME 547 554	1 hours
+T6	EXAMPLE_LABEL 8 10	11
+T7	REACTION_PRODUCT 144 149	F1311
+T8	STARTING_MATERIAL 365 381	tributylvinyltin
+T9	YIELD_OTHER 923 929	0.11 g
+T10	TEMPERATURE 591 607	room temperature
+T11	OTHER_COMPOUND 846 861	petroleum ether
+T12	TEMPERATURE 536 541	90° C
+T13	OTHER_COMPOUND 622 627	water
+T14	OTHER_COMPOUND 715 729	sodium sulfate
+T15	SOLVENT 315 326	1,4-dioxane
+T16	REAGENT_CATALYST 407 454	bis(triphenylphosphine)palladium(II) dichloride
+T17	STARTING_MATERIAL 168 284	trans-N-(3-bromo-4-fluorophenyl)-2-chloro-5-(2,2-dichloro-3-(3,5-dichlorophenyl)cyclopropane-1-carboxamido)benzamide
+T18	OTHER_COMPOUND 832 845	ethyl acetate
+T19	OTHER_COMPOUND 348 353	argon

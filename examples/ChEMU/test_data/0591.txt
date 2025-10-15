@@ -1,0 +1,3 @@
+Example 12 Synthesis of (S)-tert-butyl-3-methyl-2((R)-(4-methylphenyl)sulfonylthiazine-3-amino formyl)butyrate (Compound 12)
+The product (1.65 g, yield: 71%) as a white solid was prepared in accordance with the steps in Example 5, by using 1.20 g (7 mmol) L-valine tert-butyl ester as Raw material 2.
+m.p.90-92°C . 1H-NMR (400MHz, CDCl3) δ: 7.76 (2H, d, J=8.42Hz), 7.37 (2H, d, J=8.41Hz), 7.01 (1H, d, J=8.65Hz), 4.78 (1H, t, J=3.40Hz), 4.44 (1H, m), 4.25 (1H, t, J=5.20Hz), 3.36 (1H, m), 3.17 (1H, d, J=13.34Hz), 2.59-0.89 (22H, m). MS-EI (m/z): 457.1825[M+H]+.

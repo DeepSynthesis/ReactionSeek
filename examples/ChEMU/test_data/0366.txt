@@ -1,0 +1,5 @@
+EXAMPLES
+Synthesis Example 1
+Synthesis of Compound 1
+Synthesis of Intermediate A
+3.15 g (10 mmol) of 2-bromo-4-chloro-1-iodinebenzene, 1.10 g (10 mmol) of 1,2-benzenediol, 0.3 g (5 mmol) of Cu, and 2.76 g (20 mmol) of K2CO3 were dissolved in 50 ml of DMF, and then, the mixed solution was stirred at a temperature of 150° C. for 24 hours. After the reaction solution was cooled to room temperature, 60 ml of water was added thereto, and an extraction process was performed thereon three times by using 60 ml of ethylether. An organic layer collected therefrom was dried by using magnesium sulfate, and residual obtained by evaporating a solvent therefrom was separation-purified by silica gel chromatography to obtain 1.526 g (yield: 70%) of Intermediate A.

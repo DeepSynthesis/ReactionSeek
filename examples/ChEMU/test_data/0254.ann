@@ -1,0 +1,17 @@
+T0	YIELD_OTHER 766 771	50 mg
+T1	YIELD_PERCENT 779 782	70%
+T2	STARTING_MATERIAL 132 181	2-fluoro-2-methylpropyl trifluoromethanesulfonate
+T3	REAGENT_CATALYST 310 335	N,N-diisopropylethylamine
+T4	EXAMPLE_LABEL 5 6	2
+T5	TIME 453 461	12 hours
+T6	OTHER_COMPOUND 471 476	argon
+T7	SOLVENT 383 394	1,4-dioxane
+T8	REACTION_PRODUCT 679 693	title compound
+T9	REACTION_PRODUCT 7 73	N-(1-(benzofuran-3-yl)propan-2-yl)-2-fluoro-2-methylpropan-1-amine
+T10	STARTING_MATERIAL 74 107	1-(benzofuran-3-yl)propan-2-amine
+T11	REACTION_PRODUCT 694 761	N-(1-(benzofuran-3-yl)-propan-2-yl)-2-fluoro-2-methylpropan-1-amine
+T12	STARTING_MATERIAL 182 184	1b
+T13	REACTION_PRODUCT 762 764	4c
+T14	STARTING_MATERIAL 108 110	4b
+T15	OTHER_COMPOUND 610 619	silica ge
+T16	TEMPERATURE 432 436	90°C

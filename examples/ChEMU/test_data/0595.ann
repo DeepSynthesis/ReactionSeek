@@ -1,0 +1,18 @@
+T0	EXAMPLE_LABEL 8 9	7
+T1	OTHER_COMPOUND 628 652	sodium hydrogencarbonate
+T2	TEMPERATURE 579 581	RT
+T3	OTHER_COMPOUND 791 809	magnesium sulphate
+T4	OTHER_COMPOUND 681 696	dichloromethane
+T5	REAGENT_CATALYST 474 502	sodium triacetoxyborohydride
+T6	REACTION_PRODUCT 1038 1052	title compound
+T7	SOLVENT 301 319	1,2-dichloroethane
+T8	OTHER_COMPOUND 744 759	sodium chloride
+T9	YIELD_OTHER 989 994	63 mg
+T10	REACTION_PRODUCT 10 133	3-Ethyl-6-{[(3R)-3-hydroxy-2-oxopyrrolidin-1-yl]methyl}-1-(2-methoxyethyl)-5-methylthieno[2,3-d]pyrimidine-2,4(1H,3H)-dione
+T11	STARTING_MATERIAL 174 229	[(4R)-2,2-dimethyl-5-oxo-1,3-dioxolan-4-yl]acetaldehyde
+T12	TEMPERATURE 437 439	RT
+T13	STARTING_MATERIAL 358 380	compound from Ex. 200A
+T14	TIME 592 596	18 h
+T15	YIELD_PERCENT 996 999	24%
+T16	TIME 426 432	15 min
+T17	REAGENT_CATALYST 407 418	acetic acid

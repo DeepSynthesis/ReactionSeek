@@ -1,0 +1,12 @@
+T0	STARTING_MATERIAL 99 158	Methyl 6-((N-(3-fluorophenyl)nicotinamido)methyl)nicotinate
+T1	YIELD_OTHER 538 545	0.108 g
+T2	EXAMPLE_LABEL 6 7	3
+T3	YIELD_PERCENT 547 552	97.3%
+T4	REACTION_PRODUCT 484 498	title compound
+T5	TIME 349 357	18 hours
+T6	TEMPERATURE 338 344	reflux
+T7	TEMPERATURE 287 303	room temperature
+T8	SOLVENT 268 275	ethanol
+T9	REAGENT_CATALYST 209 230	hydrazine monohydrate
+T10	REACTION_PRODUCT 22 98	N-(3-fluorophenyl)-N-((5-(hydrazinecarbonyl)pyridin-2-yl)methyl)nicotinamide
+T11	TEMPERATURE 378 394	room temperature

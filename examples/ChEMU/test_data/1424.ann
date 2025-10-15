@@ -1,0 +1,23 @@
+T0	YIELD_OTHER 1196 1203	0.111 g
+T1	OTHER_COMPOUND 902 916	sodium sulfate
+T2	REACTION_PRODUCT 26 162	N-(3-amino-2,4-difluorophenyl)-2-chloro-5-((1R,3R)-2,2-dichloro-3-(3-chloro-4-fluorophenyl)cyclopropane-1-carboxamido)-3-fluorobenzamide
+T3	OTHER_COMPOUND 804 817	ethyl acetate
+T4	SOLVENT 402 409	dioxane
+T5	STARTING_MATERIAL 371 376	F1239
+T6	STARTING_MATERIAL 188 369	tert-butyl-N-tert-butoxycarbonyl-N-[3-[[2-chloro-5-[[(1R,3R)-2,2-dichloro-3-(3-chloro-4-fluorophenyl)cyclopropane-carbonyl]amino]-3-fluorobenzoyl]amino]-2,6-difluorophenyl]carbamate
+T7	OTHER_COMPOUND 656 669	ethyl acetate
+T8	YIELD_PERCENT 1205 1208	88%
+T9	EXAMPLE_LABEL 8 10	13
+T10	OTHER_COMPOUND 877 882	brine
+T11	REAGENT_CATALYST 449 466	hydrogen chloride
+T12	TEMPERATURE 542 558	room temperature
+T13	OTHER_COMPOUND 1132 1139	hexanes
+T14	REACTION_PRODUCT 1163 1177	title compound
+T15	SOLVENT 470 477	dioxane
+T16	OTHER_COMPOUND 1033 1040	Celite®
+T17	TIME 563 571	16 hours
+T18	OTHER_COMPOUND 1003 1016	ethyl acetate
+T19	REACTION_PRODUCT 164 169	F1255
+T20	OTHER_COMPOUND 1115 1128	ethyl acetate
+T21	OTHER_COMPOUND 691 698	aqueous
+T22	OTHER_COMPOUND 699 717	sodium bicarbonate

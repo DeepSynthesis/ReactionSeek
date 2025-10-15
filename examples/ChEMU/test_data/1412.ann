@@ -1,0 +1,8 @@
+T0	YIELD_PERCENT 154 157	65%
+T1	REACTION_PRODUCT 122 124	24
+T2	STARTING_MATERIAL 257 288	D-phenylalanine isopropyl ester
+T3	EXAMPLE_LABEL 8 10	24
+T4	YIELD_OTHER 139 145	1.60 g
+T5	STARTING_MATERIAL 292 306	Raw material 2
+T6	REACTION_PRODUCT 130 137	product
+T7	REACTION_PRODUCT 24 111	(R)-isopropyl-3-phenyl-2((R)-(4-methylphenyl)sulfonylthiazine-3-amino formyl)propionate

@@ -1,0 +1,20 @@
+T0	SOLVENT 253 261	methanol
+T1	TEMPERATURE 440 442	RT
+T2	REACTION_PRODUCT 1018 1032	title compound
+T3	OTHER_COMPOUND 624 631	aqueous
+T4	OTHER_COMPOUND 685 698	ethyl acetate
+T5	SOLVENT 385 390	water
+T6	YIELD_OTHER 988 994	275 mg
+T7	STARTING_MATERIAL 479 496	potassium cyanate
+T8	EXAMPLE_LABEL 8 11	341
+T9	STARTING_MATERIAL 301 318	potassium cyanate
+T10	TIME 453 457	42 h
+T11	REAGENT_CATALYST 501 516	perchloric acid
+T12	OTHER_COMPOUND 793 811	magnesium sulphate
+T13	REAGENT_CATALYST 361 376	perchloric acid
+T14	REACTION_PRODUCT 12 174	5-Methyl-6-[(2-oxo-2,3-dihydro-1H-imidazol-1-yl)methyl]-1-(tetrahydrofuran-2-ylmethyl)-3-(2,2,2-trifluoroethyl)thieno[2,3-d]pyrimidine-2,4(1H,3H)-dione (racemate)
+T15	TIME 564 570	4 days
+T16	OTHER_COMPOUND 746 761	sodium chloride
+T17	YIELD_PERCENT 996 999	47%
+T18	OTHER_COMPOUND 632 656	sodium hydrogencarbonate
+T19	STARTING_MATERIAL 218 240	compound from Ex. 410A

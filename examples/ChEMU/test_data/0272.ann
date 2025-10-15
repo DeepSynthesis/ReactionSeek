@@ -1,0 +1,24 @@
+T0	REACTION_PRODUCT 169 281	tert-butyl 3-[3-[tert-butyl(dimethyl)silyl]oxypropyl]-2,7-dioxo-4,6-dihydrothiazolo[4,5-c]pyridine-5-carboxylate
+T1	OTHER_COMPOUND 873 880	acetone
+T2	EXAMPLE_LABEL 138 139	1
+T3	OTHER_COMPOUND 821 836	petroleum ether
+T4	STARTING_MATERIAL 380 382	3e
+T5	OTHER_COMPOUND 865 872	heptane
+T6	OTHER_COMPOUND 651 656	EtOAc
+T7	STARTING_MATERIAL 493 534	(3-bromopropoxy)-tert-butyldimethylsilane
+T8	YIELD_OTHER 1036 1045	3.46 mmol
+T9	REACTION_PRODUCT 908 1020	tert-butyl 3-[3-[tert-butyl(dimethyl)silyl]oxypropyl]-2,7-dioxo-4,6-dihydrothiazolo[4,5-c]pyridine-5-carboxylate
+T10	EXAMPLE_LABEL 8 10	10
+T11	OTHER_COMPOUND 837 844	acetone
+T12	SOLVENT 417 420	DMF
+T13	REACTION_PRODUCT 1022 1025	10a
+T14	TEMPERATURE 584 588	70°C
+T15	STARTING_MATERIAL 305 378	tert-butyl 2,7-dioxo-4,6-dihydro-3H-thiazolo[4,5-c]pyridine-5-carboxylate
+T16	YIELD_PERCENT 1047 1050	62%
+T17	OTHER_COMPOUND 709 715	Na2SO4
+T18	REAGENT_CATALYST 463 468	K2CO3
+T19	YIELD_OTHER 1028 1034	1.53 g
+T20	OTHER_COMPOUND 600 605	Water
+T21	OTHER_COMPOUND 25 132	[5-(3-aminopropyl)-4,9-dioxo-3-thia-5,8,10-triaza-tricyclo[6.2.1.02,6]undec-2(6)-en-10-yl] hydrogen sulfate
+T22	OTHER_COMPOUND 809 819	silica gel
+T23	REACTION_PRODUCT 283 286	10a

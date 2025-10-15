@@ -1,0 +1,3 @@
+Comparative Example 16: Synthesis of (R)-3-aminoquinuclidine.2/3citrate
+Isopropanol solution (25.00 g) containing (R)-3-aminoquinuclidine (5.01 g: 39.7 mmol) was charged into a 50 mL-flask equipped with a mechanical stirrer, a thermometer, and a cooling line, and isopropanol solution (15.54 g) containing citric acid monohydrate (5.57 g: 26.5 mmol) was added thereto while stirring at room temperature. Precipitated crystals were filtered, and then dried under reduced pressure at 60° C., to obtain (R)-3-aminoquinuclidine.2/3citrate (8.56 g: 33.7 mmol, yield=85%) as a white crystal.
+Endothermic peak top temperature in DSC: 195° C.

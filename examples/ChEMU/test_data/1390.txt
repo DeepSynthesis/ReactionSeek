@@ -1,0 +1,4 @@
+Example 23
+1-((R)-1-(2,4-Dichlorophenyl)ethyl)-6-((3'R,4'S)-3'-methyl-[1,4'-bipiperidin]-1'-yl)-1H-pyrazolo[3,4-b]pyrazine-3-carbonitrile hydrochloride
+Step 1. (R)-6-Chloro-1-(1-(2,4-dichlorophenyl)ethyl)-1H-pyrazolo[3,4-b]pyrazine-3-carboxamide
+To a solution of ethyl (R)-6-chloro-1-(1-(2,4-dichlorophenyl)ethyl)-1H-pyrazolo[3,4-b]pyrazine-3-carboxylate (Example 5, Step 4, 4 g, 10 mmol) in 1,4-dioxane (40 mL) at room temperature was added ammonium hydroxide (29% in water, 40 mL). The mixture was stirred in a sealed tube at room temperature for 3 d. The mixture was diluted with saturated aqueous sodium bicarbonate. The mixture was extracted with ethyl acetate (2×). The combined organic layers were dried over MgSO4 and concentrated under reduced pressure to give the title compound (3.4 g, 92% yield) as a light yellow solid.

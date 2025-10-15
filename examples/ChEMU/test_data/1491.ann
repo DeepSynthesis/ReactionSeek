@@ -1,0 +1,16 @@
+T0	TEMPERATURE 423 427	85°C
+T1	EXAMPLE_LABEL 5 6	2
+T2	TEMPERATURE 472 488	room temperature
+T3	REACTION_PRODUCT 783 786	61d
+T4	REACTION_PRODUCT 683 697	title compound
+T5	REAGENT_CATALYST 342 359	potassium acetate
+T6	YIELD_PERCENT 801 804	24%
+T7	REACTION_PRODUCT 698 782	2-(1-methyl-1H-pyrazol-4-yl)-5-(4,4,5,5-tetramethyl-1,3,2-dioxaborolan-2-yl)pyridine
+T8	REACTION_PRODUCT 7 92	2-(1-methyl-1H-pyrazol-4-yl)-5-(4,4,5,5-tetramethyl-1,3,2-dioxaborolan-2 -yl)pyridine
+T9	STARTING_MATERIAL 93 137	5-bromo-2-(1-metbyl-1H-pyrazol-4-yl)pyridine
+T10	STARTING_MATERIAL 206 228	bis(pinacolato)diboron
+T11	SOLVENT 188 199	1,4-dioxane
+T12	TIME 444 452	12 hours
+T13	REAGENT_CATALYST 252 313	[1,1'-Bis(diphenylphosphino)ferrocene]dichlorophalladium (II)
+T14	STARTING_MATERIAL 138 141	61c
+T15	YIELD_OTHER 788 793	35 mg

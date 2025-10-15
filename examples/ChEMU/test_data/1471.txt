@@ -1,0 +1,3 @@
+Step 4
+4-(2,4-Dinitro-benzenesulfonylamino)-1-methyl-pyrazole-3 -carboxamide
+4-Amino-1-methyl-pyrazole-3-carboxamide (140 mg, 0.999 mmol) was dissolved in tetrahydrofuran (15 mL). Triethylamine (152 mg, 1.50 mmol) and 2,4-dinitro-benzenesulfonyl chloride (200 mg, 1.05 mmol) were added at room temperature. The reaction was stirred at room temperature for 1.5 hours. The reaction solution was filtered and the filter cake was washed with water (5 mL) and filtered to give 4-(2,4-dinitro-benzenesulfonylamino)-1-methyl-pyrazole-3-carboxamide (200 mg, as a yellow solid) with a yield of 54%. MS-ESI calcd. [M + H]+ 371, found 371.

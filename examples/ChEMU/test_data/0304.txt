@@ -1,0 +1,2 @@
+Synthesis Example 9-8: Synthesis of [Intermediate 9-h]
+In a round-bottom flask, Intermediate 9-g (10 g, 33.2 mmol) was cooled to 0° C. under a nitrogen atmosphere. Pyridine (3.2 ml, 39.9 mmol) and trifluoromethane sulfonic anhydride (7.3 ml, 43.2 mmol) were dropwise added slowly, followed by stirring at room temperature for 2 hours. After completion of the reaction, the organic layer was concentrated in a vacuum. Column chromatographic separation afforded Intermediate 9-h (12.2 g): yield 85%

@@ -1,0 +1,5 @@
+Core 39
+(2S,3R,4S,5S)-tert-butyl 3-(2-methoxypropan-2-yl)-5-(2-methoxypyridin-3-yl)-4-nitropyrrolidine-2-carboxylate
+Core 39A
+(E)-tert-butyl 2-(((2-methoxypyridin-3-yl)methylene)amino)acetate
+A mixture of glycine tert-butyl ester hydrochloride (1.350 g, 8.05 mmol) and magnesium sulfate (1.494 g, 12.41 mmol) in dichloromethane (12.0 mL) was treated with triethylamine (1.122 mL, 8.05 mmol), stirred for 30 minutes and treated with the 2-methoxynicotinaldehyde (0.92 g, 6.71 mmol) as a solution in 3 mL of dichloromethane. The reaction was stirred at room temperature overnight. The mixture was transferred with dichloromethane and filtered to remove the solids. The solids were washed with dichloromethane. The combined filtrates were washed with water (5 mL). The layers were separated and the aqueous layer was extracted with 5 mL of dichloromethane. The combined dichloromethane layers were dried over sodium sulfate, filtered, and concentrated to provide (E)-tert-butyl 2-(((2-methoxypyridin-3-yl)methylene)amino)acetate (1.52 g, 6.07 mmol, 91% yield).

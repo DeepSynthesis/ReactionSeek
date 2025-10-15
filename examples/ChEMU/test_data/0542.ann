@@ -1,0 +1,7 @@
+T0	STARTING_MATERIAL 363 424	3-(4-(pyridine-1-carbonyl)phenyl)prop-2-ynyl methanesulfonate
+T1	EXAMPLE_LABEL 5 6	4
+T2	STARTING_MATERIAL 282 302	N-phenylpentaneamide
+T3	REACTION_PRODUCT 23 94	N-phenyl-N-(3-(4-(piperidine-1-carbonyl)phenyl)prop-2-ynyl)pentaneamide
+T4	YIELD_PERCENT 206 209	15%
+T5	REACTION_PRODUCT 112 183	N-phenyl-N-(3-(4-(piperidine-1-carbonyl)phenyl)prop-2-ynyl)pentaneamide
+T6	YIELD_OTHER 199 204	50 mg

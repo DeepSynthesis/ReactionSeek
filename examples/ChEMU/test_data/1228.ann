@@ -1,0 +1,9 @@
+T0	REACTION_PRODUCT 321 335	title compound
+T1	TEMPERATURE 373 378	80° C
+T2	STARTING_MATERIAL 196 217	compound from Ex. 50A
+T3	YIELD_PERCENT 299 302	34%
+T4	STARTING_MATERIAL 244 269	1,1-difluoro-2-iodoethane
+T5	EXAMPLE_LABEL 8 12	111A
+T6	YIELD_OTHER 291 297	190 mg
+T7	REACTION_PRODUCT 13 121	1-(2,2-Difluoroethyl)-3-isobutyl-5-methyl-2,4-dioxo-1,2,3,4-tetrahydrothieno[2,3-d]pyrimidine-6-carbaldehyde
+T8	TIME 406 410	40 h

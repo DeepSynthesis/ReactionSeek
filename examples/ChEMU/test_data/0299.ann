@@ -1,0 +1,14 @@
+T0	REAGENT_CATALYST 402 427	N,N-diisopropylethylamine
+T1	SOLVENT 264 270	CH2Cl2
+T2	YIELD_PERCENT 895 900	54.0%
+T3	STARTING_MATERIAL 290 321	3-cyanobenzenesulfonyl chloride
+T4	OTHER_COMPOUND 621 625	MeOH
+T5	SOLVENT 247 262	dichloromethane
+T6	TEMPERATURE 448 464	room temperature
+T7	OTHER_COMPOUND 626 632	CH2Cl2
+T8	YIELD_OTHER 758 765	30.1 mg
+T9	REACTION_PRODUCT 769 859	3-((3-(((7H-pyrrolo[2,3-d]pyrimidine-4-yl)oxy)methyl)piperidine-1-yl)sulfonyl)benzonitrile
+T10	EXAMPLE_LABEL 8 10	48
+T11	TIME 475 481	1 hour
+T12	STARTING_MATERIAL 114 168	4-(piperidine-3-ylmethoxy)-7H-pyrrolo[2,3-d]pyrimidine
+T13	REACTION_PRODUCT 12 102	3-((3-(((7H-pyrrolo[2,3-d]pyrimidine-4-yl)oxy)methyl)piperidine-1-yl)sulfonyl)benzonitrile

@@ -1,0 +1,28 @@
+T0	SOLVENT 884 899	dichloromethane
+T1	OTHER_COMPOUND 1227 1237	silica gel
+T2	OTHER_COMPOUND 1119 1124	brine
+T3	YIELD_OTHER 1333 1339	650 mg
+T4	SOLVENT 567 582	dichloromethane
+T5	STARTING_MATERIAL 811 818	Core 12
+T6	REACTION_PRODUCT 1318 1332	title compound
+T7	SOLVENT 454 461	dioxane
+T8	STARTING_MATERIAL 298 326	cyclohexanecarbonyl chloride
+T9	SOLVENT 391 406	dichloromethane
+T10	EXAMPLE_LABEL 8 10	17
+T11	OTHER_COMPOUND 1031 1046	dichloromethane
+T12	REACTION_PRODUCT 177 294	(2S,3R,4S,5S)-ethyl 3-(tert-butyl)-1-(cyclohexanecarbonyl)-5-(2-methoxypyridin-3-yl)-4-nitropyrrolidine-2-carboxylate
+T13	OTHER_COMPOUND 1059 1064	water
+T14	OTHER_COMPOUND 1137 1143	Na2SO4
+T15	REAGENT_CATALYST 844 857	triethylamine
+T16	EXAMPLE_LABEL 173 176	17A
+T17	SOLVENT 656 671	dichloromethane
+T18	REAGENT_CATALYST 424 439	oxalyl chloride
+T19	REAGENT_CATALYST 366 387	N,N-dimethylformamide
+T20	OTHER_COMPOUND 1262 1275	ethyl acetate
+T21	TIME 524 534	30 minutes
+T22	OTHER_COMPOUND 11 164	(2S,3S,4S,5S)-3-tert-butyl-4-{[(5-tert-butyl-2-methoxyphenyl)methyl]amino}-1-(cyclohexanecarbonyl)-5-(2-methoxypyridin-3-yl)pyrrolidine-2-carboxylic acid
+T23	STARTING_MATERIAL 716 809	(2S,3R,4S,5S)-ethyl 3-(tert-butyl)-5-(2-methoxypyridin-3-yl)-4-nitropyrrolidine-2-carboxylate
+T24	TEMPERATURE 475 494	ambient temperature
+T25	TIME 1018 1025	2 hours
+T26	OTHER_COMPOUND 1279 1286	heptane
+T27	YIELD_PERCENT 1341 1344	99%

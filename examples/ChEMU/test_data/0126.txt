@@ -1,0 +1,2 @@
+Step 3. N-(3-Bromo-6-chloroimidazo[1,2-a]pyridin-8-yl)acetamide
+To a solution of N-(6-chloroimidazo[1,2-a]pyridin-8-yl)acetamide (50. mg, 0.24 mmol) in DCM (6 mL) was added N-bromosuccinimide (43 mg, 0.24 mmol). The reaction mixture was stirred at room temperature for 30 min. The mixture was then washed with Na2CO3 (10% aq), dried over Na2SO4, filtered, and concentrated. Purification via silica gel chromatography (1-10% MeOH in DCM) afforded the title compound as a tan solid (56 mg, 81%).

@@ -1,0 +1,3 @@
+[Example 6]
+Synthesis of compound 1-0006
+The compound 13 (100 mg, 0.330 mmol) was dissolved in dioxane (2.0 mL). 4-Chloro-2,5-dimethylaniline (103 mg, 0.660 mmol) was added to the solution. The mixture was stirred under microwave irradiation at 130°C for 10 minutes. The solvent was evaporated under reduced pressure. The obtained residue was purified by reverse-phase silica-gel column chromatography (water-acetonitrile) to give the compound I-0006 (61.6 mg, yield 44%) as a white powder.

@@ -1,0 +1,58 @@
+T0	OTHER_COMPOUND 1847 1852	water
+T1	STARTING_MATERIAL 2724 2762	4-fluorophenylmethanesulfonyl chloride
+T2	STARTING_MATERIAL 1390 1467	4-Ethyl-4-methyl-1-(4-methylcyclohexyl)-6-nitro-3,4-dihydroquinolin-2(1H)-one
+T3	STARTING_MATERIAL 378 404	4-methylcyclohexyl bromide
+T4	OTHER_COMPOUND 1925 1938	ethyl acetate
+T5	OTHER_COMPOUND 1832 1845	ethyl acetate
+T6	TEMPERATURE 576 582	150° C
+T7	OTHER_COMPOUND 3224 3231	heptane
+T8	OTHER_COMPOUND 2157 2170	ethyl acetate
+T9	SOLVENT 1505 1513	methanol
+T10	YIELD_PERCENT 2277 2280	87%
+T11	OTHER_COMPOUND 1995 2010	sodium chloride
+T12	EXAMPLE_LABEL 4 10	D1-158
+T13	OTHER_COMPOUND 1034 1047	ethyl acetate
+T14	REAGENT_CATALYST 2690 2698	pyridine
+T15	OTHER_COMPOUND 3210 3223	ethyl acetate
+T16	OTHER_COMPOUND 729 734	water
+T17	OTHER_COMPOUND 3010 3025	dichloromethane
+T18	REAGENT_CATALYST 1559 1563	zinc
+T19	OTHER_COMPOUND 1048 1055	heptane
+T20	TIME 2866 2874	one hour
+T21	YIELD_PERCENT 1154 1157	67%
+T22	OTHER_COMPOUND 909 923	sodium sulfate
+T23	OTHER_COMPOUND 872 887	sodium chloride
+T24	YIELD_PERCENT 3370 3373	35%
+T25	STARTING_MATERIAL 2522 2599	6-Amino-4-ethyl-4-methyl-1-(4-methylcyclohexyl)-3,4-dihydroquinolin-2(1H)-one
+T26	REAGENT_CATALYST 446 462	potassium iodide
+T27	SOLVENT 2637 2652	dichloromethane
+T28	REACTION_PRODUCT 3243 3361	N-[4-ethyl-4-methyl-1-(4-methylcyclohexyl)-2-oxo-1,2,3,4-tetrahydroquinolin-6-yl]-1-(4-fluorophenyl)methanesulfonamide
+T29	OTHER_COMPOUND 714 727	ethyl acetate
+T30	OTHER_COMPOUND 2344 2349	CDCl3
+T31	TEMPERATURE 304 320	room temperature
+T32	OTHER_COMPOUND 2171 2178	heptane
+T33	TIME 588 596	one hour
+T34	OTHER_COMPOUND 2894 2909	dichloromethane
+T35	YIELD_OTHER 1146 1152	950 mg
+T36	REAGENT_CATALYST 1519 1536	ammonium chloride
+T37	STARTING_MATERIAL 131 185	4-Ethyl-4-methyl-6-nitro-3,4-dihydroquinolin-2(1H)-one
+T38	YIELD_OTHER 3363 3368	55 mg
+T39	OTHER_COMPOUND 807 820	ethyl acetate
+T40	REACTION_PRODUCT 1067 1144	4-ethyl-4-methyl-1-(4-methylcyclohexyl)-6-nitro-3,4-dihydroquinolin-2(1H)-one
+T41	TEMPERATURE 2845 2861	room temperature
+T42	OTHER_COMPOUND 1722 1728	Celite
+T43	REACTION_PRODUCT 12 130	N-[4-Ethyl-4-methyl-1-(4-methylcyclohexyl)-2-oxo-1,2,3,4-tetrahydroquinolin-6-yl]-1-(4-fluorophenyl)methanesulfonamide
+T44	OTHER_COMPOUND 2032 2046	sodium sulfate
+T45	REACTION_PRODUCT 2190 2267	6-amino-4-ethyl-4-methyl-1-(4-methylcyclohexyl)-3,4-dihydroquinolin-2(1H)-one
+T46	OTHER_COMPOUND 3075 3089	sodium sulfate
+T47	OTHER_COMPOUND 2884 2889	water
+T48	SOLVENT 251 262	1,4-dioxane
+T49	OTHER_COMPOUND 1742 1750	methanol
+T50	TIME 1690 1698	one hour
+T51	OTHER_COMPOUND 1221 1226	CDCl3
+T52	REAGENT_CATALYST 338 354	cesium carbonate
+T53	YIELD_OTHER 2269 2275	550 mg
+T54	TEMPERATURE 1669 1685	room temperature
+T55	SOLVENT 1596 1601	water
+T56	TEMPERATURE 619 635	room temperature
+T57	TEMPERATURE 2679 2683	0° C

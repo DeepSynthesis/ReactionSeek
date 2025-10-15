@@ -1,0 +1,7 @@
+T0	YIELD_OTHER 359 364	30 mg
+T1	EXAMPLE_LABEL 8 9	4
+T2	REACTION_PRODUCT 26 118	2-(2-(4-benzoyl-piperazinyl)ethyl)-2,4-dihydro-7-methoxy-4,4-dimethylchromeno[4,3-c]pyrazole
+T3	STARTING_MATERIAL 211 285	2-(2-bromoethyl)-7-methoxy-4,4-dimethyl-1,4-dihydrochromeno[4,3-c]pyrazole
+T4	YIELD_PERCENT 366 369	81%
+T5	STARTING_MATERIAL 309 326	benzoylpiperazine
+T6	REACTION_PRODUCT 124 140	desired compound

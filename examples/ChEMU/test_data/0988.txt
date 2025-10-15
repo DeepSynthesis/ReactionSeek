@@ -1,0 +1,3 @@
+Example 98
+(N-(O-(5-(3,4,6-O-triacetyl-2-acetylamino-2-deoxy-β-D-galactopyranosyl)oxy)butanoyl)-4-(((4,4'-dimethoxytrityl)oxy)methyl)piperidin-4-yl)methyl hemisuccinate 36i
+Compound 28i (0.99 g, 0.984 mmol), succinic anhydride (0.56 g, 5.60 mmol), and pyridine (8.0 mL) were stirred at room temperature for 3 days. The reaction mixture was quenched with water (1 mL, 55.5 mmol) and triethylamine (1.12 g, 11.08 mmol) for 4 h and was co-evaporated with toluene (3×10 mL). The product was isolated on a silica gel column using a step gradient of MeOH (3 to 5%) in a mixture of Et3N and DCM (1:99) to yield compound 36i (0.874 g, 73.6%).

@@ -1,0 +1,8 @@
+T0	REACTION_PRODUCT 10 141	5-(2,4-difluorophenyl)-3-methyl-1-{2-oxo-2-[4-(2-oxo-1,4-dihydro-2H-quinazolin-3-yl)-piperidin-1-yl]-ethyl}-1H-pyrimidine-2,4-dione
+T1	EXAMPLE_LABEL 8 9	3
+T2	STARTING_MATERIAL 291 407	5-bromo-3-methyl-1-{2-oxo-2-[4-(2-oxo-1,4-dihydro-2H-quinazolin-3-yl)-piperidin-1-yl]-ethyl}-1H-pyrimidine-2,4-dione
+T3	REACTION_PRODUCT 463 594	5-(2,4-difluorophenyl)-3-methyl-1-{2-oxo-2-[4-(2-oxo-1,4-dihydro-2H-quinazolin-3-yl)-piperidin-1-yl]-ethyl}-1H-pyrimidine-2,4-dione
+T4	REACTION_PRODUCT 171 172	3
+T5	STARTING_MATERIAL 235 265	2,4-difluorophenylboronic acid
+T6	YIELD_PERCENT 455 458	51%
+T7	YIELD_OTHER 448 453	80 mg

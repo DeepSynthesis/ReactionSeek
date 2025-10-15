@@ -1,0 +1,6 @@
+T0	YIELD_PERCENT 347 350	10%
+T1	YIELD_OTHER 339 345	1.1 mg
+T2	REACTION_PRODUCT 4 82	3-Fluoro-4-(6-fluoro-1H-indol-3-yl)-N-[(1R)-2-hydroxy-1-methyl-ethyl]benzamide
+T3	REACTION_PRODUCT 323 337	title compound
+T4	EXAMPLE_LABEL 1 2	c
+T5	STARTING_MATERIAL 99 193	3-fluoro-4-[6-fluoro-1-(p-tolylsulfonyl)indol-3-yl]-N-[(1R)-2-hydroxy-1-methyl-ethyl]benzamide

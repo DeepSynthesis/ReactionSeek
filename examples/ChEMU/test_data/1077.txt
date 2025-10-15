@@ -1,0 +1,4 @@
+[Example 25]
+Synthesis of compound I-0029
+Step 1
+Under nitrogen atmosphere, 2-(trimethylsilyl)ethanol (2.85 mL, 19.8 mmol) was dissolved in tetrahydrofuran (30 mL). Sodium hydride (60% oil dispersion, 632 mg, 15.8 mmol) was added to the solution under ice cooling. The mixture was stirred at room temperature for 1 hour. A 15 mL of tetrahydrofuran solution of the compound 38 (3.0 g, 13.2 mmol) was added dropwise to the mixture under ice cooling. The mixture was stirred at room temperature for 2.5 hours. A 2 mol/L aqueous solution of hydrochloric acid was added to the mixture. The mixture was extracted with ethyl acetate. The organic layer was washed by brine, and dried over anhydrous sodium sulfate. The solvent was evaporated under reduced pressure. The obtained residue was purified by silica-gel column chromatography (hexane-ethyl acetate) to give the compound 39 (3.81 g, yield 93.5%).

@@ -1,0 +1,19 @@
+T0	REAGENT_CATALYST 262 288	propylphosphonic anhydride
+T1	TEMPERATURE 377 382	50° C
+T2	OTHER_COMPOUND 546 552	NaHCO3
+T3	EXAMPLE_LABEL 8 10	27
+T4	SOLVENT 215 227	acetonitrile
+T5	OTHER_COMPOUND 494 505	isopropanol
+T6	OTHER_COMPOUND 442 447	water
+T7	OTHER_COMPOUND 478 493	dichloromethane
+T8	SOLVENT 310 323	ethyl acetate
+T9	OTHER_COMPOUND 602 608	silica
+T10	REACTION_PRODUCT 690 787	2,4-dimethyl-N-(4-(2-oxo-1,2,3,4-tetrahydroquinolin-6-yl)thiazol-2-yl)-1H-imidazole-5-carboxamide
+T11	OTHER_COMPOUND 673 681	methanol
+T12	STARTING_MATERIAL 30 83	6-(2-aminothiazol-4-yl)-3,4-dihydroquinolin-2(1H)-one
+T13	YIELD_OTHER 789 795	0.07 g
+T14	STARTING_MATERIAL 110 153	2,5-dimethyl-1H-imidazole-4-carboxylic acid
+T15	OTHER_COMPOUND 657 672	dichloromethane
+T16	TIME 388 395	12 days
+T17	YIELD_PERCENT 797 800	47%
+T18	REAGENT_CATALYST 181 189	pyridine

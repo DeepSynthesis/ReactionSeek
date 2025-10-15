@@ -1,0 +1,15 @@
+T0	TEMPERATURE 455 471	room temperature
+T1	STARTING_MATERIAL 175 294	(R)-8-(benzyloxy)-5-(2-(((1-benzylpiperidin-4-yl)methyl)amino)-1-((tert-butyldimethylsilyl)oxy)ethyl)quinolin-2(1H)-one
+T2	EXAMPLE_LABEL 5 6	2
+T3	SOLVENT 318 321	DCM
+T4	TIME 476 484	16 hours
+T5	OTHER_COMPOUND 617 620	DCM
+T6	SOLVENT 407 410	DCM
+T7	OTHER_COMPOUND 624 627	NH3
+T8	OTHER_COMPOUND 605 608	DCM
+T9	YIELD_OTHER 664 670	2.83 g
+T10	OTHER_COMPOUND 628 632	MeOH
+T11	STARTING_MATERIAL 359 383	di-tert-butyldicarbonate
+T12	REACTION_PRODUCT 8 152	(R)-tert-Butyl (2-(8-(benzyloxy)-2-oxo-1,2-dihydroquinolin-5-yl)-2-((tert-butyldimethylsilyl)oxy)ethyl)((1-benzylpiperidin-4-yl)methyl)carbamate
+T13	REACTION_PRODUCT 648 662	title compound
+T14	YIELD_PERCENT 672 675	92%

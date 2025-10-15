@@ -1,0 +1,12 @@
+T0	OTHER_COMPOUND 467 479	acetonitrile
+T1	TEMPERATURE 358 361	0°C
+T2	SOLVENT 324 339	dichloromethane
+T3	REACTION_PRODUCT 20 131	(2S,5R)-2-(3,9-diazabicyclo[3.3.1]nonan-7-ylcarbamoyl)-7-oxo-1,6-diazabicyclo[3.2.1]octan-6-yl hydrogen sulfate
+T4	REACTION_PRODUCT 620 634	title compound
+T5	STARTING_MATERIAL 132 289	Tetra(n-butyl)ammonium (2S,5R)-2-((3,9-bis(tert-butoxycarbonyl)-3,9-diazabicyclo[3.3.1] nonan-7-yl)carbamoyl)-7-oxo-1,6-diazabicyclo[3.2.1]octan-6-yl sulfate
+T6	TIME 421 423	1h
+T7	REAGENT_CATALYST 363 383	trifluoroacetic acid
+T8	TEMPERATURE 413 416	0°C
+T9	YIELD_PERCENT 649 652	70%
+T10	YIELD_OTHER 636 641	64 mg
+T11	EXAMPLE_LABEL 1 3	11

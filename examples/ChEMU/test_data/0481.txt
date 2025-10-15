@@ -1,0 +1,3 @@
+Example Compound 43
+2-((3,5-dimethyl-1-phenyl-1H-pyrazol-4-yl)amino)-2-oxoethyl 2-phenylacetate
+2-(phenyl)acetic acid (25.6 mg, 0.2 mmol) was dissolved in dry DCM (3.4 mL), cooled to 0 °C and added DCC (34.9 mg, 0.2 mmol) and DMAP (4.6 mg, 0.04 mmol) followed by N-(3,5-dimethyl-1-phenyl-1 H-pyrazol-4-yl)-2-hydroxyacetamide (41.4 mg, 0.2 mmol), synthesized as reported in Example 1. The obtained suspension was filtered over cotton to remove the bulk of DCU and purified by column chromatography (75% EtOAc in PE) to yield 57.7 mg of the title compound (94%)

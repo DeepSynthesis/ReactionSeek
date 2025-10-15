@@ -1,0 +1,8 @@
+T0	REACTION_PRODUCT 115 117	IU
+T1	EXAMPLE_LABEL 18 20	18
+T2	REACTION_PRODUCT 21 103	N-[4-(2-Furyl)-5-(tetrahydropyran-4-carbonyl)thiazol-2-yl]-1H-indole-2-carboxamide
+T3	STARTING_MATERIAL 348 372	indole-2-carboxylic acid
+T4	REACTION_PRODUCT 176 178	IU
+T5	STARTING_MATERIAL 236 295	2-amino-4-(2-furyl)thiazol-5-yl=tetrahydropyran-4-yl=ketone
+T6	YIELD_OTHER 181 188	97.5 mg
+T7	YIELD_PERCENT 190 193	63%

@@ -1,0 +1,22 @@
+T0	EXAMPLE_LABEL 5 6	3
+T1	REACTION_PRODUCT 7 177	N,N'-(((((((2,2'-Dimethyl-[1,1'-biphenyl]-3,3'-diyl)bis(methylene))bis(oxy))bis(2-methoxypyridine-6,3-diyl))bis(methylene))bis(azanediyl))bis(ethane-2,1-diyl))diacetamide
+T2	YIELD_PERCENT 985 988	33%
+T3	SOLVENT 320 338	1,2-dichloroethane
+T4	REAGENT_CATALYST 357 385	sodium triacetoxyborohydride
+T5	OTHER_COMPOUND 1207 1210	ACN
+T6	OTHER_COMPOUND 1117 1120	TFA
+T7	OTHER_COMPOUND 1096 1099	TFA
+T8	OTHER_COMPOUND 702 708	Na2SO4
+T9	OTHER_COMPOUND 1103 1106	H2O
+T10	STARTING_MATERIAL 195 296	6,6'-(((2,2'-dimethyl-[1,1'-biphenyl]-3,3'-diyl)bis(methylene))bis(oxy))bis(2-methoxynicotinaldehyde)
+T11	OTHER_COMPOUND 620 623	HCl
+T12	OTHER_COMPOUND 1124 1136	Acetonitrile
+T13	TIME 540 543	3 h
+T14	OTHER_COMPOUND 592 597	water
+T15	OTHER_COMPOUND 652 658	CH2Cl2
+T16	YIELD_OTHER 977 983	230 mg
+T17	TEMPERATURE 493 509	room temperature
+T18	TEMPERATURE 529 534	85° C
+T19	REACTION_PRODUCT 805 975	N,N'-(((((((2,2'-dimethyl-[1,1'-biphenyl]-3,3'-diyl)bis(methylene))bis(oxy))bis(2-methoxypyridine-6,3-diyl))bis(methylene))bis(azanediyl))bis(ethane-2,1-diyl))diacetamide
+T20	STARTING_MATERIAL 410 435	N-(2-aminoethyl)acetamide
+T21	TIME 514 520	20 min

@@ -1,0 +1,16 @@
+T0	REAGENT_CATALYST 472 476	TBTU
+T1	EXAMPLE_LABEL 7 9	10
+T2	REAGENT_CATALYST 428 446	N-methylmorpholine
+T3	STARTING_MATERIAL 318 328	Example 25
+T4	REACTION_PRODUCT 10 183	1,1-Dioxo-3,3-dibutyl-5-phenyl-7-methylthio-8-(N-{(R)-α-[(S)-2-(t-butoxycarbonyl) pyrrolidin-1-ylcarboyl]benzyl}carbamoylmethoxy)-2,3,4,5-tetrahydro-1,2,5-benzothiadiazepine
+T5	STARTING_MATERIAL 184 316	1,1-Dioxo-3,3-dibutyl-5-phenyl-7-methylthio-8-[N-((R)-α-carboxybenzyl) carbamoylmethoxy]-2,3,4,5-tetrahydro-1,2,5-benzothiadiazepine
+T6	YIELD_OTHER 861 866	41 mg
+T7	STARTING_MATERIAL 353 375	tert-butyl L-prolinate
+T8	OTHER_COMPOUND 732 738	silica
+T9	OTHER_COMPOUND 799 804	EtOAc
+T10	YIELD_PERCENT 868 871	66%
+T11	REACTION_PRODUCT 845 859	title compound
+T12	TIME 545 552	3 hours
+T13	STARTING_MATERIAL 569 591	tert-butyl L-prolinate
+T14	OTHER_COMPOUND 795 798	DCM
+T15	SOLVENT 414 417	DCM

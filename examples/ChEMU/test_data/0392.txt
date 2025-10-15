@@ -1,0 +1,2 @@
+Step 5: Preparation of 2-(piperazine-1-yl)-7H-purine
+Analogous to the process for preparing Compound d in Step 4 in Example 1, Compound z was deprotected by reacting with trifluoroacetic acid to produce Compound a': 2-(piperazine-1-yl)-7H-purine (141 mg, yield 74%). MS(ESI)m/z:[M+H]+=205.

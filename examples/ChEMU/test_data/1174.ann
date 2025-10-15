@@ -1,0 +1,13 @@
+T0	YIELD_PERCENT 628 631	36%
+T1	EXAMPLE_LABEL 5 6	5
+T2	SOLVENT 334 355	N,N-dimethylformamide
+T3	STARTING_MATERIAL 86 137	2-(3,5-Dimethylisoxazol-4-yl)ethyl methanesulfonate
+T4	STARTING_MATERIAL 160 199	3,7-dimethyl-1H-purine-2,6(3H,7H)-dione
+T5	TEMPERATURE 467 471	20°C
+T6	REAGENT_CATALYST 223 239	potassium iodide
+T7	REACTION_PRODUCT 7 85	1-(2-(3,5-Dimethylisoxazol-4-yl)ethyl)-3,7-dimethyl-1H-purine-2,6(3H,7H)-dione
+T8	TIME 422 429	3 hours
+T9	YIELD_OTHER 603 610	50.0 mg
+T10	TEMPERATURE 400 405	120°C
+T11	REAGENT_CATALYST 265 284	potassium carbonate
+T12	REACTION_PRODUCT 523 601	1-(2-(3,5-dimethylisoxazol-4-yl)ethyl)-3,7-dimethyl-1H-purine-2,6(3H,7H)-dione

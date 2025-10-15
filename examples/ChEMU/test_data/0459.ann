@@ -1,0 +1,18 @@
+T0	REACTION_PRODUCT 755 764	Example 3
+T1	STARTING_MATERIAL 192 195	TFA
+T2	REACTION_PRODUCT 159 168	Example 3
+T3	STARTING_MATERIAL 261 386	sodium [5-(2-(tert-butoxycarbonylamino)ethyl)-4,9-dioxo-3-thia-5,8,10-triaza-tricyclo[6.2.1.02,6]undec-2(6)-en-10-yl] sulfate
+T4	TIME 470 476	30 min
+T5	EXAMPLE_LABEL 5 7	15
+T6	REACTION_PRODUCT 24 157	sodium and 2,2,2-trifluoroacetate [5-(2-azaniumethyl)-4,9-dioxo-3-thia-5,8,10-triaza-tricyclo[6.2.1.02,6]undec-2(6)-en-10-yl] sulfate
+T7	REACTION_PRODUCT 620 753	sodium and 2,2,2-trifluoroacetate [5-(2-azaniumethyl)-4,9-dioxo-3-thia-5,8,10-triaza-tricyclo[6.2.1.02,6]undec-2(6)-en-10-yl] sulfate
+T8	YIELD_OTHER 767 773	3.2 mg
+T9	TEMPERATURE 432 435	0°C
+T10	OTHER_COMPOUND 563 568	water
+T11	YIELD_OTHER 775 785	0.007 mmol
+T12	STARTING_MATERIAL 388 390	3n
+T13	TEMPERATURE 173 176	0°C
+T14	OTHER_COMPOUND 521 529	nitrogen
+T15	SOLVENT 208 211	DCM
+T16	SOLVENT 416 419	DCM
+T17	YIELD_PERCENT 787 790	54%

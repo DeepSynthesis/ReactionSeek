@@ -1,0 +1,27 @@
+T0	OTHER_COMPOUND 651 658	aqueous
+T1	TEMPERATURE 711 715	0° C
+T2	TEMPERATURE 687 693	−10° C
+T3	STARTING_MATERIAL 262 409	(1S,3R)-1-(4-bromo-2, 6-difluorophenyl)-2-(3-((tert-butyldiphenyl silyl)oxy)-2,2-difluoropropyl)-3,5-dimethyl-1,2,3,4-tetrahydroisoquinolin-6-amine
+T4	OTHER_COMPOUND 562 575	ethyl acetate
+T5	SOLVENT 209 214	water
+T6	TIME 811 819	18 hours
+T7	OTHER_COMPOUND 965 971	NaHCO3
+T8	YIELD_PERCENT 1355 1360	38.8%
+T9	REACTION_PRODUCT 1191 1344	(6S,8R)-6-(4-bromo-2,6-difluorophenyl)-7-(3-((tert-butyldiphenylsilyl)oxy)-2,2-difluoropropyl)-8-methyl-6,7,8,9-tetrahydro-3H-pyrazolo[4,3-f]isoquinoline
+T10	OTHER_COMPOUND 895 900	EtOAc
+T11	TEMPERATURE 597 603	−10° C
+T12	TIME 520 530	20 minutes
+T13	REAGENT_CATALYST 170 184	Sodium nitrite
+T14	OTHER_COMPOUND 957 964	aqueous
+T15	REACTION_PRODUCT 15 169	(6S,8R)-6-(4-bromo-2,6-difluorophenyl)-7-(3-((tert-butyldiphenylsilyl) oxy)-2,2-difluoropropyl)-8-methyl-6,7,8,9-tetrahydro-3H-pyrazolo[4,3-f]isoquinoline
+T16	OTHER_COMPOUND 1172 1179	hexanes
+T17	YIELD_OTHER 1346 1353	0.520 g
+T18	REAGENT_CATALYST 433 447	propionic acid
+T19	TIME 701 707	15 min
+T20	OTHER_COMPOUND 659 665	NaHCO3
+T21	OTHER_COMPOUND 994 1008	sodium sulfate
+T22	TEMPERATURE 458 463	−8° C
+T23	OTHER_COMPOUND 1155 1168	ethyl acetate
+T24	TEMPERATURE 752 768	room temperature
+T25	OTHER_COMPOUND 976 981	water
+T26	OTHER_COMPOUND 1105 1111	silica

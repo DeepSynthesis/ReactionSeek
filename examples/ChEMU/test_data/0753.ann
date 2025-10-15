@@ -1,0 +1,11 @@
+T0	SOLVENT 200 203	DMF
+T1	EXAMPLE_LABEL 5 6	1
+T2	TEMPERATURE 311 327	room temperature
+T3	REACTION_PRODUCT 621 627	liquid
+T4	YIELD_OTHER 597 603	3.13 g
+T5	STARTING_MATERIAL 106 138	3,5-bistrifluoromethylthiophenol
+T6	STARTING_MATERIAL 224 280	phenylmethanesulfonic acid phosphoric acid diethyl ester
+T7	YIELD_PERCENT 635 638	89%
+T8	REACTION_PRODUCT 23 95	(2-ethyl)-bistrifluoromethylthiophenol-methylphosphoric Acid Ethyl Ester
+T9	REAGENT_CATALYST 153 172	potassium carbonate
+T10	TEMPERATURE 343 359	room temperature

@@ -1,0 +1,2 @@
+Step 5. tert-Butyl {[1-(3-bromo-5-fluorophenyl)cyclopropyl]methyl}carbamate
+To a solution of 1-[1-(3-bromo-5-fluorophenyl)cyclopropyl]methanamine (1.022 g, 4.187 mmol) in CH2Cl2 (10.0 mL) was added di-tert-butyldicarbonate (1.531 g, 7.015 mmol). The mixture was stirred at room temperature for 10 min, and then concentrated. The mixture was purified on silica gel (120 g, 0-100% EtOAc in hexanes) to give the desired product as a white solid (1.252 g, 87%).

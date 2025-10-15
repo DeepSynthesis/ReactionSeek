@@ -1,0 +1,25 @@
+T0	OTHER_COMPOUND 779 782	DCM
+T1	OTHER_COMPOUND 1233 1237	MeOH
+T2	EXAMPLE_LABEL 8 9	2
+T3	TIME 947 953	1 hour
+T4	STARTING_MATERIAL 603 637	1-(3-fluoropropyl)azetidin-3-amine
+T5	OTHER_COMPOUND 1007 1013	NaHCO3
+T6	SOLVENT 662 673	1,4-dioxane
+T7	STARTING_MATERIAL 426 578	(6S,8R)-6-(5-bromopyridin-2-yl)-7-(2,2-difluoro-3-methoxypropyl)-8-methyl-3-(tetrahydro-2H-pyran-2-yl)-6,7,8,9-tetrahydro-3H-pyrazolo[4,3-f]isoquinoline
+T8	OTHER_COMPOUND 1085 1088	DCM
+T9	OTHER_COMPOUND 1184 1190	silica
+T10	REAGENT_CATALYST 169 304	[(2-Di-cyclohexylphosphino-3,6-dimethoxy-2',4',6'-triisopropyl-1,1'-biphenyl)-2-(2'-amino-1,1'-biphenyl)]palladium(II) methanesulfonate
+T11	TIME 725 732	5 hours
+T12	REAGENT_CATALYST 877 880	TFA
+T13	REAGENT_CATALYST 347 367	sodium tert-butoxide
+T14	TEMPERATURE 926 942	room temperature
+T15	TEMPERATURE 714 719	90° C
+T16	SOLVENT 858 861	DCM
+T17	YIELD_OTHER 1460 1465	83 mg
+T18	OTHER_COMPOUND 1241 1246	EtOAc
+T19	OTHER_COMPOUND 799 804	water
+T20	OTHER_COMPOUND 977 980	DCM
+T21	REACTION_PRODUCT 1300 1458	6-((6S,8R)-7-(2,2-difluoro-3-methoxypropyl)-8-methyl-6,7,8,9-tetrahydro-3H-pyrazolo[4,3-f]isoquinolin-6-yl)-N-(1-(3-fluoropropyl)azetidin-3-yl)pyridin-3-amine
+T22	REAGENT_CATALYST 306 321	BrettPhos Pd G3
+T23	YIELD_PERCENT 1467 1470	83%
+T24	REACTION_PRODUCT 10 168	6-((6S,8R)-7-(2,2-difluoro-3-methoxypropyl)-8-methyl-6,7,8,9-tetrahydro-3H-pyrazolo[4,3-f]isoquinolin-6-yl)-N-(1-(3-fluoropropyl)azetidin-3-yl)pyridin-3-amine

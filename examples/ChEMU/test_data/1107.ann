@@ -1,0 +1,14 @@
+T0	REAGENT_CATALYST 243 269	propylphosphonic anhydride
+T1	REACTION_PRODUCT 518 597	2,5-dimethyl-N-(4-(2-oxo-1,2,3,4-tetrahydroquinolin-6-yl)thiazol-2-yl)benzamide
+T2	STARTING_MATERIAL 30 83	6-(2-aminothiazol-4-yl)-3,4-dihydroquinolin-2(1H)-one
+T3	STARTING_MATERIAL 110 134	2,5-dimethylbenzoic acid
+T4	EXAMPLE_LABEL 8 10	39
+T5	SOLVENT 196 208	acetonitrile
+T6	YIELD_OTHER 599 606	0.096 g
+T7	REAGENT_CATALYST 162 170	pyridine
+T8	OTHER_COMPOUND 504 509	water
+T9	TEMPERATURE 358 363	50° C
+T10	TIME 369 376	14 days
+T11	YIELD_PERCENT 608 611	62%
+T12	OTHER_COMPOUND 491 503	acetonitrile
+T13	SOLVENT 291 304	ethyl acetate

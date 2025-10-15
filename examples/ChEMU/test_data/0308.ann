@@ -1,0 +1,12 @@
+T0	STARTING_MATERIAL 251 276	2,4-dimethoxy-benzylamine
+T1	TIME 348 356	18 hours
+T2	OTHER_COMPOUND 316 334	potassium fluoride
+T3	STARTING_MATERIAL 143 233	6-(5-Bromo-6-fluoro-pyridin-2-ylmethyl)-5-methyl-[1,2,5]oxadiazolo[3,4-b]pyridin-7-ylamine
+T4	TEMPERATURE 360 366	120° C
+T5	REAGENT_CATALYST 283 304	diisopropylethylamine
+T6	YIELD_PERCENT 441 444	58%
+T7	OTHER_COMPOUND 403 423	trifluoroacetic acid
+T8	YIELD_OTHER 433 439	0.15 g
+T9	REACTION_PRODUCT 5 116	6-[5-Bromo-6-(2,4-dimethoxy-benzylamino)-pyridin-2-ylmethyl]-5-methyl-[1,2,5]oxadiazolo[3,4-b]pyridin-7-ylamine
+T10	STARTING_MATERIAL 235 245	example 22
+T11	EXAMPLE_LABEL 0 4	65.1

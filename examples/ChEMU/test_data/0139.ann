@@ -1,0 +1,24 @@
+T0	OTHER_COMPOUND 836 849	ethyl acetate
+T1	EXAMPLE_LABEL 5 6	6
+T2	TEMPERATURE 518 523	70° C
+T3	TIME 529 536	5 hours
+T4	YIELD_OTHER 1081 1091	0.010 mmol
+T5	OTHER_COMPOUND 862 875	ethyl acetate
+T6	OTHER_COMPOUND 829 835	hexane
+T7	OTHER_COMPOUND 703 709	Na2SO4
+T8	REACTION_PRODUCT 918 1056	(S)-4-((1-(8-chloro-1-oxo-2-phenyl-1,2-dihydroisoquinoline-3-yl)ethyl)amino)-6-fluoro-8-(4-methoxybenzyl)pyrido[2,3-d]pyrimidine-5(8H)-one
+T9	OTHER_COMPOUND 596 609	Ethyl acetate
+T10	REACTION_PRODUCT 23 161	(S)-4-((1-(8-chloro-1-oxo-2-phenyl-1,2-dihydroisoquinoline-3-yl)ethyl)amino)-6-fluoro-8-(4-methoxybenzyl)pyrido[2,3-d]pyrimidine-5(8H)-one
+T11	OTHER_COMPOUND 815 819	SiO2
+T12	YIELD_PERCENT 1100 1103	82%
+T13	YIELD_OTHER 890 894	6 mg
+T14	REAGENT_CATALYST 453 474	diisopropylethylamine
+T15	TEMPERATURE 578 594	room temperature
+T16	SOLVENT 414 418	DMSO
+T17	OTHER_COMPOUND 614 619	water
+T18	REACTION_PRODUCT 902 917	target compound
+T19	REAGENT_CATALYST 476 481	DIPEA
+T20	STARTING_MATERIAL 298 358	(S)-3-(1-aminoethyl)-8-chloro-2-phenylisoquinoline-1(2H)-one
+T21	OTHER_COMPOUND 855 861	hexane
+T22	STARTING_MATERIAL 183 253	4-chloro-6-fluoro-8-(4-methoxybenzyl)pyrido[2,3-d]pyrimidine-5(8H)-one
+T23	SOLVENT 395 412	dimethylsulfoxide

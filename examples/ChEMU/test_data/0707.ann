@@ -1,0 +1,15 @@
+T0	TIME 496 499	1 h
+T1	TEMPERATURE 356 358	rt
+T2	STARTING_MATERIAL 129 268	6-(2-(difluoromethyl)-6-(trifluoromethyl)-[1,2,4]triazolo[1,5-a]pyridin-5-yl)-3-((2-(trimethylsilyl)ethoxy)methyl)benzo[d]thiazol-2(3H)-one
+T3	REACTION_PRODUCT 650 664	title compound
+T4	EXAMPLE_LABEL 5 6	B
+T5	REAGENT_CATALYST 315 318	TFA
+T6	OTHER_COMPOUND 617 620	ACN
+T7	REAGENT_CATALYST 457 460	NH3
+T8	YIELD_PERCENT 673 676	68%
+T9	YIELD_OTHER 666 671	19 mg
+T10	TIME 363 366	1 h
+T11	OTHER_COMPOUND 630 635	NH4OH
+T12	SOLVENT 292 295	DCM
+T13	REACTION_PRODUCT 8 110	6-(2-(difluoromethyl)-6-(trifluoromethyl)-[1,2,4]triazolo[1,5-a]pyridin-5-yl)benzo[d]thiazol-2(3H)-one
+T14	SOLVENT 464 468	MeOH

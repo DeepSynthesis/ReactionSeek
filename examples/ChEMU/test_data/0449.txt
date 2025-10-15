@@ -1,0 +1,2 @@
+Step 4: 4-chloro-5-methylsulfonylisoindoline
+To a solution of 4-chloro-5-methylsulfonylisoindolin-1-one (249 mg , 1 mmol) in tetrahydrofuran (10 mL) was added a solution of borane in tetrahydrofuran (1M, 4 mL, 4 mmol), stirred at room temperature for 2 hours and then stirred under reflux overnight. After cooling, methanol was carefully added dropwise to quench the excess borane. The resulting mixture was evaporated, concentrated and then purified by silica gel column chromatography to give 4-chloro-5-methylsulfonylisoindoline (170 mg). Yield: 73%.

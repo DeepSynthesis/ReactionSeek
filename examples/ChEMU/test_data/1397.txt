@@ -1,0 +1,3 @@
+Example 18
+Methyl (2R)-2-[[4-(6-fluoro-1H-indol-3-yl)benzoyl]amino]propanoate
+This compound was prepared from Intermediate 3-a and methyl (2R)-2-aminopropa-noate hydrochloride according to the procedure described in Example 3. Purification was performed using preparative HPLC to afford the title compound (0.7 mg, 2%). Data: LCMS (A) Rt : 5.639 min; m/z 341.1 (M+H)+.

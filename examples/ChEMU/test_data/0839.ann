@@ -1,0 +1,13 @@
+T0	STARTING_MATERIAL 169 194	compound from Example 61A
+T1	SOLVENT 229 237	methanol
+T2	YIELD_PERCENT 521 524	85%
+T3	TIME 361 364	3 h
+T4	SOLVENT 225 228	THF
+T5	OTHER_COMPOUND 441 458	hydrochloric acid
+T6	YIELD_OTHER 514 519	72 mg
+T7	TEMPERATURE 383 385	RT
+T8	REACTION_PRODUCT 11 130	4-[({3-Methyl-2-phenyl-6-[(trifluoromethyl)sulfanyl]quinolin-4-yl}carbonyl)amino]bicyclo[2.2.2]octane-1-carboxylic acid
+T9	REAGENT_CATALYST 282 299	lithium hydroxide
+T10	EXAMPLE_LABEL 8 10	20
+T11	REACTION_PRODUCT 555 569	title compound
+T12	TEMPERATURE 350 355	50° C

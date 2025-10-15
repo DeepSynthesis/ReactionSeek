@@ -1,0 +1,6 @@
+T0	REACTION_PRODUCT 190 204	title compound
+T1	STARTING_MATERIAL 110 138	2-(thiophen-2-yl)acetic acid
+T2	EXAMPLE_LABEL 17 19	59
+T3	REACTION_PRODUCT 20 104	2-((3,5-dimethyl-1-phenyl-1H-pyrazol-4-yl)amino)-2-oxoethyl 2-(thiophen-2-yl)acetate
+T4	YIELD_PERCENT 178 181	94%
+T5	YIELD_OTHER 171 176	49 mg

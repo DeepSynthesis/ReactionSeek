@@ -1,0 +1,5 @@
+Example 1
+(S)-(1-Phenyl-2-(pyridin-2-yl)ethylcarbamoyloxy)methyl isobutyrate
+Step A
+Chloromethyl Isobutyrate
+To isobutyric acid (0.600 mL, 6.47 mmol) in DCM (6 mL) was added sodium bicarbonate (2092 mg, 24.91 mmol), tetrabutyl ammonium hydrogen sulfate (220 mg, 0.65 mmol) and water (6 mL). With rapid stirring, chloromethyl sulfochloridate (0.767 mL, 7.44 mmol) was added at rt and the reaction mixture was then stirred at rt overnight. The reaction mixture was then diluted with DCM (10 mL), washed with water (2×10 mL), dried over Na2SO4, filtered and concentrated to give chloromethyl isobutyrate (746 mg, 84%), which was used in the next step without further purification.

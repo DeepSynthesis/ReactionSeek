@@ -1,0 +1,11 @@
+T0	REAGENT_CATALYST 307 315	hydrogen
+T1	EXAMPLE_LABEL 5 6	5
+T2	REAGENT_CATALYST 207 219	Raney nickel
+T3	REACTION_PRODUCT 8 94	N4-(3-chloro-4-fluorophenyl)-N4-(3,4-dimethoxybenzyl)-7-methoxyquinazoline-4,6-diamine
+T4	REACTION_PRODUCT 508 522	title compound
+T5	REAGENT_CATALYST 396 404	hydrogen
+T6	TEMPERATURE 371 387	room temperature
+T7	YIELD_OTHER 524 527	2 g
+T8	STARTING_MATERIAL 95 183	N-(3-chloro-4-fluorophenyl)-N-(3,4-dimethoxybenzyl)-7-methoxy-6-nitroquinazoline-4-amine
+T9	SOLVENT 248 263	tetrahydrofuran
+T10	YIELD_PERCENT 529 532	90%

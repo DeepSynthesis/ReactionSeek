@@ -1,0 +1,3 @@
+Example 17
+4-({[3-Methyl-2-phenyl-6-(trimethylsilyl)quinolin-4-yl]carbonyl}amino)bicyclo[2.2.2]octane-1-carboxylic acid
+At RT, 2.0 ml (2.00 mmol) of 1 M aqueous sodium hydroxide solution were added to a mixture of 199 mg (0.40 mmol) of the compound from Example 58A in a mixture of 8.0 ml of THF and 1.5 ml of methanol, and the mixture was stirred under reflux for 1 h. After cooling to RT, the solvent was removed and the residue was triturated with a little water and 1 M hydrochloric acid. The solid was filtered off, washed twice with water and dried under reduced pressure. This gave 186 mg (86% of theory, purity 100%) of the title compound

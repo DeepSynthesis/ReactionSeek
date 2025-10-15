@@ -1,0 +1,19 @@
+T0	OTHER_COMPOUND 733 740	aqueous
+T1	OTHER_COMPOUND 586 593	aqueous
+T2	YIELD_PERCENT 931 934	53%
+T3	REACTION_PRODUCT 884 898	title compound
+T4	EXAMPLE_LABEL 8 10	12
+T5	REACTION_PRODUCT 26 160	trans-2-chloro-5-(2,2-dichloro-3-(3,5-dichlorophenyl)cyclopropane-1-carboxamido)-N-(4-((2-hydroxyethyl)amino)-2-methylphenyl)benzamide
+T6	TIME 534 542	12 hours
+T7	SOLVENT 460 475	dichloromethane
+T8	REAGENT_CATALYST 173 190	Hydrogen chloride
+T9	STARTING_MATERIAL 428 433	F1129
+T10	REACTION_PRODUCT 162 167	F1130
+T11	STARTING_MATERIAL 273 426	trans-2-((tert-butoxycarbonyl)(4-(2-chloro-5-(2,2-dichloro-3-(3,5-dichlorophenyl)cyclopropane-1-carboxamido)benzamido)-3-methylphenyl)amino)ethyl acetate
+T12	YIELD_OTHER 922 929	0.050 g
+T13	OTHER_COMPOUND 594 612	sodium bicarbonate
+T14	OTHER_COMPOUND 741 756	sodium chloride
+T15	SOLVENT 194 205	1,4-dioxane
+T16	OTHER_COMPOUND 843 853	silica gel
+T17	OTHER_COMPOUND 660 673	ethyl acetate
+T18	TEMPERATURE 546 551	23° C

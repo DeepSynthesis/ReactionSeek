@@ -1,0 +1,29 @@
+T0	TEMPERATURE 606 609	0°C
+T1	TIME 622 628	1 hour
+T2	SOLVENT 155 170	tetrahydrofuran
+T3	OTHER_COMPOUND 1095 1105	chloroform
+T4	OTHER_COMPOUND 707 726	potassium carbonate
+T5	OTHER_COMPOUND 874 881	aqueous
+T6	YIELD_OTHER 1214 1221	0.221 g
+T7	YIELD_PERCENT 1235 1238	43%
+T8	TIME 579 585	1 hour
+T9	TEMPERATURE 332 337	-78°C
+T10	TIME 402 408	1 hour
+T11	YIELD_OTHER 1223 1233	0.751 mmol
+T12	REACTION_PRODUCT 1126 1212	1-(4-(dimethylamino)piperidin-1-yl)-3-(1-ethyl-1H-imidazol-2-yl)-3-hydroxypropan-1-one
+T13	STARTING_MATERIAL 236 279	1-(4-(dimethylamino)piperidin-1-yl)ethanone
+T14	OTHER_COMPOUND 687 694	aqueous
+T15	STARTING_MATERIAL 424 459	1-ethyl-1H-imidazole-2-carbaldehyde
+T16	OTHER_COMPOUND 940 954	sodium sulfate
+T17	SOLVENT 484 499	tetrahydrofuran
+T18	EXAMPLE_LABEL 9 10	8
+T19	SOLVENT 304 319	tetrahydrofuran
+T20	OTHER_COMPOUND 894 909	sodium chloride
+T21	REACTION_PRODUCT 1272 1293	compound of Example 8
+T22	OTHER_COMPOUND 662 679	ammonium chloride
+T23	OTHER_COMPOUND 1083 1093	silica gel
+T24	OTHER_COMPOUND 822 832	chloroform
+T25	REAGENT_CATALYST 127 151	lithium diisopropylamide
+T26	OTHER_COMPOUND 1106 1114	methanol
+T27	REACTION_PRODUCT 25 111	1-(4-(dimethylamino)piperidin-1-yl)-3-(1-ethyl-1H-imidazol-2-yl)-3-hydroxypropan-1-one
+T28	OTHER_COMPOUND 642 649	aqueous

@@ -1,0 +1,21 @@
+T0	TEMPERATURE 657 661	25°C
+T1	REACTION_PRODUCT 175 234	N-(2-(dimethylamino)ethyl)-N-methyl-6-nitropyridine-3-amine
+T2	OTHER_COMPOUND 1007 1022	petroleum ether
+T3	REAGENT_CATALYST 433 452	potassium carbonate
+T4	YIELD_OTHER 1083 1089	1.50 g
+T5	OTHER_COMPOUND 754 767	ethyl acetate
+T6	STARTING_MATERIAL 252 276	5-bromo-2-nitro-pyridine
+T7	EXAMPLE_LABEL 8 10	28
+T8	YIELD_PERCENT 1102 1108	67.91%
+T9	OTHER_COMPOUND 839 844	brine
+T10	SOLVENT 394 411	dimethylformamide
+T11	OTHER_COMPOUND 883 897	sodium sulfate
+T12	REACTION_PRODUCT 1067 1081	title compound
+T13	OTHER_COMPOUND 1024 1037	ethyl acetate
+T14	EXAMPLE_LABEL 172 173	1
+T15	YIELD_OTHER 1091 1100	6.69 mmol
+T16	OTHER_COMPOUND 663 668	water
+T17	OTHER_COMPOUND 11 166	N-(2-(dimethylamino)ethyl)-N-(5-fiuoro-4-(6,7-dihydro-3-isopropyl-2-methyl-2H-pyrazolo [4,3-c]pyridin-5(4H)-yl)pyrimidin-2-yl)-N-methylpyridine-2,5-diamine
+T18	TIME 564 572	16 hours
+T19	TEMPERATURE 543 547	90°C
+T20	STARTING_MATERIAL 318 351	N,N,N-trimethylethane-1,2-diamine

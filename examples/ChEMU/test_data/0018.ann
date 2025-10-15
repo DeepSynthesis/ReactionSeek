@@ -1,0 +1,13 @@
+T0	YIELD_PERCENT 598 601	91%
+T1	REACTION_PRODUCT 508 587	N-(4-(2-oxo-1,2,3,4-tetrahydroquinolin-6-yl)thiazol-2-yl)thiazole-5-carboxamide
+T2	REAGENT_CATALYST 245 271	propylphosphonic anhydride
+T3	STARTING_MATERIAL 30 83	6-(2-aminothiazol-4-yl)-3,4-dihydroquinolin-2(1H)-one
+T4	SOLVENT 198 210	acetonitrile
+T5	TEMPERATURE 360 367	48.5° C
+T6	OTHER_COMPOUND 484 499	dichloromethane
+T7	EXAMPLE_LABEL 8 10	15
+T8	STARTING_MATERIAL 110 136	5-thiazole carboxylic acid
+T9	YIELD_OTHER 589 596	0.132 g
+T10	REAGENT_CATALYST 164 172	pyridine
+T11	TIME 373 379	4 days
+T12	SOLVENT 293 306	ethyl acetate

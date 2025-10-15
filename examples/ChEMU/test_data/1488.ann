@@ -1,0 +1,16 @@
+T0	REAGENT_CATALYST 143 163	Trifluoroacetic acid
+T1	OTHER_COMPOUND 582 588	NaHCO3
+T2	STARTING_MATERIAL 223 378	(2S,3S,4S,5S)-3-tert-butyl-4-(5-tert-butyl-2-methoxy-benzylamino)-5-(2-isopropyl-phenyl)-pyrrolidine-1,2-dicarboxylic acid 1-tert-butyl ester 2-ethyl ester
+T3	REACTION_PRODUCT 786 800	title compound
+T4	YIELD_OTHER 802 807	90 mg
+T5	OTHER_COMPOUND 562 577	dichloromethane
+T6	REAGENT_CATALYST 165 176	CAS#76-05-1
+T7	OTHER_COMPOUND 731 746	dichloromethane
+T8	OTHER_COMPOUND 599 606	aqueous
+T9	EXAMPLE_LABEL 8 11	61D
+T10	OTHER_COMPOUND 719 729	silica gel
+T11	SOLVENT 410 425	dichloromethane
+T12	OTHER_COMPOUND 747 755	methanol
+T13	REACTION_PRODUCT 12 142	(2S,3S,4S,5S)-3-tert-butyl-4-(5-tert-butyl-2-methoxy-benzylamino)-5-(2-isopropyl-phenyl)-pyrrolidine-2-carboxylic acid ethyl ester
+T14	YIELD_PERCENT 809 812	70%
+T15	TEMPERATURE 455 471	room temperature

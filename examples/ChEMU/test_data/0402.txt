@@ -1,0 +1,3 @@
+Example 110A
+2-[(4-Methylphenyl)sulfonyl]ethyl-4-[(tert-butoxycarbonyl)amino]-2-oxabicyclo[2.2.2]octane-1-carboxylate
+At RT, 908 mg (5.53 mmol) of CDI were added to a solution of 1.0 g (3.69 mmol) of the compound from Example 109A in 21 ml of dichloromethane, and the mixture was stirred at 40° C. for 30 min. 1.11 g (5.53 mmol) of 2-(4-toluenesulfonyl)ethanol were then added, and the mixture was stirred at 55° C. overnight. After cooling to RT, the mixture was diluted with ethyl acetate, washed with 1 M hydrochloric acid, dried over sodium sulfate, filtered and concentrated, and the residue was purified by preparative HPLC (Method 4). This gave 643 mg (38% of theory, purity 98%) of the title compound

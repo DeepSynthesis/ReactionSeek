@@ -1,0 +1,2 @@
+Step 4 Synthesis of Compound 22
+To a solution of Compound 21 (445 mg, 0.88 mmol) in dichloromethane (2 mL) was added trifluoroacetic acid (2 mL), and the reaction mixture was stirred at room temperature for 3 hours. The solvent was distilled off under reduced pressure, and saturated sodium hydrogen carbonate aqueous solution was added to the residue, followed by extraction with chloroform twice. Then, the organic layer was dried over sodium sulfate. The solvent was distilled off under reduced pressure to give Compound 22 (269 mg, Yield 100%).

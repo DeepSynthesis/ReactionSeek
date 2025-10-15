@@ -1,0 +1,3 @@
+Embodiment 33D
+7-Fluoro-3,4-dihydro-1H-[1,4]oxazino[4,3-a]indole
+(6-Fluoro-1H-indol-2-yl)methanol (5.11 g, 30.94 mmol) and potassium hydroxide (4.34 g, 77.35 mmol) were dissolved in dichloromethane (300 mL) at 0 °C. Phenylvinylsulfone (14.02 g, 37.13 mmol) was added dropwise to the mixture and stirred at 20 °C for 12 hours. TLC showed the reaction was complete, the reaction mixture was washed with water (200 mL × 2), the organic phase was concentrated to give the crude product. The product was purified by column chromatography (PE: EA= 500: 1, 200: 1) to deliver the title compound (white solid, 3.65 g, yield 61.70%).

@@ -1,0 +1,9 @@
+T0	YIELD_PERCENT 391 394	87%
+T1	EXAMPLE_LABEL 5 6	2
+T2	STARTING_MATERIAL 286 287	w
+T3	YIELD_OTHER 377 383	0.61 g
+T4	STARTING_MATERIAL 173 228	mono-t-butoxycarbonyl (mono-t-Boc) protected piperazine
+T5	OTHER_COMPOUND 136 137	a
+T6	REACTION_PRODUCT 308 309	x
+T7	REACTION_PRODUCT 23 87	t-butyl 4-(4-amino-5-nitropyrimidine-2-yl)piperazine-1-carbonate
+T8	REACTION_PRODUCT 311 375	t-butyl 4-(4-amino-5-nitropyrimidine-2-yl)piperazine-1-carbonate

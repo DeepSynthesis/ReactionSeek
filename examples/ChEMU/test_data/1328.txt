@@ -1,0 +1,3 @@
+Preparation Example 33 Preparation of Compound 33
+After completely dissolving Compound A (10.0 g, 17.92 mmol) and (4-(4,6-diphenylpyrimidin-2-yl)phenyl)boronic acid (7.28 g, 20.61 mmol) in 400 ml of tetrahydrofuran in a 500 ml round bottom flask under nitrogen atmosphere, a 2 M aqueous potassium carbonate solution (200 ml) and then tetrakis-(triphenylphosphine)palladium (0.62 g, 0.54 mmol) were added thereto, and the result was heated and stirred for 5 hours. After lowering the temperature to room temperature, the water layer was removed, and the result was dried with anhydrous magnesium sulfate, vacuum concentrated, and then recrystallized with 310 ml of ethyl acetate to prepare Compound 33 (11.73 g, yield: 82%).
+MS[M+H]+=787

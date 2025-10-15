@@ -1,0 +1,2 @@
+[Step 3] Synthesis of N-(3-fluorophenyl)-N-((5-(hydrazinecarbonyl)pyridin-2-yl)methyl)nicotinamide
+Methyl 6-((N-(3-fluorophenyl)nicotinamido)methyl)nicotinate (0.111 g, 0.304 mmol), synthesized in step 2, and hydrazine monohydrate (0.295 mL, 6.076 mmol) were mixed in ethanol (10 mL) at room temperature, and the mixture was heated under reflux for 18 hours, and then cooled to room temperature. The reaction mixture was concentrated under reduced pressure to remove the solvent. The title compound was used without further purification (0.108 g, 97.3%) as yellow oil.

@@ -1,0 +1,25 @@
+T0	REAGENT_CATALYST 272 292	trifluoroacetic acid
+T1	YIELD_PERCENT 1072 1075	98%
+T2	TEMPERATURE 769 774	50° C
+T3	OTHER_COMPOUND 168 171	164
+T4	STARTING_MATERIAL 403 439	4-oxo-1-piperidine ethyl carboxylate
+T5	TEMPERATURE 522 538	room temperature
+T6	EXAMPLE_LABEL 8 11	164
+T7	REAGENT_CATALYST 566 594	sodium triacetoxyborohydride
+T8	OTHER_COMPOUND 911 926	sodium sulphate
+T9	STARTING_MATERIAL 354 378	3-amino-2-chloropyridine
+T10	OTHER_COMPOUND 1035 1048	ethyl acetate
+T11	YIELD_OTHER 1064 1070	43.2 g
+T12	OTHER_COMPOUND 1027 1034	heptane
+T13	TEMPERATURE 652 668	room temperature
+T14	EXAMPLE_LABEL 173 178	164.1
+T15	SOLVENT 453 470	isopropyl acetate
+T16	OTHER_COMPOUND 705 721	sodium hydroxide
+T17	TIME 508 518	30 minutes
+T18	OTHER_COMPOUND 848 861	ethyl acetate
+T19	REACTION_PRODUCT 180 251	4-(2-chloro-pyridin-3-ylamino)-piperidine-1-carboxylic acid ethyl ester
+T20	OTHER_COMPOUND 12 134	5-(2,3-difluorophenyl)-3-methyl-1-[2-oxo-2-[4-(2-oxo-3H-imidazo[4,5-b]pyridin-1-yl)-1-piperidyl]ethyl]pyrimidine-2,4-dione
+T21	OTHER_COMPOUND 987 997	silica gel
+T22	TIME 641 648	2 hours
+T23	REACTION_PRODUCT 1080 1141	4-(2-chloro-pyridin-3-ylamino)-piperidine-1-ethyl carboxylate
+T24	TIME 308 317	5 minutes

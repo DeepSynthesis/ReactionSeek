@@ -1,0 +1,12 @@
+T0	REACTION_PRODUCT 19 97	tert-butyl 4-(7-amino-5-methylbenzo[d][1,3]dioxol-4-yl)piperidin-1-carboxylate
+T1	OTHER_COMPOUND 277 285	nitrogen
+T2	YIELD_OTHER 538 543	800mg
+T3	REAGENT_CATALYST 291 295	Pd/C
+T4	YIELD_PERCENT 552 555	76%
+T5	SOLVENT 236 244	methanol
+T6	TIME 437 440	16h
+T7	REACTION_PRODUCT 529 536	product
+T8	STARTING_MATERIAL 98 199	Tert-butyl4-(7-amino-6-bromo-5-methylbenzo[d][1,3]dioxol-4-yl)-3,6-di hydropyridine-1(2H)-carboxylate
+T9	REAGENT_CATALYST 350 358	hydrogen
+T10	EXAMPLE_LABEL 1 2	6
+T11	TEMPERATURE 401 417	room temperature

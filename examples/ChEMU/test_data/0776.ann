@@ -1,0 +1,14 @@
+T0	REAGENT_CATALYST 240 244	Et3N
+T1	OTHER_COMPOUND 616 631	dichloromethane
+T2	EXAMPLE_LABEL 5 6	4
+T3	TEMPERATURE 463 482	ambient temperature
+T4	STARTING_MATERIAL 324 401	3-(4-aminoimidazo[2,1-f][1,2,4]triazin-7-yl)-4-methylbenzenesulfonyl chloride
+T5	OTHER_COMPOUND 569 579	silica gel
+T6	YIELD_OTHER 664 669	18 mg
+T7	YIELD_PERCENT 671 674	27%
+T8	SOLVENT 301 304	DCM
+T9	OTHER_COMPOUND 607 615	methanol
+T10	REACTION_PRODUCT 655 662	product
+T11	REAGENT_CATALYST 272 276	DMAP
+T12	REACTION_PRODUCT 8 132	benzyl 1-((3-(4-aminoimidazo[2,1-f][1,2,4]triazin-7-yl)-4-methylphenyl)sulfonamido)-3-azabicyclo[3.1.1]heptane-3-carboxylate
+T13	STARTING_MATERIAL 150 219	benzyl 1-amino-3-azabicyclo[3.1.1]heptane-3-carboxylate hydrochloride

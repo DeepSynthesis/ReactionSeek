@@ -1,0 +1,7 @@
+T0	STARTING_MATERIAL 320 346	tetrahydrofuroylpiperazine
+T1	EXAMPLE_LABEL 8 9	9
+T2	STARTING_MATERIAL 222 296	2-(2-bromoethyl)-7-methoxy-4,4-dimethyl-1,4-dihydrochromeno[4,3-c]pyrazole
+T3	REACTION_PRODUCT 26 129	2-(2-(4-cyclohexylcarbonyl-piperazinyl)ethyl)-2,4-dihydro-7-methoxy-4,4-dimethylchromeno[4,3-c]pyrazole
+T4	YIELD_PERCENT 388 391	62%
+T5	YIELD_OTHER 381 386	25 mg
+T6	REACTION_PRODUCT 135 151	desired compound

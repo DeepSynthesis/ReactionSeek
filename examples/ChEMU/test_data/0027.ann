@@ -1,0 +1,5 @@
+T0	REACTION_PRODUCT 64 136	7,8-dihydro-5H-thiopyrano[4,3-b]pyridine-3-carboxylic acid hydrochloride
+T1	EXAMPLE_LABEL 5 6	4
+T2	STARTING_MATERIAL 169 224	7,8-dihydro-5H-thiopyrano[4,3-b]pyridine-3-carbonitrile
+T3	YIELD_OTHER 138 144	901 mg
+T4	YIELD_PERCENT 146 149	78%

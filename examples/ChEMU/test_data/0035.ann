@@ -1,0 +1,14 @@
+T0	YIELD_OTHER 614 622	0.0220 g
+T1	YIELD_OTHER 624 635	0.0623 mmol
+T2	YIELD_PERCENT 637 640	79%
+T3	TEMPERATURE 337 340	0°C
+T4	STARTING_MATERIAL 202 289	1-(4-(dimethylamino)piperidin-1-yl)-3-hydroxy-3-(1-methyl-1H-imidazol-2-yl)propan-1-one
+T5	TEMPERATURE 380 396	room temperature
+T6	REACTION_PRODUCT 674 695	compound of Example 7
+T7	REACTION_PRODUCT 25 126	1-(4-(dimethylamino)piperidin-1-yl)-3-hydroxy-3-(1-methyl-1H-imidazol-2-yl)propan-1-one hydrochloride
+T8	EXAMPLE_LABEL 9 10	7
+T9	TEMPERATURE 484 500	room temperature
+T10	REACTION_PRODUCT 511 612	1-(4-(dimethylamino)piperidin-1-yl)-3-hydroxy-3-(1-methyl-1H-imidazol-2-yl)propan-1-one hydrochloride
+T11	TIME 401 409	15 hours
+T12	REAGENT_CATALYST 127 144	Hydrochloric acid
+T13	SOLVENT 317 322	water

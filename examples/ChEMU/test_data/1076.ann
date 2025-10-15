@@ -1,0 +1,18 @@
+T0	STARTING_MATERIAL 337 339	6o
+T1	TEMPERATURE 485 487	rt
+T2	EXAMPLE_LABEL 5 7	16
+T3	REACTION_PRODUCT 37 175	tert-butyl 2-(trans-10-allyloxy-9-oxo-3-thia-5,8,10-triaza-tricyclo[6.2.1.02,6]undeca-2(6),4-dien-7-yl)-4,5-dihydroimidazole-1-carboxylate
+T4	YIELD_PERCENT 766 769	91%
+T5	TIME 477 481	16 h
+T6	OTHER_COMPOUND 550 560	silica gel
+T7	YIELD_OTHER 755 764	2.24 mmol
+T8	REACTION_PRODUCT 742 744	6p
+T9	REACTION_PRODUCT 602 740	tert-butyl 2-(trans-10-allyloxy-9-oxo-3-thia-5,8,10-triaza-tricyclo[6.2.1.02,6]undeca-2(6),4-dien-7-yl)-4,5-dihydroimidazole-1-carboxylate
+T10	OTHER_COMPOUND 562 569	Heptane
+T11	YIELD_OTHER 747 753	0.91 g
+T12	OTHER_COMPOUND 503 509	silica
+T13	REACTION_PRODUCT 177 179	6p
+T14	OTHER_COMPOUND 570 577	Acetone
+T15	REAGENT_CATALYST 423 427	PPh3
+T16	SOLVENT 374 381	toluene
+T17	STARTING_MATERIAL 198 335	tert-butyl N-(2-azidoethyl)-N-[trans-10-allyloxy-9-oxo-3-thia-5,8,10-triaza-tricyclo[6.2.1.02,6]undeca-2(6),4-diene-7-carbonyl)]carbamate

@@ -1,0 +1,3 @@
+(Example 54)
+Step 1
+Under ice-cooling, to Compound 200 (550 mg, 1.05 mmol) in THF (5 mL) solution was added 0.5 mol/L 9-borabicyclo[3.3.1]nonane in THF solution (3.14 mL, 1.57 mmol), and the mixture was stirred under nitrogen atmosphere at 0°C for 4 hours. Then water (5 mL) and sodium perborate tetrahydrate (484 mg, 3.14 mmol) were added thereto, and the mixture was stirred at room temperature for 4.5 hours. Water was added thereto, and the mixture was extracted with chloroform. The organic layer was washed with water, and dried over anhydrous sodium sulfate. After concentration under reduced pressure, the residue was purified by silica gel column chromatography (hexane - ethyl acetate) to obtain Compound 204 (490 mg, 86% yield) as yellow foam.

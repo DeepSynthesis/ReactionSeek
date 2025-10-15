@@ -1,0 +1,15 @@
+T0	EXAMPLE_LABEL 200 204	48.1
+T1	REAGENT_CATALYST 575 579	soda
+T2	TIME 616 622	1 hour
+T3	YIELD_OTHER 624 630	440 mg
+T4	STARTING_MATERIAL 359 432	(5-bromo-3-methyl-2,4-dioxo-3,4-dihydro-2H-pyrimidin-1-yl)-methyl acetate
+T5	REACTION_PRODUCT 206 296	[5-(5-chloro-2-methylphenyl)-3-methyl-2,4-dioxo-3,4-dihydro-2H-pyrimidin-1-yl]-acetic acid
+T6	REAGENT_CATALYST 567 574	aqueous
+T7	SOLVENT 567 574	aqueous
+T8	OTHER_COMPOUND 11 162	5-(5-chloro-2-methylphenyl)-3-methyl-1-{2-oxo-2-[4-(2-oxo-1,2,4,5-tetrahydro-benzo[d][1,3]diazepin-3-yl)-piperidin-1-yl]-ethyl}-1H-pyrimidine-2,4-dione
+T9	EXAMPLE_LABEL 8 10	48
+T10	STARTING_MATERIAL 498 535	(5-chloro-2-methylphenyl)boronic acid
+T11	REACTION_PRODUCT 640 730	[5-(5-chloro-2-methylphenyl)-3-methyl-2,4-dioxo-3,4-dihydro-2H-pyrimidin-1-yl]-acetic acid
+T12	YIELD_PERCENT 632 635	99%
+T13	TEMPERATURE 604 610	100° C
+T14	OTHER_COMPOUND 196 198	48

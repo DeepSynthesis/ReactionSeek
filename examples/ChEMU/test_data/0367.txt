@@ -1,0 +1,2 @@
+Synthesis Example 3-5: Synthesis of [Intermediate 3-e]
+In a round-bottom flask, Intermediate 3-d (30 g, 85 mmol) and dichloromethane (300 ml) were placed under a nitrogen atmosphere, cooled to 0° C., and then slowly added with drops of a dilution of borontribromide (63.9 g, 255 mmol) in dichloromethane (150 ml). The reaction mixture was heated to room temperature and stirred for 6 hours. After completion of the reaction, the organic layer was concentrated in a vacuum. Column chromatographic separation afforded Intermediate 3-e (21.3 g): yield 74%

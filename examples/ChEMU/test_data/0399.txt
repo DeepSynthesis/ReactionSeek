@@ -1,0 +1,4 @@
+Example 61
+5-Methyl-6-[6-(1-methyl-3-trifluoromethyl-1H-pyrazol-4-yl)-pyridin-2-ylmethyl]-[1,2,5]oxadiazolo[3,4-b]pyridin-7-ylamine
+Obtained by starting from 6-(6-Chloro-pyridin-2-ylmethyl)-5-methyl-[1,2,5]oxadiazolo[3,4-b]pyridin-7-ylamine (example 3) and 1-Methyl-3-trifluoromethylpyrazole-4-boronic acid. The mixture filtered and purified by RP-HPLC (modifier: ammonium hydroxide).
+Yield: 14 mg (39% of theory)

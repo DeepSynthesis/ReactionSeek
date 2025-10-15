@@ -1,0 +1,24 @@
+T0	OTHER_COMPOUND 920 928	methanol
+T1	TEMPERATURE 428 436	50˜60° C
+T2	TEMPERATURE 492 508	room temperature
+T3	OTHER_COMPOUND 658 663	water
+T4	REAGENT_CATALYST 388 391	NCS
+T5	REACTION_PRODUCT 26 143	(S)-6-chloro-4-((1-(5-chloro-4-oxo-3-phenyl-3,4-dihydroquinazoline-2-yl)ethyl)amino)pyrido[2,3-d]pyrimidine-5(8H)-one
+T6	OTHER_COMPOUND 889 897	methanol
+T7	OTHER_COMPOUND 873 888	dichloromethane
+T8	EXAMPLE_LABEL 8 10	22
+T9	OTHER_COMPOUND 638 653	Dichloromethane
+T10	REACTION_PRODUCT 956 971	target compound
+T11	YIELD_OTHER 1114 1124	0.006 mmol
+T12	YIELD_OTHER 944 948	3 mg
+T13	OTHER_COMPOUND 574 581	aqueous
+T14	OTHER_COMPOUND 859 863	SiO2
+T15	OTHER_COMPOUND 904 919	dichloromethane
+T16	OTHER_COMPOUND 747 753	Na2SO4
+T17	REACTION_PRODUCT 972 1089	(S)-6-chloro-4-((1-(5-chloro-4-oxo-3-phenyl-3,4-dihydroquinazoline-2-yl)ethyl)amino)pyrido[2,3-d]pyrimidine-5(8H)-one
+T18	REAGENT_CATALYST 322 333	acetic acid
+T19	OTHER_COMPOUND 556 573	sodiumbicarbonate
+T20	TIME 442 450	12 hours
+T21	YIELD_PERCENT 1133 1136	28%
+T22	STARTING_MATERIAL 166 274	(S)-4-((1-(5-chloro-4-oxo-3-phenyl-3,4-dihydroquinazoline-2-yl)ethyl)amino)pyrido[2,3-d]pyrimidine-5(8H)-one
+T23	REAGENT_CATALYST 367 386	N-chlorosuccinimide

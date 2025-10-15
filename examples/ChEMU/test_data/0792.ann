@@ -1,0 +1,14 @@
+T0	YIELD_PERCENT 875 880	22.4%
+T1	YIELD_OTHER 719 726	17.0 mg
+T2	REAGENT_CATALYST 434 459	N,N-diisopropylethylamine
+T3	TEMPERATURE 480 496	room temperature
+T4	OTHER_COMPOUND 587 593	CH2Cl2
+T5	OTHER_COMPOUND 582 586	MeOH
+T6	STARTING_MATERIAL 322 363	1-methyl-1H-imidazole-4-sulfonyl chloride
+T7	SOLVENT 296 302	CH2Cl2
+T8	REACTION_PRODUCT 730 839	(R)-N-methyl-N-(1-((1-methyl-1H-imidazole-4-yl)sulfonyl)pyrrolidine-3-yl)-7H-pyrrolo[2,3-d]pyrimidine-4-amine
+T9	EXAMPLE_LABEL 8 10	13
+T10	SOLVENT 279 294	dichloromethane
+T11	REACTION_PRODUCT 12 121	(R)-N-methyl-N-(1-((1-methyl-1H-imidazole-4-yl)sulfonyl)pyrrolidine-3-yl)-7H-pyrrolo[2,3-d]pyrimidine-4-amine
+T12	STARTING_MATERIAL 133 202	(R)-N-methyl-N-(pyrrolidine-3-yl)-7H-pyrrolo[2,3-d]pyrimidine-4-amine
+T13	TIME 507 513	1 hour

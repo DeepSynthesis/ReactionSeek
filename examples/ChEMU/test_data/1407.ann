@@ -1,0 +1,10 @@
+T0	STARTING_MATERIAL 338 369	5-chloropyridine-3-boronic acid
+T1	REACTION_PRODUCT 505 576	1-benzhydryl-5-(5-chloro-pyridin-3-yl)-3-methyl-1H-pyrimidine-2,4-dione
+T2	YIELD_PERCENT 497 500	96%
+T3	EXAMPLE_LABEL 8 10	45
+T4	OTHER_COMPOUND 11 160	5-(5-chloro-pyridin-3-yl)-3-methyl-1-{2-oxo-2-[4-(2-oxo-1,2,4,5-tetrahydro-benzo[d][1,3]diazepin-3-yl)-piperidin-1-yl]-ethyl}-1H-pyrimidine-2,4-dione
+T5	STARTING_MATERIAL 395 448	1-benzhydryl-5-bromo-3-methyl-1H-pyrimidine-2,4-dione
+T6	REACTION_PRODUCT 204 275	1-benzhydryl-5-(5-chloro-pyridin-3-yl)-3-methyl-1H-pyrimidine-2,4-dione
+T7	YIELD_OTHER 489 495	340 mg
+T8	OTHER_COMPOUND 194 196	45
+T9	EXAMPLE_LABEL 198 202	45.1

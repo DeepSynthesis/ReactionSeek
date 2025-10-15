@@ -1,0 +1,15 @@
+T0	REACTION_PRODUCT 15 102	5-bromo-1-methyl-3-(1-methyl-1,2,3,6-tetrahydropyridin-4-yl)-1H-pyrrolo-[2,3-b]pyridine
+T1	OTHER_COMPOUND 507 520	ethyl acetate
+T2	SOLVENT 269 276	dioxane
+T3	REAGENT_CATALYST 368 373	K2CO3
+T4	REACTION_PRODUCT 683 698	desired product
+T5	YIELD_OTHER 700 706	106 mg
+T6	SOLVENT 398 403	water
+T7	STARTING_MATERIAL 195 244	1-methyl-1,2,3,6-tetrahydropyridin-4-boronic acid
+T8	OTHER_COMPOUND 525 530	brine
+T9	YIELD_PERCENT 708 711	65%
+T10	TEMPERATURE 459 464	40° C
+T11	STARTING_MATERIAL 120 169	5-bromo-3-iodo-1-methyl-1H-pyrrolo[2,3-b]pyridine
+T12	REAGENT_CATALYST 306 346	tetrakis(triphenylphosphine)palladium(0)
+T13	TIME 470 474	15 h
+T14	OTHER_COMPOUND 576 582	Na2SO4

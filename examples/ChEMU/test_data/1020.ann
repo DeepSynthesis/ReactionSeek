@@ -1,0 +1,20 @@
+T0	STARTING_MATERIAL 674 700	isopropylsulfonyl chloride
+T1	TEMPERATURE 523 539	room temperature
+T2	REACTION_PRODUCT 922 1036	8-cyclopentyl-6-(2-hydroxyethyl)-2-{[1-(propan-2-ylsulfonyl)piperidin-4-yl]-amino}pyrido[2,3-d]pyrimidin-7(8H)-one
+T3	YIELD_PERCENT 1060 1063	22%
+T4	REAGENT_CATALYST 394 407	Triethylamine
+T5	OTHER_COMPOUND 807 811	NaOH
+T6	TIME 643 649	20 min
+T7	YIELD_OTHER 1051 1058	28.3 mg
+T8	TEMPERATURE 278 294	room temperature
+T9	STARTING_MATERIAL 72 196	tert-butyl 4-((8-cyclopentyl-6-(2-hydroxyethyl)-7-oxo-7,8-dihydropyrido[2,3-d]pyrimidin-2-yl)-amino)piperidine-1-carboxylate
+T10	TIME 547 557	20 minutes
+T11	SOLVENT 370 385	dichloromethane
+T12	TIME 763 778	15 more minutes
+T13	OTHER_COMPOUND 861 876	dichloromethane
+T14	STARTING_MATERIAL 564 590	isopropylsulfonyl chloride
+T15	SOLVENT 227 242	dichloromethane
+T16	REAGENT_CATALYST 0 20	Trifluoroacetic acid
+T17	STARTING_MATERIAL 434 460	isopropylsulfonyl chloride
+T18	TIME 299 309	30 minutes
+T19	STARTING_MATERIAL 198 202	136B

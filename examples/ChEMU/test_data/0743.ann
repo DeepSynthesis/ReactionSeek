@@ -1,0 +1,22 @@
+T0	REACTION_PRODUCT 187 307	4-(4-(4-iodophenyl)-3,6-dihydropyridin-1(2H)-yl)-2-methyl-2-(methylsulfonyl)-N-((tetrahydro-2H-pyran-2-yl)oxy)butanamide
+T1	OTHER_COMPOUND 808 813	water
+T2	YIELD_OTHER 993 998	0.6 g
+T3	EXAMPLE_LABEL 12 13	3
+T4	SOLVENT 433 436	DMF
+T5	OTHER_COMPOUND 43 165	{4-(4-(4-iodophenyl)-3,6-dihydropyridin-1(2H)-yl)-2-methyl-2-(methylsulfonyl)-N-((tetrahydro-2H-pyran-2-yl)oxy)butanamide}
+T6	OTHER_COMPOUND 877 882	MgSO4
+T7	OTHER_COMPOUND 849 854	brine
+T8	YIELD_PERCENT 1000 1003	28%
+T9	REAGENT_CATALYST 585 605	Hydroxybenzotriazole
+T10	REACTION_PRODUCT 977 991	title compound
+T11	OTHER_COMPOUND 790 803	ethyl acetate
+T12	REAGENT_CATALYST 625 629	Et3N
+T13	TIME 733 737	1 hr
+T14	EXAMPLE_LABEL 171 172	2
+T15	STARTING_MATERIAL 325 414	4-(4-(4-iodophenyl)-3,6-dihydropyridin-1(2H)-yl)-2-methyl-2-(methylsulfonyl)butanoic acid
+T16	STARTING_MATERIAL 646 701	O-(tetrahydro-2H-pyran-2-yl)hydroxylamine hydrochloride
+T17	TEMPERATURE 741 757	room temperature
+T18	REACTION_PRODUCT 41 42	3
+T19	REAGENT_CATALYST 460 464	HATU
+T20	REAGENT_CATALYST 579 583	HOBT
+T21	REAGENT_CATALYST 466 559	1-[Bis(dimethylamino)methylene]-1H-1,2,3-triazolo[4,5-b]pyridinium 3-oxid hexafluorophosphate

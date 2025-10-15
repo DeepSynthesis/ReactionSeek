@@ -1,0 +1,14 @@
+T0	REACTION_PRODUCT 733 747	title compound
+T1	EXAMPLE_LABEL 7 9	11
+T2	OTHER_COMPOUND 620 626	silica
+T3	TIME 547 554	4 hours
+T4	REACTION_PRODUCT 10 180	1,1-Dioxo-3,3-dibutyl-5-phenyl-7-methylthio-8-(N-{(R)-α-[N-(t-butoxycarbonylmethyl)-N-methylcarbamoyl]benzyl}carbamoylmethoxy)-2,3,4,5-tetrahydro-1,2,5-benzothiadiazepine
+T5	REAGENT_CATALYST 474 478	TBTU
+T6	YIELD_PERCENT 756 759	50%
+T7	OTHER_COMPOUND 683 686	DCM
+T8	STARTING_MATERIAL 350 378	tert-butyl N-methylglycinate
+T9	REAGENT_CATALYST 430 448	N-methylmorpholine
+T10	STARTING_MATERIAL 181 313	1,1-Dioxo-3,3-dibutyl-5-phenyl-7-methylthio-8-[N-((R)-α-carboxybenzyl) carbamoylmethoxy]-2,3,4,5-tetrahydro-1,2,5-benzothiadiazepine
+T11	YIELD_OTHER 749 754	30 mg
+T12	OTHER_COMPOUND 687 692	EtOAc
+T13	SOLVENT 416 419	DCM

@@ -1,0 +1,4 @@
+Example 7
+N-(2-Methoxy-4-(piperidin-4-yl)phenyl)-3-(2-methoxyphenyl)-3H-[1,2,3]tria zolo[4,5-d]pyrimidin-5-amine (compound 7)
+Preparation of compound 7-c.
+2,3-Dichloro-4-nitropyrimidine (5.8 g, 30 mmol) was dissolved in anhydrous tetrahydrofuran (100 mL) and the reaction solution was cooled to -78°C. Then 2-methoxyaniline (3.7 g, 30 mmol) and diisopropylethylamine (3.9 g, 30 mmol) were added to the solution and stirring was continued for 2 hours. The reaction mixutre was allowed to warm to room temperature, 1 M aqueous hydrochloric acid solution (50 mL) was added and then extracted with dichloromethane (50 mL × 3). The combined organic phases were dried over anhydrous sodium sulfate and filtered, and the filtrate was concentrated under reduced pressure to deliver a yellow solid 7-c (6.9 g, yield: 82%). This product was used without further purification.

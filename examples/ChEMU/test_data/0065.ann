@@ -1,0 +1,18 @@
+T0	TEMPERATURE 821 837	room temperature
+T1	REACTION_PRODUCT 15 210	tert-butyl 3-((3-ethoxy-4-((6S,8R)-7-((1-fluorocyclopropyl)methyl)-8-methyl-3-(tetrahydro-2H-pyran-2-yl)-6,7,8,9-tetrahydro-3H-pyrazolo[4,3-f]isoquinolin-6-yl)phenyl)amino)azetidine-1-carboxylate
+T2	YIELD_PERCENT 1214 1217	53%
+T3	STARTING_MATERIAL 469 510	tert-butyl 3-aminoazetidine-1-carboxylate
+T4	OTHER_COMPOUND 580 582	N2
+T5	TEMPERATURE 743 748	90° C
+T6	OTHER_COMPOUND 974 987	ethyl acetate
+T7	REACTION_PRODUCT 1010 1205	tert-butyl 3-((3-ethoxy-4-((6S,8R)-7-((1-fluorocyclopropyl)methyl)-8-methyl-3-(tetrahydro-2H-pyran-2-yl)-6,7,8,9-tetrahydro-3H-pyrazolo[4,3-f]isoquinolin-6-yl)phenyl)amino)azetidine-1-carboxylate
+T8	YIELD_OTHER 1207 1212	86 mg
+T9	TIME 754 760	1 hour
+T10	SOLVENT 211 218	Dioxane
+T11	STARTING_MATERIAL 262 416	(6S,8R)-6-(4-bromo-2-ethoxyphenyl)-7-((1-fluorocyclopropyl)methyl)-8-methyl-3-(tetrahydro-2H-pyran-2-yl)-6,7,8,9-tetrahydro-3H-pyrazolo[4,3-f]isoquinoline
+T12	TEMPERATURE 773 778	90° C
+T13	TIME 784 792	44 hours
+T14	REAGENT_CATALYST 438 444	Cs2CO3
+T15	REAGENT_CATALYST 589 625	BrettPhos 3rd Generation Precatalyst
+T16	OTHER_COMPOUND 991 998	hexanes
+T17	OTHER_COMPOUND 701 709	nitrogen

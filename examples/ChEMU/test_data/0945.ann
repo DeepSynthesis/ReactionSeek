@@ -1,0 +1,17 @@
+T0	REACTION_PRODUCT 139 140	5
+T1	REACTION_PRODUCT 831 845	title compound
+T2	TIME 659 665	10 min
+T3	EXAMPLE_LABEL 1 2	6
+T4	TIME 526 532	10 min
+T5	SOLVENT 576 583	acetone
+T6	SOLVENT 307 322	dichloromethane
+T7	SOLVENT 461 468	acetone
+T8	REAGENT_CATALYST 340 360	trifluoroacetic acid
+T9	YIELD_PERCENT 880 885	9.1 %
+T10	TEMPERATURE 428 433	25 °C
+T11	REACTION_PRODUCT 19 128	(2S,5R)-2-((3-azabicyclo[3.2.1]octan-8-yl)carbamoyl)-7-oxo-1,6-diazabicyclo[3.2.1]octan-6-yl hydrogen sulfate
+T12	STARTING_MATERIAL 142 269	Tert-butyl 8-((2S',5R)-7-oxo-6-(sulfooxy)-1,6-diazabicyclo[3.2.1]octane-2-carboxamido)-3-azabicyclo[3.2.1]o ctane-3-carboxylate
+T13	YIELD_OTHER 867 872	30 mg
+T14	OTHER_COMPOUND 810 815	water
+T15	TIME 438 441	1 h
+T16	OTHER_COMPOUND 554 572	sodium iso-octoate

@@ -1,0 +1,18 @@
+T0	REACTION_PRODUCT 160 245	(R)-6-Chloro-1-(1-(2,4-dichlorophenyl)ethyl)-1H-pyrazolo[3,4-b]pyrazine-3-carboxamide
+T1	TIME 549 552	3 d
+T2	OTHER_COMPOUND 652 665	ethyl acetate
+T3	OTHER_COMPOUND 593 600	aqueous
+T4	REACTION_PRODUCT 774 788	title compound
+T5	OTHER_COMPOUND 11 151	1-((R)-1-(2,4-Dichlorophenyl)ethyl)-6-((3'R,4'S)-3'-methyl-[1,4'-bipiperidin]-1'-yl)-1H-pyrazolo[3,4-b]pyrazine-3-carbonitrile hydrochloride
+T6	EXAMPLE_LABEL 8 10	23
+T7	SOLVENT 469 474	water
+T8	YIELD_OTHER 790 795	3.4 g
+T9	SOLVENT 392 403	1,4-dioxane
+T10	TEMPERATURE 415 431	room temperature
+T11	REAGENT_CATALYST 442 460	ammonium hydroxide
+T12	YIELD_PERCENT 797 800	92%
+T13	TEMPERATURE 528 544	room temperature
+T14	OTHER_COMPOUND 601 619	sodium bicarbonate
+T15	STARTING_MATERIAL 263 354	ethyl (R)-6-chloro-1-(1-(2,4-dichlorophenyl)ethyl)-1H-pyrazolo[3,4-b]pyrazine-3-carboxylate
+T16	OTHER_COMPOUND 716 721	MgSO4
+T17	EXAMPLE_LABEL 157 158	1

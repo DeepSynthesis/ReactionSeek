@@ -1,0 +1,2 @@
+Synthesis Example 6: Synthesis of Compound 26
+Compound 26 (5.6 g, a yield of 87%) was obtained according to the same method as Synthesis Example 1 except for using N-phenyl3-bromoparabiphenyl instead of the bromobenzene in Step 1 of Synthesis Example 1 and 3-bromodibenzothiophene in Step 2 thereof. calcd. C54H32N2S: C, 87.54; H, 4.35; N, 3.78; S, 4.33; found: C, 87.54; H, 4.35; N, 3.78; S, 4.33.

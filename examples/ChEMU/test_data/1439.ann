@@ -1,0 +1,17 @@
+T0	STARTING_MATERIAL 235 326	(R)-1-(3-(dimethylamino)piperidin-1-yl)-3-(1-(2-methoxyethyl)-1H-imidazol-2-yl)propan-1-one
+T1	YIELD_OTHER 741 751	0.463 mmol
+T2	SOLVENT 165 178	diethyl ether
+T3	REACTION_PRODUCT 24 129	(R)-1-(3-(dimethylamino)piperidin-1-yl)-3-(1-(2-methoxyethyl)-1H-imidazol-2-yl)propan-1-one Hydrochloride
+T4	TEMPERATURE 472 488	room temperature
+T5	TIME 445 451	1 hour
+T6	TEMPERATURE 379 383	0° C
+T7	TEMPERATURE 598 614	room temperature
+T8	SOLVENT 352 365	diethyl ether
+T9	YIELD_PERCENT 753 756	86%
+T10	REACTION_PRODUCT 789 811	compound of Example 21
+T11	TIME 493 500	3 hours
+T12	REACTION_PRODUCT 625 730	(R)-1-(3-(dimethylamino)piperidin-1-yl)-3-(1-(2-methoxyethyl)-1H-imidazol-2-yl)propan-1-one hydrochloride
+T13	EXAMPLE_LABEL 8 10	21
+T14	YIELD_OTHER 732 739	0.177 g
+T15	REAGENT_CATALYST 144 161	hydrogen chloride
+T16	OTHER_COMPOUND 571 584	diethyl ether

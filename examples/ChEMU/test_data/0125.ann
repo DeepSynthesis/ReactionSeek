@@ -1,0 +1,18 @@
+T0	TEMPERATURE 253 256	0°C
+T1	EXAMPLE_LABEL 5 6	3
+T2	OTHER_COMPOUND 546 556	silica gel
+T3	OTHER_COMPOUND 584 599	petroleum ether
+T4	OTHER_COMPOUND 385 403	sodium bicarbonate
+T5	TIME 316 323	2 hours
+T6	REAGENT_CATALYST 118 131	triethylamine
+T7	SOLVENT 170 185	dichloromethane
+T8	TEMPERATURE 295 311	room temperature
+T9	STARTING_MATERIAL 195 219	methanesulfonyl chloride
+T10	OTHER_COMPOUND 447 461	sodium sulfate
+T11	YIELD_OTHER 687 693	400 mg
+T12	REACTION_PRODUCT 7 57	2-(4,6-Dimethylpyridin-2-yl)ethyl methanesulfonate
+T13	STARTING_MATERIAL 58 93	2-(4,6-Dimethylpyridin-2-yl)ethanol
+T14	OTHER_COMPOUND 338 353	dichloromethane
+T15	YIELD_PERCENT 731 734	61%
+T16	OTHER_COMPOUND 602 615	ethyl acetate
+T17	REACTION_PRODUCT 635 685	2-(4,6-dimethylpyridin-2-yl)ethyl methanesulfonate

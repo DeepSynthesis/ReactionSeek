@@ -1,0 +1,3 @@
+Example 3
+Synthesis of 8-chloro-2-methylthiopyrido[3,4-d]pyrimidin-6-yl benzoate
+The 6-((benzoyloxy)methyl)-2-(methylthio)pyrido[3,4-d]pyrimidine 7-oxide synthesized in Example 2 (5.0 g, 15.3 mmol) was dissolved in dichloromethane (60 mL) and cooled to 0°C. Thionyl chloride (25 mL, 343 mmol) was added dropwise to the solution at 0°C, and the mixture was stirred at room temperature for 16 hours. The reaction was monitored by TLC. After completion of the reaction, the reaction mixture was concentrated under reduced pressure, followed by azeotropic distillation twice with toluene (20 mL), to remove thionyl chloride. The residue was roughly purified by neutral alumina column chromatography to yield the title compound (2.75 g, 52%).

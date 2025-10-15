@@ -1,0 +1,12 @@
+T0	STARTING_MATERIAL 215 310	[5-bromo-3-((S)-2-chloro-1-methylethyl)-2,4-dioxo-3,4-dihydro-2H-pyrimidin-1-yl]-methyl acetate
+T1	YIELD_PERCENT 486 489	39%
+T2	TIME 416 424	22 hours
+T3	YIELD_OTHER 478 484	440 mg
+T4	REAGENT_CATALYST 364 369	water
+T5	REAGENT_CATALYST 123 136	triethylamine
+T6	SOLVENT 151 159	methanol
+T7	TEMPERATURE 405 410	70° C
+T8	REACTION_PRODUCT 7 103	[5-bromo-3-((S)-2-hydroxy-1-methylethyl)-2,4-dioxo-3,4-dihydro-2H-pyrimidin-1-yl]-methyl acetate
+T9	SOLVENT 323 338	tetrahydrofuran
+T10	REACTION_PRODUCT 494 590	[5-bromo-3-((S)-2-hydroxy-1-methylethyl)-2,4-dioxo-3,4-dihydro-2H-pyrimidin-1-yl]-methyl acetate
+T11	EXAMPLE_LABEL 0 5	121.2

@@ -1,0 +1,3 @@
+Preparation Example 5 Preparation of Compound 5
+15.15 g of Compound 5 was prepared in the same manner as in Preparation Example 1, except that Compound A (10 g, 31.53 mmol) and 9-bromophenanthrene (5.88 g, 34.69 mmol) were used. (97%)
+MS[M+H]+=494

@@ -1,0 +1,20 @@
+T0	TIME 399 405	5 days
+T1	TEMPERATURE 388 393	50° C
+T2	REAGENT_CATALYST 273 299	propylphosphonic anhydride
+T3	REACTION_PRODUCT 754 862	2-(2-methoxyethoxy)-4-methyl-N-(4-(2-oxo-1,2,3,4-tetrahydroquinolin-6-yl)thiazol-2-yl)thiazole-5-carboxamide
+T4	OTHER_COMPOUND 582 588	NaHCO3
+T5	YIELD_OTHER 864 871	0.102 g
+T6	OTHER_COMPOUND 737 745	methanol
+T7	EXAMPLE_LABEL 8 10	50
+T8	STARTING_MATERIAL 110 165	2-(2-methoxyethoxyl)-4-methylthiazole-5-carboxylic acid
+T9	OTHER_COMPOUND 496 507	isopropanol
+T10	SOLVENT 226 238	acetonitrile
+T11	OTHER_COMPOUND 450 456	NaHCO3
+T12	SOLVENT 321 334	ethyl acetate
+T13	REAGENT_CATALYST 192 200	pyridine
+T14	OTHER_COMPOUND 480 495	dichloromethane
+T15	OTHER_COMPOUND 611 617	Na2SO4
+T16	OTHER_COMPOUND 699 709	silica gel
+T17	YIELD_PERCENT 873 876	57%
+T18	OTHER_COMPOUND 721 736	dichloromethane
+T19	STARTING_MATERIAL 30 83	6-(2-aminothiazol-4-yl)-3,4-dihydroquinolin-2(1H)-one

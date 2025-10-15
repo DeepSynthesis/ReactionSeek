@@ -1,0 +1,2 @@
+ee. PREPARATION OF (S)-3-(3,5-DIFLUOROPHENYL)-N-((2S,6S,8AS,14AS,20S,23AS)-2,6-DIMETHYL-5,8,14,19,23-PENTAOXOOCTADECAHYDRO-1H,5H,14H,19H-PYRIDO[2,1-I]DIPYRROLO[2,1-C:2',1'-L][1]OXA[4,7,10,13]TETRAAZACYCLOHEXADECIN-20-YL)-2-(3-(P-TOLYL)UREIDO)PROPANAMIDE (COMPOUND 45)
+Compound 45 was synthesized from macrocycle C (100 mg, 0.143 mmol), p-tolyl isocyanate (19.1 mg, 0.143 mmol) and triethylamine (78 μL, 0.574 mmol) as a white solid (30 mg, 26.3%) following the general synthesis pathway described herein above;

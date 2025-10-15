@@ -1,0 +1,7 @@
+T0	YIELD_PERCENT 262 265	82%
+T1	EXAMPLE_LABEL 8 12	179A
+T2	REACTION_PRODUCT 284 298	title compound
+T3	STARTING_MATERIAL 210 232	compound from Ex. 172A
+T4	YIELD_OTHER 254 260	295 mg
+T5	REACTION_PRODUCT 13 123	5-(Difluoromethyl)-3-ethyl-6-(hydroxymethyl)-1-(3,3,3-trifluoropropyl)thieno[2,3-d]pyrimidine-2,4(1H,3H)-dione
+T6	TEMPERATURE 330 336	−40° C

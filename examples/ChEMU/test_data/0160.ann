@@ -1,0 +1,9 @@
+T0	EXAMPLE_LABEL 20 21	2
+T1	YIELD_OTHER 498 508	12.94 mmol
+T2	YIELD_OTHER 220 226	5.51 g
+T3	REACTION_PRODUCT 230 325	tert-butyl (S)-2-(5-chloro-4-oxo-3-phenyl-3,4-dihydroquinazoline-2-yl)pyrrolidine-1-carboxylate
+T4	EXAMPLE_LABEL 106 107	1
+T5	STARTING_MATERIAL 388 419	(tert-butoxycarbonyl)-L-proline
+T6	REACTION_PRODUCT 124 219	tert-butyl (S)-2-(5-chloro-4-oxo-3-phenyl-3,4-dihydroquinazoline-2-yl)pyrrolidine-1-carboxylate
+T7	YIELD_PERCENT 517 520	74%
+T8	OTHER_COMPOUND 37 100	(S)-5-chloro-3-phenyl-2-(pyrrolidine-2-yl)quinazoline-4(3H)-one

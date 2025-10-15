@@ -1,0 +1,13 @@
+T0	OTHER_COMPOUND 541 545	MTBE
+T1	SOLVENT 313 324	1,4-dioxane
+T2	EXAMPLE_LABEL 5 6	B
+T3	STARTING_MATERIAL 137 254	tert-Butyl (S)-6-oxo-6-((S)-2-((S)-1-phenyl-2-(pyridin-2-yl)ethylcarbamoyl)pyrrolidin-1-yl)hexane-1,5-diyldicarbamate
+T4	REAGENT_CATALYST 297 300	HCl
+T5	YIELD_PERCENT 637 640	88%
+T6	REACTION_PRODUCT 20 136	2-[(2 S)-2-{[(2S)-1-[(2S)-2,5-diazaniumylhexanoyl]pyrrolidin-2-yl]formamido}-2-phenylethyl]pyridin-1-ium trichloride
+T7	TEMPERATURE 373 375	rt
+T8	OTHER_COMPOUND 597 602	water
+T9	REACTION_PRODUCT 649 663	title compound
+T10	YIELD_OTHER 630 635	60 mg
+T11	OTHER_COMPOUND 464 468	MTBE
+T12	TIME 380 388	18 hours

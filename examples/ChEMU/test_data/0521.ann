@@ -1,0 +1,8 @@
+T0	YIELD_OTHER 211 219	71.72 mg
+T1	REACTION_PRODUCT 117 196	N-(2-(diethylamino)ethyl)-4-(3-(N-phenylpentaneamido)prop-1 -yn-1 -yl)benzamide
+T2	EXAMPLE_LABEL 8 10	40
+T3	REACTION_PRODUCT 107 115	LMT-1016
+T4	STARTING_MATERIAL 391 421	N,N-dimethylethane-1,2-diamine
+T5	REACTION_PRODUCT 27 105	N-(2-(dimethylamino)ethyl)-4-(3-(N-phenylpentaneamido)prop-1-yn-1-yl)benzamide
+T6	YIELD_PERCENT 221 224	74%
+T7	STARTING_MATERIAL 288 341	4-(3-(N-phenylpentaneamido)pro-1-yn-1-yl)benzoic acid

@@ -1,0 +1,7 @@
+T0	STARTING_MATERIAL 249 302	(4-(3-hydroxyprop-1-ynyl)phenyl)(morpholino)methanone
+T1	EXAMPLE_LABEL 5 6	3
+T2	YIELD_OTHER 165 171	391 mg
+T3	STARTING_MATERIAL 346 370	methanesulfonyl chloride
+T4	YIELD_PERCENT 179 182	80%
+T5	REACTION_PRODUCT 23 86	3-(4-(morpholine-4-carbonyl)phenyl)prop-2-ynyl methanesulfonate
+T6	REACTION_PRODUCT 87 150	3-(4-(morpholine-4-carbonyl)phenyl)prop-2-ynyl methanesulfonate

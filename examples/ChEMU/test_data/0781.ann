@@ -1,0 +1,15 @@
+T0	YIELD_PERCENT 907 910	84%
+T1	TEMPERATURE 538 554	room temperature
+T2	SOLVENT 375 386	1,4-dioxane
+T3	SOLVENT 186 197	1,4-dioxane
+T4	REACTION_PRODUCT 13 78	tert-butyl (3-(2-chloro-5-nitropyrimidyl-4-amino)phenyl)carbamate
+T5	OTHER_COMPOUND 772 785	ethyl acetate
+T6	REAGENT_CATALYST 301 326	N,N-diisopropylethylamine
+T7	STARTING_MATERIAL 242 278	Tert-butyl (3-aminophenyl) carbamate
+T8	OTHER_COMPOUND 754 769	petroleum ether
+T9	TEMPERATURE 224 240	room temperature
+T10	OTHER_COMPOUND 720 730	silica gel
+T11	YIELD_OTHER 894 899	5.9 g
+T12	STARTING_MATERIAL 79 110	2,4-dichloro-5-nitro-pyrimidine
+T13	REACTION_PRODUCT 810 875	tert-butyl (3-(2-chloro-5-nitropyrimidyl-4-amino)phenyl)carbamate
+T14	TIME 559 564	0.5 h

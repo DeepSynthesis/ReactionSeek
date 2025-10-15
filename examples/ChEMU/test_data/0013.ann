@@ -1,0 +1,19 @@
+T0	EXAMPLE_LABEL 5 6	5
+T1	REACTION_PRODUCT 7 178	(E)-methyl3-(4-((1R,3R/1S,3S)-6-(1-ethyl-1H-pyrazol-4-yl)-2-(2-fluoro-2-methylpropyl)-3-methyl-1,2,3,4-tetrahydrobenzofuro[2,3-c]pyridin-1-yl)-3,5-difluoroph enyl)acrylate
+T2	REACTION_PRODUCT 975 989	title compound
+T3	OTHER_COMPOUND 906 916	silica gel
+T4	SOLVENT 534 545	1,4-dioxane
+T5	STARTING_MATERIAL 331 334	76e
+T6	YIELD_OTHER 1168 1174	110 mg
+T7	STARTING_MATERIAL 357 424	1-ethyl-4-(4,4,5,5-tetramethyl-1,3,2-dioxaborolan-2-yl)-1H-pyrazole
+T8	TEMPERATURE 691 695	85°C
+T9	SOLVENT 550 555	water
+T10	REAGENT_CATALYST 572 632	[1,1'-bis(diphenylphosphino)ferrocene]dichloropalladium (II)
+T11	REACTION_PRODUCT 990 1162	(E)-methyl 3-(4-((1R,3R/1S,3S)-6-(1-ethyl-1H-pyrazol-4-yl)-2-(2-fluoro-2-methylpropyl)-3-methyl-1,2,3,4-tetrahydrobenzofuro[2,3-c]pyridin-1-yl)-3,5-difluoroph enyl)acrylate
+T12	TEMPERATURE 793 809	room temperature
+T13	STARTING_MATERIAL 179 330	(E)-methyl 3-(4-((1R,3R/1S,3S)-6-bromo-2-(2-fluoro-2-methylpropyl)-3-methyl-1,2,3,4-tetrahydrobenzofuro[2,3-c]pyridin-1-yl)-3,5-difluorophenyl)acrylate
+T14	REAGENT_CATALYST 454 473	potassium carbonate
+T15	REACTION_PRODUCT 1163 1166	76f
+T16	STARTING_MATERIAL 425 428	17a
+T17	YIELD_PERCENT 1182 1185	53%
+T18	TIME 716 724	12 hours

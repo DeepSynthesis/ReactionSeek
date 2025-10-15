@@ -1,0 +1,16 @@
+T0	YIELD_OTHER 913 919	250 mg
+T1	STARTING_MATERIAL 228 250	compound from Ex. 455A
+T2	STARTING_MATERIAL 309 345	dimethyl N-cyanodithioiminocarbonate
+T3	REACTION_PRODUCT 943 957	title compound
+T4	OTHER_COMPOUND 733 751	magnesium sulphate
+T5	OTHER_COMPOUND 679 694	sodium chloride
+T6	OTHER_COMPOUND 579 592	ethyl acetate
+T7	OTHER_COMPOUND 659 664	water
+T8	TEMPERATURE 431 436	80° C
+T9	SOLVENT 278 281	DMF
+T10	EXAMPLE_LABEL 8 11	451
+T11	REACTION_PRODUCT 12 189	[1-{[5-Methyl-2,4-dioxo-3-(1,1,1-trifluoropropan-2-yl)-1-(3,3,3-trifluoropropyl)-1,2,3,4-tetrahydrothieno[2,3-d]pyrimidin-6-yl]methyl}imidazolidin-2-ylidene]cyanamide (racemate)
+T12	YIELD_PERCENT 921 924	45%
+T13	REAGENT_CATALYST 372 391	potassium carbonate
+T14	OTHER_COMPOUND 632 648	sodium carbonate
+T15	TIME 524 527	4 h

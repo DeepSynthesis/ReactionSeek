@@ -1,0 +1,2 @@
+Synthesis of compound 6-b
+At 0°C, 30% H2O2 solution (2mL) was added to a solution of compound 6-c (1.1g, 4mmol) in THF (20mL), the mixture was stirred for 4hrs before water (100mL) was added. The mixture was extracted with EA (100mL×3), the combined organic phases were washed in turn with water (50mL×3) and saturated brine (50mL), dried over anhydrous magnesium sulfate, filtered, concentrated under reduced pressure. The residue was purified by silica column chromatography (PE:EA = 1:1) to give white solid 6-b (0.5g, yield 50%).

@@ -1,0 +1,11 @@
+T0	EXAMPLE_LABEL 5 9	47-6
+T1	REACTION_PRODUCT 468 482	title compound
+T2	YIELD_PERCENT 504 509	69.5%
+T3	SOLVENT 291 294	DCM
+T4	TIME 362 366	1 hr
+T5	YIELD_OTHER 493 502	0.12 mmol
+T6	TEMPERATURE 355 357	RT
+T7	REACTION_PRODUCT 26 123	3-[5-(4-amino-piperidin-1-yl)-6-(3,5-difluorophenyl)-1,8-naphthyridin-3-yl]-2-hydroxybenzonitrile
+T8	REAGENT_CATALYST 314 317	TFA
+T9	YIELD_OTHER 484 491	55.5 mg
+T10	STARTING_MATERIAL 142 265	tert-butyl N-(1-{6-[3-cyano-2-(methoxymethoxy)phenyl]-3-(3,5-difluorophenyl)-1,8-naphthyridin-4-yl}piperidin-4-yl)carbamate

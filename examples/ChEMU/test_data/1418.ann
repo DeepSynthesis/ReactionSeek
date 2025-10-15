@@ -1,0 +1,19 @@
+T0	YIELD_PERCENT 952 955	90%
+T1	REAGENT_CATALYST 269 295	propylphosphonic anhydride
+T2	TIME 397 403	7 days
+T3	TEMPERATURE 384 391	48.5° C
+T4	OTHER_COMPOUND 503 514	isopropanol
+T5	EXAMPLE_LABEL 8 10	21
+T6	OTHER_COMPOUND 560 566	NaHCO3
+T7	OTHER_COMPOUND 487 502	dichloromethane
+T8	YIELD_OTHER 943 950	0.155 g
+T9	STARTING_MATERIAL 110 160	4-(trifluoromethyl)-1,3-thiazole-5-carboxylic acid
+T10	OTHER_COMPOUND 733 748	dichloromethane
+T11	SOLVENT 222 234	acetonitrile
+T12	OTHER_COMPOUND 450 455	water
+T13	SOLVENT 317 330	ethyl acetate
+T14	REACTION_PRODUCT 842 941	N-(4-(2-oxo-1,2,3,4-tetrahydroquinolin-6-yl)thiazol-2-yl)-4-(trifluoromethyl)thiazole-5-carboxamide
+T15	STARTING_MATERIAL 30 83	6-(2-aminothiazol-4-yl)-3,4-dihydroquinolin-2(1H)-one
+T16	OTHER_COMPOUND 818 833	dichloromethane
+T17	REAGENT_CATALYST 188 196	pyridine
+T18	OTHER_COMPOUND 631 637	Na2SO4

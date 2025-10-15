@@ -1,0 +1,16 @@
+T0	SOLVENT 232 243	isopropanol
+T1	OTHER_COMPOUND 601 602	9
+T2	EXAMPLE_LABEL 5 6	4
+T3	OTHER_COMPOUND 717 730	ethyl acetate
+T4	OTHER_COMPOUND 793 803	silica gel
+T5	REACTION_PRODUCT 931 936	solid
+T6	TEMPERATURE 455 459	80°C
+T7	YIELD_PERCENT 966 972	72.1 %
+T8	REAGENT_CATALYST 371 390	potassium carbonate
+T9	YIELD_OTHER 914 919	0.93g
+T10	OTHER_COMPOUND 780 788	methanol
+T11	STARTING_MATERIAL 314 348	4-Amino-5-cyano-6-chloropyrimidine
+T12	TIME 506 508	5h
+T13	REACTION_PRODUCT 23 129	4-Amino-5-cyano-6-((1-(8-chloro-1-methyl-4-oxo-2-phenyl-1,4-dihydroquinolin-3-yl) ethyl) amino) pyrimidine
+T14	STARTING_MATERIAL 136 211	3-(1-aminoethyl)-8-chloro-1-methyl-2-phenylquinolin-4(1H)-one hydrochloride
+T15	TEMPERATURE 495 501	reflux

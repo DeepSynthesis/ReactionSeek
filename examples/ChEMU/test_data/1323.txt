@@ -1,0 +1,4 @@
+Embodiment 2
+3-[4-(4-Cyanophenyl)isoquinolin-6-yl]propionic acid (Compound 2)
+Synthesis of compound 2-d
+A solution of compound 1-c (1.33g, 5mmol) in DCM (50mL) was cooled to -78°C, 1.0M diisobutylaluminum hydride in DCM (20mL, 20mmol) was slowly added dropwise, the mixture was further stirred for 1h. The mixture was warmed to room temperature, saturated aqueous solution of NH4Cl (300mL) was added, organic phase was seperated, aqueous phase was extracted with DCM (50mL×3). The organic phases were combined, dried over anhydrous sodium sulfate, filtered, evaporated under reduced pressure. The residue was purified with silica column chromatography (PE:EA = 3:1) to give light yellow solid 2-d (900 mg, yield 76%).

@@ -1,0 +1,13 @@
+T0	OTHER_COMPOUND 440 444	NaOH
+T1	YIELD_OTHER 527 533	3.34 g
+T2	TIME 344 348	1 hr
+T3	TEMPERATURE 376 392	room temperature
+T4	TEMPERATURE 333 339	170 °C
+T5	STARTING_MATERIAL 123 220	6-(2-Amino-6-(1-ethylpiperidin-4-yl)pyrimidin-4-yl)-3'-fluoro-5-methoxy-[2,4'-bipyridin]-2'-amine
+T6	OTHER_COMPOUND 422 438	sodium hydroxide
+T7	REACTION_PRODUCT 30 122	2'-amino-6-(2-amino-6-(1-ethylpiperidin-4-yl)pyrimidin-4-yl)-3'-fluoro-[2,4'-bipyridin]-5-ol
+T8	REAGENT_CATALYST 257 279	pyridine hydrochloride
+T9	EXAMPLE_LABEL 8 12	35-5
+T10	REACTION_PRODUCT 511 525	title compound
+T11	YIELD_PERCENT 535 539	89 %
+T12	REAGENT_CATALYST 281 293	Pyridine HCl

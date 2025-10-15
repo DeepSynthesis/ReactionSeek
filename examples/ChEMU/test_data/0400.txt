@@ -1,0 +1,3 @@
+Example 14
+4-{[(6-Iodo-3-methyl-2-phenylquinolin-4-yl)carbonyl]amino}bicyclo[2.2.2]octane-1-carboxylic acid
+129 mg (0.23 mmol) of the compound from Example 55A were dissolved in 4.3 ml of a THF/methanol mixture (5:1), 1.16 ml (1.16 mmol) of a 1 M lithium hydroxide solution were added and the mixture was stirred at 50° C. for 3 h. After cooling to RT, the mixture was adjusted to pH 1-2 by addition of 4 M hydrochloric acid and purified by preparative HPLC (Method 2). This gave 88 mg (66% of theory, purity 95%) of the title compound

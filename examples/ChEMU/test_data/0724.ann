@@ -1,0 +1,18 @@
+T0	EXAMPLE_LABEL 7 8	H
+T1	STARTING_MATERIAL 248 335	8-cyclopentyl-2-(methylthio)-7-oxo-7,8-dihydropyrido[2,3-d]pyrimidine-6-carboxylic acid
+T2	TEMPERATURE 512 517	79° C
+T3	STARTING_MATERIAL 450 462	tert-butanol
+T4	REAGENT_CATALYST 158 183	Diphenyl phosphoryl azide
+T5	REACTION_PRODUCT 752 848	tert-butyl (8-cyclopentyl-2-(methylthio)-7-oxo-7,8-dihydropyrido[2,3-d]pyrimidin-6-yl)-carbamate
+T6	REAGENT_CATALYST 413 426	triethylamine
+T7	YIELD_OTHER 856 861	4.1 g
+T8	TIME 523 527	18 h
+T9	OTHER_COMPOUND 600 613	ethyl acetate
+T10	YIELD_PERCENT 863 866	67%
+T11	OTHER_COMPOUND 718 728	pet. ether
+T12	TEMPERATURE 219 235	room temperature
+T13	EXAMPLE_LABEL 48 51	137
+T14	REACTION_PRODUCT 850 854	137A
+T15	OTHER_COMPOUND 729 742	ethyl acetate
+T16	OTHER_COMPOUND 53 157	6-amino-2-{[1-(but-3-yn-1-ylsulfonyl)piperidin-4-yl]amino}-8-cyclopentylpyrido[2,3-d]pyrimidin-7(8H)-one
+T17	OTHER_COMPOUND 678 688	silica gel

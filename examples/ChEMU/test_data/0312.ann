@@ -1,0 +1,13 @@
+T0	OTHER_COMPOUND 623 627	MeOH
+T1	YIELD_PERCENT 892 897	84.7%
+T2	SOLVENT 267 282	dichloromethane
+T3	STARTING_MATERIAL 310 340	2-naphthalenesulfonyl chloride
+T4	REACTION_PRODUCT 759 856	(R)-N-methyl-N-(1-(naphthalene-2-ylsulfonyl)pyrrolidine-3-yl)-7H-pyrrolo[2,3-d]pyrimidine-4-amine
+T5	REAGENT_CATALYST 411 436	N,N-diisopropylethylamine
+T6	REACTION_PRODUCT 12 109	(R)-N-methyl-N-(1-(naphthalene-2-ylsulfonyl)pyrrolidine-3-yl)-7H-pyrrolo[2,3-d]pyrimidine-4-amine
+T7	SOLVENT 284 290	CH2Cl2
+T8	TEMPERATURE 467 483	room temperature
+T9	EXAMPLE_LABEL 8 10	28
+T10	YIELD_OTHER 749 755	112 mg
+T11	OTHER_COMPOUND 628 634	CH2Cl2
+T12	STARTING_MATERIAL 121 190	(R)-N-methyl-N-(pyrrolidine-3-yl)-7H-pyrrolo[2,3-d]pyrimidine-4-amine

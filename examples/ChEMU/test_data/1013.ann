@@ -1,0 +1,7 @@
+T0	STARTING_MATERIAL 239 284	N,N-diethyl-4-(3-hydroxyprop-1-ynyl)benzamide
+T1	STARTING_MATERIAL 328 352	methanesulfonyl chloride
+T2	YIELD_OTHER 155 161	483 mg
+T3	EXAMPLE_LABEL 5 6	3
+T4	REACTION_PRODUCT 23 81	3-(4-(diethylcarbamoyl)phenyl)prop-2-ynyl methanesulfonate
+T5	YIELD_PERCENT 163 166	85%
+T6	REACTION_PRODUCT 82 140	3-(4-(diethylcarbamoyl)phenyl)prop-2-ynyl methanesulfonate

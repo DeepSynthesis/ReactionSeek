@@ -1,0 +1,3 @@
+Example Compound 68
+2-((3,5-dimethyl-1-phenyl-1H-pyrazol-4-yl)amino)-2-oxoethyl 2-(furan-2-yl)acetate
+2-furanylacetic acid (30.3 mg, 0.2 mmol) was dissolved in DCM (4 mL), and added DCC (48.6 mg, 0.2 mmol) and DMAP (4.4 mg, 0.04 mmol) followed by N-(3,5-dimethyl-1-phenyl-1 H-pyrazol-4-yl)-2-hydroxyacetamide (56.3 mg, 0.2 mmol), synthesized as reported in Example 1. The mixture was left stirring overnight. The suspension was filtered over cotton to remove the bulk of DCU and purified by column chromatography (75% EtOAc in PE) to yield the title compound 82 mg (99%).

@@ -1,0 +1,3 @@
+EXAMPLE 80
+Preparation of (S)-5-(2-(5-chloro-3-(3-fluorophenyl)-4-oxo-3,4-dihydropyrrolo[2,1-f][1,2,4]triazine-2-yl)pyrrolidine-1-yl)pyrimido[4,5-d]pyrimidine-4(1H)-one
+20 mg of (S)-5-(2-(5-chloro-3-(3-fluorophenyl)-4-oxo-3,4-dihydropyrrolo[2,1-f][1,2,4]triazine-2-yl)pyrrolidine-1-yl)pyrimido[4,5-d]pyrimidine-4(1H)-one was prepared as a white solid by using 16 mg (0.09 mmol, 1.0 equivalent) of 5-chloropyrimido[4,5-d]pyrimidine-4(1H)-one and 30 mg (0.09 mmol, 1.2 equivalent) of (S)-5-chloro-3-(3-fluorophenyl)-2-(pyrrolidine-2-yl)pyrrolo[2,1-f][1,2,4]triazine-4(3H)-one according to the same manner as described in step 5 of Example 34 (0.04 mmol, yield: 47%).

@@ -1,0 +1,3 @@
+Example 13 Synthesis of (S)-ethyl-3-methyl-2((R)-(4-methylphenyl)sulfonylthiazine-3-aminoform yl)butyrate (Compound 13)
+The product (1.46 g, yield: 68%) as a white solid was obtained in accordance with the steps in Example 5, by using 1.01 g (7 mmol) L-valine ethyl ester as Raw material 2.
+m.p. 87-89°C. 1H-NMR (400MHz, CDCl3) δ: 7.76 (2H, d, J=8.42Hz), 7.37 (2H, d, J=8.44Hz), 7.01 (1H, d, J=8.64Hz), 4.80 (1H, t, J=3.40Hz), 4.54 (1H, m), 4.21(3H, m), 3.48 (1H, t, J=12.31Hz), 3.13 (1H, d, J=12.52Hz), 2.59-0.88 (16H, m). MS-EI (m/z): 429.1512[M+H]+.

@@ -1,0 +1,14 @@
+T0	YIELD_PERCENT 626 629	89%
+T1	REAGENT_CATALYST 253 279	propylphosphonic anhydride
+T2	TIME 379 385	4 days
+T3	REAGENT_CATALYST 172 180	pyridine
+T4	TEMPERATURE 368 373	50° C
+T5	STARTING_MATERIAL 30 83	6-(2-aminothiazol-4-yl)-3,4-dihydroquinolin-2(1H)-one
+T6	REACTION_PRODUCT 527 615	4-methyl-N-(4-(2-oxo-1,2,3,4-tetrahydroquinolin-6-yl)thiazol-2-yl)thiazole-5-carboxamide
+T7	SOLVENT 301 314	ethyl acetate
+T8	SOLVENT 206 218	acetonitrile
+T9	YIELD_OTHER 617 624	0.134 g
+T10	EXAMPLE_LABEL 8 10	33
+T11	STARTING_MATERIAL 110 144	4-methylthiazole-5-carboxylic acid
+T12	OTHER_COMPOUND 500 512	acetonitrile
+T13	OTHER_COMPOUND 513 518	water

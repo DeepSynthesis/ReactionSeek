@@ -1,0 +1,16 @@
+T0	EXAMPLE_LABEL 8 9	7
+T1	OTHER_COMPOUND 948 956	methanol
+T2	OTHER_COMPOUND 599 607	methanol
+T3	STARTING_MATERIAL 402 445	6-oxo-1,6-dihydropyridine-2-carboxylic acid
+T4	OTHER_COMPOUND 820 830	chloroform
+T5	OTHER_COMPOUND 588 595	ammonia
+T6	YIELD_OTHER 1051 1056	83 mg
+T7	OTHER_COMPOUND 807 815	methanol
+T8	REACTION_PRODUCT 1035 1049	title compound
+T9	REAGENT_CATALYST 505 509	HATU
+T10	REAGENT_CATALYST 466 479	triethylamine
+T11	STARTING_MATERIAL 242 381	(1S,3aR,5aS,6R,11bR,11cS)-14-(cyclopropylmethyl)-2,3,3a,4,5,6,7,11c-octahydro-1H-6,11b-(epiminoethano)-1,5a-methanonaphth[1,2-e]indol-10-ol
+T12	OTHER_COMPOUND 981 1004	tert-butyl methyl ether
+T13	YIELD_PERCENT 1058 1061	94%
+T14	REACTION_PRODUCT 23 200	6-((1S,3aR,5aS,6R,11bR,11cS)-14-(cyclopropylmethyl)-10-hydroxy-2,3,3a,4,5,6,7,11c-octahydro-1H-6,11b-(epiminoethano)-1,5a-methanonaphth[1,2-e]indole-3-carbonyl)pyridin-2(1H)-one
+T15	OTHER_COMPOUND 778 793	aminosilica gel

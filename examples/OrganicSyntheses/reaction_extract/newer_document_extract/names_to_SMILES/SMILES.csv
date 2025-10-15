@@ -1,0 +1,39 @@
+volume,article,raw_name,CAS,CIRsmiles,PubChemsmiles,PubChem_after_cas_check_smiles,PubChem_name_smiles
+,,4 Å Molecular sieves,Not Found,Not Found,Not Found,Not Found,Not Found
+,,4 Å MS,Not Found,Not Found,Not Found,Not Found,Not Found
+,,Dichloromethane,Not Found,ClCCl,ClCCl,ClCCl,ClCCl
+,,DCM,Not Found,ClCCl,ClCCl,ClCCl,ClCCl
+,,(+)-diisopropyl L-tartrate,Not Found,CC(C)OC(=O)C(O)C(O)C(=O)OC(C)C,CC(C)OC(=O)C(O)C(O)C(=O)OC(C)C,CC(C)OC(=O)C(O)C(O)C(=O)OC(C)C,CC(C)OC(=O)C(O)C(O)C(=O)OC(C)C
+,,(+)-DIPT,Not Found,CC(C)OC(=O)C(O)C(O)C(=O)OC(C)C,CC(C)OC(=O)C(O)C(O)C(=O)OC(C)C,CC(C)OC(=O)C(O)C(O)C(=O)OC(C)C,CC(C)OC(=O)C(O)C(O)C(=O)OC(C)C
+,,(-)-diisopropyl D-tartrate,Not Found,CC(C)OC(=O)[C@@H](O)[C@@H](O)C(=O)OC(C)C,CC(C)OC(=O)[C@@H](O)[C@@H](O)C(=O)OC(C)C,CC(C)OC(=O)[C@@H](O)[C@@H](O)C(=O)OC(C)C,CC(C)OC(=O)[C@@H](O)[C@@H](O)C(=O)OC(C)C
+,,(-)-DIPT,Not Found,CC(C)OC(=O)[C@@H](O)[C@@H](O)C(=O)OC(C)C,CC(C)OC(=O)[C@@H](O)[C@@H](O)C(=O)OC(C)C,CC(C)OC(=O)[C@@H](O)[C@@H](O)C(=O)OC(C)C,CC(C)OC(=O)[C@@H](O)[C@@H](O)C(=O)OC(C)C
+,,titanium tetraisopropoxide,Not Found,[Ti+4].CC(C)[O-].CC(C)[O-].CC(C)[O-].CC(C)[O-],[Ti+4].CC(C)[O-].CC(C)[O-].CC(C)[O-].CC(C)[O-],[Ti+4].CC(C)[O-].CC(C)[O-].CC(C)[O-].CC(C)[O-],[Ti+4].CC(C)[O-].CC(C)[O-].CC(C)[O-].CC(C)[O-]
+,,titanium(IV) isopropoxide,Not Found,[Ti+4].CC(C)[O-].CC(C)[O-].CC(C)[O-].CC(C)[O-],[Ti+4].CC(C)[O-].CC(C)[O-].CC(C)[O-].CC(C)[O-],[Ti+4].CC(C)[O-].CC(C)[O-].CC(C)[O-].CC(C)[O-],[Ti+4].CC(C)[O-].CC(C)[O-].CC(C)[O-].CC(C)[O-]
+,,Ti(Oi-Pr)4,Not Found,[Ti+4].CC(C)[O-].CC(C)[O-].CC(C)[O-].CC(C)[O-],[Ti+4].CC(C)[O-].CC(C)[O-].CC(C)[O-].CC(C)[O-],[Ti+4].CC(C)[O-].CC(C)[O-].CC(C)[O-].CC(C)[O-],[Ti+4].CC(C)[O-].CC(C)[O-].CC(C)[O-].CC(C)[O-]
+,,tert-butyl hydroperoxide solution,Not Found,CC(C)(C)OO,CC(C)(C)OO,CC(C)(C)OO,CC(C)(C)OO
+,,TBHP,Not Found,CC(C)(C)OO,CC(C)(C)OO,CC(C)(C)OO,CC(C)(C)OO
+,,cumene hydroperoxide solution,Not Found,CC(C)(OO)c1ccccc1,CC(C)(OO)c1ccccc1,CC(C)(OO)c1ccccc1,CC(C)(OO)c1ccccc1
+,,divinyl carbinol,Not Found,OC(C=C)C=C,OC(C=C)C=C,OC(C=C)C=C,OC(C=C)C=C
+,,"1,4-pentadien-3-ol",Not Found,OC(C=C)C=C,OC(C=C)C=C,OC(C=C)C=C,OC(C=C)C=C
+,,citric acid,Not Found,OC(=O)CC(O)(CC(O)=O)C(O)=O,OC(=O)CC(O)(CC(O)=O)C(O)=O,OC(=O)CC(O)(CC(O)=O)C(O)=O,OC(=O)CC(O)(CC(O)=O)C(O)=O
+,,4-Chlorophenylboronic Acid Pinacol Ester,Not Found,CC1(C)OB(OC1(C)C)c2ccc(Cl)cc2,CC1(C)OB(OC1(C)C)c2ccc(Cl)cc2,CC1(C)OB(OC1(C)C)c2ccc(Cl)cc2,CC1(C)OB(OC1(C)C)c2ccc(Cl)cc2
+,,Bromocyclohexane,Not Found,BrC1CCCCC1,BrC1CCCCC1,BrC1CCCCC1,BrC1CCCCC1
+,,Copper(I) Bromide-Dimethyl Sulfide,Not Found,[Cu+].[Br-].CSC,[Cu+].[Br-].CSC,[Cu+].[Br-].CSC,[Cu+].[Br-].CSC
+,,"4,7-Diphenyl-1,10-Phenanthroline",Not Found,c1ccc(cc1)c2ccnc3c2ccc4c(ccnc34)c5ccccc5,c1ccc(cc1)c2ccnc3c2ccc4c(ccnc34)c5ccccc5,c1ccc(cc1)c2ccnc3c2ccc4c(ccnc34)c5ccccc5,c1ccc(cc1)c2ccnc3c2ccc4c(ccnc34)c5ccccc5
+,,Sodium tert-butoxide,Not Found,[Na+].CC(C)(C)[O-],[Na+].CC(C)(C)[O-],[Na+].CC(C)(C)[O-],[Na+].CC(C)(C)[O-]
+,,"1,1-Diphenylethene",Not Found,C=C(c1ccccc1)c2ccccc2,C=C(c1ccccc1)c2ccccc2,C=C(c1ccccc1)c2ccccc2,C=C(c1ccccc1)c2ccccc2
+,,4-Nitrobenzonitrile,Not Found,[O-][N+](=O)c1ccc(cc1)C#N,[O-][N+](=O)c1ccc(cc1)C#N,[O-][N+](=O)c1ccc(cc1)C#N,[O-][N+](=O)c1ccc(cc1)C#N
+,,Benzophenone,Not Found,O=C(c1ccccc1)c2ccccc2,O=C(c1ccccc1)c2ccccc2,O=C(c1ccccc1)c2ccccc2,O=C(c1ccccc1)c2ccccc2
+,,"1,3,5-Trimethoxybenzene",Not Found,COc1cc(OC)cc(OC)c1,COc1cc(OC)cc(OC)c1,COc1cc(OC)cc(OC)c1,COc1cc(OC)cc(OC)c1
+,,nosylamide,Not Found,N[S](=O)(=O)c1ccccc1[N+]([O-])=O,N[S](=O)(=O)c1ccccc1[N+]([O-])=O,N[S](=O)(=O)c1ccccc1[N+]([O-])=O,N[S](=O)(=O)c1ccccc1[N+]([O-])=O
+,,2-nitrobenzendulfonamide,Not Found,N[S](=O)(=O)c1ccccc1[N+]([O-])=O,N[S](=O)(=O)c1ccccc1[N+]([O-])=O,N[S](=O)(=O)c1ccccc1[N+]([O-])=O,N[S](=O)(=O)c1ccccc1[N+]([O-])=O
+,,Iodine,Not Found,II,II,II,II
+,,NaOCl·5H2O,Not Found,O.O.O.O.O.[Na+].[O-]Cl,O.O.O.O.O.[Na+].[O-]Cl,O.O.O.O.O.[Na+].[O-]Cl,O.O.O.O.O.[Na+].[O-]Cl
+,,Sodium hypochlorite pentahydrate,Not Found,O.O.O.O.O.[Na+].[O-]Cl,O.O.O.O.O.[Na+].[O-]Cl,O.O.O.O.O.[Na+].[O-]Cl,O.O.O.O.O.[Na+].[O-]Cl
+,,trans-β-methylstyrene,Not Found,C/C=C/c1ccccc1,C/C=C/c1ccccc1,C/C=C/c1ccccc1,C/C=C/c1ccccc1
+,,2'-Hydroxy-5'-methoxyacetophenone,Not Found,COc1ccc(O)c(c1)C(C)=O,COc1ccc(O)c(c1)C(C)=O,COc1ccc(O)c(c1)C(C)=O,COc1ccc(O)c(c1)C(C)=O
+,,6-Methyl-5-hepten-2-one,Not Found,CC(C)=CCCC(C)=O,CC(C)=CCCC(C)=O,CC(C)=CCCC(C)=O,CC(C)=CCCC(C)=O
+,,Pyrrolidine,Not Found,[H+].[Cl-].C1CCNC1,[H+].[Cl-].C1CCNC1,[H+].[Cl-].C1CCNC1,[H+].[Cl-].C1CCNC1
+,,Butyric acid,Not Found,CCCC(O)=O,CCCC(O)=O,CCCC(O)=O,CCCC(O)=O
+,,DMSO,Not Found,C[S](C)=O,C[S](C)=O,C[S](C)=O,C[S](C)=O
+,,dimethyl sulfoxide,Not Found,C[S](C)=O,C[S](C)=O,C[S](C)=O,C[S](C)=O

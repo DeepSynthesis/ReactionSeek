@@ -1,0 +1,3 @@
+Example Compound 12
+2-((3,5-dimethyl-1-phenyl-1H-pyrazol-4-yl)amino)-2-oxoethyl 2-(1H-indol-3-yl)acetate
+To a stirring solution of 2-(1H-indol-3-yl)acetic acid (79.1 mg, 0.4 mmol) in DCM (2 mL), DCC (93.0 mg, 0.4 mmol) was added slowly at 0 °C, then DMAP (5.8 mg, 0.05 mmol) and finally N-(3,5-dimethyl-1-phenyl-1 H-pyrazol-4-yl)-2-hydroxyacetamide (101.0 mg, 0.4 mmol), synthesized as reported in Example 1, step 4. The reaction mixture was stirred for 6 h and then filtered to remove the DCU precipitate. The product was purified by column chromatography (gradient of EtOAc in PE) to yield 124 mg (75%) of the title compound

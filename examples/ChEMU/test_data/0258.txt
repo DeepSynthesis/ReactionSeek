@@ -1,0 +1,4 @@
+EXAMPLE 85
+Preparation of (S)-7-amino-5-(1-(8-chloro-1-oxo-2-phenyl-1,2-dihydroisoquinoline-3-yl)ethylamino)pyrimido[4,5-d]pyrimidine-4(1H)-one
+Step 1: Preparation of (S)-5-(1-(8-chloro-1-oxo-2-phenyl-1,2-dihydroisoquinoline-3-yl)ethylamino)-7-(methylthio)pyrimido[4,5-d]pyrimidine-4(1H)-one
+35 mg of (S)-5-(1-(8-chloro-1-oxo-2-phenyl-1,2-dihydroisoquinoline-3-yl)ethylamino)-7-(methylthio)pyrimido[4,5-d]pyrimidine-4(1H)-one was prepared as a white solid by using 17 mg (0.0743 mmol, 1.0 equivalent) of 5-chloro-7-(methylthio)pyrimido[4,5-d]pyrimidine-4(1H)-one prepared in step 1 of Example 81 and 27 mg (0.0892 mmol, 1.2 equivalent) of (S)-3-(1-aminoethyl)-8-chloro-2-phenylisoquinoline-1(2H)-one according to the same manner as described in step 5 of Example 34 (yield: 96%).

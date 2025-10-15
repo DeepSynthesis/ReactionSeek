@@ -1,0 +1,17 @@
+T0	REAGENT_CATALYST 364 421	1-ethyl-(3-dimethylaminopropyl)carbodiimide hydrochloride
+T1	OTHER_COMPOUND 707 722	petroleum ether
+T2	TEMPERATURE 572 577	25 °C
+T3	TIME 582 586	16 h
+T4	REACTION_PRODUCT 759 773	title compound
+T5	STARTING_MATERIAL 147 222	(2S,5R)-6-(benzyloxy)-7-oxo-1,6-diazabicyclo[3.2.1]octane-2-carboxylic acid
+T6	YIELD_PERCENT 805 811	46.5 %
+T7	OTHER_COMPOUND 545 553	nitrogen
+T8	REACTION_PRODUCT 19 146	tert-butyl 3-((2S,5R)-6-(benzyloxy)-7-oxo-1,6-diazabicyclo[3.2.1]octane-2-carboxamido)-8-azabicyclo[ 3.2.1]octane-8-carboxylate
+T9	REAGENT_CATALYST 444 457	triethylamine
+T10	STARTING_MATERIAL 242 300	tert-butyl 3-amino-8-azabicyclo[3.2.1]octane-8-carboxylate
+T11	REAGENT_CATALYST 320 343	1-hydroxylbenzotriazole
+T12	YIELD_OTHER 792 797	0.4 g
+T13	OTHER_COMPOUND 673 683	silica gel
+T14	EXAMPLE_LABEL 1 2	8
+T15	OTHER_COMPOUND 725 738	ethyl acetate
+T16	SOLVENT 494 509	dichloromethane

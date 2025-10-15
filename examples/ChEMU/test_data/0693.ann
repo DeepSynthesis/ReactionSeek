@@ -1,0 +1,18 @@
+T0	STARTING_MATERIAL 224 248	methanesulfonyl chloride
+T1	EXAMPLE_LABEL 5 6	4
+T2	OTHER_COMPOUND 367 382	dichloromethane
+T3	REACTION_PRODUCT 7 73	3-((3-Methylisoxazol-5-yl)methyl)cyclohexylmethyl methanesulfonate
+T4	REACTION_PRODUCT 674 740	3-((3-methylisoxazol-5-yl)methyl)cyclohexylmethyl methanesulfonate
+T5	YIELD_PERCENT 786 789	96%
+T6	STARTING_MATERIAL 74 119	3-((3-Methylisoxazol-5-yl)methyl)cyclohexanol
+T7	TIME 345 352	2 hours
+T8	OTHER_COMPOUND 585 595	silica gel
+T9	YIELD_OTHER 742 748	400 mg
+T10	OTHER_COMPOUND 641 654	ethyl acetate
+T11	OTHER_COMPOUND 474 488	sodium sulfate
+T12	TEMPERATURE 324 340	room temperature
+T13	TEMPERATURE 282 285	0°C
+T14	OTHER_COMPOUND 414 432	sodium bicarbonate
+T15	OTHER_COMPOUND 623 638	petroleum ether
+T16	REAGENT_CATALYST 144 157	triethylamine
+T17	SOLVENT 196 211	dichloromethane

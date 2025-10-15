@@ -1,0 +1,5 @@
+Example 109
+1-Methyl-3-(4-(3-methylisoxazol-5-yl)butyl)pteridine-2,4-dione
+Step 1
+1-Methyl-3-(4-(3-methylisoxazol-5-yl)butyl)pteridine-2,4-dione
+1-Methylpteridine-2,4-dione (300 mg, 1.68 mmol) was dissolved in N,N-dimethylformamide (8 mL). 5-(4-Bromobutyl)-3-methylisoxazole (366 mg, 1.68 mmol), potassium carbonate (465 mg, 3.37 mmol) and potassium iodide (335 mg, 2.02 mmol) were added at 25°C. The reaction solution was heated to 120°C and stirred for 17 hours. The reaction solution was cooled to room temperature and filtered. The filtrate was concentrated under reduced pressure and the residue was purified by HPLC to give 1-methyl-3-(4-(3-methylisoxazol-5-yl)butyl)pteridine-2,4-dione (13.0 mg) with a yield of 3%.

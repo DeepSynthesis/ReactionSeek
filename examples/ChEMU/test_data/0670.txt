@@ -1,0 +1,5 @@
+Example 16
+3,7-Dimethyl-1-(2-(3-methylisoxazol-5-yl)ethyl)-1H-purine-2,6(3H,7H)-dione
+Step 1
+2-(3-Methylisoxazol-5-yl) acetic acid
+3,5-Dimethylisoxazole (5.00 g, 51.5 mmol) was dissolved in tetrahydrofuran (50 mL). n-butyllithium (23 mL, 2.5 M n-hexane solution, 57 mmol) was added at -78°C under nitrogen atmosphere, and stirred for 1 hour. The carbon dioxide gas was passed through the reaction solution and the solution was stirred at room temperature and 1 atm for another 1 hour. Then the reaction solution was quenched by adding saturated ammonium chloride (30 mL), and concentrated under reduced pressure. The aqueous phase was adjusted to pH 3, and extracted with ethyl acetate (30 mL x 3). The organic phases were combined, washed with saturated sodium chloride aqueous solution (30 mL x 2), dried over anhydrous sodium sulfate, filtered and the filtrate was concentrated under reduced pressure to give 2-(3-methylisoxazol-5-yl) acetic acid (2.40 g, as a white solid) with a yield of 89%.

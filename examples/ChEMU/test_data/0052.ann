@@ -1,0 +1,11 @@
+T0	EXAMPLE_LABEL 6 7	3
+T1	SOLVENT 208 216	methanol
+T2	YIELD_PERCENT 424 427	85%
+T3	STARTING_MATERIAL 165 172	aniline
+T4	REACTION_PRODUCT 9 75	9-[Ethyl-(2-hydroxyethyl)-amino]-5-phenylamino-benzo[a]phenoxazine
+T5	STARTING_MATERIAL 76 141	9-[Ethyl-(2-hydroxyethyl)amino]benzo[a]phenoxazin-7-ylium nitrate
+T6	OTHER_COMPOUND 364 371	toluene
+T7	TIME 249 257	16 hours
+T8	YIELD_OTHER 416 421	2.4 g
+T9	TEMPERATURE 228 244	room temperature
+T10	REACTION_PRODUCT 403 408	solid

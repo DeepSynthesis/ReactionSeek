@@ -1,0 +1,26 @@
+T0	OTHER_COMPOUND 798 813	sodium chloride
+T1	REAGENT_CATALYST 361 375	Sodium nitrite
+T2	OTHER_COMPOUND 669 674	water
+T3	OTHER_COMPOUND 790 797	aqueous
+T4	TIME 620 630	45 minutes
+T5	TEMPERATURE 599 615	room temperature
+T6	OTHER_COMPOUND 726 731	EtOAc
+T7	TIME 580 590	15 minutes
+T8	OTHER_COMPOUND 986 991	EtOAc
+T9	TEMPERATURE 471 477	−17° C
+T10	STARTING_MATERIAL 147 270	(1S,3R)-1-(5-Bromo-3-fluoropyridin-2-yl)-2-((1-fluorocyclopropyl)methyl)-3,5-dimethyl-1,2,3,4-tetrahydroisoquinolin-6-amine
+T11	OTHER_COMPOUND 940 946	silica
+T12	TIME 483 493	30 minutes
+T13	REAGENT_CATALYST 295 309	propionic acid
+T14	OTHER_COMPOUND 995 1002	heptane
+T15	REACTION_PRODUCT 15 146	(6S,8R)-6-(5-bromo-3-fluoropyridin-2-yl)-7-((1-fluorocyclopropyl)methyl)-8-methyl-6,7,8,9-tetrahydro-3H-pyrazolo[4,3-f]isoquinoline
+T16	TEMPERATURE 334 340	−17° C
+T17	OTHER_COMPOUND 351 358	acetone
+T18	SOLVENT 400 405	water
+T19	YIELD_OTHER 1146 1153	0.310 g
+T20	TEMPERATURE 570 574	0° C
+T21	OTHER_COMPOUND 343 350	dry ice
+T22	YIELD_PERCENT 1155 1158	45%
+T23	OTHER_COMPOUND 830 835	MgSO4
+T24	SOLVENT 542 549	toluene
+T25	REACTION_PRODUCT 1013 1144	(6S,8R)-6-(5-bromo-3-fluoropyridin-2-yl)-7-((1-fluorocyclopropyl)methyl)-8-methyl-6,7,8,9-tetrahydro-3H-pyrazolo[4,3-f]isoquinoline

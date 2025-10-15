@@ -1,0 +1,2 @@
+Intermediate 5: 7-Chloro-5-(4,4,5,5-tetramethyl-1,3,2-dioxaborolan-2-yl)indolin-2-one
+Step A: 5-Bromo-7-chloroindolin-2-one. To a cooled (0° C.) solution of 7-chloroindolin-2-one (1.0 g, 6.0 mmol) in TFA (11 mL) was added N-bromosuccinimide (1.0 g, 6.0 mmol) portionwise, and the resulting mixture was stirred at 0° C. for 6 h. The solvent was removed in vacuo and the residue was diluted and evaporated successively with DCM (25 mL) and EtOAc (25 mL). The crude product was triturated with EtOH to provide the title compound as a white solid (861 mg, 58%).

@@ -1,0 +1,19 @@
+T0	OTHER_COMPOUND 762 775	ethyl acetate
+T1	OTHER_COMPOUND 706 716	silica gel
+T2	STARTING_MATERIAL 213 252	3,7-dimethyl-1H-purine-2,6(3H,7H)-dione
+T3	EXAMPLE_LABEL 5 6	2
+T4	REAGENT_CATALYST 277 293	potassium iodide
+T5	YIELD_OTHER 865 871	200 mg
+T6	REACTION_PRODUCT 795 863	1-(4-(benzofuran-2-yl)butyl)-3,7-dimethyl-1H-purine-2,6(3H,7H)-dione
+T7	STARTING_MATERIAL 76 103	2-(4-Chlorobutyl)benzofuran
+T8	TEMPERATURE 400 416	room temperature
+T9	OTHER_COMPOUND 744 759	petroleum ether
+T10	TEMPERATURE 353 358	120°C
+T11	OTHER_COMPOUND 437 442	water
+T12	OTHER_COMPOUND 515 528	ethyl acetate
+T13	YIELD_PERCENT 889 892	24%
+T14	SOLVENT 141 162	N,N-dimethylformamide
+T15	REAGENT_CATALYST 172 191	potassium carbonate
+T16	OTHER_COMPOUND 595 609	sodium sulfate
+T17	REACTION_PRODUCT 7 75	1-(4-(Benzofuran-2-yl)butyl)-3,7-dimethyl-1H-purine-2,6(3H,7H)-dione
+T18	TIME 375 383	16 hours

@@ -1,0 +1,15 @@
+T0	SOLVENT 315 326	isopropanol
+T1	SOLVENT 331 336	water
+T2	TEMPERATURE 582 598	room temperature
+T3	TIME 603 607	1.5h
+T4	REAGENT_CATALYST 351 364	triethylamine
+T5	YIELD_PERCENT 800 803	15%
+T6	REACTION_PRODUCT 19 143	trimethylammonium (2S,5R)-2-((2-ethyl-2-azaspiro[3.3]heptan-6-yl) carbamoyl)-7-oxo-1,6-diazabicyclo[3.2.1]octan-6-yl sulfate
+T7	REACTION_PRODUCT 754 768	title compound
+T8	YIELD_OTHER 787 792	50 mg
+T9	REAGENT_CATALYST 449 453	Pd/C
+T10	EXAMPLE_LABEL 1 2	4
+T11	STARTING_MATERIAL 386 424	sulfur trioxide-trimethylamine complex
+T12	REAGENT_CATALYST 557 565	hydrogen
+T13	OTHER_COMPOUND 514 522	nitrogen
+T14	STARTING_MATERIAL 144 255	(2S,5R)-6-(benzyloxy)-N-(2-ethyl-2-azaspiro[3.3]heptan-6-yl)-7-oxo-1,6-diazabicyclo[3.2.1]oc tane-2-carboxamide

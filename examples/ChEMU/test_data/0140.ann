@@ -1,0 +1,11 @@
+T0	TEMPERATURE 316 332	room temperature
+T1	EXAMPLE_LABEL 5 6	2
+T2	STARTING_MATERIAL 104 176	tert-butyl 4-(pyridin-4-ylethynyl)-3,6-dihydropyridine-1(2H)-carboxylate
+T3	REACTION_PRODUCT 374 388	title compound
+T4	SOLVENT 195 199	MeOH
+T5	YIELD_PERCENT 398 401	98%
+T6	REAGENT_CATALYST 223 238	acetyl chloride
+T7	TIME 285 289	4 hr
+T8	TEMPERATURE 293 298	60° C
+T9	YIELD_OTHER 390 396	380 mg
+T10	REACTION_PRODUCT 21 86	4-((1,2,3,6-tetrahydropyridin-4-yl)ethynyl)pyridine hydrochloride

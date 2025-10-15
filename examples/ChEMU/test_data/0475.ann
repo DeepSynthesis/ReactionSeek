@@ -1,0 +1,13 @@
+T0	YIELD_PERCENT 841 846	40.2%
+T1	STARTING_MATERIAL 302 324	isobutyl chloroformate
+T2	EXAMPLE_LABEL 8 9	6
+T3	SOLVENT 274 280	CH2Cl2
+T4	REACTION_PRODUCT 11 98	Isobutyl (R)-3-(methyl(7H-pyrrolo[2,3-d]pyrimidine-4-yl)amino)pyrrolidine-1-carboxylate
+T5	YIELD_OTHER 707 714	41.0 mg
+T6	OTHER_COMPOUND 581 585	MeOH
+T7	REAGENT_CATALYST 395 420	N,N-diisopropylethylamine
+T8	REACTION_PRODUCT 718 805	isobutyl (R)-3-(methyl(7H-pyrrolo[2,3-d]pyrimidine-4-yl)amino)pyrrolidine-1-carboxylate
+T9	TEMPERATURE 452 468	room temperature
+T10	STARTING_MATERIAL 110 179	(R)-N-methyl-N-(pyrrolidine-3-yl)-7H-pyrrolo[2,3-d]pyrimidine-4-amine
+T11	OTHER_COMPOUND 586 592	CH2Cl2
+T12	SOLVENT 257 272	dichloromethane

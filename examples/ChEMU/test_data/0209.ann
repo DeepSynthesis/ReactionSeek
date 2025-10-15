@@ -1,0 +1,12 @@
+T0	REAGENT_CATALYST 207 228	hydrazine monohydrate
+T1	SOLVENT 266 273	ethanol
+T2	EXAMPLE_LABEL 6 7	2
+T3	TEMPERATURE 284 300	room temperature
+T4	TEMPERATURE 375 391	room temperature
+T5	TIME 346 354	18 hours
+T6	TEMPERATURE 335 341	reflux
+T7	REACTION_PRODUCT 481 495	title compound
+T8	YIELD_OTHER 535 542	0.100 g
+T9	YIELD_PERCENT 544 549	97.1%
+T10	STARTING_MATERIAL 92 156	Methyl 3-fluoro-4-((N-(3-fluorophenyl)butyramido)methyl)benzoate
+T11	REACTION_PRODUCT 22 91	N-(2-fluoro-4-(hydrazinecarbonyl)benzyl)-N-(3-fluorophenyl)butyramide

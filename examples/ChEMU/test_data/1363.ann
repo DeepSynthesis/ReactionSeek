@@ -1,0 +1,20 @@
+T0	REACTION_PRODUCT 26 207	tert-butyl-N-tert-butoxycarbonyl-N-[3-[[2-chloro-5-[[(1R,3R)-2,2-dichloro-3-(3-chloro-4-fluorophenyl)cyclopropane-carbonyl]amino]-3-fluorobenzoyl]amino]-2,6-difluorophenyl]carbamate
+T1	TIME 754 762	68 hours
+T2	EXAMPLE_LABEL 8 10	25
+T3	OTHER_COMPOUND 1004 1017	ethyl acetate
+T4	OTHER_COMPOUND 900 907	Celite®
+T5	REACTION_PRODUCT 209 214	F1239
+T6	REAGENT_CATALYST 512 520	pyridine
+T7	STARTING_MATERIAL 343 345	C1
+T8	STARTING_MATERIAL 233 341	2-chloro-5-((1R,3R)-2,2-dichloro-3-(3-chloro-4-fluorophenyl)cyclopropane-1-carboxamido)-3-fluorobenzoic acid
+T9	SOLVENT 670 683	ethyl acetate
+T10	STARTING_MATERIAL 480 484	C182
+T11	OTHER_COMPOUND 857 875	methylene chloride
+T12	REAGENT_CATALYST 582 645	2,4,6-tripropyl-1,3,5,2,4,6-trioxatriphosphinane 2,4,6-trioxide
+T13	YIELD_PERCENT 1076 1079	87%
+T14	OTHER_COMPOUND 1021 1028	hexanes
+T15	TEMPERATURE 731 736	45° C
+T16	STARTING_MATERIAL 405 478	tert-butyl N-(3-amino-2,6-difluoro-phenyl)-N-tert-butoxycarbonylcarbamate
+T17	SOLVENT 371 384	ethyl acetate
+T18	REACTION_PRODUCT 1051 1065	title compound
+T19	YIELD_OTHER 1067 1074	0.166 g

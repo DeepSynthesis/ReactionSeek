@@ -1,0 +1,17 @@
+T0	REAGENT_CATALYST 389 406	isopentyl nitrite
+T1	SOLVENT 430 435	CHCl3
+T2	TEMPERATURE 364 368	0° C
+T3	STARTING_MATERIAL 195 299	(1S,3R)-1-(5-bromopyridin-2-yl)-2-(2,2-difluoroethyl)-3,5-dimethyl-1,2,3,4-tetrahydroisoquinolin-6-amine
+T4	OTHER_COMPOUND 790 795	EtOAc
+T5	REACTION_PRODUCT 15 127	(6S,8R)-6-(5-bromopyridin-2-yl)-7-(2,2-difluoroethyl)-8-methyl-6,7,8,9-tetrahydro-3H-pyrazolo[4,3-f]isoquinoline
+T6	YIELD_OTHER 932 938	438 mg
+T7	YIELD_PERCENT 940 943	60%
+T8	TIME 501 508	2 hours
+T9	REAGENT_CATALYST 128 139	Acetic acid
+T10	OTHER_COMPOUND 741 747	silica
+T11	REACTION_PRODUCT 818 930	(6S,8R)-6-(5-bromopyridin-2-yl)-7-(2,2-difluoroethyl)-8-methyl-6,7,8,9-tetrahydro-3H-pyrazolo[4,3-f]isoquinoline
+T12	OTHER_COMPOUND 799 806	hexanes
+T13	OTHER_COMPOUND 592 597	water
+T14	TEMPERATURE 491 495	0° C
+T15	SOLVENT 323 328	CHCl3
+T16	OTHER_COMPOUND 565 571	NaHCO3

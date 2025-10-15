@@ -1,0 +1,18 @@
+T0	TEMPERATURE 545 561	room temperature
+T1	OTHER_COMPOUND 11 109	(E)-5-(2-Fluoro-6-methoxyphenyl)-3-(4-(4-methylpiperazin-1-yl)styryl)-1H-pyrazolo[4,3-d]pyrimidine
+T2	YIELD_PERCENT 746 749	46%
+T3	OTHER_COMPOUND 499 507	nitrogen
+T4	STARTING_MATERIAL 221 268	4,4,5,5-tetramethyl-2-vinyl-1,3,2-dioxaborolane
+T5	REAGENT_CATALYST 415 428	triethylamine
+T6	TIME 523 526	4 h
+T7	STARTING_MATERIAL 291 327	1-(4-bromophenyl)-4-methylpiperazine
+T8	EXAMPLE_LABEL 115 116	1
+T9	SOLVENT 454 461	toluene
+T10	EXAMPLE_LABEL 8 10	55
+T11	OTHER_COMPOUND 688 691	DCM
+T12	REACTION_PRODUCT 118 207	(E)-1-Methyl-4-(4-(2-(4,4,5,5-tetramethyl-1,3,2-dioxaborolan-2-yl)vinyl)phenyl)piperazine
+T13	YIELD_OTHER 738 744	109 mg
+T14	REAGENT_CATALYST 350 388	bis(tri-t-butylphosphine)palladium (0)
+T15	REACTION_PRODUCT 713 720	product
+T16	OTHER_COMPOUND 676 684	methanol
+T17	TEMPERATURE 486 491	80° C

@@ -1,0 +1,2 @@
+Step 2: Synthesis of 4-((1,2,3,6-tetrahydropyridin-4-yl)ethynyl)pyridine hydrochloride
+To a solution of tert-butyl 4-(pyridin-4-ylethynyl)-3,6-dihydropyridine-1(2H)-carboxylate (500 mg, 1 eq) in MeOH (10 ml) was added with acetyl chloride (1.25 ml, 10 eq). The mixture was stirred for 4 hr at 60° C., cooled down to room temperature and concentrated in vacuo to prepare the title compound (380 mg, 98%).

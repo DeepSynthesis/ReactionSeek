@@ -1,0 +1,5 @@
+EXAMPLES
+Synthesis Example 1: Synthesis of Compound 1
+Synthesis Example 1-(1): Synthesis of Intermediate 1-a
+Intermediate 1-a was synthesized as illustrated in the following Reaction Scheme 1:
+In a 500-mL round-bottom flask reactor, (10-phenyl(d5)-anthracene-9-boronic acid (38.6 g, 127 mmol), 1-bromo-4-iodobenzene (30.0 g, 106 mmol), tetrakis(triphenylphosphine)palladium (3.43 g, mmol), and potassium carbonate (27.35 g, 197.9 mmol) were placed, followed by toluene (150 mL), tetrahydrofuran (150 mL), and water (60 mL). The temperature of the reactor was increased to 90° C. and stirring was conducted overnight. After completion of the reaction, the reaction mixture was cooled to room temperature and extracted with ethyl acetate. The organic layer thus formed was separated and concentrated in a vacuum, followed by purification through column chromatography to afford Intermediate 1-a. (35.0 g, 79.7%)

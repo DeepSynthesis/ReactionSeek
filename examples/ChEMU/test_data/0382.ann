@@ -1,0 +1,19 @@
+T0	OTHER_COMPOUND 612 627	dichloromethane
+T1	OTHER_COMPOUND 662 667	water
+T2	STARTING_MATERIAL 398 420	sodium methanethiolate
+T3	YIELD_PERCENT 795 798	48%
+T4	OTHER_COMPOUND 532 537	water
+T5	OTHER_COMPOUND 12 205	5-(2-chloro-3-fluorophenyl)-3-((S)-2-methanesulphonyl-1-methylethyl)-1-{2-[4-(7-methoxy-2-oxo-1,2,4,5-tetrahydro-benzo[d][1,3]diazepin-3-yl)-piperidin-1-yl]-2-oxo-ethyl}-1H-pyrimidine-2,4-dione
+T6	EXAMPLE_LABEL 8 11	142
+T7	REACTION_PRODUCT 803 836	(R)-1-methylsulphanyl-propan-2-ol
+T8	OTHER_COMPOUND 239 242	142
+T9	REACTION_PRODUCT 251 284	(R)-1-methylsulphanyl-propan-2-ol
+T10	OTHER_COMPOUND 547 562	dichloromethane
+T11	SOLVENT 433 445	acetonitrile
+T12	STARTING_MATERIAL 305 332	(R)-(+)-propylene-1,2 oxide
+T13	OTHER_COMPOUND 707 725	magnesium sulphate
+T14	EXAMPLE_LABEL 244 249	142.1
+T15	TIME 492 499	4 hours
+T16	OTHER_COMPOUND 682 687	brine
+T17	YIELD_OTHER 788 793	3.5 g
+T18	TEMPERATURE 503 508	80° C

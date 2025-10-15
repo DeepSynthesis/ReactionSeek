@@ -1,0 +1,19 @@
+T0	REAGENT_CATALYST 258 282	diphenylphosphoryl azide
+T1	SOLVENT 183 190	toluene
+T2	EXAMPLE_LABEL 5 6	3
+T3	YIELD_OTHER 752 758	391 mg
+T4	TEMPERATURE 578 594	room temperature
+T5	REAGENT_CATALYST 210 223	triethylamine
+T6	TEMPERATURE 543 549	reflux
+T7	STARTING_MATERIAL 459 473	benzyl alcohol
+T8	REACTION_PRODUCT 8 80	(4-(Benzyloxycarbonylamino)-2-oxabicyclo[2.1.1]hexan-1-yl)methyl acetate
+T9	TEMPERATURE 382 388	reflux
+T10	TEMPERATURE 438 454	room temperature
+T11	TIME 393 396	2 h
+T12	TEMPERATURE 341 357	room temperature
+T13	OTHER_COMPOUND 693 700	hexanes
+T14	YIELD_PERCENT 760 763	73%
+T15	REACTION_PRODUCT 716 731	desired product
+T16	TIME 362 365	1 h
+T17	STARTING_MATERIAL 98 159	1-(acetoxymethyl)-2-oxabicyclo[2.1.1]hexane-4-carboxylic acid
+T18	OTHER_COMPOUND 687 692	EtOAc

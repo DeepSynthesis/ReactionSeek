@@ -1,0 +1,18 @@
+T0	STARTING_MATERIAL 361 377	paraformaldehyde
+T1	STARTING_MATERIAL 256 291	4-(Bicyclo[1.1.1]pentan-1-yl)phenol
+T2	REACTION_PRODUCT 204 255	5-(bicyclo[1.1.1]pentan-1-yl)-2-hydroxybenzaldehyde
+T3	YIELD_OTHER 851 859	313.1 mg
+T4	REAGENT_CATALYST 316 334	magnesium chloride
+T5	TEMPERATURE 551 556	80° C
+T6	OTHER_COMPOUND 11 191	(2S,3S,4S,5S)-4-({[5-(bicyclo[1.1.1]pentan-1-yl)-2-methoxyphenyl]methyl}amino)-3-tert-butyl-5-[2-(dimethylamino)pyridin-3-yl]-1-[(2S)-oxane-2-carbonyl]pyrrolidine-2-carboxylic acid
+T7	REACTION_PRODUCT 835 849	title compound
+T8	EXAMPLE_LABEL 8 10	51
+T9	REAGENT_CATALYST 443 456	triethylamine
+T10	YIELD_PERCENT 861 865	100%
+T11	OTHER_COMPOUND 652 655	HCl
+T12	OTHER_COMPOUND 644 651	Aqueous
+T13	OTHER_COMPOUND 715 730	dichloromethane
+T14	EXAMPLE_LABEL 200 203	51A
+T15	OTHER_COMPOUND 786 791	MgSO4
+T16	TIME 562 570	18 hours
+T17	SOLVENT 419 431	acetonitrile

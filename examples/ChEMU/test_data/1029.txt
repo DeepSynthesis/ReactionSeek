@@ -1,0 +1,6 @@
+Example 5: Synthesis of racemic 3-aminoquinuclidine.mono-p-toluenesulfonate
+2-propanol solution (12.12 g) containing racemic 3-aminoquinuclidine (3.02 g: 23.9 mmol) was charged into a 50 mL-flask equipped with a mechanical stirrer, a thermometer, and a cooling line, and 2-propanol solution (19.48 g) containing p-toluenesulfonic acid monohydrate (4.53 g: 23.8 mmol) was added thereto while stirring at room temperature. Precipitated crystals were filtered, and then dried under reduced pressure at 60° C., to obtain racemic 3-aminoquinuclidine.mono-p-toluenesulfonate (6.76 g: 22.7 mmol, yield=95%) as a white crystal.
+Endothermic peak top temperature in DSC: 198° C.
+Elemental analysis: C7H14N2.C7H8O3S
+Theoretical value: C, 56.35%, H, 7.43%, N, 9.39%, S 10.74%
+Actual measured value: C, 56.4%, H, 7.5%, N, 9.3%, S 10.2%

@@ -1,0 +1,18 @@
+T0	EXAMPLE_LABEL 5 6	1
+T1	STARTING_MATERIAL 498 599	tert-butyl (3-fluoro-5-methyl-4-(4,4,5,5-tetramethyl-1,3,2-dioxaborolan-2-yl)benzyl)(methyl)carbamate
+T2	OTHER_COMPOUND 841 848	hexanes
+T3	OTHER_COMPOUND 807 817	silica gel
+T4	TEMPERATURE 721 726	60° C
+T5	TIME 732 738	90 min
+T6	SOLVENT 642 652	butan-1-ol
+T7	REACTION_PRODUCT 8 111	tert-Butyl 4-(6-cyano-1-trityl-1H-pyrazolo[4,3-b]pyridin-5-yl)-3-fluoro-5-methylbenzyl(methyl)carbamate
+T8	YIELD_OTHER 902 910	585.9 mg
+T9	OTHER_COMPOUND 423 431	nitrogen
+T10	REACTION_PRODUCT 862 877	desired product
+T11	REAGENT_CATALYST 246 318	bis(di-tert-butyl(4-dimethylaminophenyl)-phosphine)dichloropalladium(II)
+T12	STARTING_MATERIAL 601 615	Intermediate 2
+T13	SOLVENT 686 691	water
+T14	YIELD_PERCENT 912 915	86%
+T15	OTHER_COMPOUND 832 837	EtOAc
+T16	STARTING_MATERIAL 136 195	5-chloro-1-trityl-1H-pyrazolo[4,3-b]pyridine-6-carbonitrile
+T17	REAGENT_CATALYST 345 348	CsF

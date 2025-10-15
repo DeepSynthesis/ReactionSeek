@@ -1,0 +1,5 @@
+Example III-228
+rac-(2S,3S,4S,5S)-3-tert-butyl-4-{[(5-tert-butyl-2-methoxyphenyl)methyl]amino}-1-(cyclohexanecarbonyl)-5-(1-methyl-2-oxo-1,2-dihydropyridin-3-yl)pyrrolidine-2-carboxylic acid
+Example III-228-A
+rac-(2S,3R,4S,5S)-tert-butyl 3-(tert-butyl)-1-(cyclohexanecarbonyl)-5-(1-methyl-2-oxo-1,2-dihydropyridin-3-yl)-4-nitropyrrolidine-2-carboxylate
+rac-(2S,3R,4S,5S)-tert-Butyl 3-(tert-butyl)-5-(1-methyl-2-oxo-1,2-dihydropyridin-3-yl)-4-nitropyrrolidine-2-carboxylate (Core 35, chirally enriched, low ee) pyrrolidine (42 mg, 0.11 mmol) and triethylamine (35 μL, 0.25 mmol) were dissolved into anhydrous dichloromethane (1.0 mL) and treated slowly dropwise with cyclohexanecarbonyl chloride (19.5 μL, 0.15 mmol). The reaction mixture was stirred one hour at room temperature and then placed directly onto silica for chromatography (100% methyl tert-butyl ether) to give the title compound 45 mg (83%). MS (ESI+) m/z 512 (M+Na)+.

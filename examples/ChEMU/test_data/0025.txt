@@ -1,0 +1,11 @@
+Step 3
+N,N'-(((((((2,2'-Dimethyl-[1,1'-biphenyl]-3,3'-diyl)bis(methylene))bis(oxy))bis(2-methoxypyridine-6,3-diyl))bis(methylene))bis(azanediyl))bis(ethane-2,1-diyl))diacetamide
+To a solution of 6,6'-(((2,2'-dimethyl-[1,1'-biphenyl]-3,3'-diyl)bis(methylene))bis(oxy))bis(2-methoxynicotinaldehyde) (750 mg, 1.46 mmol) in 1,2-dichloroethane (10 mL) was added sodium triacetoxyborohydride (1.23 g, 5.84 mmol) and N-(2-aminoethyl)acetamide (740 mg, 7.32 mmol). The reaction mixture was stirred at room temperature for 20 min then at 85° C. for 3 h. The reaction mixture was poured in to ice cold water and acidified with 1N HCl to pH ˜3 and extracted with CH2Cl2. The combined organic layer was dried over Na2SO4 and concentrated under reduced pressure. The crude compound was purified by prep-HPLC to afford N,N'-(((((((2,2'-dimethyl-[1,1'-biphenyl]-3,3'-diyl)bis(methylene))bis(oxy))bis(2-methoxypyridine-6,3-diyl))bis(methylene))bis(azanediyl))bis(ethane-2,1-diyl))diacetamide (230 mg, 33%) as a colorless gum.
+UPLC Conditions
+Column: Acquity UPLC BEH C18 (2.1×100) mm, 1.7 μm
+Mobile phase: 0.05% TFA in H2O, B: 0.05% TFA in Acetonitrile
+Flow rate: 0.3 mL/min
+T/% B (min): 0/10, 4/90, 6/90, 6.1/10.
+Diluent: ACN
+Temp.: 25° C.
+Ret. time: 2.81 min

@@ -1,0 +1,20 @@
+T0	YIELD_PERCENT 937 940	59%
+T1	SOLVENT 169 184	dichloromethane
+T2	EXAMPLE_LABEL 5 6	3
+T3	OTHER_COMPOUND 839 841	EA
+T4	OTHER_COMPOUND 705 710	MgSO4
+T5	OTHER_COMPOUND 801 811	silica gel
+T6	OTHER_COMPOUND 573 586	ethyl acetate
+T7	OTHER_COMPOUND 686 703	magnesium sulfate
+T8	REACTION_PRODUCT 23 84	3-(4-(diethylcarbamoyl)phenyl)prop-2-yn-1-yl methanesulfonate
+T9	STARTING_MATERIAL 302 326	Methanesulfonyl chloride
+T10	YIELD_OTHER 929 935	4.2 mg
+T11	OTHER_COMPOUND 835 838	Hex
+T12	REAGENT_CATALYST 214 227	Triethylamine
+T13	STARTING_MATERIAL 85 130	N,N-diethyl-4-(3-hydroxyprop-1-ynyl)benzamide
+T14	OTHER_COMPOUND 603 608	water
+T15	TEMPERATURE 435 451	room temperature
+T16	TIME 456 466	30 minutes
+T17	REACTION_PRODUCT 866 927	3-(4-(diethylcarbamoyl)phenyl)prop-2-yn-1-yl methanesulfonate
+T18	TIME 291 300	5 minutes
+T19	OTHER_COMPOUND 613 618	brine

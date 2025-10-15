@@ -1,0 +1,4 @@
+Synthesis Example 14: Synthesis of Compound 360
+Compound 360 was synthesized in the same manner as in Synthesis Example 9, except that 5,9-dibromo-dibenzo[c,g]fluoren-7-one was used instead of 5,9-dibromo-benzo[c]fluoren-7-one in Synthesis of Intermediate Compound (iii), and phenylmagnesium bromide was used instead of methylmagnesium bromide in Synthesis of Intermediate Compound (iv).
+Yield: 0.57 g (0.42 mmol, 45%).
+HR-EIMS (m/z) [M+] calcd for C102H70N4 1350.5600; found, 1350.5614.

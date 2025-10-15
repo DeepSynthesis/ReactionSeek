@@ -1,0 +1,17 @@
+T0	OTHER_COMPOUND 479 484	water
+T1	OTHER_COMPOUND 739 747	methanol
+T2	YIELD_PERCENT 856 859	19%
+T3	OTHER_COMPOUND 723 738	dichloromethane
+T4	REACTION_PRODUCT 756 845	6-(2-(((2,4-dimethylthiazol-5-yl)methyl)amino)thiazol-4-yl)-3,4-dihydroquinolin-2(1H)-one
+T5	TIME 284 292	20 hours
+T6	EXAMPLE_LABEL 8 10	37
+T7	OTHER_COMPOUND 613 619	Na2SO4
+T8	OTHER_COMPOUND 504 517	ethyl acetate
+T9	REAGENT_CATALYST 204 223	glacial acetic acid
+T10	OTHER_COMPOUND 584 590	NaHCO3
+T11	STARTING_MATERIAL 108 146	2,4-dimethylthiazole-5-carboxyaldehyde
+T12	YIELD_OTHER 847 854	0.029 g
+T13	SOLVENT 176 191	dichloromethane
+T14	STARTING_MATERIAL 28 81	6-(2-aminothiazol-4-yl)-3,4-dihydroquinolin-2(1H)-one
+T15	OTHER_COMPOUND 701 711	silica gel
+T16	REAGENT_CATALYST 321 339	sodium borohydride

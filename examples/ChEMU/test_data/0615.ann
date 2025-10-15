@@ -1,0 +1,18 @@
+T0	YIELD_OTHER 748 753	5.2 g
+T1	EXAMPLE_LABEL 5 6	2
+T2	STARTING_MATERIAL 192 214	2-methylpropan-1-amine
+T3	OTHER_COMPOUND 463 477	sodium sulfate
+T4	STARTING_MATERIAL 78 122	1-(3-(benzyloxy)-2-methylphenyl)propan-2-one
+T5	STARTING_MATERIAL 123 126	92a
+T6	REAGENT_CATALYST 238 266	sodium triacetoxyborohydride
+T7	OTHER_COMPOUND 588 598	silica gel
+T8	SOLVENT 171 185	dichloroethane
+T9	OTHER_COMPOUND 403 418	dichloromethane
+T10	OTHER_COMPOUND 378 383	water
+T11	TEMPERATURE 344 360	room temperature
+T12	TIME 332 340	48 hours
+T13	REACTION_PRODUCT 7 77	N-(1-(3-(benzyloxy)-2-methylphenyl)propan-2-yl)-2-methylpropan-1-amine
+T14	YIELD_PERCENT 761 764	85%
+T15	REACTION_PRODUCT 672 742	N-(1-(3-(benzyloxy)-2-methylphenyl)propan-2-yl)-2-methylpropan-1-amine
+T16	REACTION_PRODUCT 657 671	title compound
+T17	REACTION_PRODUCT 743 746	92b

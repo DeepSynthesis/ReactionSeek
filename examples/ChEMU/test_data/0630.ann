@@ -1,0 +1,24 @@
+T0	OTHER_COMPOUND 928 941	ethyl acetate
+T1	YIELD_OTHER 1219 1224	5.5 g
+T2	OTHER_COMPOUND 73 193	tris{2-[5-(2-methylphenyl)-4-(3,3',5,5'-tetramethyl-1,1'-biphenyl-4-yl)-4H-1,2,4-triazol-3-yl-κN2]phenyl-κC}iridium(III)
+T3	OTHER_COMPOUND 322 340	[Ir(mpptz-tetmb)3]
+T4	OTHER_COMPOUND 1047 1060	ethyl acetate
+T5	TEMPERATURE 734 740	180° C
+T6	REACTION_PRODUCT 1304 1380	4-(4-bromo-2,6-dimethylphenyl)-5-(2-methylphenyl)-3-phenyl-4H-1,2,4-triazole
+T7	EXAMPLE_LABEL 18 19	4
+T8	OTHER_COMPOUND 836 853	hydrochloric acid
+T9	OTHER_COMPOUND 979 985	silica
+T10	EXAMPLE_LABEL 362 363	1
+T11	SOLVENT 647 666	N,N-dimethylaniline
+T12	YIELD_PERCENT 1256 1259	46%
+T13	OTHER_COMPOUND 243 265	organometallic complex
+T14	REACTION_PRODUCT 378 454	4-(4-bromo-2,6-dimethylphenyl)-5-(2-methylphenyl)-3-phenyl-4H-1,2,4-triazole
+T15	OTHER_COMPOUND 1190 1203	ethyl acetate
+T16	OTHER_COMPOUND 715 723	nitrogen
+T17	TIME 870 876	2 days
+T18	TIME 746 754	14 hours
+T19	STARTING_MATERIAL 514 585	N-(2-methylphenyl)chloromethylidene-N'-phenylchloromethylidenehydrazine
+T20	OTHER_COMPOUND 209 227	[Ir(mpptz-tetmb)3]
+T21	STARTING_MATERIAL 605 632	4-bromo-2,6-dimethylaniline
+T22	OTHER_COMPOUND 1204 1210	hexane
+T23	OTHER_COMPOUND 1040 1046	hexane

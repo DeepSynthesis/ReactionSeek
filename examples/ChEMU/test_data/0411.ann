@@ -1,0 +1,38 @@
+T0	OTHER_COMPOUND 557 572	dichloromethane
+T1	TEMPERATURE 476 492	room temperature
+T2	YIELD_PERCENT 2481 2486	73.4%
+T3	STARTING_MATERIAL 1676 1756	N-methyl-N-((3R,4R)-4-methylpiperidine-3-yl)-7H-pyrrolo[2,3-d]pyrimidine-4-amine
+T4	OTHER_COMPOUND 747 751	MeOH
+T5	EXAMPLE_LABEL 8 10	42
+T6	REAGENT_CATALYST 1179 1187	hydrogen
+T7	TEMPERATURE 429 437	refluxed
+T8	SOLVENT 1851 1857	CH2Cl2
+T9	REACTION_PRODUCT 2338 2445	3-(((3R,4R)-4-methyl-3-(methyl(7H-pyrrolo[2,3-d]pyrimidine-4-yl)amino)piperidine-1-yl)sulfonyl)benzonitrile
+T10	REACTION_PRODUCT 789 878	N-((3R,4R)-1-benzyl-4-methylpiperidine-3-yl)-N-methyl-7H-pyrrolo[2,3-d]pyrimidine-4-amine
+T11	REACTION_PRODUCT 1542 1622	N-methyl-N-((3R,4R)-4-methylpiperidine-3-yl)-7H-pyrrolo[2,3-d]pyrimidine-4-amine
+T12	TIME 1298 1306	24 hours
+T13	SOLVENT 1834 1849	dichloromethane
+T14	YIELD_OTHER 779 785	282 mg
+T15	STARTING_MATERIAL 303 325	6-chloro-7-deazapurine
+T16	OTHER_COMPOUND 574 580	CH2Cl2
+T17	REAGENT_CATALYST 1989 2014	N,N-diisopropylethylamine
+T18	REACTION_PRODUCT 12 119	3-(((3R,4R)-4-methyl-3-(methyl(7H-pyrrolo[2,3-d]pyrimidine-4-yl)amino)piperidine-1-yl)sulfonyl)benzonitrile
+T19	REAGENT_CATALYST 359 364	K2CO3
+T20	STARTING_MATERIAL 931 1020	N-((3R,4R)-1-benzyl-4-methylpiperidine-3-yl)-N-methyl-7H-pyrrolo[2,3-d]pyrimidine-4-amine
+T21	SOLVENT 262 267	water
+T22	YIELD_PERCENT 914 919	48.9%
+T23	OTHER_COMPOUND 752 758	CH2Cl2
+T24	TIME 448 456	24 hours
+T25	STARTING_MATERIAL 1877 1908	3-cyanobenzenesulfonyl chloride
+T26	OTHER_COMPOUND 2206 2212	CH2Cl2
+T27	STARTING_MATERIAL 130 193	(3R,4R)-1-benzyl-N,4-dimethylpiperidine-3-amine dihydrochloride
+T28	OTHER_COMPOUND 2201 2205	MeOH
+T29	YIELD_OTHER 1532 1538	200 mg
+T30	REAGENT_CATALYST 1127 1150	10w/w% palladium/carbon
+T31	REAGENT_CATALYST 1152 1156	Pd/C
+T32	YIELD_PERCENT 1658 1663	97.1%
+T33	REAGENT_CATALYST 338 357	potassium carbonate
+T34	YIELD_OTHER 2327 2334	85.9 mg
+T35	SOLVENT 1099 1107	methanol
+T36	OTHER_COMPOUND 1335 1346	Celite™ 545
+T37	TEMPERATURE 2045 2061	room temperature

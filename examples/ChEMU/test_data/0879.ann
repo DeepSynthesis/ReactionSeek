@@ -1,0 +1,8 @@
+T0	TIME 371 375	40 h
+T1	REACTION_PRODUCT 13 129	3-(2,2-Difluoroethyl)-1-(2-methoxyethyl)-5-methyl-2,4-dioxo-1,2,3,4-tetrahydrothieno[2,3-d]pyrimidine-6-carbaldehyde
+T2	STARTING_MATERIAL 252 277	2-bromoethyl methyl ether
+T3	YIELD_PERCENT 307 310	72%
+T4	STARTING_MATERIAL 204 225	compound from Ex. 52A
+T5	EXAMPLE_LABEL 8 12	130A
+T6	YIELD_OTHER 299 305	468 mg
+T7	REACTION_PRODUCT 329 343	title compound

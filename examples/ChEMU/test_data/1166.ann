@@ -1,0 +1,14 @@
+T0	SOLVENT 468 483	dichloromethane
+T1	YIELD_OTHER 798 805	0.140 g
+T2	YIELD_PERCENT 807 812	96.1%
+T3	REAGENT_CATALYST 413 426	triethylamine
+T4	REACTION_PRODUCT 744 758	title compound
+T5	STARTING_MATERIAL 517 545	2,2-difluoroacetic anhydride
+T6	OTHER_COMPOUND 41 142	N-((5-(5-(difluoromethyl)-1,3,4-oxadiazol-2-yl)pyridin-2-yl)methyl)-N-(3-fluorophenyl)isonicotinamide
+T7	OTHER_COMPOUND 34 39	11360
+T8	REACTION_PRODUCT 164 268	N-((5-(2-(2,2-difluoroacetyl)hydrazine-1-carbonyl)pyridin-2-yl)methyl)-N-(3-fluorophenyl)isonicotinamide
+T9	EXAMPLE_LABEL 8 10	80
+T10	TEMPERATURE 495 511	room temperature
+T11	STARTING_MATERIAL 269 348	N-(3-fluorophenyl)-N-((5-(hydrazinecarbonyl)pyridin-2-yl)methyl)isonicotinamide
+T12	EXAMPLE_LABEL 148 149	1
+T13	TIME 648 654	1 hour

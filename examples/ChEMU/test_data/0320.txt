@@ -1,0 +1,5 @@
+Example 45
+3,7-Dimethyl-1-[4-(3-methylisoxazol-5-yl)-benzyl]-3,7-dihydro-purine-2,6-dione
+Step 1
+Ethyl 4-(3-methylisoxazole-5)-benzoate
+3-Methyl-5-(tri-n-butylmethoxy)isoxazole (200 mg, 0.540 mmol) and ethyl 4-bromo-benzoate (122 mg, 0.540 mmol) were dissolved in anhydrous dioxane (3 mL) and tetrakis(triphenylphosphine)palladium (15.0 mg , 0.0141 mmol) was added under nitrogen atmosphere, and the reaction solution was heated to 100°C and stirred for 2 hours. The reaction was cooled to 20°C, quenched with water (10 mL), extracted with ethyl acetate (10 mL x 3), dried over anhydrous sodium sulfate, filtered, concentrated under reduced pressure and purified by preparative TLC plate (5:1 petroleum ether / ethyl acetate, Rf = 0.5) to give ethyl 4-(3-methylisoxazole-5)-benzoate (100 mg, as a yellow solid) with a yield of 80%. MS-ESI [M + H]+ calcd. 232, found 232.

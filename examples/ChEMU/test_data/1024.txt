@@ -1,0 +1,2 @@
+h. PREPARATION OF (S)-N-((2R,6S,8AS,14AS,20S,23AS)-2,6-DIMETHYL-5,8,14,19,23-PENTAOXOOCTADECADYDRO-1H,5H,14H,19H-PYRIDO[2,1-I]DIPYRROLO[2,1-C:2',1'-L][1]OXA[4,7,10,13]TETRAAZACYCLOHEXADECIN-20-YL)-2-(3-(3-METHOXYPHENYL)UREIDO)-3-PHENYLPROPANAMIDE (COMPOUND 8).
+Compound 8 was synthesized from compound C (86 mg, 0.130 mmol), 1-isocyanato-3-methoxybenzene (23.21 mg, 0.156 mmol) and triethylamine (85 μL, 0.624 mmol) following the general synthesis method as described herein above. Compound 8 was provided as an off-white solid (26 mg, 25.8%);

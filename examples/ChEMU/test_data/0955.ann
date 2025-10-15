@@ -1,0 +1,13 @@
+T0	OTHER_COMPOUND 552 566	sodium sulfate
+T1	STARTING_MATERIAL 184 222	2,4-diamino-5-cyano-6-chloropyrimidine
+T2	SOLVENT 305 308	DMF
+T3	EXAMPLE_LABEL 8 9	2
+T4	YIELD_PERCENT 684 689	11.5%
+T5	OTHER_COMPOUND 429 434	Water
+T6	REACTION_PRODUCT 670 675	solid
+T7	OTHER_COMPOUND 516 529	ethyl acetate
+T8	REACTION_PRODUCT 11 87	2,4-Diamino-5-cyano-6-(4-oxo-2-phenyl-4H-chromen-3-yl) methylaminopyrimidine
+T9	TEMPERATURE 335 340	100°C
+T10	STARTING_MATERIAL 88 141	3-Aminomethyl-2-phenyl-4H-chromen-4-one hydrochloride
+T11	REAGENT_CATALYST 244 263	potassium carbonate
+T12	YIELD_OTHER 654 658	15mg

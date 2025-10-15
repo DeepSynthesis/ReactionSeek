@@ -1,0 +1,12 @@
+T0	EXAMPLE_LABEL 8 9	5
+T1	STARTING_MATERIAL 312 346	p-toluenesulfonic acid monohydrate
+T2	REACTION_PRODUCT 517 568	racemic 3-aminoquinuclidine.mono-p-toluenesulfonate
+T3	TEMPERATURE 499 504	60° C
+T4	STARTING_MATERIAL 117 144	racemic 3-aminoquinuclidine
+T5	YIELD_PERCENT 595 598	95%
+T6	SOLVENT 271 281	2-propanol
+T7	SOLVENT 76 86	2-propanol
+T8	YIELD_OTHER 578 587	22.7 mmol
+T9	TEMPERATURE 403 419	room temperature
+T10	REACTION_PRODUCT 24 75	racemic 3-aminoquinuclidine.mono-p-toluenesulfonate
+T11	YIELD_OTHER 570 576	6.76 g

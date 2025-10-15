@@ -1,0 +1,20 @@
+T0	OTHER_COMPOUND 876 880	MeOH
+T1	OTHER_COMPOUND 872 875	DCM
+T2	REACTION_PRODUCT 895 1013	2-[3-[4-(2-amino-[1,2,4]triazolo[1,5-a]pyridine-8-yl) pyrazole-1-yl]-1-cyclopropylsulfonyl-azetidine-3-yl]acetonitrile
+T3	TIME 449 457	12 hours
+T4	EXAMPLE_LABEL 16 17	1
+T5	OTHER_COMPOUND 678 682	salt
+T6	EXAMPLE_LABEL 8 10	19
+T7	OTHER_COMPOUND 838 848	silica gel
+T8	STARTING_MATERIAL 156 214	8-(1H-pyrazole-4-yl)-[1,2,4]triazolo[1,5-a]pyridin-2-amine
+T9	STARTING_MATERIAL 237 292	2-(1-cyclopropylsulfonyl-azetidine-3-ylene)acetonitrile
+T10	REAGENT_CATALYST 368 371	DBU
+T11	TEMPERATURE 427 431	26°C
+T12	YIELD_PERCENT 1021 1026	45.2%
+T13	OTHER_COMPOUND 683 688	water
+T14	SOLVENT 325 337	acetonitrile
+T15	OTHER_COMPOUND 511 514	H2O
+T16	OTHER_COMPOUND 718 732	sodium sulfate
+T17	OTHER_COMPOUND 604 607	DCM
+T18	YIELD_OTHER 1014 1019	250mg
+T19	REACTION_PRODUCT 34 152	2-[3-[4-(2-amino-[1,2,4]triazolo[1,5-a]pyridine-8-yl)pyrazole-1 -yl]-1-cyclopropylsulfonyl-azetidine-3-yl]acetonitrile

@@ -1,0 +1,17 @@
+T0	EXAMPLE_LABEL 8 9	3
+T1	OTHER_COMPOUND 599 607	methanol
+T2	OTHER_COMPOUND 778 788	silica gel
+T3	YIELD_PERCENT 1034 1037	25%
+T4	OTHER_COMPOUND 802 810	methanol
+T5	YIELD_OTHER 1027 1032	13 mg
+T6	OTHER_COMPOUND 843 856	triethylamine
+T7	STARTING_MATERIAL 243 382	(1S,3aR,5aS,6R,11bR,11cS)-14-(cyclopropylmethyl)-2,3,3a,4,5,6,7,11c-octahydro-1H-6,11b-(epiminoethano)-1,5a-methanonaphth[1,2-e]indol-10-ol
+T8	OTHER_COMPOUND 815 828	ethyl acetate
+T9	OTHER_COMPOUND 588 595	ammonia
+T10	OTHER_COMPOUND 989 996	ammonia
+T11	STARTING_MATERIAL 403 446	2-oxo-1,2-dihydropyridine-3-carboxylic acid
+T12	REAGENT_CATALYST 505 509	HATU
+T13	REACTION_PRODUCT 1011 1025	title compound
+T14	REACTION_PRODUCT 23 201	3-((1S,3aR,5aS,6R,11bR,11cS)-14-(cyclopropylmethyl)-10-hydroxy-2,3,3a,4,5,6,7,11c-octahydro-1H-6,11b-(epiminoethano)-1,5a-methanonaphth [1,2-e]indole-3-carbonyl)pyridin-2(1H)-one
+T15	REAGENT_CATALYST 467 480	triethylamine
+T16	OTHER_COMPOUND 981 988	aqueous

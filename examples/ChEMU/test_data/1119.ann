@@ -1,0 +1,14 @@
+T0	REAGENT_CATALYST 69 88	Potassium carbonate
+T1	TEMPERATURE 387 403	room temperature
+T2	YIELD_OTHER 607 614	1.248 g
+T3	TIME 327 337	15 minutes
+T4	STARTING_MATERIAL 169 191	1-fluoro-3-iodopropane
+T5	REACTION_PRODUCT 15 68	tert-butyl (1-(3-fluoropropyl)azetidin-3-yl)carbamate
+T6	TEMPERATURE 316 321	95° C
+T7	YIELD_PERCENT 616 619	93%
+T8	OTHER_COMPOUND 462 468	NaHCO3
+T9	STARTING_MATERIAL 112 145	tert-butyl azetidin-3-ylcarbamate
+T10	OTHER_COMPOUND 418 423	EtOAc
+T11	SOLVENT 231 243	acetonitrile
+T12	OTHER_COMPOUND 511 516	MgSO4
+T13	REACTION_PRODUCT 552 605	tert-butyl (1-(3-fluoropropyl)azetidin-3-yl)carbamate

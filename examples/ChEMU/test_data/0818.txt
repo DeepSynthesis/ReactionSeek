@@ -1,0 +1,3 @@
+Example 70
+2-Chloro-4-(6-fluoro-1H-indol-3-yl)-N-(2-pyrrolidin-1-ylethyl)benzamide
+This compound was prepared from Intermediate 6 and 2-(1-piperidyl)ethanamine according to the procedure described in Example 1. Purification was performed using preparative HPLC to afford the title compound (22.3 mg, 65%). Data: LCMS (B) Rt: 8.141 min; m/z 386.1 (M+H)+ (chloride pattern).

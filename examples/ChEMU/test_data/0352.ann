@@ -1,0 +1,16 @@
+T0	OTHER_COMPOUND 761 778	magnesium sulfate
+T1	EXAMPLE_LABEL 5 6	3
+T2	TEMPERATURE 545 549	0° C
+T3	STARTING_MATERIAL 193 325	(R)-tert-butyl (2-(8-(benzyloxy)-2-oxo-1,2-dihydroquinolin-5-yl)-2-((tert-butyldimethylsilyl)oxy)ethyl)(4-hydroxyphenethyl)carbamate
+T4	TIME 695 705	15 minutes
+T5	TEMPERATURE 364 368	0° C
+T6	TIME 555 562	2 hours
+T7	YIELD_OTHER 870 875	7.3 g
+T8	YIELD_PERCENT 877 880	96%
+T9	SOLVENT 348 351	DCM
+T10	OTHER_COMPOUND 595 602	aqueous
+T11	REAGENT_CATALYST 385 398	triethylamine
+T12	STARTING_MATERIAL 433 492	2-[N,N-bis(trifluoromethanesulfonyl)amino]-5-chloropyridine
+T13	REACTION_PRODUCT 854 868	title compound
+T14	REACTION_PRODUCT 8 171	(R)-4-(2-((2-(8-(Benzyloxy)-2-oxo-1,2-dihydroquinolin-5-yl)-2-((tert-butyldimethylsilyl)oxy)ethyl)(tert-butoxycarbonyl)amino)ethyl)phenyl trifluoromethanesulfonate
+T15	OTHER_COMPOUND 603 619	sodium hydroxide

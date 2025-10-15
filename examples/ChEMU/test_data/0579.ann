@@ -1,0 +1,30 @@
+T0	OTHER_COMPOUND 1654 1662	methanol
+T1	STARTING_MATERIAL 533 563	tert-butyldimethylchlorosilane
+T2	REACTION_PRODUCT 35 203	(1S,3aR,5aS,6R,11bR,11cS)-10-((tert-butyldimethylsilyl)oxy)-14-(cyclopropylmethyl)-2,3,3a,4,5,6,7,11c-octahydro-1H-6,11b-(epiminoethano)-1,5a-methanonaphth[1,2-e]indole
+T3	TEMPERATURE 673 689	room temperature
+T4	OTHER_COMPOUND 1289 1302	ethyl acetate
+T5	EXAMPLE_LABEL 18 21	1-2
+T6	YIELD_PERCENT 1815 1818	50%
+T7	OTHER_COMPOUND 1590 1598	methanol
+T8	OTHER_COMPOUND 1383 1400	magnesium sulfate
+T9	OTHER_COMPOUND 1566 1576	silica gel
+T10	REACTION_PRODUCT 1791 1805	title compound
+T11	OTHER_COMPOUND 1008 1013	water
+T12	OTHER_COMPOUND 1691 1706	aqueous ammonia
+T13	YIELD_OTHER 1807 1813	456 mg
+T14	REAGENT_CATALYST 499 508	imidazole
+T15	TIME 972 980	18 hours
+T16	TEMPERATURE 951 967	room temperature
+T17	OTHER_COMPOUND 1707 1717	chloroform
+T18	TEMPERATURE 614 630	room temperature
+T19	STARTING_MATERIAL 822 852	tert-butyldimethylchlorosilane
+T20	OTHER_COMPOUND 1141 1156	Aqueous ammonia
+T21	STARTING_MATERIAL 236 376	(1S,3aR,5aS,6R,11bR,11cS)-14-(cyclopropylmethyl)-2,3,3a,4,5,6,7,11c-octahydro-1H-6, 11b-(epiminoethano)-1,5a-methanonaphth[1,2-e]indol-10-ol
+T22	OTHER_COMPOUND 1307 1313	hexane
+T23	OTHER_COMPOUND 1599 1609	chloroform
+T24	TIME 694 701	2 hours
+T25	STARTING_MATERIAL 1871 2010	(1S,3aR,5aS,6R,11bR,11cS)-14-(cyclopropylmethyl)-2,3,3a,4,5,6,7,11c-octahydro-1H-6,11b-(epiminoethano)-1,5a-methanonaphth[1,2-e]indol-10-ol
+T26	REAGENT_CATALYST 788 797	imidazole
+T27	OTHER_COMPOUND 1116 1122	hexane
+T28	SOLVENT 486 489	DMF
+T29	OTHER_COMPOUND 1098 1111	ethyl acetate

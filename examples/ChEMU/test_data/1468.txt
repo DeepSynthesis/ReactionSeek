@@ -1,0 +1,4 @@
+Example 27: N-(1-(4-(thiophen-3-yl)-3-(3-(3-(trifluoromethyl)phenyl)uredio)phenyl)ethyl) cyclopropanecarboxamide
+General synthetic method:
+Step 1: 1-(3-nitro-4-(thiophen-3-yl)phenyl)ethanone
+Under the protection of nitrogen gas, 4-bromo-3-nitrophenylethanone (3.0 g, 12.3 mmol), 3-thienylboric acid (1.9 g, 14.7 mmol), potassium acetate (3.6 g, 36.9 mmol) and tetrakis(triphenylphosphine)palladium (0.7 g, 0.6 mmol) were added to a mixed solution of 1,4-dioxane (160 mL) and water (40 mL). The reaction mixture was reacted for 8 hours at a temperature of 90 ° C, and then cooled to room temperature. The reaction mixture was poured into water, and extracted with ethyl acetate (150 mL×3). The organic phase was combined, and dried over anhydrous sodium sulphate. Ethyl acetate was removed by rotary evaporation of the organic phase, and the residue was purified by column chromatography on silica gel to afford 1-(3-nitro-4-(thiophen-3-yl)phenyl)ethanone (2.6 g, yield 85.5%).

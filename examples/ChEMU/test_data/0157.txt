@@ -1,0 +1,2 @@
+Step 2: Preparation of t-butyl 4-(4-amino-5-nitropyrimidine-2-yl)piperazine-1-carbonate
+Analogous to the process for preparing Compound a in Step 1 in Example 1, a compound mono-t-butoxycarbonyl (mono-t-Boc) protected piperazine was subjected to nucleophilic substitution with Compound w to produce Compound x: t-butyl 4-(4-amino-5-nitropyrimidine-2-yl)piperazine-1-carbonate (0.61 g, yield 87%).

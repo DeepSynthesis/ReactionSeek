@@ -1,0 +1,19 @@
+T0	OTHER_COMPOUND 455 472	hydrochloric acid
+T1	TEMPERATURE 421 437	room temperature
+T2	REACTION_PRODUCT 820 834	title compound
+T3	OTHER_COMPOUND 748 758	silica gel
+T4	YIELD_OTHER 835 840	34 mg
+T5	TIME 442 450	18 hours
+T6	REAGENT_CATALYST 317 346	lithium hydroxide monohydrate
+T7	OTHER_COMPOUND 544 559	dichloromethane
+T8	EXAMPLE_LABEL 1 5	73-6
+T9	OTHER_COMPOUND 791 804	ethyl acetate
+T10	STARTING_MATERIAL 173 296	{1-(4-chlorophenyl)-3-[3-(2,2-difluoro-2H-1,3-benzodioxol-5-yl)-1,2,4-oxadiazol-5-yl] -5-oxopyrrolidin-3-yl}methyl benzoate
+T11	OTHER_COMPOUND 636 650	sodium sulfate
+T12	YIELD_PERCENT 848 851	84%
+T13	REACTION_PRODUCT 20 138	1-(4-chlorophenyl)-4-[3-(2,2-difluorobenzo[d][1,3]dioxol-5-yl)-1,2,4-oxadiazol-5-yl]-4-(hydroxymethyl)pyrrolidin-2-one
+T14	REACTION_PRODUCT 149 151	73
+T15	OTHER_COMPOUND 605 610	brine
+T16	OTHER_COMPOUND 782 788	hexane
+T17	SOLVENT 369 377	methanol
+T18	SOLVENT 391 396	water

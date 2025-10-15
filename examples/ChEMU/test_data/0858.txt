@@ -1,0 +1,4 @@
+Example 102
+6-(5-Bromo-6-methylsulfanyl-pyridin-2-ylmethyl)-5-methyl-[1,2,5]oxadiazolo[3,4-b]pyridin-7-ylamine
+6-(5-Bromo-6-chloro-pyridin-2-ylmethyl)-5-methyl-[1,2,5]oxadiazolo[3,4-b]pyridin-7-ylamine (40.00 mg; 0,113 mmol) (example 19) and sodium methanethiolate (11,860 mg; 0.170 mmol) dissolved in 2 ml tetrahydrofuran/dimethyl formamide=1/1. Stirred at 120° C. for 18 hours. The mixture is purified by RP-HPLC (modifier: ammonium hydroxide).
+Yield: 9 mg (21% of theory)

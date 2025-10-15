@@ -1,0 +1,19 @@
+T0	OTHER_COMPOUND 1206 1214	methanol
+T1	OTHER_COMPOUND 856 863	aqueous
+T2	STARTING_MATERIAL 210 349	(1S,3aR,5aS,6R,11bR,11cS)-14-(Cyclopropylmethyl)-2,3,3a,4,5,6,7,11c-octahydro-1H-6,11b-(epiminoethano)-1,5a-methanonaphth[1,2-e]indol-10-ol
+T3	SOLVENT 607 610	THF
+T4	REAGENT_CATALYST 473 494	diisopropylethylamine
+T5	YIELD_OTHER 1318 1325	13.3 mg
+T6	EXAMPLE_LABEL 8 10	28
+T7	OTHER_COMPOUND 699 707	methanol
+T8	YIELD_PERCENT 1327 1330	62%
+T9	OTHER_COMPOUND 864 889	sodium hydrogen carbonate
+T10	OTHER_COMPOUND 989 1003	sodium sulfate
+T11	REACTION_PRODUCT 24 209	5-((1S,3aR,5aS,6R,11bR,11cS)-14-(cyclopropylmethyl)-10-hydroxy-2,3,3a,4,5,6,7,11c-octahydro-1H-6,11b-(epiminoethano)-1,5a-methanonaphth[1,2-e]indole-3-carbonyl)-1-ethylpyridin-2(1H)-one
+T12	OTHER_COMPOUND 1182 1192	silica gel
+T13	OTHER_COMPOUND 934 944	chloroform
+T14	REAGENT_CATALYST 519 523	HATU
+T15	REACTION_PRODUCT 1302 1316	title compound
+T16	OTHER_COMPOUND 688 695	ammonia
+T17	STARTING_MATERIAL 368 419	1-ethyl-6-oxo-1,6-dihydropyridine-3-carboxylic acid
+T18	OTHER_COMPOUND 1219 1229	chloroform

@@ -1,0 +1,13 @@
+T0	YIELD_OTHER 552 557	3.5 g
+T1	TIME 374 381	5 hours
+T2	REAGENT_CATALYST 174 193	potassium carbonate
+T3	OTHER_COMPOUND 525 530	water
+T4	REACTION_PRODUCT 568 573	solid
+T5	STARTING_MATERIAL 112 154	3-methyl-7-(2-butyne-1-yl)-8-bromoxanthine
+T6	OTHER_COMPOUND 454 459	water
+T7	SOLVENT 317 339	N,N-dimethylformamides
+T8	REACTION_PRODUCT 23 104	1-[(6-fluoro-benzonitrile-2-yl)methyl]-3-methyl-7-(2-butyne-1-yl)-8-bromoxanthine
+T9	STARTING_MATERIAL 215 249	2-bromomethyl-6-fluorobenzonitrile
+T10	YIELD_PERCENT 591 594	84%
+T11	EXAMPLE_LABEL 1 2	2
+T12	TEMPERATURE 352 356	80°C

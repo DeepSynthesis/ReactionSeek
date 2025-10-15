@@ -1,0 +1,20 @@
+T0	OTHER_COMPOUND 798 805	aqueous
+T1	OTHER_COMPOUND 1295 1318	tert-butyl methyl ether
+T2	REACTION_PRODUCT 1349 1363	title compound
+T3	EXAMPLE_LABEL 8 10	26
+T4	OTHER_COMPOUND 806 813	ammonia
+T5	REAGENT_CATALYST 516 529	triethylamine
+T6	OTHER_COMPOUND 916 933	magnesium sulfate
+T7	OTHER_COMPOUND 1153 1163	chloroform
+T8	REACTION_PRODUCT 24 209	6-((1S,3aR,5aS,6R,11bR,11cS)-14-(cyclopropylmethyl)-10-hydroxy-2,3,3a,4,5,6,7,11c-octahydro-1H-6,11b-(epiminoethano)-1,5a-methanonaphth[1,2-e]indole-3-carbonyl)-1-ethylpyridin-2(1H)-one
+T9	OTHER_COMPOUND 854 867	ethyl acetate
+T10	YIELD_OTHER 1365 1370	35 mg
+T11	STARTING_MATERIAL 409 460	1-ethyl-6-oxo-1,6-dihydropyridine-2-carboxylic acid
+T12	OTHER_COMPOUND 1262 1270	methanol
+T13	REAGENT_CATALYST 554 558	HATU
+T14	OTHER_COMPOUND 1140 1148	methanol
+T15	OTHER_COMPOUND 1112 1127	aminosilica gel
+T16	STARTING_MATERIAL 251 390	(1S,3aR,5aS,6R,11bR,11cS)-14-(cyclopropylmethyl)-2,3,3a,4,5,6,7,11c-octahydro-1H-6,11b-(epiminoethano)-1,5a-methanonaphth[1,2-e]indol-10-ol
+T17	YIELD_PERCENT 1372 1375	76%
+T18	OTHER_COMPOUND 648 656	methanol
+T19	OTHER_COMPOUND 637 644	ammonia

@@ -1,0 +1,2 @@
+Preparation of 2-amino-3-chloro-5-fluorobenzonitrile
+NCS (4.75 g, 35.6 mmol) was added to the solution of 2-amino-5-fluorobenzonitrile (4.4 g, 32.3 mmol) in MeCN (92 ml). The resulting mixture was stirred at 80° C. overnight. After the volume was reduced to half under vacuum, the residue was poured into water, the precipitate was collected by filtration, washed with water, dried to provide the desired aniline (4 g, 73%).

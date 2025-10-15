@@ -1,0 +1,14 @@
+T0	YIELD_OTHER 771 777	101 mg
+T1	YIELD_PERCENT 914 919	84.0%
+T2	OTHER_COMPOUND 634 638	MeOH
+T3	STARTING_MATERIAL 312 344	3-fluorobenzenesulfonyl chloride
+T4	SOLVENT 267 282	dichloromethane
+T5	REACTION_PRODUCT 781 878	(R)-N-(1-((3-fluorophenyl)sulfonyl)pyrrolidine-3-yl)-N-methyl-7H-pyrrolo[2,3-d]pyrimidine-4-amine
+T6	TEMPERATURE 461 477	room temperature
+T7	SOLVENT 284 290	CH2Cl2
+T8	REACTION_PRODUCT 12 109	(R)-N-(1-((3-fluorophenyl)sulfonyl)pyrrolidine-3-yl)-N-methyl-7H-pyrrolo[2,3-d]pyrimidine-4-amine
+T9	EXAMPLE_LABEL 8 10	16
+T10	REAGENT_CATALYST 415 440	N,N-diisopropylethylamine
+T11	TIME 488 494	1 hour
+T12	OTHER_COMPOUND 639 645	CH2Cl2
+T13	STARTING_MATERIAL 121 190	(R)-N-methyl-N-(pyrrolidine-3-yl)-7H-pyrrolo[2,3-d]pyrimidine-4-amine

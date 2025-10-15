@@ -1,0 +1,4 @@
+Example 70A
+Methyl 4-{[(6-bromo-3-cyclopropyl-2-phenylquinolin-4-yl)carbonyl]amino}bicyclo[2.2.2]octane-1-carboxylate
+At RT, 119 mg (0.54 mmol) of methyl 4-aminobicyclo[2.2.2]octane-1-carboxylate, 310 mg (0.82 mmol) of HATU and 0.28 ml (1.63 mmol) of DIPEA were added to a solution of 200 mg (0.54 mmol) of the compound from Example 36A in 3 ml of DMF, and the mixture was stirred at 60° C. for 5 h.
+Subsequently, a further 0.19 ml (1.11 mmol) of DIPEA were added, and the mixture was stirred at 60° C. for a further 22 h. After cooling to RT, the mixture was introduced into 50 ml of 10% strength citric acid solution and extracted twice with in each case 30 ml of ethyl acetate. The combined organic phases were dried over sodium sulfate, filtered and concentrated and the residue was taken up in a little DMSO and acetonitrile and purified by preparative HPLC (Method 3). This gave 84 mg (29% of theory, purity 100%) of the title compound

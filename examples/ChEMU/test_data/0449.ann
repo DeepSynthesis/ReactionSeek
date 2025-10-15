@@ -1,0 +1,15 @@
+T0	YIELD_PERCENT 549 552	73%
+T1	OTHER_COMPOUND 315 323	methanol
+T2	REAGENT_CATALYST 173 179	borane
+T3	STARTING_MATERIAL 62 103	4-chloro-5-methylsulfonylisoindolin-1-one
+T4	TEMPERATURE 230 246	room temperature
+T5	EXAMPLE_LABEL 5 6	4
+T6	TIME 251 258	2 hours
+T7	OTHER_COMPOUND 454 464	silica gel
+T8	REACTION_PRODUCT 495 531	4-chloro-5-methylsulfonylisoindoline
+T9	TEMPERATURE 282 288	reflux
+T10	REACTION_PRODUCT 8 44	4-chloro-5-methylsulfonylisoindoline
+T11	SOLVENT 183 198	tetrahydrofuran
+T12	YIELD_OTHER 533 539	170 mg
+T13	OTHER_COMPOUND 374 380	borane
+T14	SOLVENT 125 140	tetrahydrofuran

@@ -1,0 +1,13 @@
+T0	SOLVENT 266 281	dichloromethane
+T1	TEMPERATURE 468 484	room temperature
+T2	YIELD_OTHER 750 757	91.0 mg
+T3	OTHER_COMPOUND 629 635	CH2Cl2
+T4	REACTION_PRODUCT 761 857	(R)-N-methyl-N-(1-(piperidine-1-ylsulfonyl)pyrrolidine-3-yl)-7H-pyrrolo[2,3-d]pyrimidine-4-amine
+T5	REACTION_PRODUCT 12 108	(R)-N-methyl-N-(1-(piperidine-1-ylsulfonyl)pyrrolidine-3-yl)-7H-pyrrolo[2,3-d]pyrimidine-4-amine
+T6	OTHER_COMPOUND 624 628	MeOH
+T7	STARTING_MATERIAL 120 189	(R)-N-methyl-N-(pyrrolidine-3-yl)-7H-pyrrolo[2,3-d]pyrimidine-4-amine
+T8	YIELD_PERCENT 893 898	77.8%
+T9	EXAMPLE_LABEL 8 10	29
+T10	SOLVENT 283 289	CH2Cl2
+T11	STARTING_MATERIAL 311 341	piperidine-1-sulfonyl chloride
+T12	REAGENT_CATALYST 412 437	N,N-diisopropylethylamine

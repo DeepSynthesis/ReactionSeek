@@ -1,0 +1,5 @@
+Core 16
+(2S,3R,4S,5S)-ethyl 3-(tert-butyl)-5-(2-(difluoromethoxy)pyridin-3-yl)-4-nitropyrrolidine-2-carboxylate
+Core 16A
+3-bromo-2-(difluoromethoxy)pyridine
+3-Bromopyridin-2-ol (13 g, 72.5 mmol) was dissolved in acetonitrile (362 mL). 2,2-Difluoro-2-(fluorosulfonyl)acetic acid (15.49 g, 87 mmol) and sodium sulfate (11.32 g, 80 mmol) were added. The mixture was stirred at room temperature for 16 hours, diluted with ethyl acetate, and the layers were separated. The aqueous layer was extracted with ethyl acetate and the combined extracts were washed with saturated aqueous sodium bicarbonate, water, and brine. The organics were dried over sodium sulfate, filtered, and concentrated to provide ˜20 g crude product which was purified via flash column chromatography, eluting on a 120 g silica gel column with 0-15% methyl tert-butyl ether/heptane to provide the title compound 3-bromo-2-(difluoromethoxy)pyridine (13.21 g, 59.0 mmol, 81% yield).

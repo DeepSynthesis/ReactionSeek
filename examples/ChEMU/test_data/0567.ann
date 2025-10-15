@@ -1,0 +1,14 @@
+T0	REAGENT_CATALYST 226 242	thionyl chloride
+T1	SOLVENT 426 429	THF
+T2	TEMPERATURE 258 260	RT
+T3	SOLVENT 627 630	THF
+T4	OTHER_COMPOUND 743 760	hydrochloric acid
+T5	YIELD_OTHER 816 821	87 mg
+T6	STARTING_MATERIAL 152 177	compound from Example 25A
+T7	REACTION_PRODUCT 857 871	title compound
+T8	YIELD_PERCENT 823 826	38%
+T9	STARTING_MATERIAL 541 603	methyl 4-aminobicyclo[2.2.2]octane-1-carboxylate hydrochloride
+T10	EXAMPLE_LABEL 8 11	60A
+T11	REAGENT_CATALYST 509 514	DIPEA
+T12	REACTION_PRODUCT 12 125	Methyl 4-({[3-methyl-2-phenyl-6-(trifluoromethoxy)quinolin-4-yl]carbonyl}amino)bicyclo[2.2.2]octane-1-carboxylate
+T13	TEMPERATURE 672 674	RT

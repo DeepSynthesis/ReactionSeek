@@ -1,0 +1,8 @@
+T0	REACTION_PRODUCT 178 320	(S)-5-(2-(5-chloro-3-(3-fluorophenyl)-4-oxo-3,4-dihydropyrrolo[2,1-f][1,2,4]triazine-2-yl)pyrrolidine-1-yl)pyrimido[4,5-d]pyrimidine-4(1H)-one
+T1	YIELD_OTHER 641 650	0.04 mmol
+T2	STARTING_MATERIAL 397 440	5-chloropyrimido[4,5-d]pyrimidine-4(1H)-one
+T3	EXAMPLE_LABEL 8 10	80
+T4	STARTING_MATERIAL 482 573	(S)-5-chloro-3-(3-fluorophenyl)-2-(pyrrolidine-2-yl)pyrrolo[2,1-f][1,2,4]triazine-4(3H)-one
+T5	YIELD_PERCENT 659 662	47%
+T6	YIELD_OTHER 169 174	20 mg
+T7	REACTION_PRODUCT 26 168	(S)-5-(2-(5-chloro-3-(3-fluorophenyl)-4-oxo-3,4-dihydropyrrolo[2,1-f][1,2,4]triazine-2-yl)pyrrolidine-1-yl)pyrimido[4,5-d]pyrimidine-4(1H)-one

@@ -4,15 +4,18 @@
 ReactionSeek automates the multi-modal extraction of chemical data from scientific literature. It employs a hybrid architecture that combines the contextual understanding of LLMs with the chemical precision of established cheminformatics tools. ReactionSeek utilizes a domain-specific prompt engineering strategy, enabling robust and accurate data mining without the need for resource-intensive model fine-tuning.
 
 ## Table of contents
-· [Getting started](##getting-started)
 
-· [SynChat](##SynChat)
+· [Getting started](#getting-started)
 
-· [Contributing](##Contributing)
+· [Automatically collecting reaction data](#automatically-collecting-reaction-data)
 
-· [License](##License)
+· [SynChat](#synchat)
 
-· [Contact](##Contact)
+· [Contributing](#contributing)
+
+· [License](#license)
+
+· [Contact](#contact)
 
 ## Getting started
 

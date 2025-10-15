@@ -1,0 +1,18 @@
+T0	OTHER_COMPOUND 631 644	Ethyl acetate
+T1	TEMPERATURE 450 466	room temperature
+T2	TIME 394 403	3.0 hours
+T3	EXAMPLE_LABEL 5 6	3
+T4	OTHER_COMPOUND 505 510	water
+T5	REAGENT_CATALYST 234 255	diisopropylethylamine
+T6	REACTION_PRODUCT 8 58	2-(4-bromo-3-nitrophenyl)-N-cyclopropylpropanamide
+T7	YIELD_PERCENT 844 849	52.5%
+T8	STARTING_MATERIAL 319 335	cyclopropylamine
+T9	OTHER_COMPOUND 614 629	sodium sulphate
+T10	OTHER_COMPOUND 531 544	ethyl acetate
+T11	TEMPERATURE 424 429	50 °C
+T12	YIELD_OTHER 831 836	0.6 g
+T13	SOLVENT 279 300	N,N-dimethylformamide
+T14	STARTING_MATERIAL 76 115	2-(4-bromo-3-nitrophenyl)propanoic acid
+T15	REAGENT_CATALYST 136 211	2-(7-azabenzotriazol-1-yl)-N,N,N',N'-tetramethyluronium hexafluorophosphate
+T16	OTHER_COMPOUND 758 768	silica gel
+T17	REACTION_PRODUCT 779 829	2-(4-bromo-3-nitrophenyl)-N-cyclopropylpropanamide

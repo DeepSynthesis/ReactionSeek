@@ -1,0 +1,22 @@
+T0	TEMPERATURE 697 713	room temperature
+T1	REACTION_PRODUCT 957 1089	(6S,8R)-6-(4-bromo-2-methoxyphenyl)-7-(2-fluoro-3-methoxy-2-methylpropyl)-8-methyl-6,7,8,9-tetrahydro-3H-pyrazolo[4,3-f]isoquinoline
+T2	TEMPERATURE 480 486	−10° C
+T3	OTHER_COMPOUND 881 887	silica
+T4	OTHER_COMPOUND 807 813	Na2SO4
+T5	OTHER_COMPOUND 930 935	EtOAc
+T6	TIME 517 523	1 hour
+T7	YIELD_OTHER 1091 1098	0.950 g
+T8	TIME 653 663	15 minutes
+T9	REAGENT_CATALYST 454 468	propionic acid
+T10	OTHER_COMPOUND 939 946	heptane
+T11	OTHER_COMPOUND 613 619	NaHCO3
+T12	STARTING_MATERIAL 306 430	(1S,3R)-1-(4-bromo-2-methoxyphenyl)-2-(2-fluoro-3-methoxy-2-methylpropyl)-3,5-dimethyl-1,2,3,4-tetrahydroisoquinolin-6-amine
+T13	OTHER_COMPOUND 539 544	EtOAc
+T14	OTHER_COMPOUND 749 756	aqueous
+T15	OTHER_COMPOUND 757 763	NaHCO3
+T16	OTHER_COMPOUND 605 612	aqueous
+T17	OTHER_COMPOUND 785 790	brine
+T18	REAGENT_CATALYST 194 208	sodium nitrite
+T19	REACTION_PRODUCT 46 179	(6S,8R)-6-(4-bromo-2-methoxyphenyl)-7-(-2-fluoro-3-methoxy-2-methylpropyl)-8-methyl-6,7,8,9-tetrahydro-3H-pyrazolo[4,3-f]isoquinoline
+T20	SOLVENT 233 238	water
+T21	YIELD_PERCENT 1100 1103	55%

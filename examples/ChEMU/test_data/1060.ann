@@ -1,0 +1,20 @@
+T0	REAGENT_CATALYST 163 177	sodium nitrite
+T1	REAGENT_CATALYST 403 417	propionic acid
+T2	OTHER_COMPOUND 978 991	ethyl acetate
+T3	YIELD_PERCENT 1153 1156	41%
+T4	SOLVENT 202 207	water
+T5	OTHER_COMPOUND 757 762	EtOAc
+T6	YIELD_OTHER 1145 1151	0.11 g
+T7	REACTION_PRODUCT 1011 1143	(6S,8R)-6-(6-bromo-4-methoxypyridin-3-yl)-7-((1-fluorocyclopropyl)methyl)-8-methyl-6,7,8,9-tetrahydro-3H-pyrazolo[4,3-f]isoquinoline
+T8	OTHER_COMPOUND 570 577	aqueous
+T9	STARTING_MATERIAL 254 378	(1S,3R)-1-(6-bromo-4-methoxypyridin-3-yl)-2-((1-fluorocyclopropyl)methyl)-3,5-dimethyl-1,2,3,4-tetrahydroisoquinolin-6-amine
+T10	OTHER_COMPOUND 817 831	sodium sulfate
+T11	OTHER_COMPOUND 524 529	EtOAc
+T12	OTHER_COMPOUND 578 584	NaHCO3
+T13	REACTION_PRODUCT 15 148	(6S,8R)-6-(6-bromo-4-methoxypyridin-3-yl)-7-((1-fluorocyclopropyl) methyl)-8-methyl-6,7,8,9-tetrahydro-3H-pyrazolo[4,3-f]isoquinoline
+T14	OTHER_COMPOUND 681 688	aqueous
+T15	OTHER_COMPOUND 922 928	silica
+T16	OTHER_COMPOUND 689 695	NaHCO3
+T17	TEMPERATURE 430 436	−15° C
+T18	OTHER_COMPOUND 995 1002	hexanes
+T19	TIME 507 513	1 hour

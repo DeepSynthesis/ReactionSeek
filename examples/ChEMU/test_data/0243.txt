@@ -1,0 +1,4 @@
+Example Compound 36
+2-((3,5-dimethyl-1-phenyl-1H-pyrazol-4-yl)amino)-2-oxoethyl 2-(2-ethyl-1H-indol-1-yl)acetate
+Step 1: ethyl 2-(2-ethyl-1 H-indol-1-yl)acetate
+Sodium hydride (42.0 mg, 1.0 mmol, 60% dispersion in mineral oil) was suspended in a mixture of dry THF (2 mL) and dry DMF (3 mL) under Argon and cooled to 0 °C before adding 2-ethylindole (130.7 mg, 0.9 mmol, international patent application WO2006/082245). The stirring mixture was allowed to warm to room temperature and after 25 minutes it was cooled again to 0 °C before adding ethyl 2-bromoacetate (120 µL, 1.1 mmol) and letting it stir overnight. The day after it was heated to 60 °C for 4 h to go to completion, and then it was diluted with water and extracted with toluene 3 times. The organic layer was dried over MgSO4, filtered and concentrated to give 163.5 mg of the title compound (78%) after column chromatography purification (10% EtOAc in PE).

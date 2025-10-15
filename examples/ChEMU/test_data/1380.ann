@@ -1,0 +1,11 @@
+T0	REACTION_PRODUCT 8 112	N-cyclopropyl-2,2-difluoro-2-(4-(thiophen-3-yl)-3-(3-(3-(trifluoromethyl)phenyl) ureido)phenyl)acetamide
+T1	EXAMPLE_LABEL 5 6	6
+T2	TIME 345 353	12 hours
+T3	YIELD_OTHER 554 561	68.3 mg
+T4	YIELD_PERCENT 569 575	85.01%
+T5	REACTION_PRODUCT 448 552	N-cyclopropyl-2,2-difluoro-2-(4-(thiophen-3-yl)-3-(3-(3-(trifluoromethyl)phenyl)ureido)phenyl) acetamide
+T6	OTHER_COMPOUND 427 437	silica gel
+T7	SOLVENT 285 300	dichloromethane
+T8	STARTING_MATERIAL 224 260	3-(trifluoromethyl)phenyl isocyanate
+T9	STARTING_MATERIAL 127 198	2-(3-amino-4-(thiophen-3-yl)phenyl)-N-cyclopropyl-2,2-difluoroacetamide
+T10	TEMPERATURE 324 340	room temperature

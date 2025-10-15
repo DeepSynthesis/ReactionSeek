@@ -1,0 +1,22 @@
+T0	REACTION_PRODUCT 1035 1145	[5-(2-chloro-3-fluorophenyl)-3-(2-methanesulphonyl-ethyl)-2,4-dioxo-3,4-dihydro-2H-pyrimidin-1-yl]-acetic acid
+T1	OTHER_COMPOUND 235 238	186
+T2	OTHER_COMPOUND 872 891	sodium thiosulphate
+T3	REAGENT_CATALYST 475 492	hydrogen peroxide
+T4	EXAMPLE_LABEL 240 245	186.1
+T5	SOLVENT 737 742	water
+T6	OTHER_COMPOUND 980 995	sodium sulphate
+T7	OTHER_COMPOUND 770 783	ethyl acetate
+T8	REACTION_PRODUCT 247 357	[5-(2-chloro-3-fluorophenyl)-3-(2-methanesulphonyl-ethyl)-2,4-dioxo-3,4-dihydro-2H-pyrimidin-1-yl]-acetic acid
+T9	EXAMPLE_LABEL 8 11	186
+T10	OTHER_COMPOUND 945 960	sodium chloride
+T11	YIELD_PERCENT 1027 1030	98%
+T12	OTHER_COMPOUND 12 201	5-(2-chloro-3-fluorophenyl)-3-(2-methanesulphonyl-ethyl)-1-{2-[4-(7-methylsulphanyl-2-oxo-1,2,4,5-tetrahydro-benzo[d][1,3]diazepin-3-yl)-piperidin-1-yl]-2-oxo-ethyl}-1H-pyrimidine-2,4-dione
+T13	STARTING_MATERIAL 520 629	[5-(2-chloro-3-fluorophenyl)-3-(2-methylsulphanyl-ethyl)-2,4-dioxo-3,4-dihydro-2H-pyrimidin-1-yl]-acetic acid
+T14	TEMPERATURE 691 707	room temperature
+T15	OTHER_COMPOUND 925 932	aqueous
+T16	OTHER_COMPOUND 898 903	water
+T17	SOLVENT 455 462	aqueous
+T18	REAGENT_CATALYST 393 424	ammonium molybdate tetrahydrate
+T19	OTHER_COMPOUND 852 859	aqueous
+T20	TIME 712 719	2 hours
+T21	YIELD_OTHER 1019 1025	320 mg

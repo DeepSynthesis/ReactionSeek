@@ -1,0 +1,3 @@
+Example 2Preparation of2-((5-chloro-2-((6-methyl-7-(piperidin-4-yl)benzo[d][1,3]dioxol-4-yl)a mino)pyrimidin-4-yl)amino)-N,N-dimethylbenzenesulfonamide (Compound 2)
+(1) Preparation of N,N-dimethyl-2-nitrobenzenesulfonamide
+2-Nitrobenzenesulfonyl chloride (3 g, 13.5 mmol) was dissolved in 50 mL DMF, and dimethylamine (730 mg, 16.2 mmol) and K2CO3 (3.7 g, 26.8 mmol) were then added. The resultant mixture was reacted at 80°C for 6h. After the reaction, the resultant mixture was cooled to room temperature, and 100 mL water was added. After extraction with ethyl acetate (200 mL x 2), the organic phases were combined, dried with anhydrous sodium sulphate, filtrated, and concentrated to obtain the product (2.8 g, yield: 90%).

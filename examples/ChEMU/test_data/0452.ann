@@ -1,0 +1,7 @@
+T0	REACTION_PRODUCT 124 131	product
+T1	REACTION_PRODUCT 24 105	(S)-ethyl-4-phenyl-2((R)-(4-methylphenyl)sulfonylthiazine-3-aminoform yl)butyrate
+T2	YIELD_PERCENT 148 151	67%
+T3	STARTING_MATERIAL 251 282	L-homophenylalanine ethyl ester
+T4	REACTION_PRODUCT 116 118	22
+T5	EXAMPLE_LABEL 8 10	22
+T6	YIELD_OTHER 133 139	1.64 g

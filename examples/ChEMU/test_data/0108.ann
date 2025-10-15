@@ -1,0 +1,8 @@
+T0	STARTING_MATERIAL 222 240	phenylboronic acid
+T1	REACTION_PRODUCT 158 160	10
+T2	STARTING_MATERIAL 266 382	5-bromo-3-methyl-1-{2-oxo-2-[4-(2-oxo-1,4-dihydro-2H-quinazolin-3-yl)-piperidin-1-yl]-ethyl}-1H-pyrimidine-2,4-dione
+T3	EXAMPLE_LABEL 8 10	10
+T4	YIELD_OTHER 423 429	110 mg
+T5	REACTION_PRODUCT 11 128	3-methyl-1-{2-oxo-2-[4-(2-oxo-1,4-dihydro-2H-quinazolin-3-yl)-piperidin-1-yl]-ethyl}-5-phenyl-1H-pyrimidine-2,4-dione
+T6	YIELD_PERCENT 431 434	70%
+T7	REACTION_PRODUCT 439 556	3-methyl-1-{2-oxo-2-[4-(2-oxo-1,4-dihydro-2H-quinazolin-3-yl)-piperidin-1-yl]-ethyl}-5-phenyl-1H-pyrimidine-2,4-dione

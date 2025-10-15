@@ -1,0 +1,21 @@
+T0	REACTION_PRODUCT 304 363	3,7-dimethyl-1-(pent-4-yn-1-yl)-1H-purine-2,6(3H, 7H)-dione
+T1	STARTING_MATERIAL 364 403	3,7-Dimethyl-1H-purine-2,6(3H,7H)-dione
+T2	OTHER_COMPOUND 821 839	sodium bicarbonate
+T3	STARTING_MATERIAL 472 490	5-Chloropent-1-yne
+T4	YIELD_PERCENT 1092 1095	94%
+T5	YIELD_OTHER 1052 1057	1.02g
+T6	TEMPERATURE 720 736	room temperature
+T7	OTHER_COMPOUND 11 95	3,7-Dimethyl-1-(3-(1-methyl-2H-1,2,3-triazol-4-yl)propyl)-1H-purine-2,6(3H,7H)-dione
+T8	EXAMPLE_LABEL 8 10	36
+T9	TEMPERATURE 653 658	100°C
+T10	SOLVENT 441 462	N,N-dimethylformamide
+T11	EXAMPLE_LABEL 302 303	1
+T12	OTHER_COMPOUND 181 296	3,7,9-Trimethyl-1-(3-(2-methyl-1H-1,2,3-tnazol-4-yl)propyl)-2,6-dioxo-2,3,6,7-tetrahydro-1H-purine-2,6(3H,7H)-dione
+T13	TEMPERATURE 608 624	room temperature
+T14	TIME 675 682	2 hours
+T15	OTHER_COMPOUND 754 767	ethyl acetate
+T16	OTHER_COMPOUND 96 180	3,7-Dimethyl-1-(3-(1-methyl-1H-1,2,3-triazol-4-yl)propyl)-1H-purine-2,6(3H,7H)-dione
+T17	REAGENT_CATALYST 556 572	potassium iodide
+T18	OTHER_COMPOUND 917 931	sodium sulfate
+T19	REACTION_PRODUCT 992 1050	3,7-dimethyl-1-(pent-4-yn-1-yl)-1H-purine-2,6(3H,7H)-dione
+T20	REAGENT_CATALYST 512 531	potassium carbonate

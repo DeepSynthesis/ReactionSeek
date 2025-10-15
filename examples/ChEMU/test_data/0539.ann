@@ -1,0 +1,20 @@
+T0	EXAMPLE_LABEL 18 20	18
+T1	REACTION_PRODUCT 94 101	TAP-022
+T2	SOLVENT 253 265	acetonitrile
+T3	OTHER_COMPOUND 936 981	[3-(3-fluoropropoxy)phenyl]-diphenylphosphine
+T4	TEMPERATURE 339 347	refluxed
+T5	TIME 366 375	3.5 hours
+T6	STARTING_MATERIAL 206 225	3-iodopropylbenzene
+T7	YIELD_OTHER 662 672	0.145 mmol
+T8	REACTION_PRODUCT 644 651	product
+T9	OTHER_COMPOUND 523 536	ethyl acetate
+T10	YIELD_PERCENT 675 678	94%
+T11	OTHER_COMPOUND 890 934	[3-(2-fluoroethoxy)phenyl]-diphenylphosphine
+T12	STARTING_MATERIAL 138 182	[3-(2-fluoroethoxy)phenyl]-diphenylphosphine
+T13	OTHER_COMPOUND 590 598	methanol
+T14	YIELD_OTHER 653 660	73.5 mg
+T15	OTHER_COMPOUND 599 605	CH2Cl2
+T16	OTHER_COMPOUND 986 1030	[3-(4-fluorobutoxy)phenyl]-diphenylphosphine
+T17	OTHER_COMPOUND 447 457	silica gel
+T18	TEMPERATURE 308 314	100° C
+T19	REACTION_PRODUCT 21 92	[3-(2-Fluoroethoxy)phenyl]-diphenyl-(3-phenylpropyl)phosphonium bromide

@@ -1,0 +1,17 @@
+T0	REACTION_PRODUCT 784 839	2-(benzyloxy)-1-fluoro-4-(2-nitroprop-1-en-1-yl)benzene
+T1	YIELD_PERCENT 858 861	70%
+T2	STARTING_MATERIAL 286 289	16a
+T3	TEMPERATURE 597 613	room temperature
+T4	TEMPERATURE 527 531	90°C
+T5	EXAMPLE_LABEL 183 184	1
+T6	OTHER_COMPOUND 700 710	silica gel
+T7	OTHER_COMPOUND 11 177	(E)-3-(3,5-difluoro-4-((1S,3R/1R,3S)-7-fluoro-2-(2-fluoro-2-methylpropyl)-3-methyl-6-(1-methyl-1H-pyrazol-4-yl)-1,2,3,4-tetrahydroisoquinolin-1-yl)phenyl)acrylic acid
+T8	STARTING_MATERIAL 475 486	nitroethane
+T9	YIELD_OTHER 845 850	3.5 g
+T10	STARTING_MATERIAL 241 285	2-(3-(benzyloxy)-4-fluorophenyl)acetaldehyde
+T11	EXAMPLE_LABEL 8 10	16
+T12	REAGENT_CATALYST 414 430	ammonium acetate
+T13	REACTION_PRODUCT 185 240	2-(benzyloxy)-1-fluoro-4-(2-nitroprop-1-en-1-yl)benzene
+T14	TIME 548 556	12 hours
+T15	REACTION_PRODUCT 840 843	16b
+T16	REACTION_PRODUCT 769 783	title compound

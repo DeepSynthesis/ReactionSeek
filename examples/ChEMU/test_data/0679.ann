@@ -1,0 +1,15 @@
+T0	REACTION_PRODUCT 708 824	5-bromo-3-methyl-1-{2-oxo-2-[4-(2-oxo-1,4-dihydro-2H-quinazolin-3-yl)-piperidin-1-yl]-ethyl}-1H-pyrimidine-2,4-dione
+T1	REACTION_PRODUCT 5 121	5-bromo-3-methyl-1-{2-oxo-2-[4-(2-oxo-1,4-dihydro-2H-quinazolin-3-yl)-piperidin-1-yl]-ethyl}-1H-pyrimidine-2,4-dione
+T2	TIME 482 490	18 hours
+T3	SOLVENT 409 424	tetrahydrofuran
+T4	REAGENT_CATALYST 143 171	diisopropyl azodicarboxylate
+T5	TEMPERATURE 461 477	room temperature
+T6	OTHER_COMPOUND 624 637	diethyl ether
+T7	STARTING_MATERIAL 282 352	3-[1-(2-hydroxyacetyl)-piperidin-4-yl]-3,4-dihydro-1H-quinazolin-2-one
+T8	STARTING_MATERIAL 219 259	5-bromo-3-methyl-1H-pyrimidine-2,4-dione
+T9	YIELD_OTHER 692 698	160 mg
+T10	YIELD_PERCENT 700 703	74%
+T11	OTHER_COMPOUND 501 514	diethyl ether
+T12	TIME 683 690	3 hours
+T13	REAGENT_CATALYST 378 396	triphenylphosphine
+T14	TIME 555 565	10 minutes

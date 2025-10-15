@@ -1,0 +1,3 @@
+Example 120
+4-(6-Fluoro-1H-indol-3-yl)-N-(1-methylsulfonyl-3-piperidyl)benzamide
+This compound was prepared from Example 118 and methanesulfonyl chloride according to the procedure described in Example 119 to afford the title compound (12 mg, 41 %). Data: LCMS (B) Rt: 11.197 min; m/z 416.1 (M+H)+.

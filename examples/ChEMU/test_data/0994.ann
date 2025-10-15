@@ -1,0 +1,18 @@
+T0	OTHER_COMPOUND 25 160	N-hydroxy-2-methyl-2-(methylsulfonyl)-4-(4-(4-((1-(methylsulfonyl) azetidin-3-yl)ethynyl)phenyl)-3,6-dihydropyridin-1(2H)-yl)butanamide
+T1	OTHER_COMPOUND 758 763	MgSO4
+T2	REACTION_PRODUCT 858 872	title compound
+T3	TEMPERATURE 645 649	0° C
+T4	EXAMPLE_LABEL 166 167	1
+T5	EXAMPLE_LABEL 8 10	41
+T6	OTHER_COMPOUND 689 694	water
+T7	OTHER_COMPOUND 730 735	brine
+T8	REAGENT_CATALYST 519 544	N,N-diisopropylethylamine
+T9	REACTION_PRODUCT 182 312	methyl 2-methyl-2-(methylsulfonyl)-4-(4-(4-((1-(methylsulfonyl)azetidin-3-yl)ethynyl)phenyl)-3,6-dihydropyridin-1(2H)-yl)butanoate
+T10	YIELD_OTHER 874 880	220 mg
+T11	YIELD_PERCENT 882 885	36%
+T12	SOLVENT 492 495	DMF
+T13	STARTING_MATERIAL 565 589	methanesulfonyl chloride
+T14	STARTING_MATERIAL 330 456	methyl 4-(4-(4-(azetidin-3-ylethynyl)phenyl)-3,6-dihydropyridin-1(2H)-yl)-2-methyl-2-(methylsulfonyl)butanoate dihydrochloride
+T15	STARTING_MATERIAL 458 472	Intermediate 4
+T16	TIME 637 641	2 hr
+T17	OTHER_COMPOUND 671 684	ethyl acetate

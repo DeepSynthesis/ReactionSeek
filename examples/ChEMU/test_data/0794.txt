@@ -1,0 +1,3 @@
+Step 3
+2-(2,4-Dimethylthiazol-5-yl)ethyl methanesulfonate
+2-(2,4-Dimethylthiazol-5-yl)ethanol (61.0 mg, 0.400 mmol) and diisopropylethylamine (103 mg, 0.800 mmol) were dissolved in dichloromethane (1.8 mL), methanesulfonyl chloride (124 mg, 1.10 mmol) was slowly added at 0°C. The reaction was slowly allowed to warm to room temperature and stirred overnight. The reaction was quenched by addition of water (10 mL) and extracted with ethyl acetate (10 mL x 3). The organic phases were combined, dried over anhydrous sodium sulfate, filtered and the filtrate was concentrated under reduced pressure to give the product 2-(2,4-dimethylthiazol-5-yl)ethyl methanesulfonate (70.0 mg, as a yellow liquid) with a yield of 75%.

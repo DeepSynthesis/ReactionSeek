@@ -1,0 +1,2 @@
+Synthesis Example 9-2: Synthesis of [Intermediate 9-b]
+In a round-bottom flask, Intermediate 9-a (36 g, 181 mmol), N-bromosuccinimide (32.3 g, 181 mmol), and dimethyl formamide (700 ml) were stirred together at 50° C. for 12 hours under a nitrogen atmosphere. After completion of the reaction, the organic layer was concentrated in a vacuum. Column chromatographic separation afforded Intermediate 9-b (35 g): yield 70%

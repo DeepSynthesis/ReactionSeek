@@ -1,0 +1,9 @@
+T0	YIELD_PERCENT 378 381	52%
+T1	YIELD_OTHER 370 376	433 mg
+T2	TIME 442 446	40 h
+T3	TEMPERATURE 467 472	80° C
+T4	STARTING_MATERIAL 263 284	compound from Ex. 18A
+T5	STARTING_MATERIAL 311 349	racemic 2-(bromomethyl)tetrahydrofuran
+T6	EXAMPLE_LABEL 8 12	367A
+T7	REACTION_PRODUCT 13 164	Tetrahydrofuran-2-ylmethyl 1-(2-methoxyethyl)-5-methyl-2,4-dioxo-3-(tetrahydrofuran-2-ylmethyl)-1,2,3,4-tetrahydrothieno[2,3-d]pyrimidine-6-carboxylate
+T8	REACTION_PRODUCT 400 414	title compound

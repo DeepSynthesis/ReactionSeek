@@ -1,0 +1,16 @@
+T0	REACTION_PRODUCT 717 791	3,7-dimethyl-1-(2-(3-methylisoxazol-5-yl)ethyl)-1H-purine-2,6(3H,7H)-dione
+T1	YIELD_OTHER 793 800	20.0 mg
+T2	SOLVENT 272 293	N,N-dimethylformamide
+T3	TEMPERATURE 329 334	100°C
+T4	EXAMPLE_LABEL 5 6	5
+T5	STARTING_MATERIAL 82 129	2-(3-Methylisoxazol-5-yl)ethyl methanesulfonate
+T6	OTHER_COMPOUND 469 482	ethyl acetate
+T7	STARTING_MATERIAL 152 191	3,7-dimethyl-1H-purine-2,6(3H,7H)-dione
+T8	OTHER_COMPOUND 436 441	water
+T9	REAGENT_CATALYST 217 233	cesium carbonate
+T10	OTHER_COMPOUND 578 592	sodium sulfate
+T11	OTHER_COMPOUND 676 686	silica gel
+T12	OTHER_COMPOUND 542 547	brine
+T13	REACTION_PRODUCT 7 81	3,7-Dimethyl-1-(2-(3-methylisoxazol-5-yl)ethyl)-1H-purine-2,6(3H,7H)-dione
+T14	YIELD_PERCENT 818 821	10%
+T15	TEMPERATURE 394 410	room temperature

@@ -1,0 +1,4 @@
+[Example 3]
+Synthesis of compound 1-0003
+Step 1
+The compound 7 (5 g, 41.6 mmol) was dissolved in concentrated sulfuric acid (35 mL). Under ice cooling, potassium nitrate (3.82 g, 37.8 mmol) dissolved in sulfuric acid (8 mL) was added to the solution. The mixture was stirred for 30 minutes. Water and ice were added to the reaction mixture. The precipited solids were filtered to give the compound 8 (5.63 g, yield 90%).

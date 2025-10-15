@@ -1,0 +1,2 @@
+Step 2: Synthesis of 7-(2-fluoro-4-(1,2,3,6-tetrahydropyridin-4-yl)phenyl)hepta-4,6-diyn-1-ol hydrochloride
+To a solution of tert-butyl 4-(3-fluoro-4-(7-hydroxyhepta-1,3-diyn-1-yl)phenyl)-3,6-dihydropyridine-1(2H)-carboxylate (790 mg, 1 eq) in MeOH was added with conc-HCl (1.7 ml, 10 eq). The mixture was stirred for 1 hr at 110° C., cooled down to room temperature, and concentrated in vacuo. The residue was diluted in MeOH (2 ml) and poured into diethyl ether (50 ml). The precipitated solid was filtered off to prepare the title compound (576 mg, 87%).

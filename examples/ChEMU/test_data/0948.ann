@@ -1,0 +1,15 @@
+T0	TIME 351 354	3 h
+T1	REAGENT_CATALYST 243 248	K2CO3
+T2	SOLVENT 200 203	ACN
+T3	EXAMPLE_LABEL 5 6	2
+T4	STARTING_MATERIAL 135 178	3,3'-bis(bromomethyl)-2,2'-dimethylbiphenyl
+T5	TEMPERATURE 215 231	room temperature
+T6	REACTION_PRODUCT 533 630	4,4'-(((2,2'-dimethyl-[1,1'-biphenyl]-3,3'-diyl)bis(methylene))bis(oxy))bis(3-methylbenzaldehyde)
+T7	REACTION_PRODUCT 106 108	22
+T8	TEMPERATURE 340 345	80° C
+T9	YIELD_OTHER 657 660	95%
+T10	YIELD_PERCENT 646 649	67%
+T11	REACTION_PRODUCT 7 104	4,4'-(((2,2'-dimethyl-[1,1'-biphenyl]-3,3'-diyl)bis(methylene))bis(oxy))bis(3-methylbenzaldehyde)
+T12	STARTING_MATERIAL 274 304	4-hydroxy-3-methylbenzaldehyde
+T13	YIELD_OTHER 632 637	1.1 g
+T14	OTHER_COMPOUND 457 462	water

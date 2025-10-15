@@ -1,0 +1,2 @@
+Example 26: N-Methylbutylamine Formylation Reaction Catalyzed by Using One of Ten Thousand of Molar Equivalent of Ruthenium Complex 1a
+Steps similar to those in example 24 were employed, ruthenium complex 1a (1.2 mg, 0.002 mmol) was used as catalyst, and a reaction among N-methylbutylamine (1.745 g, 20 mmol) and CO2 and H2 (each at a pressure of 35 atm) was performed in a Parr autoclave at 120° C. in an oil bath for 16 hours. N-methylbutylformamide was to separated and obtained as a colorless liquid (2.237 g) in 97% yield.

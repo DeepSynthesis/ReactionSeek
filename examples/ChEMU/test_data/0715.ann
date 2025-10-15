@@ -1,0 +1,15 @@
+T0	SOLVENT 215 230	dichloromethane
+T1	TEMPERATURE 253 256	0°C
+T2	EXAMPLE_LABEL 8 9	3
+T3	TEMPERATURE 331 334	0°C
+T4	REACTION_PRODUCT 708 722	title compound
+T5	OTHER_COMPOUND 665 672	alumina
+T6	STARTING_MATERIAL 85 153	6-((benzoyloxy)methyl)-2-(methylthio)pyrido[3,4-d]pyrimidine 7-oxide
+T7	YIELD_PERCENT 732 735	52%
+T8	TEMPERATURE 367 383	room temperature
+T9	TIME 388 396	16 hours
+T10	OTHER_COMPOUND 576 583	toluene
+T11	REACTION_PRODUCT 23 80	8-chloro-2-methylthiopyrido[3,4-d]pyrimidin-6-yl benzoate
+T12	YIELD_OTHER 724 730	2.75 g
+T13	OTHER_COMPOUND 603 619	thionyl chloride
+T14	REAGENT_CATALYST 258 274	Thionyl chloride

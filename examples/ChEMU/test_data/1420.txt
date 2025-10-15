@@ -1,0 +1,3 @@
+Example 12
+N-(1-cyanocyclopropyl)-4-(6-fluoro-1H-indol-3-yl)benzamide
+This compound was prepared from Intermediate 3-a and 1-aminocyclopropane-carbonitrile hydrochloride according to the procedure described in Example 3. Purification was performed using preparative HPLC to afford the title compound (35 mg, 58%). Data: LCMS (B) Rt: 10.934 min; m/z320.1 (M+H)+.

@@ -1,0 +1,2 @@
+Synthesis of Compound 34
+Compound 33 (260.1 mg, 1.0 mmol) and EDCI (210.9 mg, 1.1 mmol), N-hydroxy succinimide (126.6 mg, 1.1 mmol) was dissolved in DMF (14 mL). The solution was stirred overnight at room temperature. Upon completion of the reaction, the solvent was removed under reduced pressure. The solid residue was purified by column chromatography with CH2Cl2/MeOH (10:1) as eluent to give the product 34 as a light brown solid (273 mg, 76.4%). LC-MS m/z (ES+), 358.11 (M+H)+.

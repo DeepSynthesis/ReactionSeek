@@ -1,0 +1,12 @@
+T0	STARTING_MATERIAL 111 201	6-(5-Bromo-6-chloro-pyridin-2-ylmethyl)-5-methyl-[1,2,5]oxadiazolo[3,4-b]pyridin-7-ylamine
+T1	SOLVENT 323 341	dimethyl formamide
+T2	SOLVENT 307 322	tetrahydrofuran
+T3	TIME 370 378	18 hours
+T4	YIELD_OTHER 454 458	9 mg
+T5	YIELD_PERCENT 460 463	21%
+T6	OTHER_COMPOUND 426 444	ammonium hydroxide
+T7	EXAMPLE_LABEL 8 11	102
+T8	STARTING_MATERIAL 242 264	sodium methanethiolate
+T9	REACTION_PRODUCT 12 110	6-(5-Bromo-6-methylsulfanyl-pyridin-2-ylmethyl)-5-methyl-[1,2,5]oxadiazolo[3,4-b]pyridin-7-ylamine
+T10	STARTING_MATERIAL 226 236	example 19
+T11	TEMPERATURE 358 364	120° C

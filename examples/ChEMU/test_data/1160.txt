@@ -1,0 +1,3 @@
+EXAMPLE 29
+5-(3-chloro-2-fluorophenyl)-3-methyl-1-{2-oxo-2-[4-(2-oxo-1,2,4,5-tetrahydro-benzo[d][1,3]diazepin-3-yl)-piperidin-1-yl]-ethyl}-1H-pyrimidine-2,4-dione (reaction scheme No. 3, compound 29)
+Similarly to example 9, starting from 100 mg (0.2 mmol) of 5-bromo-3-methyl-1-{2-oxo-2-[4-(2-oxo-1,2,4,5-tetrahydro-benzo[d][1,3]diazepin-3-yl)-piperidin-1-yl]-ethyl}-1H-pyrimidine-2,4-dione (prepared as described in example 17.3), and 53 mg (0.3 mmol) of 3-chloro-2-fluorophenyl boronic acid, 65 mg (57%) of 5-(3-chloro-2-fluorophenyl)-3-methyl-1-{2-oxo-2-[4-(2-oxo-1,2,4,5-tetrahydro-benzo[d][1,3]diazepin-3-yl)-piperidin-1-yl]-ethyl}-1H-pyrimidine-2,4-dione is obtained in the form of a grey solid with a melting point of 206° C.

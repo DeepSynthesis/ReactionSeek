@@ -1,0 +1,21 @@
+T0	YIELD_PERCENT 817 820	61%
+T1	EXAMPLE_LABEL 5 6	2
+T2	OTHER_COMPOUND 536 541	brine
+T3	STARTING_MATERIAL 258 309	Benzyl 4-((tosyloxy)methyl)piperidine-1-carboxylate
+T4	TEMPERATURE 225 241	room temperature
+T5	OTHER_COMPOUND 767 777	iso-hexane
+T6	REAGENT_CATALYST 159 187	potassium hydrogen carbonate
+T7	OTHER_COMPOUND 445 458	ethyl acetate
+T8	REACTION_PRODUCT 8 72	Benzyl 4-((2-oxo-2-phenylacetoxy)methyl)piperidine-1-carboxylate
+T9	OTHER_COMPOUND 735 745	iso-hexane
+T10	TEMPERATURE 375 380	60° C
+T11	REACTION_PRODUCT 793 807	title compound
+T12	SOLVENT 131 134	DMF
+T13	STARTING_MATERIAL 87 107	phenylglyoxylic acid
+T14	YIELD_OTHER 809 815	13.2 g
+T15	OTHER_COMPOUND 506 531	sodium hydrogen carbonate
+T16	OTHER_COMPOUND 753 766	ethyl acetate
+T17	OTHER_COMPOUND 498 505	aqueous
+T18	TIME 386 394	18 hours
+T19	OTHER_COMPOUND 586 603	magnesium sulfate
+T20	TIME 246 256	10 minutes

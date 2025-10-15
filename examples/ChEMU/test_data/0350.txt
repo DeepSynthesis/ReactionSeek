@@ -1,0 +1,2 @@
+Example 35-5 : Preparation of 2'-amino-6-(2-amino-6-(1-ethylpiperidin-4-yl)pyrimidin-4-yl)-3'-fluoro-[2,4'-bipyridin]-5-ol
+6-(2-Amino-6-(1-ethylpiperidin-4-yl)pyrimidin-4-yl)-3'-fluoro-5-methoxy-[2,4'-bipyridin]-2'-amine (3.88 g, 21.88 mmol) was mixed with pyridine hydrochloride (Pyridine HCl) (20 g) and the mixture was stirred at 170 °C for 1 hr. The mixture was cooled to room temperature and then neutralized with 6N sodium hydroxide (NaOH) solution. The resulting solid was filtered and dried to give the title compound (3.34 g, 89 %).

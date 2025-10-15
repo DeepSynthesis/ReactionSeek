@@ -1,0 +1,12 @@
+T0	REAGENT_CATALYST 309 330	Diisopropylethylamine
+T1	REACTION_PRODUCT 682 696	title compound
+T2	STARTING_MATERIAL 141 259	1-(2-(4-Fluoro-2-methoxy-5-nitrophenylamino)pyrimidin-4-yl)-3-methyl-1H-benzo[d ]imidazol-2(3H)-one p-toluenesulfonate
+T3	EXAMPLE_LABEL 5 6	5
+T4	SOLVENT 297 300	NMP
+T5	OTHER_COMPOUND 542 547	water
+T6	STARTING_MATERIAL 355 391	N1,N1,N2-trimethylethane-1,2-diamine
+T7	YIELD_PERCENT 706 709	88%
+T8	YIELD_OTHER 698 704	326 mg
+T9	OTHER_COMPOUND 650 658	methanol
+T10	TEMPERATURE 482 486	85°C
+T11	REACTION_PRODUCT 8 140	1-(2-(4-((2-(dimethylamino)ethyl)(methyl)amino)-2-methoxy-5 -nitrophenylamino)pyrimidin-4-yl)-3-methyl-1H-benzo[d]imidazol-2(3H)-one

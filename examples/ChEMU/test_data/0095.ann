@@ -1,0 +1,19 @@
+T0	REACTION_PRODUCT 19 94	(2S,5R)-6-(benzyloxy)-7-oxo-1,6-diazabicyclo[3.2.1]octane-2-carboxylic acid
+T1	OTHER_COMPOUND 531 548	hydrochloric acid
+T2	OTHER_COMPOUND 636 649	ethyl acetate
+T3	SOLVENT 208 223	tetrahydrofuran
+T4	REACTION_PRODUCT 774 788	title compound
+T5	OTHER_COMPOUND 382 395	ethyl acetate
+T6	OTHER_COMPOUND 470 477	aqueous
+T7	TIME 428 433	5 min
+T8	OTHER_COMPOUND 500 513	ethyl acetate
+T9	EXAMPLE_LABEL 1 2	7
+T10	OTHER_COMPOUND 720 734	sodium sulfate
+T11	YIELD_PERCENT 820 824	80 %
+T12	TEMPERATURE 348 353	25 °C
+T13	SOLVENT 301 306	water
+T14	REAGENT_CATALYST 249 278	lithium hydroxide monohydrate
+T15	STARTING_MATERIAL 95 173	Benzyl (2S,5R)-6-(benzyloxy)-7-oxo-1,6-diazabicyclo[3.2.1]octane-2-carboxylate
+T16	TIME 358 362	16 h
+T17	YIELD_OTHER 807 812	1.2 g
+T18	OTHER_COMPOUND 364 369	Water

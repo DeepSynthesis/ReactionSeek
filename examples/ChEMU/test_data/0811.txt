@@ -1,0 +1,3 @@
+Example 54: Synthesis of N-hydroxy-4-(4-(7-hydroxyhepta-1,3-diyn-1-yl)-3,6-dihydropyridin-1(2H)-yl)-2-methyl-2-(methylsulfonyl)butanamide
+Step 1: Synthesis of tert-butyl 4-(7-hydroxyhepta-1,3-diyn-1-yl)-3,6-dihydropyridine-1(2H)-carboxylate
+To a solution of tert-butyl 4-ethynyl-3,6-dihydropyridine-1(2H)-carboxylate (5 g, 1 eq) in a mixture of MeOH (60 ml)/pyridine (60 ml) was added with Copper (II) acetate (8.76 g, 2 eq) and pent-4-yn-1-ol (8.12 g, 4 eq). The mixture was stirred for 24 hr at room temperature, and extracted with ethyl acetate and water. The organic layer was dried over anhydrous MgSO4 and concentrated in vacuo. The residue was purified with column chromatography to prepare the title compound (1.8 g, 26%).

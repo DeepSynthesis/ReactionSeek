@@ -1,0 +1,2 @@
+Synthesis Example 3-6: Synthesis of [Intermediate 3-f]
+In a round-bottom flask, Intermediate 3-e (20 g, 59 mmol), potassium carbonate (13 g, 94.5 mmol), and 1-methyl-2-pyrrolidinone (200 ml) were stirred together at 150° C. for 12 hours under a nitrogen. After completion of the reaction, the organic layer was concentrated in a vacuum. Column chromatographic separation afforded Intermediate 3-f (13.5 g): yield 72%

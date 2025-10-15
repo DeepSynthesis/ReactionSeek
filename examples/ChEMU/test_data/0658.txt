@@ -1,0 +1,2 @@
+Synthesis of compound 50-c
+A mixture of compound 50-d (600mg, 2.67mmol) and POCl3 (8mL) was heated to reflux for 1.5h, cooled to room temperature and concentrated under reduced pressure. The residue was dissolved in DCM (40mL), washed in turn with saturated sodium bicarbonate (40mL) and saturated brine (10mL), dried over anhydrous sodium sulfate, filtered and concentrated under reduced pressure. The residue was purified by silica column chromatography (PE:EA = 3:1) to give compound 50-c (500mg, yield 75%).

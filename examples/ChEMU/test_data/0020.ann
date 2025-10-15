@@ -1,0 +1,17 @@
+T0	YIELD_PERCENT 689 694	94.9%
+T1	EXAMPLE_LABEL 6 7	2
+T2	OTHER_COMPOUND 364 369	Water
+T3	SOLVENT 238 245	ethanol
+T4	REAGENT_CATALYST 185 199	nitrogen oxide
+T5	TEMPERATURE 257 273	room temperature
+T6	OTHER_COMPOUND 500 515	sodium chloride
+T7	REACTION_PRODUCT 626 640	title compound
+T8	STARTING_MATERIAL 81 134	Methyl 3-fluoro-4-((N-phenylacetamido)methyl)benzoate
+T9	YIELD_OTHER 680 687	0.150 g
+T10	TIME 319 326	5 hours
+T11	OTHER_COMPOUND 537 554	magnesium sulfate
+T12	TEMPERATURE 308 314	reflux
+T13	OTHER_COMPOUND 433 446	ethyl acetate
+T14	OTHER_COMPOUND 492 499	aqueous
+T15	TEMPERATURE 346 362	room temperature
+T16	REACTION_PRODUCT 22 80	N-(2-fluoro-4-(hydrazinecarbonyl)benzyl)-N-phenylacetamide

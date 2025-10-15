@@ -1,0 +1,20 @@
+T0	SOLVENT 266 281	dichloromethane
+T1	EXAMPLE_LABEL 99 102	10A
+T2	EXAMPLE_LABEL 5 7	10
+T3	OTHER_COMPOUND 614 629	dichloromethane
+T4	TIME 522 530	16 hours
+T5	REAGENT_CATALYST 210 227	magnesium sulfate
+T6	YIELD_OTHER 798 803	4.6 g
+T7	STARTING_MATERIAL 150 184	Ethyl 2-aminoacetate hydrochloride
+T8	YIELD_PERCENT 817 820	99%
+T9	TEMPERATURE 498 517	ambient temperature
+T10	REAGENT_CATALYST 320 333	triethylamine
+T11	STARTING_MATERIAL 406 425	2-bromobenzaldehyde
+T12	TEMPERATURE 295 314	ambient temperature
+T13	TIME 395 404	5 minutes
+T14	OTHER_COMPOUND 674 679	water
+T15	REACTION_PRODUCT 103 149	(E)-ethyl 2-((2-bromobenzylidene)amino)acetate
+T16	YIELD_OTHER 805 815	17.03 mmol
+T17	OTHER_COMPOUND 8 93	(2S,3R,4S,5S)-ethyl 5-(2-bromophenyl)-3-(tert-butyl)-4-nitropyrrolidine-2-carboxylate
+T18	OTHER_COMPOUND 696 710	sodium sulfate
+T19	REACTION_PRODUCT 750 796	(E)-ethyl 2-((2-bromobenzylidene)amino)acetate

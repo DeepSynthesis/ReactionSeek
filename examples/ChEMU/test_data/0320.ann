@@ -1,0 +1,20 @@
+T0	OTHER_COMPOUND 540 553	ethyl acetate
+T1	STARTING_MATERIAL 202 224	ethyl 4-bromo-benzoate
+T2	REACTION_PRODUCT 97 135	Ethyl 4-(3-methylisoxazole-5)-benzoate
+T3	OTHER_COMPOUND 711 724	ethyl acetate
+T4	OTHER_COMPOUND 11 89	3,7-Dimethyl-1-[4-(3-methylisoxazol-5-yl)-benzyl]-3,7-dihydro-purine-2,6-dione
+T5	EXAMPLE_LABEL 8 10	45
+T6	OTHER_COMPOUND 510 515	water
+T7	OTHER_COMPOUND 371 379	nitrogen
+T8	TEMPERATURE 432 437	100°C
+T9	REACTION_PRODUCT 744 782	ethyl 4-(3-methylisoxazole-5)-benzoate
+T10	YIELD_PERCENT 827 830	80%
+T11	OTHER_COMPOUND 693 708	petroleum ether
+T12	EXAMPLE_LABEL 95 96	1
+T13	TIME 454 461	2 hours
+T14	YIELD_OTHER 784 790	100 mg
+T15	STARTING_MATERIAL 136 176	3-Methyl-5-(tri-n-butylmethoxy)isoxazole
+T16	TEMPERATURE 490 494	20°C
+T17	REAGENT_CATALYST 293 330	tetrakis(triphenylphosphine)palladium
+T18	SOLVENT 274 281	dioxane
+T19	OTHER_COMPOUND 588 602	sodium sulfate

@@ -1,0 +1,10 @@
+T0	TEMPERATURE 311 319	refluxed
+T1	REAGENT_CATALYST 303 306	HCl
+T2	REACTION_PRODUCT 487 600	(E)-2-((5-amino-1-hexyl-1H-pyrazol-4-yl)diazenyl)-1-(3-ammoniopropyl)-3-methyl-1H-imidazol-3-ium bromide chloride
+T3	REACTION_PRODUCT 13 126	(E)-2-((5-amino-1-hexyl-1H-pyrazol-4-yl)diazenyl)-1-(3-ammoniopropyl)-3-methyl-1H-imidazol-3-ium bromide chloride
+T4	OTHER_COMPOUND 337 354	hydrochloric acid
+T5	OTHER_COMPOUND 401 414	ethyl acetate
+T6	TIME 324 331	2 hours
+T7	STARTING_MATERIAL 127 251	(E)-2-((5-amino-1-hexyl-1H-pyrazol-4-yl)diazenyl)-3-methyl-1-(3-(2,2,2-trifluoroacetamido)-propyl)-1H-imidazol-3-ium bromide
+T8	YIELD_OTHER 602 609	0.710 g
+T9	YIELD_PERCENT 611 614	90%

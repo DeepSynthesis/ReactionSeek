@@ -1,0 +1,19 @@
+T0	REACTION_PRODUCT 26 148	sodium (2S,5R)-2-((2-methyl-2-azaspiro[3.3]heptan-6-yl)carbamoyl)-7-oxo-1,6-diazabicyclo[3.2.1]octan-6-yl hydrogen sulfate
+T1	EXAMPLE_LABEL 8 9	6
+T2	STARTING_MATERIAL 571 583	formaldehyde
+T3	EXAMPLE_LABEL 175 176	1
+T4	REACTION_PRODUCT 193 315	sodium (2S,5R)-2-((2-methyl-2-azaspiro[3.3]heptan-6-yl)carbamoyl)-7-oxo-1,6-diazabicyclo[3.2.1]octan-6-yl hydrogen sulfate
+T5	REAGENT_CATALYST 679 687	hydrogen
+T6	TEMPERATURE 720 724	25°C
+T7	REACTION_PRODUCT 1090 1104	title compound
+T8	OTHER_COMPOUND 954 965	isopropanol
+T9	TIME 729 732	48h
+T10	OTHER_COMPOUND 1058 1066	methanol
+T11	REAGENT_CATALYST 627 631	Pd/C
+T12	YIELD_PERCENT 1122 1128	54.4 %
+T13	SOLVENT 512 517	water
+T14	SOLVENT 606 614	methanol
+T15	REACTION_PRODUCT 159 160	6
+T16	STARTING_MATERIAL 316 423	(2S,5R)-2-((2-azaspiro[3.3]heptan-6-yl) carbamoyl)-7-oxo-1,6-diazabicyclo[3.2.1]octan-6-yl hydrogen sulfate
+T17	SOLVENT 551 558	aqueous
+T18	YIELD_OTHER 1106 1110	26 g

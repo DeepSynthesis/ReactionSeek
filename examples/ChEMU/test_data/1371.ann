@@ -1,0 +1,13 @@
+T0	OTHER_COMPOUND 353 363	silica gel
+T1	REACTION_PRODUCT 409 424	desired product
+T2	OTHER_COMPOUND 388 395	hexanes
+T3	EXAMPLE_LABEL 5 6	5
+T4	TIME 294 300	10 min
+T5	SOLVENT 171 177	CH2Cl2
+T6	STARTING_MATERIAL 93 145	1-[1-(3-bromo-5-fluorophenyl)cyclopropyl]methanamine
+T7	TEMPERATURE 273 289	room temperature
+T8	OTHER_COMPOUND 379 384	EtOAc
+T9	YIELD_OTHER 443 450	1.252 g
+T10	YIELD_PERCENT 452 455	87%
+T11	REACTION_PRODUCT 8 75	tert-Butyl {[1-(3-bromo-5-fluorophenyl)cyclopropyl]methyl}carbamate
+T12	STARTING_MATERIAL 198 222	di-tert-butyldicarbonate

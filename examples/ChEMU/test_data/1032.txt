@@ -1,0 +1,3 @@
+Comparative Example 14: Synthesis of (R)-3-aminoquinuclidine.dibenzoate
+Isopropanol solution (20.03 g) containing (R)-3-aminoquinuclidine (5.05 g: 40.0 mmol) was charged into a 50 mL-flask equipped with a mechanical stirrer, a thermometer, and a cooling line, and isopropanol solution (24.87 g) containing benzoic acid (9.70 g: 79.4 mmol) was added thereto while stirring at room temperature. Precipitated crystals were filtered, and then dried under reduced pressure at 60° C., to obtain (R)-3-aminoquinuclidine.dibenzoate (9.54 g: 25.8 mmol, yield=64%) as a white crystal.
+Endothermic peak top temperature in DSC: 126° C., 218° C.

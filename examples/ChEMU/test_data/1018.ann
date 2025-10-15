@@ -1,0 +1,9 @@
+T0	REACTION_PRODUCT 237 333	tert-butyl (S)-(1-(5-chloro-3-(3-fluorophenyl)-4-oxo-3,4-dihydroquinazoline-2-yl)ethyl)carbamate
+T1	OTHER_COMPOUND 37 106	(S)-2-(1-aminoethyl)-5-chloro-3-(3-fluorophenyl)quinazoline-4(3H)-one
+T2	EXAMPLE_LABEL 20 21	7
+T3	EXAMPLE_LABEL 112 113	1
+T4	YIELD_OTHER 227 233	4.88 g
+T5	YIELD_PERCENT 510 513	67%
+T6	YIELD_OTHER 491 501	11.68 mmol
+T7	REACTION_PRODUCT 130 226	tert-butyl (S)-(1-(5-chloro-3-(3-fluorophenyl)-4-oxo-3,4-dihydroquinazoline-2-yl)ethyl)carbamate
+T8	STARTING_MATERIAL 397 412	3-fluoroaniline

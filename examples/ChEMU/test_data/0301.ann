@@ -1,0 +1,22 @@
+T0	OTHER_COMPOUND 897 910	NH silica gel
+T1	OTHER_COMPOUND 711 726	sodium chloride
+T2	OTHER_COMPOUND 757 771	sodium sulfate
+T3	OTHER_COMPOUND 565 570	water
+T4	YIELD_OTHER 1031 1039	0.0561 g
+T5	REACTION_PRODUCT 943 1029	1-(4-(diethylamino)piperidin-1-yl)-3-hydroxy-3-(1-methyl-1H-imidazol-2-yl)propan-1-one
+T6	YIELD_OTHER 1041 1051	0.182 mmol
+T7	OTHER_COMPOUND 639 649	chloroform
+T8	OTHER_COMPOUND 412 419	aqueous
+T9	REACTION_PRODUCT 1090 1111	compound of Example 2
+T10	TEMPERATURE 310 326	room temperature
+T11	REAGENT_CATALYST 113 131	Sodium borohydride
+T12	OTHER_COMPOUND 912 922	chloroform
+T13	STARTING_MATERIAL 182 262	1-(4-(diethylamino)piperidin-1-yl)-3-(1-methyl-1H-imidazol-2-yl)propan-1,3-dione
+T14	EXAMPLE_LABEL 9 10	2
+T15	OTHER_COMPOUND 691 698	aqueous
+T16	OTHER_COMPOUND 923 931	methanol
+T17	OTHER_COMPOUND 432 456	sodium hydrogencarbonate
+T18	REAGENT_CATALYST 289 297	methanol
+T19	TIME 391 398	3 hours
+T20	REACTION_PRODUCT 25 111	1-(4-(diethylamino)piperidin-1-yl)-3-hydroxy-3-(1-methyl-1H-imidazol-2-yl)propan-1-one
+T21	YIELD_PERCENT 1053 1056	70%

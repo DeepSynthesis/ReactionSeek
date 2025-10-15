@@ -1,0 +1,3 @@
+Example 13
+methyl 5'-bromo-[2,3'-bipyridine]-6-carboxylate
+A dioxane/H2O (15/1.5 mL) solution of methyl 6-bromopicolinate (648.1 mg, 3 mmol), (5-bromopyridin-3-yl)boronic acid (726.5 mg, 3.6 mmol), Pd(PPh3)4(173.2 mg, 0.15 mmol), and 2M aqueous solution of Na2CO3 (0.795 mL, 7.5 mmol) was microwaved at 150° C. for 60 minutes. Solvent was removed in vacuo, after silica gel chromatography, fractions with desired product was further triturated from Hexanes-EtOAc (about 9:0.5). Title compound was obtained as an off-white solid: 582.3 mg (66% yield):

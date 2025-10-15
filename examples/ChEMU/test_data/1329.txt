@@ -1,0 +1,4 @@
+EXAMPLE 11
+5-(2,3-fluorophenyl)-1-{2-oxo-2-[4-(2-oxo-1,4-dihydro-2H-quinazolin-3-yl)-piperidin-1-yl]-ethyl}-3-(2,2,2-trifluoroethyl)-1H-pyrimidine-2,4-dione (reaction scheme 1, compound 11)
+11.1: 5-bromo-1-{2-oxo-2-[4-(2-oxo-1,4-dihydro-2H-quinazolin-3-yl)-piperidin-1-yl]-ethyl}-3-(2,2,2-trifluoroethyl)-1H-pyrimidine-2,4-dione
+Similarly to example 1.7, starting from 230 mg (0.5 mmol) of 5-bromo-1-{2-oxo-2-[4-(2-oxo-1,4-dihydro-2H-quinazolin-3-yl)-piperidin-1-yl]-ethyl}-1H-pyrimidine-2,4-dione (prepared as described in example 1.6) and 0.1 ml (0.8 mmol) of 1,1,1-trifluoro-2-iodoethane, 140 mg (51%) of 5-bromo-1-{2-oxo-2-[4-(2-oxo-1,4-dihydro-2H-quinazolin-3-yl)-piperidin-1-yl]-ethyl}-3-(2,2,2-trifluoroethyl)-1H-pyrimidine-2,4-dione is obtained in the form of a white solid.

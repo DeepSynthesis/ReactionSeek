@@ -1,0 +1,25 @@
+T0	STARTING_MATERIAL 159 212	2-isopropenyl-4,4,5,5-tetramethyl-1,3,2-dioxaborolane
+T1	EXAMPLE_LABEL 5 6	C
+T2	OTHER_COMPOUND 683 696	ethyl acetate
+T3	SOLVENT 461 466	water
+T4	YIELD_OTHER 1084 1093	3.64 mmol
+T5	OTHER_COMPOUND 765 772	aqueous
+T6	OTHER_COMPOUND 625 642	ammonium chloride
+T7	OTHER_COMPOUND 617 624	aqueous
+T8	REACTION_PRODUCT 8 77	Methyl 3-(prop-1-en-2-yl)-1-(thiophen-3-yl)-1H-indazole-6-carboxylate
+T9	YIELD_OTHER 1074 1082	1.0847 g
+T10	REAGENT_CATALYST 235 251	diisopropylamine
+T11	OTHER_COMPOUND 773 788	sodium chloride
+T12	REACTION_PRODUCT 1058 1072	title compound
+T13	YIELD_PERCENT 1095 1099	87 %
+T14	OTHER_COMPOUND 951 955	SiO2
+T15	OTHER_COMPOUND 1037 1044	hexanes
+T16	OTHER_COMPOUND 1023 1036	ethyl acetate
+T17	STARTING_MATERIAL 78 136	Methyl 3-bromo-1-(thiophen-3-yl)-1H-indazole-6-carboxylate
+T18	SOLVENT 431 452	N,N-dimethylformamide
+T19	TEMPERATURE 513 519	100 °C
+T20	TEMPERATURE 565 581	room temperature
+T21	REAGENT_CATALYST 369 390	palladium(II) acetate
+T22	REAGENT_CATALYST 274 340	triphenylphosphine-3,3',3"-trisulfonic acid trisodium salt hydrate
+T23	OTHER_COMPOUND 809 823	sodium sulfate
+T24	TIME 524 527	4 h

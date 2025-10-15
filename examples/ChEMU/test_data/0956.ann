@@ -1,0 +1,13 @@
+T0	SOLVENT 336 340	MeOH
+T1	EXAMPLE_LABEL 5 6	6
+T2	REACTION_PRODUCT 644 658	title compound
+T3	REACTION_PRODUCT 21 126	3-(4-([1,1'-biphenyl]-4-yl)-3,6-dihydropyridin-1(2H)-yl)-N-hydroxy-2-methyl-2-(methylsulfonyl)propanamide
+T4	SOLVENT 291 295	MeOH
+T5	TEMPERATURE 400 416	room temperature
+T6	YIELD_PERCENT 667 670	40%
+T7	TIME 392 396	2 hr
+T8	YIELD_OTHER 660 665	10 mg
+T9	STARTING_MATERIAL 144 273	3-(4-([1,1'-biphenyl]-4-yl)-3,6-dihydropyridin-1(2H)-yl)-2-methyl-2-(methylsulfonyl)-N-((tetrahydro-2H-pyran-2-yl)oxy)propanamide
+T10	REAGENT_CATALYST 320 323	HCl
+T11	OTHER_COMPOUND 495 500	water
+T12	OTHER_COMPOUND 540 545	water

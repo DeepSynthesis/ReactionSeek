@@ -1,0 +1,15 @@
+T0	TIME 505 512	5 hours
+T1	OTHER_COMPOUND 32 134	1-[(3-cyano-pyrazine-2-yl)methyl]-3-methyl-7-(2-butyne-1-yl)-8-[(R)-3-amino-piperidine-1-yl]-x anthine
+T2	SOLVENT 445 467	N,N-dimethylformamides
+T3	REAGENT_CATALYST 305 324	potassium carbonate
+T4	STARTING_MATERIAL 348 378	2-bromomethyl-3-cyano-pyrazine
+T5	REACTION_PRODUCT 158 234	1-[(3-cyano-pyrazine-2-yl)methyl]-3-methyl-7-(2-butyne-1-yl)-8-bromoxanthine
+T6	REACTION_PRODUCT 700 705	solid
+T7	TEMPERATURE 483 487	80°C
+T8	YIELD_PERCENT 723 726	89%
+T9	EXAMPLE_LABEL 11 12	3
+T10	YIELD_OTHER 680 686	0.88 g
+T11	EXAMPLE_LABEL 136 137	1
+T12	STARTING_MATERIAL 242 284	3-methyl-7-(2-butyne-1-yl)-8-bromoxanthine
+T13	OTHER_COMPOUND 585 590	water
+T14	OTHER_COMPOUND 656 661	water

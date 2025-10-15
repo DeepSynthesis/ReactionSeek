@@ -1,0 +1,17 @@
+T0	OTHER_COMPOUND 528 535	aqueous
+T1	YIELD_PERCENT 947 950	77%
+T2	REAGENT_CATALYST 331 351	trifluoroacetic acid
+T3	OTHER_COMPOUND 571 586	dichloromethane
+T4	OTHER_COMPOUND 508 527	potassium carbonate
+T5	TEMPERATURE 405 421	room temperature
+T6	STARTING_MATERIAL 151 276	1-[(6-fluoro-benzonitrile-2-yl)methyl]-3-methyl-7-(2-butyne-1-yl)-8-[(R)-3-t-butyloxycarbonyla mino-piperidine-1-yl]-xanthine
+T7	TEMPERATURE 365 381	room temperature
+T8	TIME 395 401	1 hour
+T9	OTHER_COMPOUND 436 451	dichloromethane
+T10	REACTION_PRODUCT 796 903	1-[(6-fluoro-benzonitrile-2-yl)methyl]-3-methyl-7-(2-butyne-1-yl)-8-[(R)-3-amino-piperidine-1-yl ]-xanthine
+T11	OTHER_COMPOUND 762 770	methanol
+T12	REACTION_PRODUCT 19 126	1-[(6-fluoro-benzonitrile-2-yl)methyl]-3-methyl-7-(2-butyne-1-yl)-8-[(R)-3-amino-piperidine-1-yl ]-xanthine
+T13	SOLVENT 298 313	dichrolomethane
+T14	OTHER_COMPOUND 624 641	magnesium sulfate
+T15	OTHER_COMPOUND 741 759	methylene chloride
+T16	YIELD_OTHER 905 911	0.25 g

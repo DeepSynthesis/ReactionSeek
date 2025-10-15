@@ -1,0 +1,7 @@
+T0	YIELD_PERCENT 399 402	39%
+T1	REACTION_PRODUCT 11 131	5-Methyl-6-[6-(1-methyl-3-trifluoromethyl-1H-pyrazol-4-yl)-pyridin-2-ylmethyl]-[1,2,5]oxadiazolo[3,4-b]pyridin-7-ylamine
+T2	EXAMPLE_LABEL 8 10	61
+T3	STARTING_MATERIAL 158 240	6-(6-Chloro-pyridin-2-ylmethyl)-5-methyl-[1,2,5]oxadiazolo[3,4-b]pyridin-7-ylamine
+T4	STARTING_MATERIAL 257 306	1-Methyl-3-trifluoromethylpyrazole-4-boronic acid
+T5	OTHER_COMPOUND 364 382	ammonium hydroxide
+T6	YIELD_OTHER 392 397	14 mg

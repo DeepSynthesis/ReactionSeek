@@ -1,0 +1,20 @@
+T0	TIME 372 379	6 hours
+T1	TEMPERATURE 361 366	80° C
+T2	STARTING_MATERIAL 135 204	(R)-3-(2-(((1-Fluorocyclopropyl)methyl)amino)propyl)-2-methyl aniline
+T3	OTHER_COMPOUND 602 608	NaHCO3
+T4	REACTION_PRODUCT 15 134	(1S,3R)-1-(4-bromo-2-methoxyphenyl)-2-((1-fluorocyclopropyl) methyl)-3,5-dimethyl-1,2,3,4-tetrahydroisoquinolin-6-amine
+T5	OTHER_COMPOUND 760 766	silica
+T6	YIELD_PERCENT 973 978	71.5%
+T7	OTHER_COMPOUND 651 654	DCM
+T8	OTHER_COMPOUND 809 822	ethyl acetate
+T9	YIELD_OTHER 965 971	591 mg
+T10	STARTING_MATERIAL 229 258	4-bromo-2-methoxybenzaldehyde
+T11	REAGENT_CATALYST 486 489	HCl
+T12	TIME 541 549	18 hours
+T13	SOLVENT 478 485	aqueous
+T14	REACTION_PRODUCT 845 963	(1S,3R)-1-(4-bromo-2-methoxyphenyl)-2-((1-fluorocyclopropyl)methyl)-3,5-dimethyl-1,2,3,4-tetrahydroisoquinolin-6-amine
+T15	TEMPERATURE 530 535	80° C
+T16	OTHER_COMPOUND 594 601	aqueous
+T17	REAGENT_CATALYST 325 336	acetic acid
+T18	SOLVENT 295 300	water
+T19	OTHER_COMPOUND 826 833	hexanes
