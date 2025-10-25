@@ -153,7 +153,7 @@ python time_standardlize.py
 The output file "xxx_timetable.csv" is the standardized csv file.
 
 ## SynChat
-[SynChat](http://gpu1.luoszgroup.com:18501/) is an interactive tool powered by LLM agents. SynChat allows researchers to query the historical reaction data and associated metadata using natural language, providing a more intuitive and efficient means of accessing specific data compared to traditional search methodology.
+[SynChat](http://gpu1.luoszgroup.com:18502/) is an interactive tool powered by LLM agents. SynChat allows researchers to query the historical reaction data and associated metadata using natural language, providing a more intuitive and efficient means of accessing specific data compared to traditional search methodology.
 
 ## Contributing
 We welcome contributions from the community. Please fork the repository and submit pull requests.
