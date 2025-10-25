@@ -11,7 +11,7 @@ def get_completion(prompt, model='glm-4'):
         get completion from GLM.
     '''
     messages = [{'role': 'user', "content": prompt}]
-    client = ZhipuAI(api_key='f332e2528d2547bb6d8918a35c7723f1.bxbPGCrcOvnbbiWK')
+    client = ZhipuAI(api_key='')#Your API key
     response = client.chat.completions.create(
         model=model,
         messages=messages,
