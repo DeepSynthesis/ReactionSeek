@@ -1,29 +1,44 @@
 # -*- coding: UTF-8 -*-
 # the first step for the data collection
-import openai
 import os
+import sys
 import time
 import json
 import pandas as pd
 
-def get_completion(prompt, model='gpt-3.5-turbo-16k'):
-    '''
-        get completion from OpenAI.
-    '''
+# 添加父目录到路径以支持 config 导入
+sys.path.insert(0, os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
+
+from openai import OpenAI
+from config import OPENAI_API_KEY, OPENAI_BASE_URL, OPENAI_MODEL, HTTP_PROXY, HTTPS_PROXY, API_DELAY
+
+
+def get_completion(prompt, model=None):
+    """
+    get completion from OpenAI.
+    """
+    if model is None:
+        model = OPENAI_MODEL
+
+    client = OpenAI(
+        api_key=OPENAI_API_KEY,
+        base_url=OPENAI_BASE_URL,
+        http_client=None  # 如需代理，见下方 main 中的配置
+    )
     messages = [{'role': 'user', "content": prompt}]
-    response = openai.ChatCompletion.create(
+    response = client.chat.completions.create(
         model=model,
         messages=messages,
         temperature=0
     )
-    return response.choices[0].message['content']
+    return response.choices[0].message.content
 
-def get_names(title, text, model='gpt-3.5-turbo-16k'):
-    '''
+def get_names(title, text, model=None):
+    """
     get information from reaction procedures.
     Input: title and procedure string.
     Output: a string containing a table of information.
-    '''
+    """
     
     
     prompt = f"""
@@ -127,7 +142,9 @@ def get_names(title, text, model='gpt-3.5-turbo-16k'):
     print(response)
     return response
 
-def main(volumes, model='gpt-3.5-turbo-16k'):
+def main(volumes, model=None):
+    if model is None:
+        model = OPENAI_MODEL
     error = []
     for filename in volumes:
         
@@ -141,7 +158,7 @@ def main(volumes, model='gpt-3.5-turbo-16k'):
             input_title = item[1]["Title"]
             itr = 1
             for input_str in input_strs:
-                time.sleep(20)#if you don't have rate limit, please change it.
+                time.sleep(API_DELAY)  # 根据 API 频率限制调整延迟
                 try:
                     response = get_names(input_title, input_str, model=model)
                     df.loc[len(df)] = [str(item[0]) + '_' + str(itr), response]
@@ -159,15 +176,12 @@ def main(volumes, model='gpt-3.5-turbo-16k'):
 
 
 if __name__ == '__main__':
-
-    openai.proxy = {
-                    'http': '',#your http proxy
-                    'https': ''#your https proxy
-    }
-    openai.api_key = ""#your api key
-    openai.base_url = "https://api.openai.com/v1"#your api base url
-    model = 'gpt-3.5-turbo-16k'#your model
-    volumes = ["Volume26-30"]#names of json files
+    # 配置从 .env 文件中读取，通过 config 模块统一管理
+    # 如需覆盖默认值，可通过命令行参数或直接修改以下变量
+    model = OPENAI_MODEL
+    volumes = ["Volume26-30"]  # names of json files
+    print(f"Using API base URL: {OPENAI_BASE_URL}")
+    print(f"Using model: {model}")
     start = time.perf_counter()
     main(volumes, model)
     end = time.perf_counter()

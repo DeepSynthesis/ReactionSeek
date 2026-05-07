@@ -6,11 +6,20 @@ import time
 import json
 import pandas as pd
 import glob
+from pathlib import Path
+from dotenv import load_dotenv
 
-def get_completion(prompt, api_key, model='glm-4'):
-    '''
-        get completion from GLM.
-    '''
+# 加载项目根目录下的 .env 文件
+_project_root = Path(__file__).resolve().parent.parent.parent
+load_dotenv(dotenv_path=_project_root / ".env")
+
+
+def get_completion(prompt, api_key=None, model='glm-4'):
+    """
+    get completion from GLM.
+    """
+    if api_key is None:
+        api_key = os.getenv("ZHIPUAI_API_KEY", "")
     messages = [{'role': 'user', "content": prompt}]
     client = ZhipuAI(api_key=api_key)
     response = client.chat.completions.create(
@@ -20,12 +29,12 @@ def get_completion(prompt, api_key, model='glm-4'):
     )
     return response.choices[0].message.content
 
-def get_names(text, api_key):
-    '''
+def get_names(text, api_key=None):
+    """
     get information from reaction procedures.
     Input: title and procedure string.
     Output: a string containing a table of information.
-    '''
+    """
     
     
     # Original prompt (commented out for reference)
@@ -174,7 +183,9 @@ To a solution of 2-(((tert-butyldimethylsilyl)oxy)methyl)-8-chloro-1-(2,6-dichlo
     print(response)
     return response
 
-def main(api_key):
+def main(api_key=None):
+    if api_key is None:
+        api_key = os.getenv("ZHIPUAI_API_KEY", "")
     output_df = pd.DataFrame(columns=['input_file', 'output'])
     for file in glob.glob('./test_data/*.txt'):
         with open(file, 'r') as f:
@@ -187,7 +198,8 @@ def main(api_key):
 
 
 if __name__ == '__main__':
-    api_key = 'Your api key' # Your api key
+    # API key 从项目根目录的 .env 文件中读取
+    api_key = os.getenv("ZHIPUAI_API_KEY", "")
     start = time.perf_counter()
     main(api_key)
     end = time.perf_counter()

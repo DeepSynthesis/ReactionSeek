@@ -2,6 +2,14 @@
 import pandas as pd
 import os
 from typing import List, Dict
+from pathlib import Path
+
+# 加载项目根目录的 .env 文件
+_project_root = Path(__file__).resolve().parent.parent.parent.parent
+_dotenv_path = _project_root / ".env"
+if _dotenv_path.exists():
+    from dotenv import load_dotenv
+    load_dotenv(dotenv_path=_dotenv_path)
 
 def load_fp_data():
     """
@@ -756,11 +764,15 @@ def main():
                        help="运行模式: preview(预览数据) 或 evaluate(调用LLM评估)")
     parser.add_argument("--type", choices=["FP", "FN", "BOTH"], default="BOTH",
                        help="数据类型: FP(假正例), FN(假负例) 或 BOTH(同时处理FP和FN)")
-    parser.add_argument("--api-key", type=str, help="OpenAI API密钥")
-    parser.add_argument("--model", type=str, default="o3", 
-                       help="使用的模型 (默认: o3)")
-    parser.add_argument("--endpoint", type=str, default='https://api.o3.fan/v1/',
-                       help="API endpoint URL (例如: https://api.openai.com/v1 或自定义endpoint)")
+    parser.add_argument("--api-key", type=str,
+                       default=os.getenv("OPENAI_API_KEY", ""),
+                       help="OpenAI API密钥（默认从 .env 文件读取）")
+    parser.add_argument("--model", type=str, 
+                       default=os.getenv("OPENAI_MODEL", "o3"),
+                       help="使用的模型")
+    parser.add_argument("--endpoint", type=str,
+                       default=os.getenv("OPENAI_BASE_URL", "https://api.o3.fan/v1/"),
+                       help="API endpoint URL")
     parser.add_argument("--output", type=str, 
                        help="输出文件名 (如未指定，将自动生成)")
     
@@ -808,7 +820,7 @@ def main():
     elif args.mode == "evaluate":
         # 评估模式：调用LLM进行评估
         if not args.api_key:
-            print("错误: 评估模式需要提供API密钥 (--api-key)")
+            print("错误: 评估模式需要提供API密钥。请在项目的 .env 文件中设置 OPENAI_API_KEY，或通过 --api-key 参数传入")
             return
             
         try:
