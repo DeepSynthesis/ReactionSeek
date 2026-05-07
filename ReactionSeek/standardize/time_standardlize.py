@@ -1,21 +1,35 @@
 # -*- coding: UTF-8 -*-
-import openai
 import os
+import sys
 import time
 import json
 import pandas as pd
 
-def get_completion(prompt, model='gpt-3.5-turbo'):
-    '''
-        get completion from OpenAI.
-    '''
+# 添加父目录到路径以支持 config 导入
+sys.path.insert(0, os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
+
+from openai import OpenAI
+from config import OPENAI_API_KEY, OPENAI_BASE_URL, OPENAI_MODEL, API_DELAY
+
+
+def get_completion(prompt, model=None):
+    """
+    get completion from OpenAI.
+    """
+    if model is None:
+        model = OPENAI_MODEL
+
+    client = OpenAI(
+        api_key=OPENAI_API_KEY,
+        base_url=OPENAI_BASE_URL,
+    )
     messages = [{'role': 'user', "content": prompt}]
-    response = openai.ChatCompletion.create(
+    response = client.chat.completions.create(
         model=model,
         messages=messages,
         temperature=0
     )
-    return response.choices[0].message['content']
+    return response.choices[0].message.content
 
 def get_times(text, model):
     '''
@@ -73,10 +87,12 @@ def tabulate_condition(output_str):
                 result_df = pd.concat([result_df, pd.DataFrame([data], columns=columns)], ignore_index=True) 
     return result_df
 
-def get_time_from_df(df):
-    '''
+def get_time_from_df(df, model=None):
+    """
     get standard time
-    '''
+    """
+    if model is None:
+        model = OPENAI_MODEL
     input_str = '''
     | Index | Reaction time |
     |-------|---------------|
@@ -100,22 +116,25 @@ def get_time_from_df(df):
 
 
 
-def main(volumes, delay=20, model="gpt-3.5-turbo"):
+def main(volumes, delay=None, model=None):
+    if delay is None:
+        delay = API_DELAY
+    if model is None:
+        model = OPENAI_MODEL
     for filename in volumes:
         df = pd.read_csv(filename + '.csv')
         time.sleep(delay)
         df2 = get_time_from_df(df, model)
         df2.to_csv(filename + '_timetable.csv', index=None)
-if __name__ == '__main__':
 
-    openai.proxy = {
-                    'http': '',# Your http proxy
-                    'https': ''# Your https proxy
-    }
-    openai.api_key = ""# Your api key
-    volumes = ["Volume16-20"]# Your input file name
-    delay = 20# Your delay time. If you don't have rate limit, please change it.
-    model = "gpt-3.5-turbo"# Your model name
+
+if __name__ == '__main__':
+    # 配置从 .env 文件中读取，通过 config 模块统一管理
+    volumes = ["Volume16-20"]  # Your input file name
+    delay = API_DELAY          # Your delay time
+    model = OPENAI_MODEL       # Your model name
+    print(f"Using API base URL: {OPENAI_BASE_URL}")
+    print(f"Using model: {model}")
     start = time.perf_counter()
     main(volumes, delay, model)
     end = time.perf_counter()

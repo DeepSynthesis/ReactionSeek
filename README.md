@@ -33,12 +33,32 @@ pip install -r requirements.txt
 ```
 to create a conda environment and install all the dependencies.
 
+### Configuration
+
+All API keys and connection settings are managed via a `.env` file in the project root:
+
+```bash
+cp .env.example .env
+# Edit .env to set your actual API keys
+```
+
+The `.env` file supports the following variables:
+
+| Variable | Description | Default |
+|---|---|---|
+| `OPENAI_API_KEY` | Your OpenAI API key | *(required)* |
+| `OPENAI_BASE_URL` | API endpoint URL | `https://api.openai.com/v1` |
+| `OPENAI_MODEL` | Default model name | `gpt-3.5-turbo` |
+| `HTTP_PROXY` / `HTTPS_PROXY` | HTTP proxy (optional) | *(empty)* |
+| `ZHIPUAI_API_KEY` | ZhipuAI GLM API key (for ChEMU evaluation) | *(optional)* |
+| `API_DELAY` | Delay between API calls (seconds) | `20` |
+
 <!-- then see [reaction_data_collection_automatically](ReactionSeek/reaction_data_collection_automatically.md) to run the program. -->
 
 ## Automatically collecting reaction data
 
 ### extract_gpt.py
-This script is used to extract reaction data using OpenAI API foramt. The script input should be a json file at least contains `Title` and `Procedure`, for example:
+This script is used to extract reaction data using OpenAI API format. The script input should be a json file at least contains `Title` and `Procedure`, for example:
 
 ```json
 {
@@ -49,29 +69,17 @@ This script is used to extract reaction data using OpenAI API foramt. The script
 }
 ```
 
-After prepared your input files, you should edit this part of script:
-
-```python
-if __name__ == '__main__':
-
-    openai.proxy = {
-                    'http': '',#your http proxy
-                    'https': ''#your https proxy
-    }
-    openai.api_key = ""#your api key
-    openai.base_url = "https://api.openai.com/v1"#your api base url
-    model = 'gpt-3.5-turbo-16k'#your model
-    volumes = ["Volume26-30"]#names of json files
-    start = time.perf_counter()
-    main(volumes, model)
-    end = time.perf_counter()
-    print('runningtime:' + str(end - start))
-```
-
-Then run the script:
+Before running, copy the environment template and fill in your API key:
 
 ```bash
-python extract_gpt.py
+cp .env.example .env
+# Edit .env to set your OPENAI_API_KEY, OPENAI_BASE_URL, etc.
+```
+
+The script reads configuration from the `.env` file automatically via the `config` module. No code edits needed for API configuration. Then run the script:
+
+```bash
+python ReactionSeek/reaction_extract/extract_gpt.py
 ```
 
 ### strcuturelize.py
@@ -127,27 +135,10 @@ The output file "smiles.csv" is the csv file containing the smiles of each name.
 ### time_standardlize.py
 This script is a part of standardization module, used to standardize the reaction time. The input file should be a csv file containing an `Index` and a `Reaction time` column.
 
-After prepared your input files, you should edit this part of script to change your file path and your model API:
-
-```python
-if __name__ == '__main__':
-    openai.proxy = {
-                    'http': '',# Your http proxy
-                    'https': ''# Your https proxy
-    }
-    openai.api_key = ""# Your api key
-    volumes = ["Volume16-20"]# Your input file name
-    delay = 20# Your delay time. If you don't have rate limit, please change it.
-    model = "gpt-3.5-turbo"# Your model name
-    start = time.perf_counter()
-    main(volumes, delay, model)
-    end = time.perf_counter()
-    print('runningtime:' + str(end - start))
-```
-Then run the script:
+Configuration is read automatically from the `.env` file. Then run the script:
 
 ```bash
-python time_standardlize.py
+python ReactionSeek/standardize/time_standardlize.py
 ```
 
 The output file "xxx_timetable.csv" is the standardized csv file.
