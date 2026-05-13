@@ -1,11 +1,13 @@
 import os
+import sys
 import time
 import json
 
 import pandas as pd
 import pubchempy as pcp
-import openai
 
+sys.path.insert(0, os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
+from settings import client, MODEL
 
 
 def pubchem(name):
@@ -31,7 +33,7 @@ def opsin(name):
     else:
         return 'Not Found'
 
-def get_name_from_llama(name, model="gpt-3.5-turbo", ):
+def get_name_from_llama(name, model=MODEL):
     prompt = """
     Please extract the compounds or elements in the following dialogues and tell me their chemical names. You should response the name in a json format like {'name' : 'chemical name'}. The key 'name' is the origin name in the input. The value 'chemical name' is the chemical name of the compound or element. You shouldn't guess the chemical name of the raw name, and you should answer according to the name entered as much as possible. If the name refers to a class of compounds, please give a compound belonging to that class in the value 'chemical name' as an alternative. For example, halogens are replaced by chlorides, and alkyl groups are replaced by ethyl groups. If it is a complex mixture such as petroleum ether or alcohol, the answer should be ' none '.If you are not sure whether your answer is correct, you should answer 'none' in 'chemical name'.
 
@@ -48,14 +50,14 @@ def get_name_from_llama(name, model="gpt-3.5-turbo", ):
 
     """
 
-    response = openai.ChatCompletion.create(
+    response = client.chat.completions.create(
             model=model,
             messages=[
                 {"role": "system", "content": "You are a helpful assistant."},
                 {"role": "user", "content": prompt + name}
             ],
         )
-    result = response.choices[0].message['content']
+    result = response.choices[0].message.content
     json_dic = eval(result)
     return json_dic.values()
 

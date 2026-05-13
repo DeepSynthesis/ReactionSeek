@@ -1,24 +1,28 @@
 # -*- coding: UTF-8 -*-
 # the first step for the data collection
-import openai
 import os
+import sys
 import time
 import json
 import pandas as pd
 
-def get_completion(prompt, model='gpt-3.5-turbo-16k'):
+sys.path.insert(0, os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
+from settings import client, MODEL
+
+
+def get_completion(prompt, model=MODEL):
     '''
         get completion from OpenAI.
     '''
     messages = [{'role': 'user', "content": prompt}]
-    response = openai.ChatCompletion.create(
+    response = client.chat.completions.create(
         model=model,
         messages=messages,
         temperature=0
     )
-    return response.choices[0].message['content']
+    return response.choices[0].message.content
 
-def get_names(title, text, model='gpt-3.5-turbo-16k'):
+def get_names(title, text, model=MODEL):
     '''
     get information from reaction procedures.
     Input: title and procedure string.
@@ -127,7 +131,7 @@ def get_names(title, text, model='gpt-3.5-turbo-16k'):
     print(response)
     return response
 
-def main(volumes, model='gpt-3.5-turbo-16k'):
+def main(volumes, model=MODEL):
     error = []
     for filename in volumes:
         
@@ -160,16 +164,9 @@ def main(volumes, model='gpt-3.5-turbo-16k'):
 
 if __name__ == '__main__':
 
-    openai.proxy = {
-                    'http': '',#your http proxy
-                    'https': ''#your https proxy
-    }
-    openai.api_key = ""#your api key
-    openai.base_url = "https://api.openai.com/v1"#your api base url
-    model = 'gpt-3.5-turbo-16k'#your model
     volumes = ["Volume26-30"]#names of json files
     start = time.perf_counter()
-    main(volumes, model)
+    main(volumes, MODEL)
     end = time.perf_counter()
     print('runningtime:' + str(end - start))
 

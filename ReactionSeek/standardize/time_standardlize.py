@@ -1,21 +1,25 @@
 # -*- coding: UTF-8 -*-
-import openai
 import os
+import sys
 import time
 import json
 import pandas as pd
 
-def get_completion(prompt, model='gpt-3.5-turbo'):
+sys.path.insert(0, os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
+from settings import client, MODEL
+
+
+def get_completion(prompt, model=MODEL):
     '''
         get completion from OpenAI.
     '''
     messages = [{'role': 'user', "content": prompt}]
-    response = openai.ChatCompletion.create(
+    response = client.chat.completions.create(
         model=model,
         messages=messages,
         temperature=0
     )
-    return response.choices[0].message['content']
+    return response.choices[0].message.content
 
 def get_times(text, model):
     '''
@@ -73,7 +77,7 @@ def tabulate_condition(output_str):
                 result_df = pd.concat([result_df, pd.DataFrame([data], columns=columns)], ignore_index=True) 
     return result_df
 
-def get_time_from_df(df):
+def get_time_from_df(df, model=MODEL):
     '''
     get standard time
     '''
@@ -100,7 +104,7 @@ def get_time_from_df(df):
 
 
 
-def main(volumes, delay=20, model="gpt-3.5-turbo"):
+def main(volumes, delay=20, model=MODEL):
     for filename in volumes:
         df = pd.read_csv(filename + '.csv')
         time.sleep(delay)
@@ -108,15 +112,9 @@ def main(volumes, delay=20, model="gpt-3.5-turbo"):
         df2.to_csv(filename + '_timetable.csv', index=None)
 if __name__ == '__main__':
 
-    openai.proxy = {
-                    'http': '',# Your http proxy
-                    'https': ''# Your https proxy
-    }
-    openai.api_key = ""# Your api key
     volumes = ["Volume16-20"]# Your input file name
     delay = 20# Your delay time. If you don't have rate limit, please change it.
-    model = "gpt-3.5-turbo"# Your model name
     start = time.perf_counter()
-    main(volumes, delay, model)
+    main(volumes, delay, MODEL)
     end = time.perf_counter()
     print('runningtime:' + str(end - start))
